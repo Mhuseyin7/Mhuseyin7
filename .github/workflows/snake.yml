@@ -1,28 +1,36 @@
-# 📝 Latest Blog Posts — muhammedkoca.com.tr/rss.xml adresinden son 5 yazıyı çeker
-# ve README'deki BLOG-POST-LIST:START/END işaretleri arasını günceller.
+# 🐍 Contribution Snake — katkı grafiğini yiyen yılan animasyonu üretir.
+# Çıktı: "output" branch'ine snake.svg + snake-dark.svg olarak yazılır.
+# README bu dosyalara raw.githubusercontent.com üzerinden bağlanır.
 
-name: Latest Blog Posts
+name: Generate Snake
 
 on:
   schedule:
-    - cron: "0 */6 * * *" # 6 saatte bir
+    - cron: "0 3 * * *" # her gece 03:00 UTC — günlük yenileme
   workflow_dispatch: # Actions sekmesinden elle çalıştırma
+  push:
+    branches: [main]
 
 permissions:
   contents: write
 
 jobs:
-  update-readme:
+  generate:
     runs-on: ubuntu-latest
+    timeout-minutes: 10
     steps:
-      - name: Checkout
-        uses: actions/checkout@v4
-
-      - name: Pull latest posts from RSS
-        uses: gautamkrishnar/blog-post-workflow@v1
+      - name: Generate snake SVGs
+        uses: Platane/snk/svg-only@v3
         with:
-          feed_list: "https://www.muhammedkoca.com.tr/rss.xml"
-          max_post_count: 5
-          date_format: "mmm d, yyyy"
-          template: "📝 **[$title]($url)** &nbsp;·&nbsp; <sub>$date</sub>$newline"
-          commit_message: "docs: son blog yazıları güncellendi 🤖"
+          github_user_name: ${{ github.repository_owner }}
+          outputs: |
+            dist/snake.svg
+            dist/snake-dark.svg?palette=github-dark
+
+      - name: Push to output branch
+        uses: crazy-max/ghaction-github-pages@v4
+        with:
+          target_branch: output
+          build_dir: dist
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
