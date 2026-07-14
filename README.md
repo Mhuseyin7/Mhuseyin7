@@ -42,9 +42,3 @@ I am a software engineer specializing in high-performance architectures, scalabl
 
 ---
 
-## 📊 Global Metrics
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Mhuseyin7&show_icons=true&theme=nord&hide_border=true" alt="GitHub Stats" height="170" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mhuseyin7&layout=compact&theme=nord&hide_border=true" alt="Top Langs" height="170" />
-</div>
