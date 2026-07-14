@@ -1,0 +1,28 @@
+# 📝 Latest Blog Posts — muhammedkoca.com.tr/rss.xml adresinden son 5 yazıyı çeker
+# ve README'deki BLOG-POST-LIST:START/END işaretleri arasını günceller.
+
+name: Latest Blog Posts
+
+on:
+  schedule:
+    - cron: "0 */6 * * *" # 6 saatte bir
+  workflow_dispatch: # Actions sekmesinden elle çalıştırma
+
+permissions:
+  contents: write
+
+jobs:
+  update-readme:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+
+      - name: Pull latest posts from RSS
+        uses: gautamkrishnar/blog-post-workflow@v1
+        with:
+          feed_list: "https://www.muhammedkoca.com.tr/rss.xml"
+          max_post_count: 5
+          date_format: "mmm d, yyyy"
+          template: "📝 **[$title]($url)** &nbsp;·&nbsp; <sub>$date</sub>$newline"
+          commit_message: "docs: son blog yazıları güncellendi 🤖"
