@@ -1,0 +1,34 @@
+<svg width="880" height="110" viewBox="0 0 880 110" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="fneon" x1="0" y1="0" x2="880" y2="0" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#a855f7"/>
+      <stop offset="0.5" stop-color="#6366f1"/>
+      <stop offset="1" stop-color="#22d3ee"/>
+    </linearGradient>
+    <linearGradient id="fbg" x1="0" y1="0" x2="880" y2="110" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#03121f"/>
+      <stop offset="1" stop-color="#120b2e"/>
+    </linearGradient>
+    <filter id="fglow" x="-50%" y="-50%" width="200%" height="200%">
+      <feGaussianBlur stdDeviation="3" result="b"/>
+      <feMerge>
+        <feMergeNode in="b"/>
+        <feMergeNode in="SourceGraphic"/>
+      </feMerge>
+    </filter>
+  </defs>
+
+  <rect x="1.5" y="1.5" width="877" height="107" rx="14" fill="url(#fbg)" stroke="url(#fneon)" stroke-width="2"/>
+
+  <text x="440" y="44" text-anchor="middle" font-family="Segoe UI, Arial, sans-serif" font-size="20" font-weight="700" fill="url(#fneon)" filter="url(#fglow)">Öngör → Kurtar → Güçlendir</text>
+
+  <text x="440" y="70" text-anchor="middle" font-family="Consolas, 'Courier New', monospace" font-size="14" fill="#94a3b8">muhammedkoca.com.tr
+    <animate attributeName="opacity" values="1;0.45;1" dur="3s" repeatCount="indefinite"/>
+  </text>
+
+  <path d="M0 92 L330 92 L343 92 L353 74 L363 106 L373 92 L505 92 L518 92 L528 76 L538 104 L548 92 L880 92"
+        stroke="url(#fneon)" stroke-width="2" fill="none" filter="url(#fglow)"
+        stroke-dasharray="920" stroke-dashoffset="920">
+    <animate attributeName="stroke-dashoffset" values="920;0;-920" keyTimes="0;0.5;1" dur="6s" repeatCount="indefinite"/>
+  </path>
+</svg>
