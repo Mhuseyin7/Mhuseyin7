@@ -1,6 +1,6 @@
 <!-- HEADER BANNER -->
 <p align="center">
-  <img src="https://images.unsplash.com/photo-1506318137071-a8e063b4bec0?q=80&w=1200&auto=format&fit=crop" alt="Mhuseyin7 - Full Stack Engineer & AI Architect" width="100%" style="border-radius: 8px;" />
+  <img src="https://unsplash.com" alt="Mhuseyin7 - Full Stack Engineer & AI Architect" width="100%" style="border-radius: 8px;" />
 </p>
 
 <h1 align="center">Mhuseyin7 - Full Stack Engineer & AI Architect</h1>
@@ -12,45 +12,49 @@
 </p>
 
 <p align="center">
-  <a href="https://muhammedkoca.com.tr" target="_blank"><img src="https://img.shields.io/badge/Portfolyo_&_Blog-3178C6?style=flat-square&logo=react&logoColor=white" alt="Website" /></a>
-  <a href="https://www.linkedin.com/in/muhammed-h%C3%BCseyin-koca-221a853b9/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
-  <a href="https://discord.com" target="_blank"><img src="https://img.shields.io/badge/Discord-5865F2?style=flat-square&logo=discord&logoColor=white" alt="Discord" /></a>
+  <a href="https://muhammedkoca.com.tr" target="_blank"><img src="https://shields.io" alt="Website" /></a>
+  <a href="https://linkedin.com" target="_blank"><img src="https://shields.io" alt="LinkedIn" /></a>
+  <a href="https://discord.com" target="_blank"><img src="https://shields.io" alt="Discord" /></a>
 </p>
 
----
+<br/>
 
 <!-- ANA KONTENT VE SAĞ PANEL (İKİ SÜTUN DÜZENİ) -->
 <table border="0" cellpadding="0" cellspacing="0" width="100%">
   <tr valign="top">
     <!-- SOL SÜTUN (ABOUT, REFLEXES, TECH STACK) -->
-    <td width="63%" style="padding-right: 20px; border: none;">
+    <td width="60%" style="padding-right: 20px; border: none;">
       
-      <h3>🧠 Portfolyo & Mühendislik Yolculuğu</h3>
+      <h3 style="margin-top: 0;">🧠 Portfolyo & Mühendislik Yolculuğu</h3>
       <p>Yüksek performans odaklı mimariler tasarlayan, sıfırdan sistemler ayağa kaldıran ve yapay zekâ entegrasyonuyla ölçeklenebilir SaaS motorları kuran bir yazılım zanaatkârıyım.</p>
 
-      <table border="0" cellpadding="10" cellspacing="0" width="100%" style="margin-bottom: 20px;">
+      <br/>
+
+      <table border="0" cellpadding="5" cellspacing="0" width="100%">
         <tr valign="top">
-          <td width="33%" align="center" style="border: none;">
-            <img src="https://img.icons8.com/external-flatart-icons-outline-flatarticons/64/0366d6/external-architecture-art-and-design-flatart-icons-outline-flatarticons.png" width="40" /><br/>
+          <td width="33%" align="center" style="border: none; padding: 10px;">
+            <img src="https://icons8.com" width="36" /><br/>
             <b>Yüksek Performans Mimarı</b><br/>
-            <small>Mühendislik temellerim, performans odaklı MhFW ve Redis cache tabanlı sistemlere dayanır.</small>
+            <font size="2">Mühendislik temellerim, performans odaklı MhFW ve Redis cache tabanlı sistemlere dayanır.</font>
           </td>
-          <td width="33%" align="center" style="border: none;">
-            <img src="https://img.icons8.com/external-flatart-icons-outline-flatarticons/64/0366d6/external-brain-medical-health-flatart-icons-outline-flatarticons.png" width="40" /><br/>
+          <td width="33%" align="center" style="border: none; padding: 10px;">
+            <img src="https://icons8.com" width="36" /><br/>
             <b>AI & SaaS Vizyoneri</b><br/>
-            <small>Sıfırdan Vercel AI SDK ve App Router mimarili SaaS motorları kurar ve ölçeklendiririm.</small>
+            <font size="2">Sıfırdan Vercel AI SDK ve App Router mimarili SaaS motorları kurar ve ölçeklendiririm.</font>
           </td>
-          <td width="33%" align="center" style="border: none;">
-            <img src="https://img.icons8.com/external-flatart-icons-outline-flatarticons/64/0366d6/external-server-cloud-computing-flatart-icons-outline-flatarticons.png" width="40" /><br/>
+          <td width="33%" align="center" style="border: none; padding: 10px;">
+            <img src="https://icons8.com" width="36" /><br/>
             <b>Bare-Metal Operatörü</b><br/>
-            <small>Kendi ev sunucumu ve 3-2-1 yedekleme otomasyon hatlarımı Linux (Ubuntu) üzerinde yönetirim.</small>
+            <font size="2">Kendi ev sunucumu ve 3-2-1 yedekleme otomasyon hatlarımı Linux (Ubuntu) üzerinde yönetirim.</font>
           </td>
         </tr>
       </table>
 
+      <br/>
+
       <h3>🛠️ Core Engineering Reflexes</h3>
       <p align="center">
-        <code>Fikir</code> ➔ <code>Mimari (MhFW)</code> ➔ <code>Geliştirme</code> ➔ <code>DevOps</code> ➔ <code>Dağıtım (Bare-Metal/Cloud)</code>
+        <code>Fikir</code> ➔ <code>Mimari (MhFW)</code> ➔ <code>Geliştirme</code> ➔ <code>DevOps</code> ➔ <code>Dağıtım</code>
       </p>
       <ul>
         <li><b>Architecting from Scratch:</b> Tamamen nesne yönelimli mimariyle, bağımlılık enjeksiyonu ve Redis önbellekleme katmanlarına sahip özel <b>MhFW</b> çatısını sıfırdan yazdım.</li>
@@ -58,13 +62,15 @@
         <li><b>Düşük Seviye Sistemler:</b> Python ile asenkron bot sistemleri, proxy yönetimi ve özel Win32 API düzeyi geliştirmeler yürüttüm.</li>
       </ul>
 
+      <br/>
+
       <h3>💻 Tech Stack</h3>
-      <table width="100%">
+      <table width="100%" cellpadding="8" cellspacing="0" border="1" style="border-collapse: collapse; border-color: #30363d;">
         <thead>
           <tr style="background-color: #1f242c;">
-            <th align="center">Core</th>
-            <th align="center">Database</th>
-            <th align="center">DevOps & System</th>
+            <th align="center" width="33%">Core</th>
+            <th align="center" width="33%">Database</th>
+            <th align="center" width="33%">DevOps & System</th>
           </tr>
         </thead>
         <tbody>
@@ -85,7 +91,7 @@
               • Linux (Bare-metal)<br/>
               • Docker<br/>
               • Git / Bash Automation<br/>
-              • Claude Code / Prompts
+              • Claude Code
             </td>
           </tr>
         </tbody>
@@ -94,14 +100,16 @@
     </td>
     
     <!-- SAĞ SÜTUN (FOCUSES, STATS) -->
-    <td width="37%" style="padding-left: 15px; border-left: 1px solid #30363d; border-top: none; border-right: none; border-bottom: none;">
+    <td width="40%" style="padding-left: 20px; border-left: 1px solid #30363d; border-top: none; border-right: none; border-bottom: none;">
       
-      <h3>📈 Current Engineering Focuses</h3>
+      <h3 style="margin-top: 0;">📈 Current Engineering Focuses</h3>
       <ul>
         <li><b>MusclePull (AI SaaS)</b><br/><code>[████████░░] 80%</code></li>
         <li><b>MhFW Optimizations</b><br/><code>[█████████░] 90%</code></li>
         <li><b>30 Days of Code Summer Camp</b><br/><code>[██████████] 100%</code></li>
       </ul>
+
+      <br/>
 
       <h4>🔥 30 Days of Code Tracker</h4>
       <p>
@@ -114,22 +122,26 @@
 
       <h3>📊 Automation & Stats</h3>
       <p align="center">
-        <img src="https://github-readme-stats.vercel.app/api?username=Mhuseyin7&show_icons=true&theme=tokyonight&hide_border=true" width="100%" alt="Koca's GitHub Stats" />
+        <img src="https://vercel.app" width="100%" alt="Koca's GitHub Stats" />
       </p>
+      <br/>
       <p align="center">
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mhuseyin7&layout=compact&theme=tokyonight&hide_border=true" width="100%" alt="Top Langs" />
+        <img src="https://vercel.app" width="100%" alt="Top Langs" />
       </p>
+      <br/>
       <p align="center">
-        <img src="https://github-readme-streak-stats.herokuapp.com/?user=Mhuseyin7&theme=tokyonight&hide_border=true" width="100%" alt="Streak Stats" />
+        <img src="https://herokuapp.com" width="100%" alt="Streak Stats" />
       </p>
 
     </td>
   </tr>
 </table>
 
+<br/>
 ---
+<br/>
 
 <!-- FOOTER -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/render?type=rect&color=0d1117&height=60&section=footer&text=Time%20to%20build%20the%20future.&fontSize=20&fontAlignY=50" width="100%" alt="Footer Banner" />
+  <img src="https://vercel.app" width="100%" alt="Footer Banner" />
 </p>
