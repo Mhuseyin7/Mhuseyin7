@@ -23,7 +23,7 @@
 <table border="0" cellpadding="0" cellspacing="0" width="100%">
   <tr valign="top">
     <!-- SOL SÜTUN (ABOUT, REFLEXES, TECH STACK) -->
-    <td width="65%" style="padding-right: 20px; border: none;">
+    <td width="63%" style="padding-right: 20px; border: none;">
       
       <h3>🧠 Portfolyo & Mühendislik Yolculuğu</h3>
       <p>Yüksek performans odaklı mimariler tasarlayan, sıfırdan sistemler ayağa kaldıran ve yapay zekâ entegrasyonuyla ölçeklenebilir SaaS motorları kuran bir yazılım zanaatkârıyım.</p>
@@ -54,7 +54,7 @@
       </p>
       <ul>
         <li><b>Architecting from Scratch:</b> Tamamen nesne yönelimli mimariyle, bağımlılık enjeksiyonu ve Redis önbellekleme katmanlarına sahip özel <b>MhFW</b> çatısını sıfırdan yazdım.</li>
-        <li><b>SaaS & AI Pipelines:</b> MusclePull ve FastCom ile çoklu kiracılı (multi-tenant) sistemler tasarladım; Next.js Server Actions, Prisma ve Zod yapısal doğrulama şemalarını entegre ettim.</li>
+        <li><b>SaaS & AI Pipelines:</b> <a href="https://muhammedkoca.com.tr" target="_blank"><b>MusclePull</b></a> ve FastCom ile çoklu kiracılı (multi-tenant) sistemler tasarladım; Next.js Server Actions, Prisma ve Zod yapısal doğrulama şemalarını entegre ettim.</li>
         <li><b>Düşük Seviye Sistemler:</b> Python ile asenkron bot sistemleri, proxy yönetimi ve özel Win32 API düzeyi geliştirmeler yürüttüm.</li>
       </ul>
 
@@ -69,23 +69,23 @@
         </thead>
         <tbody>
           <tr>
-            <td align="left">
+            <td align="left" valign="top">
               • Next.js / React 19<br/>
               • TypeScript<br/>
               • Python (Asyncio)<br/>
               • Node.js
             </td>
-            <td align="left">
+            <td align="left" valign="top">
               • PostgreSQL<br/>
               • Supabase<br/>
               • Prisma ORM<br/>
               • Redis (MhFW Cache)
             </td>
-            <td align="left">
+            <td align="left" valign="top">
               • Linux (Bare-metal)<br/>
               • Docker<br/>
               • Git / Bash Automation<br/>
-              • Claude Code / Advanced Prompting
+              • Claude Code / Prompts
             </td>
           </tr>
         </tbody>
@@ -94,7 +94,7 @@
     </td>
     
     <!-- SAĞ SÜTUN (FOCUSES, STATS) -->
-    <td width="35%" style="padding-left: 10px; border-left: 1px solid #30363d; border-top: none; border-right: none; border-bottom: none;">
+    <td width="37%" style="padding-left: 15px; border-left: 1px solid #30363d; border-top: none; border-right: none; border-bottom: none;">
       
       <h3>📈 Current Engineering Focuses</h3>
       <ul>
@@ -102,6 +102,13 @@
         <li><b>MhFW Optimizations</b><br/><code>[█████████░] 90%</code></li>
         <li><b>30 Days of Code Summer Camp</b><br/><code>[██████████] 100%</code></li>
       </ul>
+
+      <h4>🔥 30 Days of Code Tracker</h4>
+      <p>
+        🟩🟩🟩⬜⬜ ⬜⬜⬜⬜⬜<br/>
+        ⬜⬜⬜⬜⬜ ⬜⬜⬜⬜⬜<br/>
+        ⬜⬜⬜⬜⬜ ⬜⬜⬜⬜⬜
+      </p>
 
       <br/>
 
