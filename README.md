@@ -160,11 +160,11 @@ $ tail -f /var/log/muhammed.log
 
 ## ✍️ Son Yazılar
 
-<!-- BLOG-POST-LIST:START -->📝 **[Node.js ve Prisma ile Dağıtık Sistemlerde ACID İşlemleri: Gerçek Dünya Mimarisi ve Kritik Trade-off&#39;lar](https://muhammedkoca.com.tr/blog/node-js-ve-prisma-ile-dagitik-sistemlerde-acid-islemleri-gercek-dunya-mimarisi-v)** &nbsp;·&nbsp; <sub>Jul 14, 2026</sub>
-📝 **[Node.js ve Prisma ile Yüksek Performanslı Veritabanı Okuma Optimizasyonları: Edge&#39;den Core&#39;a Stratejik Indexing ve Caching](https://muhammedkoca.com.tr/blog/node-js-ve-prisma-ile-yuksek-performansli-veritabani-okuma-optimizasyonlari-edge-2)** &nbsp;·&nbsp; <sub>Jul 14, 2026</sub>
-📝 **[Senior Mühendisten Liderliğe: Teknik Derinlikten Stratejik Vizyona Geçişin 5 Kritik Adımı](https://muhammedkoca.com.tr/blog/senior-muhendisten-liderlige-teknik-derinlikten-stratejik-vizyona-gecisin-5-krit)** &nbsp;·&nbsp; <sub>Jul 14, 2026</sub>
-📝 **[Dağıtık Sistemlerde Eventual Consistency: Node.js ve Prisma ile Conflict-Free Replicated Data Types &lpar;CRDT&rpar; Uygulaması](https://muhammedkoca.com.tr/blog/dagitik-sistemlerde-eventual-consistency-node-js-ve-prisma-ile-conflict-free-rep)** &nbsp;·&nbsp; <sub>Jul 14, 2026</sub>
-📝 **[Modern Mikroservislerde Güvenlik-First Mimarisi: Tehdit Modelleme ile Sıfır Güven Yaklaşımı](https://muhammedkoca.com.tr/blog/modern-mikroservislerde-guvenlik-first-mimarisi-tehdit-modelleme-ile-sifir-guven)** &nbsp;·&nbsp; <sub>Jul 14, 2026</sub>
+<!-- BLOG-POST-LIST:START -->📝 **[Senior Mühendisler İçin Performans Darboğazlarını Tespit ve Çözüm Stratejileri: Node.js, Prisma ve Dağıtık Sistemlerde Derinlemesine Analiz](https://muhammedkoca.com.tr/blog/senior-muhendisler-icin-performans-darbogazlarini-tespit-ve-cozum-stratejileri-n-3)** &nbsp;·&nbsp; <sub>Jul 15, 2026</sub>
+📝 **[Node.js ve Prisma ile Yüksek Performanslı Veritabanı Sorgularında Bottleneck Analizi ve Çözüm Stratejileri](https://muhammedkoca.com.tr/blog/node-js-ve-prisma-ile-yuksek-performansli-veritabani-sorgularinda-bottleneck-ana)** &nbsp;·&nbsp; <sub>Jul 15, 2026</sub>
+📝 **[Senior Mühendisten Liderliğe: Prodüksiyon Krizlerinden Çıkan 5 Kariyer Dersi](https://muhammedkoca.com.tr/blog/senior-muhendisten-liderlige-produksiyon-krizlerinden-cikan-5-kariyer-dersi)** &nbsp;·&nbsp; <sub>Jul 15, 2026</sub>
+📝 **[Dağıtık Sistemlerde Eventual Consistency: Kafka ve Prisma ile Gerçek Dünya Post-Mortem Analizi](https://muhammedkoca.com.tr/blog/dagitik-sistemlerde-eventual-consistency-kafka-ve-prisma-ile-gercek-dunya-post-m)** &nbsp;·&nbsp; <sub>Jul 15, 2026</sub>
+📝 **[Node.js Mikroservislerinde Kritik Veri Tutarlılığı: Saga Pattern ile ACID&#39;den Dağıtık Tutarlılığa Geçiş Rehberi](https://muhammedkoca.com.tr/blog/node-js-mikroservislerinde-kritik-veri-tutarliligi-saga-pattern-ile-acid-den-dag)** &nbsp;·&nbsp; <sub>Jul 15, 2026</sub>
 <!-- BLOG-POST-LIST:END -->
 
 <sub>📡 6 saatte bir <a href="https://www.muhammedkoca.com.tr/rss.xml">rss.xml</a> üzerinden otomatik güncellenir · tümü → <a href="https://www.muhammedkoca.com.tr/blog">/blog</a></sub>
