@@ -7,14 +7,14 @@
 <div align="center">
 
 <!-- ═══ El yapımı animasyonlu header — assets/header.svg ═══ -->
-<a href="https://www.muhammedkoca.com.tr"><img src="assets/header.svg" alt="Muhammed Hüseyin Koca — Full-Stack Architect" width="100%"/></a>
+<a href="https://www.muhammedkoca.com.tr"><img src="assets/header.svg" alt="Muhammed Koca — Full-Stack Architect" width="100%"/></a>
 
 <br/><br/>
 
 [![typing](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=17&duration=2600&pause=900&color=22D3EE&center=true&vCenter=true&random=false&width=700&height=44&lines=%24+.%2Fsystem+--heal+%E2%86%92+self-healing%3A+ACTIVE;%C3%96ng%C3%B6r+%E2%86%92+Kurtar+%E2%86%92+G%C3%BC%C3%A7lendir;Fault-tolerant+%C2%B7+Chaos+Engineering+%C2%B7+Observability;765%2B+yaz%C4%B1+%C2%B7+AI+content+pipeline+%C2%B7+muhammedkoca.com.tr)](https://www.muhammedkoca.com.tr)
 
 <a href="https://www.muhammedkoca.com.tr/"><img alt="Blog" src="https://img.shields.io/badge/Blog-muhammedkoca.com.tr-a855f7?style=for-the-badge&logo=astro&logoColor=white"></a>&nbsp;
-<a href="https://www.linkedin.com/in/muhammed-h%C3%BCseyin-koca-221a853b9/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Muhammed%20H%C3%BCseyin%20Koca-6366f1?style=for-the-badge&logo=linkedin&logoColor=white"></a>&nbsp;
+<a href="https://www.linkedin.com/in/muhammed-h%C3%BCseyin-koca-221a853b9/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Muhammed%20Koca-6366f1?style=for-the-badge&logo=linkedin&logoColor=white"></a>&nbsp;
 <a href="https://www.instagram.com/muhammedkoca.dev/"><img alt="Instagram" src="https://img.shields.io/badge/Instagram-%40muhammedkoca.dev-22d3ee?style=for-the-badge&logo=instagram&logoColor=white"></a>
 
 <a href="mailto:mhuseyinkoca9@gmail.com"><img alt="Mail" src="https://img.shields.io/badge/Mail-mhuseyinkoca9%40gmail.com-0f172a?style=flat-square&logo=gmail&logoColor=a855f7"></a>
@@ -29,9 +29,9 @@
 ## ⚡ whoami
 
 ```console
-$ systemctl status muhammed.service
+$ systemctl status muhammed-koca.service
 
-● muhammed.service — Full-Stack Architect & Enterprise Web Developer
+● muhammed-koca.service — Full-Stack Architect & Enterprise Web Developer
      Loaded : loaded (/home/bursa/muhammed.koca; enabled)
      Active : active (running) since 2022 — self-healing ✓
      Yolculuk: 2022 temeller → 2023 sistem çözümleri → 2024 danışmanlık → 2025+ full-stack hakimiyet
@@ -145,17 +145,19 @@ $ tail -f /var/log/muhammed.log
 
 ## 📊 GitHub
 
-<div align="center">
+<!-- Tüm kartlar stats-cache.yml tarafından her gece assets/cache/ altına indirilir.
+     Hiçbiri dış sunucuya canlı bağımlı değildir — o servisler çökse/yavaşlasa bile bozulmaz. -->
+<table align="center">
+  <tr>
+    <td align="center" width="50%"><img src="assets/cache/stats.svg" alt="stats" width="100%"/></td>
+    <td align="center" width="50%"><img src="assets/cache/streak.svg" alt="streak" width="100%"/></td>
+  </tr>
+  <tr>
+    <td align="center" colspan="2"><img src="assets/cache/top-langs.svg" alt="top langs"/></td>
+  </tr>
+</table>
 
-<!-- stats + top-langs: stats-cache.yml tarafından her gece assets/cache/ altına indirilir — dış sunucuya bağımlı değil -->
-<img src="assets/cache/stats.svg" alt="stats" height="170"/>
-<img src="https://streak-stats.demolab.com?user=Mhuseyin7&hide_border=true&background=0d1117&ring=a855f7&fire=22d3ee&currStreakLabel=a855f7&sideLabels=c9d1d9&currStreakNum=ffffff&sideNums=ffffff&dates=8b949e" alt="streak" height="170"/>
-
-<img src="assets/cache/top-langs.svg" alt="top langs"/>
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Mhuseyin7&bg_color=0d1117&color=c9d1d9&line=a855f7&point=22d3ee&area=true&hide_border=true" alt="activity graph" width="100%"/>
-
-</div>
+<p align="center"><img src="assets/cache/activity.svg" alt="activity graph" width="100%"/></p>
 
 <img src="assets/divider.svg" alt="" width="100%"/>
 
