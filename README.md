@@ -160,11 +160,11 @@ $ tail -f /var/log/muhammed.log
 
 ## ✍️ Son Yazılar
 
-<!-- BLOG-POST-LIST:START -->📝 **[Senior Mühendisten Liderliğe: Teknik Derinlikten Stratejik Vizyona Geçiş Rehberi](https://muhammedkoca.com.tr/blog/senior-muhendisten-liderlige-teknik-derinlikten-stratejik-vizyona-gecis-rehberi)** &nbsp;·&nbsp; <sub>Jul 15, 2026</sub>
-📝 **[Senior Mühendisten Staff Mühendise: Teknik Liderlik Yolculuğunda Kritik Dönüşüm Noktaları](https://muhammedkoca.com.tr/blog/senior-muhendisten-staff-muhendise-teknik-liderlik-yolculugunda-kritik-donusum-n)** &nbsp;·&nbsp; <sub>Jul 15, 2026</sub>
-📝 **[Yüksek Performanslı Mühendislik Zihninin Sırları: Sistematik Yaşam Optimizasyonu ve Üretkenlik Mimarisi](https://muhammedkoca.com.tr/blog/yuksek-performansli-muhendislik-zihninin-sirlari-sistematik-yasam-optimizasyonu-)** &nbsp;·&nbsp; <sub>Jul 15, 2026</sub>
-📝 **[Yüksek Performanslı Mühendislik Zihniyeti: 15 Yıllık Prodüksiyon Tecrübesinden Çıkan Yaşam Dengesi Stratejileri](https://muhammedkoca.com.tr/blog/yuksek-performansli-muhendislik-zihniyeti-15-yillik-produksiyon-tecrubesinden-ci)** &nbsp;·&nbsp; <sub>Jul 15, 2026</sub>
-📝 **[Güvenlik Odaklı Mühendislik: Threat Modeling ile Sıfır Güven Mimarisini Üretimde Uygulamak](https://muhammedkoca.com.tr/blog/guvenlik-odakli-muhendislik-threat-modeling-ile-sifir-guven-mimarisini-uretimde-)** &nbsp;·&nbsp; <sub>Jul 15, 2026</sub>
+<!-- BLOG-POST-LIST:START -->📝 **[Mühendislik Zihnini Korumak: Prodüksiyon Krizlerinden Öğrenilen Yaşam Dengesi Stratejileri](https://muhammedkoca.com.tr/blog/muhendislik-zihnini-korumak-produksiyon-krizlerinden-ogrenilen-yasam-dengesi-str)** &nbsp;·&nbsp; <sub>Jul 15, 2026</sub>
+📝 **[Mühendislik Zihnini Yeniden Programlamak: 15 Yıllık Prodüksiyon Tecrübesinden Çıkan Yaşam Optimizasyonu Stratejileri](https://muhammedkoca.com.tr/blog/muhendislik-zihnini-yeniden-programlamak-15-yillik-produksiyon-tecrubesinden-cik)** &nbsp;·&nbsp; <sub>Jul 15, 2026</sub>
+📝 **[Node.js Mikroservislerde Kritik Performans Tuzakları: 5 Anti-Pattern ve Çözümleri](https://muhammedkoca.com.tr/blog/node-js-mikroservislerde-kritik-performans-tuzaklari-5-anti-pattern-ve-cozumleri)** &nbsp;·&nbsp; <sub>Jul 15, 2026</sub>
+📝 **[Node.js ve Prisma ile Veritabanı Sorgu Optimizasyonu: 10 Üretimde Kanıtlanmış Anti-Pattern ve Çözümleri](https://muhammedkoca.com.tr/blog/node-js-ve-prisma-ile-veritabani-sorgu-optimizasyonu-10-uretimde-kanitlanmis-ant)** &nbsp;·&nbsp; <sub>Jul 15, 2026</sub>
+📝 **[Senior Mühendisten Liderliğe: Teknik Derinlikten Stratejik Vizyona Geçiş Rehberi](https://muhammedkoca.com.tr/blog/senior-muhendisten-liderlige-teknik-derinlikten-stratejik-vizyona-gecis-rehberi)** &nbsp;·&nbsp; <sub>Jul 15, 2026</sub>
 <!-- BLOG-POST-LIST:END -->
 
 <sub>📡 6 saatte bir <a href="https://www.muhammedkoca.com.tr/rss.xml">rss.xml</a> üzerinden otomatik güncellenir · tümü → <a href="https://www.muhammedkoca.com.tr/blog">/blog</a></sub>
