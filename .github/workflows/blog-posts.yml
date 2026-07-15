@@ -1,28 +1,43 @@
-# 📝 Latest Blog Posts — muhammedkoca.com.tr/rss.xml adresinden son 5 yazıyı çeker
-# ve README'deki BLOG-POST-LIST:START/END işaretleri arasını günceller.
+# ✍️ Son Yazılar — muhammedkoca.com.tr'nin RSS feed'inden son 3 yazıyı çeker ve
+# her yazının KENDİ sayfasındaki og:image (kapak SVG) görselini kullanarak
+# README'deki BLOG-CARDS:START/END işaretleri arasını günceller.
+#
+# Harici bir "readme blog list" action'ı yerine kendi scriptimizi (generate_blog_cards.py)
+# kullanıyoruz çünkü Türkçe başlıkların URL-encode edilmesi standart action şablonlarıyla
+# güvenilir yapılamıyor. Script hata alırsa README'ye DOKUNMAZ — eski kartlar kalır.
 
-name: Latest Blog Posts
+name: Update Blog Cards
 
 on:
   schedule:
     - cron: "0 */6 * * *" # 6 saatte bir
-  workflow_dispatch: # Actions sekmesinden elle çalıştırma
+  workflow_dispatch:
 
 permissions:
   contents: write
 
+concurrency:
+  group: blog-cards
+  cancel-in-progress: true
+
 jobs:
-  update-readme:
+  update:
     runs-on: ubuntu-latest
     steps:
       - name: Checkout
         uses: actions/checkout@v4
 
-      - name: Pull latest posts from RSS
-        uses: gautamkrishnar/blog-post-workflow@v1
+      - name: Set up Python
+        uses: actions/setup-python@v5
         with:
-          feed_list: "https://www.muhammedkoca.com.tr/rss.xml"
-          max_post_count: 5
-          date_format: "mmm d, yyyy"
-          template: "📝 **[$title]($url)** &nbsp;·&nbsp; <sub>$date</sub>$newline"
-          commit_message: "docs: son blog yazıları güncellendi 🤖"
+          python-version: "3.12"
+
+      - name: Generate blog cards
+        run: python3 scripts/generate_blog_cards.py README.md
+
+      - name: Commit changes
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git add README.md
+          git diff --cached --quiet || (git commit -m "docs: son yazı kartları güncellendi 🤖" && git push)
