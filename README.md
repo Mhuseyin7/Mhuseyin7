@@ -147,10 +147,11 @@ $ tail -f /var/log/muhammed.log
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=Mhuseyin7&show_icons=true&hide_border=true&bg_color=0d1117&title_color=a855f7&icon_color=22d3ee&text_color=c9d1d9&ring_color=a855f7&rank_icon=github&include_all_commits=true" alt="stats" height="170"/>
+<!-- stats + top-langs: stats-cache.yml tarafından her gece assets/cache/ altına indirilir — dış sunucuya bağımlı değil -->
+<img src="assets/cache/stats.svg" alt="stats" height="170"/>
 <img src="https://streak-stats.demolab.com?user=Mhuseyin7&hide_border=true&background=0d1117&ring=a855f7&fire=22d3ee&currStreakLabel=a855f7&sideLabels=c9d1d9&currStreakNum=ffffff&sideNums=ffffff&dates=8b949e" alt="streak" height="170"/>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mhuseyin7&layout=compact&hide_border=true&bg_color=0d1117&title_color=a855f7&text_color=c9d1d9&langs_count=8" alt="top langs"/>
+<img src="assets/cache/top-langs.svg" alt="top langs"/>
 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=Mhuseyin7&bg_color=0d1117&color=c9d1d9&line=a855f7&point=22d3ee&area=true&hide_border=true" alt="activity graph" width="100%"/>
 
@@ -160,11 +161,12 @@ $ tail -f /var/log/muhammed.log
 
 ## ✍️ Son Yazılar
 
-<!-- BLOG-POST-LIST:START -->📝 **[Mühendislik Zihnini Korumak: Prodüksiyon Krizlerinden Öğrenilen Yaşam Dengesi Stratejileri](https://muhammedkoca.com.tr/blog/muhendislik-zihnini-korumak-produksiyon-krizlerinden-ogrenilen-yasam-dengesi-str)** &nbsp;·&nbsp; <sub>Jul 15, 2026</sub>
-📝 **[Mühendislik Zihnini Yeniden Programlamak: 15 Yıllık Prodüksiyon Tecrübesinden Çıkan Yaşam Optimizasyonu Stratejileri](https://muhammedkoca.com.tr/blog/muhendislik-zihnini-yeniden-programlamak-15-yillik-produksiyon-tecrubesinden-cik)** &nbsp;·&nbsp; <sub>Jul 15, 2026</sub>
-📝 **[Node.js Mikroservislerde Kritik Performans Tuzakları: 5 Anti-Pattern ve Çözümleri](https://muhammedkoca.com.tr/blog/node-js-mikroservislerde-kritik-performans-tuzaklari-5-anti-pattern-ve-cozumleri)** &nbsp;·&nbsp; <sub>Jul 15, 2026</sub>
-📝 **[Node.js ve Prisma ile Veritabanı Sorgu Optimizasyonu: 10 Üretimde Kanıtlanmış Anti-Pattern ve Çözümleri](https://muhammedkoca.com.tr/blog/node-js-ve-prisma-ile-veritabani-sorgu-optimizasyonu-10-uretimde-kanitlanmis-ant)** &nbsp;·&nbsp; <sub>Jul 15, 2026</sub>
-📝 **[Senior Mühendisten Liderliğe: Teknik Derinlikten Stratejik Vizyona Geçiş Rehberi](https://muhammedkoca.com.tr/blog/senior-muhendisten-liderlige-teknik-derinlikten-stratejik-vizyona-gecis-rehberi)** &nbsp;·&nbsp; <sub>Jul 15, 2026</sub>
+<!-- BLOG-POST-LIST:START -->
+📝 **[Node.js ve Prisma ile Dağıtık Sistemlerde ACID İşlemleri: Gerçek Dünya Mimarisi ve Kritik Trade-off'lar](https://www.muhammedkoca.com.tr/blog/node-js-ve-prisma-ile-dagitik-sistemlerde-acid-islemleri-gercek-dunya-mimarisi-v)** &nbsp;·&nbsp; <sub>Jul 14, 2026</sub>
+📝 **[Node.js ve Prisma ile Yüksek Performanslı Veritabanı Okuma Optimizasyonları: Edge'den Core'a Stratejik Indexing ve Caching](https://www.muhammedkoca.com.tr/blog/node-js-ve-prisma-ile-yuksek-performansli-veritabani-okuma-optimizasyonlari-edge-2)** &nbsp;·&nbsp; <sub>Jul 14, 2026</sub>
+📝 **[Senior Mühendisten Liderliğe: Teknik Derinlikten Stratejik Vizyona Geçişin 5 Kritik Adımı](https://www.muhammedkoca.com.tr/blog/senior-muhendisten-liderlige-teknik-derinlikten-stratejik-vizyona-gecisin-5-krit)** &nbsp;·&nbsp; <sub>Jul 14, 2026</sub>
+📝 **[Dağıtık Sistemlerde Eventual Consistency: Node.js ve Prisma ile CRDT Uygulaması](https://www.muhammedkoca.com.tr/blog/dagitik-sistemlerde-eventual-consistency-node-js-ve-prisma-ile-conflict-free-rep)** &nbsp;·&nbsp; <sub>Jul 14, 2026</sub>
+📝 **[Modern Mikroservislerde Güvenlik-First Mimarisi: Tehdit Modelleme ile Sıfır Güven Yaklaşımı](https://www.muhammedkoca.com.tr/blog/modern-mikroservislerde-guvenlik-first-mimarisi-tehdit-modelleme-ile-sifir-guven)** &nbsp;·&nbsp; <sub>Jul 14, 2026</sub>
 <!-- BLOG-POST-LIST:END -->
 
 <sub>📡 6 saatte bir <a href="https://www.muhammedkoca.com.tr/rss.xml">rss.xml</a> üzerinden otomatik güncellenir · tümü → <a href="https://www.muhammedkoca.com.tr/blog">/blog</a></sub>
