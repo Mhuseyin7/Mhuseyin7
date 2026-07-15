@@ -160,11 +160,11 @@ $ tail -f /var/log/muhammed.log
 
 ## ✍️ Son Yazılar
 
-<!-- BLOG-POST-LIST:START -->📝 **[Senior Mühendisler İçin Performans Darboğazlarını Tespit ve Çözüm Stratejileri: Node.js, Prisma ve Dağıtık Sistemlerde Derinlemesine Analiz](https://muhammedkoca.com.tr/blog/senior-muhendisler-icin-performans-darbogazlarini-tespit-ve-cozum-stratejileri-n-3)** &nbsp;·&nbsp; <sub>Jul 15, 2026</sub>
-📝 **[Node.js ve Prisma ile Yüksek Performanslı Veritabanı Sorgularında Bottleneck Analizi ve Çözüm Stratejileri](https://muhammedkoca.com.tr/blog/node-js-ve-prisma-ile-yuksek-performansli-veritabani-sorgularinda-bottleneck-ana)** &nbsp;·&nbsp; <sub>Jul 15, 2026</sub>
-📝 **[Senior Mühendisten Liderliğe: Prodüksiyon Krizlerinden Çıkan 5 Kariyer Dersi](https://muhammedkoca.com.tr/blog/senior-muhendisten-liderlige-produksiyon-krizlerinden-cikan-5-kariyer-dersi)** &nbsp;·&nbsp; <sub>Jul 15, 2026</sub>
-📝 **[Dağıtık Sistemlerde Eventual Consistency: Kafka ve Prisma ile Gerçek Dünya Post-Mortem Analizi](https://muhammedkoca.com.tr/blog/dagitik-sistemlerde-eventual-consistency-kafka-ve-prisma-ile-gercek-dunya-post-m)** &nbsp;·&nbsp; <sub>Jul 15, 2026</sub>
-📝 **[Node.js Mikroservislerinde Kritik Veri Tutarlılığı: Saga Pattern ile ACID&#39;den Dağıtık Tutarlılığa Geçiş Rehberi](https://muhammedkoca.com.tr/blog/node-js-mikroservislerinde-kritik-veri-tutarliligi-saga-pattern-ile-acid-den-dag)** &nbsp;·&nbsp; <sub>Jul 15, 2026</sub>
+<!-- BLOG-POST-LIST:START -->📝 **[Senior Mühendisten Liderliğe: Teknik Derinlikten Stratejik Vizyona Geçiş Rehberi](https://muhammedkoca.com.tr/blog/senior-muhendisten-liderlige-teknik-derinlikten-stratejik-vizyona-gecis-rehberi)** &nbsp;·&nbsp; <sub>Jul 15, 2026</sub>
+📝 **[Senior Mühendisten Staff Mühendise: Teknik Liderlik Yolculuğunda Kritik Dönüşüm Noktaları](https://muhammedkoca.com.tr/blog/senior-muhendisten-staff-muhendise-teknik-liderlik-yolculugunda-kritik-donusum-n)** &nbsp;·&nbsp; <sub>Jul 15, 2026</sub>
+📝 **[Yüksek Performanslı Mühendislik Zihninin Sırları: Sistematik Yaşam Optimizasyonu ve Üretkenlik Mimarisi](https://muhammedkoca.com.tr/blog/yuksek-performansli-muhendislik-zihninin-sirlari-sistematik-yasam-optimizasyonu-)** &nbsp;·&nbsp; <sub>Jul 15, 2026</sub>
+📝 **[Yüksek Performanslı Mühendislik Zihniyeti: 15 Yıllık Prodüksiyon Tecrübesinden Çıkan Yaşam Dengesi Stratejileri](https://muhammedkoca.com.tr/blog/yuksek-performansli-muhendislik-zihniyeti-15-yillik-produksiyon-tecrubesinden-ci)** &nbsp;·&nbsp; <sub>Jul 15, 2026</sub>
+📝 **[Güvenlik Odaklı Mühendislik: Threat Modeling ile Sıfır Güven Mimarisini Üretimde Uygulamak](https://muhammedkoca.com.tr/blog/guvenlik-odakli-muhendislik-threat-modeling-ile-sifir-guven-mimarisini-uretimde-)** &nbsp;·&nbsp; <sub>Jul 15, 2026</sub>
 <!-- BLOG-POST-LIST:END -->
 
 <sub>📡 6 saatte bir <a href="https://www.muhammedkoca.com.tr/rss.xml">rss.xml</a> üzerinden otomatik güncellenir · tümü → <a href="https://www.muhammedkoca.com.tr/blog">/blog</a></sub>
