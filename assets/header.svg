@@ -65,7 +65,7 @@
   <text x="836" y="34" text-anchor="end" font-family="Consolas, 'Courier New', monospace" font-size="12" fill="#38bdf8" opacity="0.55">// self-healing systems</text>
 
   <!-- name -->
-  <text x="46" y="88" font-family="Segoe UI, Arial, sans-serif" font-size="41" font-weight="800" fill="url(#neon)" filter="url(#glow)" opacity="0">Muhammed Hüseyin Koca
+  <text x="46" y="88" font-family="Segoe UI, Arial, sans-serif" font-size="41" font-weight="800" fill="url(#neon)" filter="url(#glow)" opacity="0">Muhammed Koca
     <animate attributeName="opacity" from="0" to="1" dur="1.1s" begin="0.1s" fill="freeze"/>
   </text>
 
