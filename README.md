@@ -1,6 +1,8 @@
 <!--
-  ⚙️ Otomatik güncellenen bölümler: blog listesi (blog-posts.yml, 6 saatte bir) + yılan (snake.yml, günlük).
-  🎨 Header / divider / footer: assets/ klasöründeki el yapımı animasyonlu SVG'ler — harici servis yok.
+  ⚙️ Otomatik güncellenen bölümler: blog kartları (blog-posts.yml, 6 saatte bir),
+  GitHub istatistikleri (stats-cache.yml, günlük) + yılan (snake.yml, günlük).
+  🎨 Header / divider / footer / terminal görselleri: assets/ klasöründeki el yapımı
+  animasyonlu SVG'ler — harici servis yok.
   📖 Kurulum: KURULUM-REHBERI.md
 -->
 
@@ -140,15 +142,41 @@
 
 ## ✍️ Son Yazılar
 
-<!-- BLOG-POST-LIST:START -->
-📝 **[Node.js ve Prisma ile Dağıtık Sistemlerde ACID İşlemleri: Gerçek Dünya Mimarisi ve Kritik Trade-off'lar](https://www.muhammedkoca.com.tr/blog/node-js-ve-prisma-ile-dagitik-sistemlerde-acid-islemleri-gercek-dunya-mimarisi-v)** &nbsp;·&nbsp; <sub>Jul 14, 2026</sub>
-📝 **[Node.js ve Prisma ile Yüksek Performanslı Veritabanı Okuma Optimizasyonları: Edge'den Core'a Stratejik Indexing ve Caching](https://www.muhammedkoca.com.tr/blog/node-js-ve-prisma-ile-yuksek-performansli-veritabani-okuma-optimizasyonlari-edge-2)** &nbsp;·&nbsp; <sub>Jul 14, 2026</sub>
-📝 **[Senior Mühendisten Liderliğe: Teknik Derinlikten Stratejik Vizyona Geçişin 5 Kritik Adımı](https://www.muhammedkoca.com.tr/blog/senior-muhendisten-liderlige-teknik-derinlikten-stratejik-vizyona-gecisin-5-krit)** &nbsp;·&nbsp; <sub>Jul 14, 2026</sub>
-📝 **[Dağıtık Sistemlerde Eventual Consistency: Node.js ve Prisma ile CRDT Uygulaması](https://www.muhammedkoca.com.tr/blog/dagitik-sistemlerde-eventual-consistency-node-js-ve-prisma-ile-conflict-free-rep)** &nbsp;·&nbsp; <sub>Jul 14, 2026</sub>
-📝 **[Modern Mikroservislerde Güvenlik-First Mimarisi: Tehdit Modelleme ile Sıfır Güven Yaklaşımı](https://www.muhammedkoca.com.tr/blog/modern-mikroservislerde-guvenlik-first-mimarisi-tehdit-modelleme-ile-sifir-guven)** &nbsp;·&nbsp; <sub>Jul 14, 2026</sub>
-<!-- BLOG-POST-LIST:END -->
+<!-- Bu kartlar scripts/generate_blog_cards.py tarafından üretilir. Kapak görselleri
+     sitenin KENDİ og:image'inden alınır (muhammedkoca.com.tr/api/og/cover.svg) —
+     URL'yi biz kurmuyoruz, sitenin ürettiği meta etiketi doğrudan kopyalıyoruz. -->
+<!-- BLOG-CARDS:START -->
+<table>
+  <tr>
+    <td width="260"><a href="https://www.muhammedkoca.com.tr/blog/muhendislik-zihnini-korumak-produksiyon-krizlerinden-ogrenilen-yasam-dengesi-str"><img src="https://www.muhammedkoca.com.tr/api/og/cover.svg?title=M%C3%BChendislik%20Zihnini%20Korumak%3A%20Prod%C3%BCksiyon%20Krizlerinden%20%C3%96%C4%9Frenilen%20Ya%C5%9Fam%20Dengesi%20Stratejileri&category=Ya%C5%9Fam" width="240" alt="Mühendislik Zihnini Korumak: Prodüksiyon Krizlerinden Öğrenilen Yaşam Dengesi Stratejileri"/></a></td>
+    <td valign="top" width="580">
+      <img src="https://img.shields.io/badge/Ya%C5%9Fam-a855f7?style=flat-square" alt="Yaşam"/> <sub>15 Tem 2026</sub><br/><br/>
+      <a href="https://www.muhammedkoca.com.tr/blog/muhendislik-zihnini-korumak-produksiyon-krizlerinden-ogrenilen-yasam-dengesi-str"><b>Mühendislik Zihnini Korumak: Prodüksiyon Krizlerinden Öğrenilen Yaşam Dengesi Stratejileri</b></a><br/><br/>
+      <sub>15 yıllık üretim sistemleri savaşlarından çıkarılan dersler: Zihinsel dayanıklılık, operasyonel mükemmellik ve kişisel sağlık arasındaki dengeyi nasıl kurarsınız?</sub>
+    </td>
+  </tr>
+  <tr><td colspan="2"><img src="assets/divider.svg" alt="" width="100%"/></td></tr>
+  <tr>
+    <td width="260"><a href="https://www.muhammedkoca.com.tr/blog/node-js-mikroservislerde-kritik-performans-tuzaklari-5-anti-pattern-ve-cozumleri"><img src="https://www.muhammedkoca.com.tr/api/og/cover.svg?title=Node.js%20Mikroservislerde%20Kritik%20Performans%20Tuzaklar%C4%B1%3A%205%20Anti-Pattern%20ve%20%C3%87%C3%B6z%C3%BCmleri&category=M%C3%BChendislik" width="240" alt="Node.js Mikroservislerde Kritik Performans Tuzakları: 5 Anti-Pattern ve Çözümleri"/></a></td>
+    <td valign="top" width="580">
+      <img src="https://img.shields.io/badge/M%C3%BChendislik-a855f7?style=flat-square" alt="Mühendislik"/> <sub>15 Tem 2026</sub><br/><br/>
+      <a href="https://www.muhammedkoca.com.tr/blog/node-js-mikroservislerde-kritik-performans-tuzaklari-5-anti-pattern-ve-cozumleri"><b>Node.js Mikroservislerde Kritik Performans Tuzakları: 5 Anti-Pattern ve Çözümleri</b></a><br/><br/>
+      <sub>Mikroservis mimarilerinde Node.js kullanırken karşılaşılan en yaygın performans tuzakları, prodüksiyon vakalarıyla inceleniyor.</sub>
+    </td>
+  </tr>
+  <tr><td colspan="2"><img src="assets/divider.svg" alt="" width="100%"/></td></tr>
+  <tr>
+    <td width="260"><a href="https://www.muhammedkoca.com.tr/blog/senior-muhendisten-liderlige-teknik-derinlikten-stratejik-vizyona-gecis-rehberi"><img src="https://www.muhammedkoca.com.tr/api/og/cover.svg?title=Senior%20M%C3%BChendisten%20Liderli%C4%9Fe%3A%20Teknik%20Derinlikten%20Stratejik%20Vizyona%20Ge%C3%A7i%C5%9F%20Rehberi&category=Kariyer" width="240" alt="Senior Mühendisten Liderliğe: Teknik Derinlikten Stratejik Vizyona Geçiş Rehberi"/></a></td>
+    <td valign="top" width="580">
+      <img src="https://img.shields.io/badge/Kariyer-a855f7?style=flat-square" alt="Kariyer"/> <sub>15 Tem 2026</sub><br/><br/>
+      <a href="https://www.muhammedkoca.com.tr/blog/senior-muhendisten-liderlige-teknik-derinlikten-stratejik-vizyona-gecis-rehberi"><b>Senior Mühendisten Liderliğe: Teknik Derinlikten Stratejik Vizyona Geçiş Rehberi</b></a><br/><br/>
+      <sub>15 yıllık üretim krizi çözümlerinden edindiğim derslerle: Teknik uzmanlıktan liderliğe geçerken karşılaşılan kritik boşlukları nasıl doldurursunuz?</sub>
+    </td>
+  </tr>
+</table>
+<!-- BLOG-CARDS:END -->
 
-<sub>📡 6 saatte bir <a href="https://www.muhammedkoca.com.tr/rss.xml">rss.xml</a> üzerinden otomatik güncellenir · tümü → <a href="https://www.muhammedkoca.com.tr/blog">/blog</a></sub>
+<sub>📡 6 saatte bir <a href="https://www.muhammedkoca.com.tr/rss.xml">rss.xml</a> üzerinden otomatik güncellenir, kapak görselleri sitenin kendi og:image'inden gelir · tümü → <a href="https://www.muhammedkoca.com.tr/blog">/blog</a></sub>
 
 <img src="assets/divider.svg" alt="" width="100%"/>
 
