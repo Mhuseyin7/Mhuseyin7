@@ -1,6 +1,7 @@
-# 📊 Stats Cache — stats ve top-langs kartlarını indirip repoya kaydeder.
-# Kartlar assets/cache/ altından yüklenir; dış sunucu çökse bile profil kırılmaz.
-# İndirme başarısız olursa eski önbellek korunur.
+# 📊 Stats Cache — GitHub kartlarının TAMAMINI (stats, top-langs, streak, activity)
+# indirip repoya kaydeder. Kartlar assets/cache/ altından yüklenir; hiçbiri dış
+# servise bağımlı değildir — o servisler yavaşlasa/çökse bile profil bozulmaz.
+# İndirme başarısız olursa eski önbellek olduğu gibi korunur.
 
 name: Cache Stats Cards
 
@@ -43,12 +44,18 @@ jobs:
             done
             echo "✗ $out indirilemedi — mevcut önbellek korunuyor"
           }
-          fetch "https://github-readme-stats.vercel.app/api?username=Mhuseyin7&show_icons=true&hide_border=true&bg_color=0d1117&title_color=a855f7&icon_color=22d3ee&text_color=c9d1d9&ring_color=a855f7&rank_icon=github&include_all_commits=true" stats.svg
-          fetch "https://github-readme-stats.vercel.app/api/top-langs/?username=Mhuseyin7&layout=compact&hide_border=true&bg_color=0d1117&title_color=a855f7&text_color=c9d1d9&langs_count=8" top-langs.svg
+
+          fetch "https://github-readme-stats.vercel.app/api?username=Mhuseyin7&show_icons=true&hide_border=true&bg_color=0d1117&title_color=a855f7&icon_color=22d3ee&text_color=c9d1d9&ring_color=a855f7&rank_icon=github&include_all_commits=true&custom_title=Muhammed+Koca" stats.svg
+
+          fetch "https://github-readme-stats.vercel.app/api/top-langs/?username=Mhuseyin7&layout=compact&hide_border=true&bg_color=0d1117&title_color=a855f7&text_color=c9d1d9&langs_count=8&custom_title=En+Çok+Kullanılan+Diller" top-langs.svg
+
+          fetch "https://streak-stats.demolab.com?user=Mhuseyin7&hide_border=true&background=0d1117&ring=a855f7&fire=22d3ee&currStreakLabel=a855f7&sideLabels=c9d1d9&currStreakNum=ffffff&sideNums=ffffff&dates=8b949e" streak.svg
+
+          fetch "https://github-readme-activity-graph.vercel.app/graph?username=Mhuseyin7&bg_color=0d1117&color=c9d1d9&line=a855f7&point=22d3ee&area=true&hide_border=true&custom_title=Muhammed+Koca+%C2%B7+Katk%C4%B1+Grafi%C4%9Fi" activity.svg
 
       - name: Commit cache
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "github-actions[bot]@users.noreply.github.com"
           git add assets/cache
-          git diff --cached --quiet || (git commit -m "chore: stats kartları önbelleğe alındı 🤖" && git push)
+          git diff --cached --quiet || (git commit -m "chore: GitHub kartları önbelleğe alındı 🤖" && git push)
