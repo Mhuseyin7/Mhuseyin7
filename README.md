@@ -28,20 +28,7 @@
 
 ## ⚡ whoami
 
-```console
-$ systemctl status muhammed-koca.service
-
-● muhammed-koca.service — Full-Stack Architect & Enterprise Web Developer
-     Loaded : loaded (/home/bursa/muhammed.koca; enabled)
-     Active : active (running) since 2022 — self-healing ✓
-     Yolculuk: 2022 temeller → 2023 sistem çözümleri → 2024 danışmanlık → 2025+ full-stack hakimiyet
-     Deploy : bare-metal ev sunucusu · Docker · 3-2-1 yedekleme otomasyonu
-     Writing: muhammedkoca.com.tr — 765+ yazı · 17 kategori · 1M+ kelime · AI content pipeline
-     Motto  : "Öngör: nasıl çökeceğini bil. Kurtar: nasıl kalkacağını planla.
-               Güçlendir: bir daha yıkılmayacak şekilde inşa et."
-```
-
-> Mükemmel çalışan sistemler değil; **bozulmayan, bozulsa da kendini iyileştiren** ve her sarsıntıda **daha da güçlenen** mimariler tasarlıyorum.
+<img src="assets/terminal-whoami.svg" alt="whoami --full" width="100%"/>
 
 <img src="assets/divider.svg" alt="" width="100%"/>
 
@@ -130,34 +117,24 @@ $ systemctl status muhammed-koca.service
 
 ## 📡 Canlı Durum
 
-```console
-$ tail -f /var/log/muhammed.log
-
-[BUILD]  MusclePull (AI SaaS)         ████████░░  %80
-[BUILD]  MhFW Optimizations           █████████░  %90
-[DONE ]  30 Days of Code Summer Camp  ██████████  %100
-[WRITE]  muhammedkoca.com.tr — günlük AI destekli içerik hattı
-[GOAL ]  2026 → chaos engineering lab · tam self-healing stack
-[LIVE ]  Bursa'dan, kahve ☕ eşliğinde 0'lar ve 1'ler
-```
+<img src="assets/terminal-status.svg" alt="tail -f muhammed-koca.log" width="100%"/>
 
 <img src="assets/divider.svg" alt="" width="100%"/>
 
 ## 📊 GitHub
 
-<!-- Tüm kartlar stats-cache.yml tarafından her gece assets/cache/ altına indirilir.
-     Hiçbiri dış sunucuya canlı bağımlı değildir — o servisler çökse/yavaşlasa bile bozulmaz. -->
+<!-- Bu 4 kart, DOĞRUDAN GitHub API'sinden (scripts/generate_stats.py) üretilir ve
+     assets/cache/ altına yazılır. Hiçbir dış render servisine (vercel.app, demolab.com)
+     bağımlı değildir — tek veri kaynağı GitHub'ın kendisi. -->
 <table align="center">
   <tr>
-    <td align="center" width="50%"><img src="assets/cache/stats.svg" alt="stats" width="100%"/></td>
+    <td align="center" width="50%"><img src="assets/cache/overview.svg" alt="genel bakış" width="100%"/></td>
     <td align="center" width="50%"><img src="assets/cache/streak.svg" alt="streak" width="100%"/></td>
-  </tr>
-  <tr>
-    <td align="center" colspan="2"><img src="assets/cache/top-langs.svg" alt="top langs"/></td>
   </tr>
 </table>
 
-<p align="center"><img src="assets/cache/activity.svg" alt="activity graph" width="100%"/></p>
+<p align="center"><img src="assets/cache/langs.svg" alt="en çok kullanılan diller" width="100%"/></p>
+<p align="center"><img src="assets/cache/activity.svg" alt="katkı aktivitesi" width="100%"/></p>
 
 <img src="assets/divider.svg" alt="" width="100%"/>
 
