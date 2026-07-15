@@ -133,7 +133,7 @@
   </tr>
 </table>
 
-
+<p align="center"><img src="assets/cache/langs.svg" alt="en çok kullanılan diller" width="100%"/></p>
 <p align="center"><img src="assets/cache/activity.svg" alt="katkı aktivitesi" width="100%"/></p>
 
 <img src="assets/divider.svg" alt="" width="100%"/>
