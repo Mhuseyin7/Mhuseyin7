@@ -1,0 +1,54 @@
+# 📊 Stats Cache — stats ve top-langs kartlarını indirip repoya kaydeder.
+# Kartlar assets/cache/ altından yüklenir; dış sunucu çökse bile profil kırılmaz.
+# İndirme başarısız olursa eski önbellek korunur.
+
+name: Cache Stats Cards
+
+on:
+  schedule:
+    - cron: "0 4 * * *" # her gece 04:00 UTC
+  workflow_dispatch:
+  push:
+    branches: [main]
+
+permissions:
+  contents: write
+
+concurrency:
+  group: stats-cache
+  cancel-in-progress: true
+
+jobs:
+  cache:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+
+      - name: Download cards (retry + validation)
+        run: |
+          mkdir -p assets/cache tmp
+          fetch () {
+            url="$1"; out="$2"
+            for i in 1 2 3 4 5; do
+              if curl -fsSL --max-time 30 "$url" -o "tmp/$out"; then
+                if grep -q "<svg" "tmp/$out" && ! grep -qi "something went wrong" "tmp/$out"; then
+                  mv "tmp/$out" "assets/cache/$out"
+                  echo "✓ $out"
+                  return 0
+                fi
+              fi
+              echo "… deneme $i başarısız ($out), 20 sn bekleniyor"
+              sleep 20
+            done
+            echo "✗ $out indirilemedi — mevcut önbellek korunuyor"
+          }
+          fetch "https://github-readme-stats.vercel.app/api?username=Mhuseyin7&show_icons=true&hide_border=true&bg_color=0d1117&title_color=a855f7&icon_color=22d3ee&text_color=c9d1d9&ring_color=a855f7&rank_icon=github&include_all_commits=true" stats.svg
+          fetch "https://github-readme-stats.vercel.app/api/top-langs/?username=Mhuseyin7&layout=compact&hide_border=true&bg_color=0d1117&title_color=a855f7&text_color=c9d1d9&langs_count=8" top-langs.svg
+
+      - name: Commit cache
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git add assets/cache
+          git diff --cached --quiet || (git commit -m "chore: stats kartları önbelleğe alındı 🤖" && git push)
