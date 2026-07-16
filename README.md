@@ -148,29 +148,29 @@
 <!-- BLOG-CARDS:START -->
 <table>
   <tr>
-    <td width="260"><a href="https://muhammedkoca.com.tr/blog/yuksek-performansli-muhendislik-yasami-sistematik-verimlilik-ve-dengeli-saglik-s"><img src="https://www.muhammedkoca.com.tr/api/og/cover.svg?title=Y%C3%BCksek%20Performansl%C4%B1%20M%C3%BChendislik%20Ya%C5%9Fam%C4%B1%3A%20Sistematik%20Verimlilik%20ve%20Dengeli%20Sa%C4%9Fl%C4%B1k%20Stratejileri&category=Ya%C5%9Fam" width="240" alt="Yüksek Performanslı Mühendislik Yaşamı: Sistematik Verimlilik ve Dengeli Sağlık Stratejileri"/></a></td>
+    <td width="260"><a href="https://muhammedkoca.com.tr/blog/muhendis-zihninin-gelecege-dayanikli-mimarisini-tasarlamak-sistematik-verimlilik"><img src="https://www.muhammedkoca.com.tr/api/og/cover.svg?title=M%C3%BChendis%20Zihninin%20Gelece%C4%9Fe%20Dayan%C4%B1kl%C4%B1%20Mimarisini%20Tasarlamak%3A%20Sistematik%20Verimlilik%2C%20Denge%20ve%20Sa%C4%9Fl%C4%B1k%20Stratejileri&category=Ya%C5%9Fam" width="240" alt="Mühendis Zihninin Geleceğe Dayanıklı Mimarisini Tasarlamak: Sistematik Verimlilik, Denge ve Sağlık Stratejileri"/></a></td>
     <td valign="top" width="580">
       <img src="https://img.shields.io/badge/Yaşam-a855f7?style=flat-square" alt="Yaşam"/> <sub>16 Tem 2026</sub><br/><br/>
-      <a href="https://muhammedkoca.com.tr/blog/yuksek-performansli-muhendislik-yasami-sistematik-verimlilik-ve-dengeli-saglik-s"><b>Yüksek Performanslı Mühendislik Yaşamı: Sistematik Verimlilik ve Dengeli Sağlık Stratejileri</b></a><br/><br/>
-      <sub>15 yıllık prodüksiyon krizleri ve mikroservis mimarileri üzerinden şekillenen bir yaşam sisteminin anatomisi. Kritik sistemlerde nasıl %300…</sub>
+      <a href="https://muhammedkoca.com.tr/blog/muhendis-zihninin-gelecege-dayanikli-mimarisini-tasarlamak-sistematik-verimlilik"><b>Mühendis Zihninin Geleceğe Dayanıklı Mimarisini Tasarlamak: Sistematik Verimlilik, Denge ve Sağlık Stratejileri</b></a><br/><br/>
+      <sub>15 yıllık prodüksiyon savaşlarından edindiğim tecrübeler gösteriyor ki, bir mühendisin yaşam kalitesi, kod kalitesinden bağımsız değildir…</sub>
     </td>
   </tr>
   <tr><td colspan="2"><img src="assets/divider.svg" alt="" width="100%"/></td></tr>
   <tr>
-    <td width="260"><a href="https://muhammedkoca.com.tr/blog/senior-muhendislikten-liderlige-produksiyon-krizlerinden-cikan-5-kritik-kariyer-"><img src="https://www.muhammedkoca.com.tr/api/og/cover.svg?title=Senior%20M%C3%BChendislikten%20Liderli%C4%9Fe%3A%20Prod%C3%BCksiyon%20Krizlerinden%20%C3%87%C4%B1kan%205%20Kritik%20Kariyer%20Dersi&category=Kariyer" width="240" alt="Senior Mühendislikten Liderliğe: Prodüksiyon Krizlerinden Çıkan 5 Kritik Kariyer Dersi"/></a></td>
+    <td width="260"><a href="https://muhammedkoca.com.tr/blog/sistem-tasariminin-evrimi-yasaminizi-gelecege-hazirlamanin-muhendislik-ilkeleri"><img src="https://www.muhammedkoca.com.tr/api/og/cover.svg?title=Sistem%20Tasar%C4%B1m%C4%B1n%C4%B1n%20Evrimi%3A%20Ya%C5%9Fam%C4%B1n%C4%B1z%C4%B1%20Gelece%C4%9Fe%20Haz%C4%B1rlaman%C4%B1n%20M%C3%BChendislik%20%C4%B0lkeleri&category=Ya%C5%9Fam" width="240" alt="Sistem Tasarımının Evrimi: Yaşamınızı Geleceğe Hazırlamanın Mühendislik İlkeleri"/></a></td>
     <td valign="top" width="580">
-      <img src="https://img.shields.io/badge/Kariyer-a855f7?style=flat-square" alt="Kariyer"/> <sub>16 Tem 2026</sub><br/><br/>
-      <a href="https://muhammedkoca.com.tr/blog/senior-muhendislikten-liderlige-produksiyon-krizlerinden-cikan-5-kritik-kariyer-"><b>Senior Mühendislikten Liderliğe: Prodüksiyon Krizlerinden Çıkan 5 Kritik Kariyer Dersi</b></a><br/><br/>
-      <sub>15 yıllık prodüksiyon deneyimi, sayısız gece yarısı krizi ve milyonlarca kullanıcıya hizmet veren sistemlerin mimarisinden çıkan gerçek dünya…</sub>
+      <img src="https://img.shields.io/badge/Yaşam-a855f7?style=flat-square" alt="Yaşam"/> <sub>16 Tem 2026</sub><br/><br/>
+      <a href="https://muhammedkoca.com.tr/blog/sistem-tasariminin-evrimi-yasaminizi-gelecege-hazirlamanin-muhendislik-ilkeleri"><b>Sistem Tasarımının Evrimi: Yaşamınızı Geleceğe Hazırlamanın Mühendislik İlkeleri</b></a><br/><br/>
+      <sub>Bir sistemin ölçeklenebilirliği, performansı ve dayanıklılığı nasıl tasarlanırsa, yaşamınızın da aynı ilkelerle sürdürülebilir ve dengeli hale…</sub>
     </td>
   </tr>
   <tr><td colspan="2"><img src="assets/divider.svg" alt="" width="100%"/></td></tr>
   <tr>
-    <td width="260"><a href="https://muhammedkoca.com.tr/blog/senior-muhendislik-kariyerinde-olumcul-5-anti-pattern-produksiyon-krizlerinden-c"><img src="https://www.muhammedkoca.com.tr/api/og/cover.svg?title=Senior%20M%C3%BChendislik%20Kariyerinde%20%C3%96l%C3%BCmc%C3%BCl%205%20Anti-Pattern%3A%20Prod%C3%BCksiyon%20Krizlerinden%20%C3%87%C4%B1kar%C4%B1lan%20Dersler&category=Kariyer" width="240" alt="Senior Mühendislik Kariyerinde Ölümcül 5 Anti-Pattern: Prodüksiyon Krizlerinden Çıkarılan Dersler"/></a></td>
+    <td width="260"><a href="https://muhammedkoca.com.tr/blog/node-js-ve-prisma-ile-yuksek-trafikli-sistemlerde-performans-darbogazlarini-orta-2"><img src="https://www.muhammedkoca.com.tr/api/og/cover.svg?title=Node.js%20ve%20Prisma%20ile%20Y%C3%BCksek%20Trafikli%20Sistemlerde%20Performans%20Darbo%C4%9Fazlar%C4%B1n%C4%B1%20Ortadan%20Kald%C4%B1rmak%3A%20Ad%C4%B1m%20Ad%C4%B1m%20Rehber&category=Rehberler" width="240" alt="Node.js ve Prisma ile Yüksek Trafikli Sistemlerde Performans Darboğazlarını Ortadan Kaldırmak: Adım Adım Rehber"/></a></td>
     <td valign="top" width="580">
-      <img src="https://img.shields.io/badge/Kariyer-a855f7?style=flat-square" alt="Kariyer"/> <sub>16 Tem 2026</sub><br/><br/>
-      <a href="https://muhammedkoca.com.tr/blog/senior-muhendislik-kariyerinde-olumcul-5-anti-pattern-produksiyon-krizlerinden-c"><b>Senior Mühendislik Kariyerinde Ölümcül 5 Anti-Pattern: Prodüksiyon Krizlerinden Çıkarılan Dersler</b></a><br/><br/>
-      <sub>Kariyerinizde farkında olmadan tekrarladığınız 5 ölümcül anti-pattern, ekiplerinizi prodüksiyon krizlerine sürüklüyor. Bu makalede, 15 yıllık…</sub>
+      <img src="https://img.shields.io/badge/Rehberler-a855f7?style=flat-square" alt="Rehberler"/> <sub>16 Tem 2026</sub><br/><br/>
+      <a href="https://muhammedkoca.com.tr/blog/node-js-ve-prisma-ile-yuksek-trafikli-sistemlerde-performans-darbogazlarini-orta-2"><b>Node.js ve Prisma ile Yüksek Trafikli Sistemlerde Performans Darboğazlarını Ortadan Kaldırmak: Adım Adım Rehber</b></a><br/><br/>
+      <sub>Yüksek trafikli bir Node.js uygulamasının performansını %300 artırmak için gerçek prodüksiyon vakalarından çıkarılan kritik optimizasyon…</sub>
     </td>
   </tr>
 </table>
