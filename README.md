@@ -148,29 +148,29 @@
 <!-- BLOG-CARDS:START -->
 <table>
   <tr>
-    <td width="260"><a href="https://muhammedkoca.com.tr/blog/muhendislik-zihnini-korumak-produksiyon-krizlerinden-ogrenilen-yasam-dengesi-str"><img src="https://www.muhammedkoca.com.tr/api/og/cover.svg?title=M%C3%BChendislik%20Zihnini%20Korumak%3A%20Prod%C3%BCksiyon%20Krizlerinden%20%C3%96%C4%9Frenilen%20Ya%C5%9Fam%20Dengesi%20Stratejileri&category=Ya%C5%9Fam" width="240" alt="Mühendislik Zihnini Korumak: Prodüksiyon Krizlerinden Öğrenilen Yaşam Dengesi Stratejileri"/></a></td>
+    <td width="260"><a href="https://muhammedkoca.com.tr/blog/node-js-ve-prisma-ile-mikroservislerde-veri-tutarliligi-saga-pattern-ve-event-so"><img src="https://www.muhammedkoca.com.tr/api/og/cover.svg?title=Node.js%20ve%20Prisma%20ile%20Mikroservislerde%20Veri%20Tutarl%C4%B1l%C4%B1%C4%9F%C4%B1%3A%20Saga%20Pattern%20ve%20Event%20Sourcing%20Rehberi&category=Rehberler" width="240" alt="Node.js ve Prisma ile Mikroservislerde Veri Tutarlılığı: Saga Pattern ve Event Sourcing Rehberi"/></a></td>
     <td valign="top" width="580">
-      <img src="https://img.shields.io/badge/Yaşam-a855f7?style=flat-square" alt="Yaşam"/> <sub>15 Tem 2026</sub><br/><br/>
-      <a href="https://muhammedkoca.com.tr/blog/muhendislik-zihnini-korumak-produksiyon-krizlerinden-ogrenilen-yasam-dengesi-str"><b>Mühendislik Zihnini Korumak: Prodüksiyon Krizlerinden Öğrenilen Yaşam Dengesi Stratejileri</b></a><br/><br/>
-      <sub>15 yıllık üretim sistemleri savaşlarından çıkarılan dersler: Zihinsel dayanıklılık, operasyonel mükemmellik ve kişisel sağlık arasındaki dengeyi…</sub>
+      <img src="https://img.shields.io/badge/Rehberler-a855f7?style=flat-square" alt="Rehberler"/> <sub>16 Tem 2026</sub><br/><br/>
+      <a href="https://muhammedkoca.com.tr/blog/node-js-ve-prisma-ile-mikroservislerde-veri-tutarliligi-saga-pattern-ve-event-so"><b>Node.js ve Prisma ile Mikroservislerde Veri Tutarlılığı: Saga Pattern ve Event Sourcing Rehberi</b></a><br/><br/>
+      <sub>Mikroservis mimarilerinde veri tutarlılığını sağlamak, dağıtık sistemlerin en büyük zorluklarından biridir. ACID işlemlerin ötesine geçen Saga…</sub>
     </td>
   </tr>
   <tr><td colspan="2"><img src="assets/divider.svg" alt="" width="100%"/></td></tr>
   <tr>
-    <td width="260"><a href="https://muhammedkoca.com.tr/blog/muhendislik-zihnini-yeniden-programlamak-15-yillik-produksiyon-tecrubesinden-cik"><img src="https://www.muhammedkoca.com.tr/api/og/cover.svg?title=M%C3%BChendislik%20Zihnini%20Yeniden%20Programlamak%3A%2015%20Y%C4%B1ll%C4%B1k%20Prod%C3%BCksiyon%20Tecr%C3%BCbesinden%20%C3%87%C4%B1kan%20Ya%C5%9Fam%20Optimizasyonu%20Stratejileri&category=Ya%C5%9Fam" width="240" alt="Mühendislik Zihnini Yeniden Programlamak: 15 Yıllık Prodüksiyon Tecrübesinden Çıkan Yaşam Optimizasyonu Stratejileri"/></a></td>
+    <td width="260"><a href="https://muhammedkoca.com.tr/blog/kidemli-muhendisler-icin-kariyer-stratejisi-teknik-derinlikten-liderlige-gecisin"><img src="https://www.muhammedkoca.com.tr/api/og/cover.svg?title=K%C4%B1demli%20M%C3%BChendisler%20%C4%B0%C3%A7in%20Kariyer%20Stratejisi%3A%20Teknik%20Derinlikten%20Liderli%C4%9Fe%20Ge%C3%A7i%C5%9Fin%20S%C4%B1rlar%C4%B1&category=Kariyer" width="240" alt="Kıdemli Mühendisler İçin Kariyer Stratejisi: Teknik Derinlikten Liderliğe Geçişin Sırları"/></a></td>
     <td valign="top" width="580">
-      <img src="https://img.shields.io/badge/Yaşam-a855f7?style=flat-square" alt="Yaşam"/> <sub>15 Tem 2026</sub><br/><br/>
-      <a href="https://muhammedkoca.com.tr/blog/muhendislik-zihnini-yeniden-programlamak-15-yillik-produksiyon-tecrubesinden-cik"><b>Mühendislik Zihnini Yeniden Programlamak: 15 Yıllık Prodüksiyon Tecrübesinden Çıkan Yaşam Optimizasyonu Stratejileri</b></a><br/><br/>
-      <sub>Prodüksiyon krizlerinde hayatta kalmanın sırrı kod optimizasyonunda değil, zihin optimizasyonunda yatıyor. 15 yıllık sistem mimarlığı ve AI…</sub>
+      <img src="https://img.shields.io/badge/Kariyer-a855f7?style=flat-square" alt="Kariyer"/> <sub>16 Tem 2026</sub><br/><br/>
+      <a href="https://muhammedkoca.com.tr/blog/kidemli-muhendisler-icin-kariyer-stratejisi-teknik-derinlikten-liderlige-gecisin"><b>Kıdemli Mühendisler İçin Kariyer Stratejisi: Teknik Derinlikten Liderliğe Geçişin Sırları</b></a><br/><br/>
+      <sub>Kariyerinizdeki tıkanıklığı kırmak için teknik uzmanlığınızı nasıl stratejik liderliğe dönüştürebilirsiniz? 15 yıllık prodüksiyon tecrübesinden…</sub>
     </td>
   </tr>
   <tr><td colspan="2"><img src="assets/divider.svg" alt="" width="100%"/></td></tr>
   <tr>
-    <td width="260"><a href="https://muhammedkoca.com.tr/blog/node-js-mikroservislerde-kritik-performans-tuzaklari-5-anti-pattern-ve-cozumleri"><img src="https://www.muhammedkoca.com.tr/api/og/cover.svg?title=Node.js%20Mikroservislerde%20Kritik%20Performans%20Tuzaklar%C4%B1%3A%205%20Anti-Pattern%20ve%20%C3%87%C3%B6z%C3%BCmleri&category=M%C3%BChendislik" width="240" alt="Node.js Mikroservislerde Kritik Performans Tuzakları: 5 Anti-Pattern ve Çözümleri"/></a></td>
+    <td width="260"><a href="https://muhammedkoca.com.tr/blog/dagitik-sistemlerde-gelecege-dayanikli-mimari-tasarimi-node-js-ve-prisma-ile-adi"><img src="https://www.muhammedkoca.com.tr/api/og/cover.svg?title=Da%C4%9F%C4%B1t%C4%B1k%20Sistemlerde%20Gelece%C4%9Fe%20Dayan%C4%B1kl%C4%B1%20Mimari%20Tasar%C4%B1m%C4%B1%3A%20Node.js%20ve%20Prisma%20ile%20Ad%C4%B1m%20Ad%C4%B1m%20Rehber&category=Rehberler" width="240" alt="Dağıtık Sistemlerde Geleceğe Dayanıklı Mimari Tasarımı: Node.js ve Prisma ile Adım Adım Rehber"/></a></td>
     <td valign="top" width="580">
-      <img src="https://img.shields.io/badge/Mühendislik-a855f7?style=flat-square" alt="Mühendislik"/> <sub>15 Tem 2026</sub><br/><br/>
-      <a href="https://muhammedkoca.com.tr/blog/node-js-mikroservislerde-kritik-performans-tuzaklari-5-anti-pattern-ve-cozumleri"><b>Node.js Mikroservislerde Kritik Performans Tuzakları: 5 Anti-Pattern ve Çözümleri</b></a><br/><br/>
-      <sub>Mikroservis mimarilerinde Node.js kullanırken karşılaşılan en yaygın performans tuzakları, prodüksiyon vakalarıyla inceleniyor. Event loop…</sub>
+      <img src="https://img.shields.io/badge/Rehberler-a855f7?style=flat-square" alt="Rehberler"/> <sub>16 Tem 2026</sub><br/><br/>
+      <a href="https://muhammedkoca.com.tr/blog/dagitik-sistemlerde-gelecege-dayanikli-mimari-tasarimi-node-js-ve-prisma-ile-adi"><b>Dağıtık Sistemlerde Geleceğe Dayanıklı Mimari Tasarımı: Node.js ve Prisma ile Adım Adım Rehber</b></a><br/><br/>
+      <sub>Dağıtık sistemler, ölçeklenebilirlik ve dayanıklılık vaat ederken, gelecekteki belirsizliklere karşı nasıl hazırlanmalı? Bu rehberde, Node.js ve…</sub>
     </td>
   </tr>
 </table>
