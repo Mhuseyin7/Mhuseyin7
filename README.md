@@ -148,29 +148,29 @@
 <!-- BLOG-CARDS:START -->
 <table>
   <tr>
-    <td width="260"><a href="https://www.muhammedkoca.com.tr/blog/muhendislik-zihnini-korumak-produksiyon-krizlerinden-ogrenilen-yasam-dengesi-str"><img src="https://www.muhammedkoca.com.tr/api/og/cover.svg?title=M%C3%BChendislik%20Zihnini%20Korumak%3A%20Prod%C3%BCksiyon%20Krizlerinden%20%C3%96%C4%9Frenilen%20Ya%C5%9Fam%20Dengesi%20Stratejileri&category=Ya%C5%9Fam" width="240" alt="Mühendislik Zihnini Korumak: Prodüksiyon Krizlerinden Öğrenilen Yaşam Dengesi Stratejileri"/></a></td>
+    <td width="260"><a href="https://muhammedkoca.com.tr/blog/muhendislik-zihnini-korumak-produksiyon-krizlerinden-ogrenilen-yasam-dengesi-str"><img src="https://www.muhammedkoca.com.tr/api/og/cover.svg?title=M%C3%BChendislik%20Zihnini%20Korumak%3A%20Prod%C3%BCksiyon%20Krizlerinden%20%C3%96%C4%9Frenilen%20Ya%C5%9Fam%20Dengesi%20Stratejileri&category=Ya%C5%9Fam" width="240" alt="Mühendislik Zihnini Korumak: Prodüksiyon Krizlerinden Öğrenilen Yaşam Dengesi Stratejileri"/></a></td>
     <td valign="top" width="580">
-      <img src="https://img.shields.io/badge/Ya%C5%9Fam-a855f7?style=flat-square" alt="Yaşam"/> <sub>15 Tem 2026</sub><br/><br/>
-      <a href="https://www.muhammedkoca.com.tr/blog/muhendislik-zihnini-korumak-produksiyon-krizlerinden-ogrenilen-yasam-dengesi-str"><b>Mühendislik Zihnini Korumak: Prodüksiyon Krizlerinden Öğrenilen Yaşam Dengesi Stratejileri</b></a><br/><br/>
-      <sub>15 yıllık üretim sistemleri savaşlarından çıkarılan dersler: Zihinsel dayanıklılık, operasyonel mükemmellik ve kişisel sağlık arasındaki dengeyi nasıl kurarsınız?</sub>
+      <img src="https://img.shields.io/badge/Yaşam-a855f7?style=flat-square" alt="Yaşam"/> <sub>15 Tem 2026</sub><br/><br/>
+      <a href="https://muhammedkoca.com.tr/blog/muhendislik-zihnini-korumak-produksiyon-krizlerinden-ogrenilen-yasam-dengesi-str"><b>Mühendislik Zihnini Korumak: Prodüksiyon Krizlerinden Öğrenilen Yaşam Dengesi Stratejileri</b></a><br/><br/>
+      <sub>15 yıllık üretim sistemleri savaşlarından çıkarılan dersler: Zihinsel dayanıklılık, operasyonel mükemmellik ve kişisel sağlık arasındaki dengeyi…</sub>
     </td>
   </tr>
   <tr><td colspan="2"><img src="assets/divider.svg" alt="" width="100%"/></td></tr>
   <tr>
-    <td width="260"><a href="https://www.muhammedkoca.com.tr/blog/node-js-mikroservislerde-kritik-performans-tuzaklari-5-anti-pattern-ve-cozumleri"><img src="https://www.muhammedkoca.com.tr/api/og/cover.svg?title=Node.js%20Mikroservislerde%20Kritik%20Performans%20Tuzaklar%C4%B1%3A%205%20Anti-Pattern%20ve%20%C3%87%C3%B6z%C3%BCmleri&category=M%C3%BChendislik" width="240" alt="Node.js Mikroservislerde Kritik Performans Tuzakları: 5 Anti-Pattern ve Çözümleri"/></a></td>
+    <td width="260"><a href="https://muhammedkoca.com.tr/blog/muhendislik-zihnini-yeniden-programlamak-15-yillik-produksiyon-tecrubesinden-cik"><img src="https://www.muhammedkoca.com.tr/api/og/cover.svg?title=M%C3%BChendislik%20Zihnini%20Yeniden%20Programlamak%3A%2015%20Y%C4%B1ll%C4%B1k%20Prod%C3%BCksiyon%20Tecr%C3%BCbesinden%20%C3%87%C4%B1kan%20Ya%C5%9Fam%20Optimizasyonu%20Stratejileri&category=Ya%C5%9Fam" width="240" alt="Mühendislik Zihnini Yeniden Programlamak: 15 Yıllık Prodüksiyon Tecrübesinden Çıkan Yaşam Optimizasyonu Stratejileri"/></a></td>
     <td valign="top" width="580">
-      <img src="https://img.shields.io/badge/M%C3%BChendislik-a855f7?style=flat-square" alt="Mühendislik"/> <sub>15 Tem 2026</sub><br/><br/>
-      <a href="https://www.muhammedkoca.com.tr/blog/node-js-mikroservislerde-kritik-performans-tuzaklari-5-anti-pattern-ve-cozumleri"><b>Node.js Mikroservislerde Kritik Performans Tuzakları: 5 Anti-Pattern ve Çözümleri</b></a><br/><br/>
-      <sub>Mikroservis mimarilerinde Node.js kullanırken karşılaşılan en yaygın performans tuzakları, prodüksiyon vakalarıyla inceleniyor.</sub>
+      <img src="https://img.shields.io/badge/Yaşam-a855f7?style=flat-square" alt="Yaşam"/> <sub>15 Tem 2026</sub><br/><br/>
+      <a href="https://muhammedkoca.com.tr/blog/muhendislik-zihnini-yeniden-programlamak-15-yillik-produksiyon-tecrubesinden-cik"><b>Mühendislik Zihnini Yeniden Programlamak: 15 Yıllık Prodüksiyon Tecrübesinden Çıkan Yaşam Optimizasyonu Stratejileri</b></a><br/><br/>
+      <sub>Prodüksiyon krizlerinde hayatta kalmanın sırrı kod optimizasyonunda değil, zihin optimizasyonunda yatıyor. 15 yıllık sistem mimarlığı ve AI…</sub>
     </td>
   </tr>
   <tr><td colspan="2"><img src="assets/divider.svg" alt="" width="100%"/></td></tr>
   <tr>
-    <td width="260"><a href="https://www.muhammedkoca.com.tr/blog/senior-muhendisten-liderlige-teknik-derinlikten-stratejik-vizyona-gecis-rehberi"><img src="https://www.muhammedkoca.com.tr/api/og/cover.svg?title=Senior%20M%C3%BChendisten%20Liderli%C4%9Fe%3A%20Teknik%20Derinlikten%20Stratejik%20Vizyona%20Ge%C3%A7i%C5%9F%20Rehberi&category=Kariyer" width="240" alt="Senior Mühendisten Liderliğe: Teknik Derinlikten Stratejik Vizyona Geçiş Rehberi"/></a></td>
+    <td width="260"><a href="https://muhammedkoca.com.tr/blog/node-js-mikroservislerde-kritik-performans-tuzaklari-5-anti-pattern-ve-cozumleri"><img src="https://www.muhammedkoca.com.tr/api/og/cover.svg?title=Node.js%20Mikroservislerde%20Kritik%20Performans%20Tuzaklar%C4%B1%3A%205%20Anti-Pattern%20ve%20%C3%87%C3%B6z%C3%BCmleri&category=M%C3%BChendislik" width="240" alt="Node.js Mikroservislerde Kritik Performans Tuzakları: 5 Anti-Pattern ve Çözümleri"/></a></td>
     <td valign="top" width="580">
-      <img src="https://img.shields.io/badge/Kariyer-a855f7?style=flat-square" alt="Kariyer"/> <sub>15 Tem 2026</sub><br/><br/>
-      <a href="https://www.muhammedkoca.com.tr/blog/senior-muhendisten-liderlige-teknik-derinlikten-stratejik-vizyona-gecis-rehberi"><b>Senior Mühendisten Liderliğe: Teknik Derinlikten Stratejik Vizyona Geçiş Rehberi</b></a><br/><br/>
-      <sub>15 yıllık üretim krizi çözümlerinden edindiğim derslerle: Teknik uzmanlıktan liderliğe geçerken karşılaşılan kritik boşlukları nasıl doldurursunuz?</sub>
+      <img src="https://img.shields.io/badge/Mühendislik-a855f7?style=flat-square" alt="Mühendislik"/> <sub>15 Tem 2026</sub><br/><br/>
+      <a href="https://muhammedkoca.com.tr/blog/node-js-mikroservislerde-kritik-performans-tuzaklari-5-anti-pattern-ve-cozumleri"><b>Node.js Mikroservislerde Kritik Performans Tuzakları: 5 Anti-Pattern ve Çözümleri</b></a><br/><br/>
+      <sub>Mikroservis mimarilerinde Node.js kullanırken karşılaşılan en yaygın performans tuzakları, prodüksiyon vakalarıyla inceleniyor. Event loop…</sub>
     </td>
   </tr>
 </table>
