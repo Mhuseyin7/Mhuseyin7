@@ -148,29 +148,29 @@
 <!-- BLOG-CARDS:START -->
 <table>
   <tr>
-    <td width="260"><a href="https://muhammedkoca.com.tr/blog/yuksek-performansli-muhendislik-zihni-sistematik-yasam-optimizasyonu-ve-uretkenl"><img src="https://www.muhammedkoca.com.tr/api/og/cover.svg?title=Y%C3%BCksek%20Performansl%C4%B1%20M%C3%BChendislik%20Zihni%3A%20Sistematik%20Ya%C5%9Fam%20Optimizasyonu%20ve%20%C3%9Cretkenlik%20Mimarisi&category=Ya%C5%9Fam" width="240" alt="Yüksek Performanslı Mühendislik Zihni: Sistematik Yaşam Optimizasyonu ve Üretkenlik Mimarisi"/></a></td>
+    <td width="260"><a href="https://muhammedkoca.com.tr/blog/sistem-tasariminin-evrimi-gelecege-dayanikli-yasam-mimarisi-nasil-insa-edilir"><img src="https://www.muhammedkoca.com.tr/api/og/cover.svg?title=Sistem%20Tasar%C4%B1m%C4%B1n%C4%B1n%20Evrimi%3A%20Gelece%C4%9Fe%20Dayan%C4%B1kl%C4%B1%20Ya%C5%9Fam%20Mimarisi%20Nas%C4%B1l%20%C4%B0n%C5%9Fa%20Edilir%3F&category=Ya%C5%9Fam" width="240" alt="Sistem Tasarımının Evrimi: Geleceğe Dayanıklı Yaşam Mimarisi Nasıl İnşa Edilir?"/></a></td>
     <td valign="top" width="580">
       <img src="https://img.shields.io/badge/Yaşam-a855f7?style=flat-square" alt="Yaşam"/> <sub>17 Tem 2026</sub><br/><br/>
-      <a href="https://muhammedkoca.com.tr/blog/yuksek-performansli-muhendislik-zihni-sistematik-yasam-optimizasyonu-ve-uretkenl"><b>Yüksek Performanslı Mühendislik Zihni: Sistematik Yaşam Optimizasyonu ve Üretkenlik Mimarisi</b></a><br/><br/>
-      <sub>15 yıllık prodüksiyon savaşlarından çıkan bir Principal Engineer, yaşamı bir yüksek performanslı sistem gibi tasarlamanın bilimini anlatıyor. Odak…</sub>
+      <a href="https://muhammedkoca.com.tr/blog/sistem-tasariminin-evrimi-gelecege-dayanikli-yasam-mimarisi-nasil-insa-edilir"><b>Sistem Tasarımının Evrimi: Geleceğe Dayanıklı Yaşam Mimarisi Nasıl İnşa Edilir?</b></a><br/><br/>
+      <sub>15 yıllık prodüksiyon tecrübesinden süzülen bu rehber, yaşamınızı bir yüksek performanslı sistem gibi tasarlamanın bilimini ortaya koyuyor…</sub>
     </td>
   </tr>
   <tr><td colspan="2"><img src="assets/divider.svg" alt="" width="100%"/></td></tr>
   <tr>
-    <td width="260"><a href="https://muhammedkoca.com.tr/blog/node-js-ve-prisma-ile-veritabani-semasi-optimizasyonu-indexing-stratejileri-ve-p"><img src="https://www.muhammedkoca.com.tr/api/og/cover.svg?title=Node.js%20ve%20Prisma%20ile%20Veritaban%C4%B1%20%C5%9Eemas%C4%B1%20Optimizasyonu%3A%20Indexing%20Stratejileri%20ve%20Prod%C3%BCksiyon%20Tuzaklar%C4%B1&category=M%C3%BChendislik" width="240" alt="Node.js ve Prisma ile Veritabanı Şeması Optimizasyonu: Indexing Stratejileri ve Prodüksiyon Tuzakları"/></a></td>
+    <td width="260"><a href="https://muhammedkoca.com.tr/blog/sistem-tasariminda-gelecege-dayaniklilik-mimari-evrimin-5-kritik-adimi-ve-uretim"><img src="https://www.muhammedkoca.com.tr/api/og/cover.svg?title=Sistem%20Tasar%C4%B1m%C4%B1nda%20Gelece%C4%9Fe%20Dayan%C4%B1kl%C4%B1l%C4%B1k%3A%20Mimari%20Evrimin%205%20Kritik%20Ad%C4%B1m%C4%B1%20ve%20%C3%9Cretimden%20Dersler&category=Kariyer" width="240" alt="Sistem Tasarımında Geleceğe Dayanıklılık: Mimari Evrimin 5 Kritik Adımı ve Üretimden Dersler"/></a></td>
     <td valign="top" width="580">
-      <img src="https://img.shields.io/badge/Mühendislik-a855f7?style=flat-square" alt="Mühendislik"/> <sub>17 Tem 2026</sub><br/><br/>
-      <a href="https://muhammedkoca.com.tr/blog/node-js-ve-prisma-ile-veritabani-semasi-optimizasyonu-indexing-stratejileri-ve-p"><b>Node.js ve Prisma ile Veritabanı Şeması Optimizasyonu: Indexing Stratejileri ve Prodüksiyon Tuzakları</b></a><br/><br/>
-      <sub>Veritabanı performansı, modern uygulamaların kalbinde atar. Ancak yanlış indexing stratejileri, saniyeler süren sorguları dakikalara çevirebilir. Bu…</sub>
+      <img src="https://img.shields.io/badge/Kariyer-a855f7?style=flat-square" alt="Kariyer"/> <sub>17 Tem 2026</sub><br/><br/>
+      <a href="https://muhammedkoca.com.tr/blog/sistem-tasariminda-gelecege-dayaniklilik-mimari-evrimin-5-kritik-adimi-ve-uretim"><b>Sistem Tasarımında Geleceğe Dayanıklılık: Mimari Evrimin 5 Kritik Adımı ve Üretimden Dersler</b></a><br/><br/>
+      <sub>Bir sistemin ömrünü uzatmanın tek yolu, onu sürekli yeniden tasarlamaktır. Bu makalede, 15 yıllık üretim tecrübesinden süzülen 5 kritik mimari evrim…</sub>
     </td>
   </tr>
   <tr><td colspan="2"><img src="assets/divider.svg" alt="" width="100%"/></td></tr>
   <tr>
-    <td width="260"><a href="https://muhammedkoca.com.tr/blog/security-first-muhendislik-threat-modeling-ile-sifir-guven-mimarisini-uygulamak"><img src="https://www.muhammedkoca.com.tr/api/og/cover.svg?title=Security-First%20M%C3%BChendislik%3A%20Threat%20Modeling%20ile%20S%C4%B1f%C4%B1r%20G%C3%BCven%20Mimarisini%20Uygulamak&category=Rehberler" width="240" alt="Security-First Mühendislik: Threat Modeling ile Sıfır Güven Mimarisini Uygulamak"/></a></td>
+    <td width="260"><a href="https://muhammedkoca.com.tr/blog/node-js-ve-prisma-ile-yuksek-trafikli-sistemlerde-performans-darbogazlarini-orta-3"><img src="https://www.muhammedkoca.com.tr/api/og/cover.svg?title=Node.js%20ve%20Prisma%20ile%20Y%C3%BCksek%20Trafikli%20Sistemlerde%20Performans%20Darbo%C4%9Fazlar%C4%B1n%C4%B1%20Ortadan%20Kald%C4%B1rma%20Rehberi&category=Rehberler" width="240" alt="Node.js ve Prisma ile Yüksek Trafikli Sistemlerde Performans Darboğazlarını Ortadan Kaldırma Rehberi"/></a></td>
     <td valign="top" width="580">
       <img src="https://img.shields.io/badge/Rehberler-a855f7?style=flat-square" alt="Rehberler"/> <sub>17 Tem 2026</sub><br/><br/>
-      <a href="https://muhammedkoca.com.tr/blog/security-first-muhendislik-threat-modeling-ile-sifir-guven-mimarisini-uygulamak"><b>Security-First Mühendislik: Threat Modeling ile Sıfır Güven Mimarisini Uygulamak</b></a><br/><br/>
-      <sub>Kurumsal sistemlerde güvenlik bir eklenti değil, mimarinin merkezinde olmalıdır. Bu rehberde, threat modeling sürecini adım adım uygulayarak sıfır…</sub>
+      <a href="https://muhammedkoca.com.tr/blog/node-js-ve-prisma-ile-yuksek-trafikli-sistemlerde-performans-darbogazlarini-orta-3"><b>Node.js ve Prisma ile Yüksek Trafikli Sistemlerde Performans Darboğazlarını Ortadan Kaldırma Rehberi</b></a><br/><br/>
+      <sub>Yüksek trafikli Node.js uygulamalarında karşılaşılan performans darboğazları, çoğu zaman yanlış veritabanı sorguları, bellek sızıntıları ve…</sub>
     </td>
   </tr>
 </table>
