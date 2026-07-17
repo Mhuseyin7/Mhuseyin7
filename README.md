@@ -148,29 +148,29 @@
 <!-- BLOG-CARDS:START -->
 <table>
   <tr>
-    <td width="260"><a href="https://muhammedkoca.com.tr/blog/muhendis-zihninin-gelecege-dayanikli-mimarisini-tasarlamak-sistematik-verimlilik"><img src="https://www.muhammedkoca.com.tr/api/og/cover.svg?title=M%C3%BChendis%20Zihninin%20Gelece%C4%9Fe%20Dayan%C4%B1kl%C4%B1%20Mimarisini%20Tasarlamak%3A%20Sistematik%20Verimlilik%2C%20Denge%20ve%20Sa%C4%9Fl%C4%B1k%20Stratejileri&category=Ya%C5%9Fam" width="240" alt="Mühendis Zihninin Geleceğe Dayanıklı Mimarisini Tasarlamak: Sistematik Verimlilik, Denge ve Sağlık Stratejileri"/></a></td>
+    <td width="260"><a href="https://muhammedkoca.com.tr/blog/yuksek-performansli-muhendislik-zihni-sistematik-yasam-optimizasyonu-ve-uretkenl"><img src="https://www.muhammedkoca.com.tr/api/og/cover.svg?title=Y%C3%BCksek%20Performansl%C4%B1%20M%C3%BChendislik%20Zihni%3A%20Sistematik%20Ya%C5%9Fam%20Optimizasyonu%20ve%20%C3%9Cretkenlik%20Mimarisi&category=Ya%C5%9Fam" width="240" alt="Yüksek Performanslı Mühendislik Zihni: Sistematik Yaşam Optimizasyonu ve Üretkenlik Mimarisi"/></a></td>
     <td valign="top" width="580">
-      <img src="https://img.shields.io/badge/Yaşam-a855f7?style=flat-square" alt="Yaşam"/> <sub>16 Tem 2026</sub><br/><br/>
-      <a href="https://muhammedkoca.com.tr/blog/muhendis-zihninin-gelecege-dayanikli-mimarisini-tasarlamak-sistematik-verimlilik"><b>Mühendis Zihninin Geleceğe Dayanıklı Mimarisini Tasarlamak: Sistematik Verimlilik, Denge ve Sağlık Stratejileri</b></a><br/><br/>
-      <sub>15 yıllık prodüksiyon savaşlarından edindiğim tecrübeler gösteriyor ki, bir mühendisin yaşam kalitesi, kod kalitesinden bağımsız değildir…</sub>
+      <img src="https://img.shields.io/badge/Yaşam-a855f7?style=flat-square" alt="Yaşam"/> <sub>17 Tem 2026</sub><br/><br/>
+      <a href="https://muhammedkoca.com.tr/blog/yuksek-performansli-muhendislik-zihni-sistematik-yasam-optimizasyonu-ve-uretkenl"><b>Yüksek Performanslı Mühendislik Zihni: Sistematik Yaşam Optimizasyonu ve Üretkenlik Mimarisi</b></a><br/><br/>
+      <sub>15 yıllık prodüksiyon savaşlarından çıkan bir Principal Engineer, yaşamı bir yüksek performanslı sistem gibi tasarlamanın bilimini anlatıyor. Odak…</sub>
     </td>
   </tr>
   <tr><td colspan="2"><img src="assets/divider.svg" alt="" width="100%"/></td></tr>
   <tr>
-    <td width="260"><a href="https://muhammedkoca.com.tr/blog/sistem-tasariminin-evrimi-yasaminizi-gelecege-hazirlamanin-muhendislik-ilkeleri"><img src="https://www.muhammedkoca.com.tr/api/og/cover.svg?title=Sistem%20Tasar%C4%B1m%C4%B1n%C4%B1n%20Evrimi%3A%20Ya%C5%9Fam%C4%B1n%C4%B1z%C4%B1%20Gelece%C4%9Fe%20Haz%C4%B1rlaman%C4%B1n%20M%C3%BChendislik%20%C4%B0lkeleri&category=Ya%C5%9Fam" width="240" alt="Sistem Tasarımının Evrimi: Yaşamınızı Geleceğe Hazırlamanın Mühendislik İlkeleri"/></a></td>
+    <td width="260"><a href="https://muhammedkoca.com.tr/blog/node-js-ve-prisma-ile-veritabani-semasi-optimizasyonu-indexing-stratejileri-ve-p"><img src="https://www.muhammedkoca.com.tr/api/og/cover.svg?title=Node.js%20ve%20Prisma%20ile%20Veritaban%C4%B1%20%C5%9Eemas%C4%B1%20Optimizasyonu%3A%20Indexing%20Stratejileri%20ve%20Prod%C3%BCksiyon%20Tuzaklar%C4%B1&category=M%C3%BChendislik" width="240" alt="Node.js ve Prisma ile Veritabanı Şeması Optimizasyonu: Indexing Stratejileri ve Prodüksiyon Tuzakları"/></a></td>
     <td valign="top" width="580">
-      <img src="https://img.shields.io/badge/Yaşam-a855f7?style=flat-square" alt="Yaşam"/> <sub>16 Tem 2026</sub><br/><br/>
-      <a href="https://muhammedkoca.com.tr/blog/sistem-tasariminin-evrimi-yasaminizi-gelecege-hazirlamanin-muhendislik-ilkeleri"><b>Sistem Tasarımının Evrimi: Yaşamınızı Geleceğe Hazırlamanın Mühendislik İlkeleri</b></a><br/><br/>
-      <sub>Bir sistemin ölçeklenebilirliği, performansı ve dayanıklılığı nasıl tasarlanırsa, yaşamınızın da aynı ilkelerle sürdürülebilir ve dengeli hale…</sub>
+      <img src="https://img.shields.io/badge/Mühendislik-a855f7?style=flat-square" alt="Mühendislik"/> <sub>17 Tem 2026</sub><br/><br/>
+      <a href="https://muhammedkoca.com.tr/blog/node-js-ve-prisma-ile-veritabani-semasi-optimizasyonu-indexing-stratejileri-ve-p"><b>Node.js ve Prisma ile Veritabanı Şeması Optimizasyonu: Indexing Stratejileri ve Prodüksiyon Tuzakları</b></a><br/><br/>
+      <sub>Veritabanı performansı, modern uygulamaların kalbinde atar. Ancak yanlış indexing stratejileri, saniyeler süren sorguları dakikalara çevirebilir. Bu…</sub>
     </td>
   </tr>
   <tr><td colspan="2"><img src="assets/divider.svg" alt="" width="100%"/></td></tr>
   <tr>
-    <td width="260"><a href="https://muhammedkoca.com.tr/blog/node-js-ve-prisma-ile-yuksek-trafikli-sistemlerde-performans-darbogazlarini-orta-2"><img src="https://www.muhammedkoca.com.tr/api/og/cover.svg?title=Node.js%20ve%20Prisma%20ile%20Y%C3%BCksek%20Trafikli%20Sistemlerde%20Performans%20Darbo%C4%9Fazlar%C4%B1n%C4%B1%20Ortadan%20Kald%C4%B1rmak%3A%20Ad%C4%B1m%20Ad%C4%B1m%20Rehber&category=Rehberler" width="240" alt="Node.js ve Prisma ile Yüksek Trafikli Sistemlerde Performans Darboğazlarını Ortadan Kaldırmak: Adım Adım Rehber"/></a></td>
+    <td width="260"><a href="https://muhammedkoca.com.tr/blog/security-first-muhendislik-threat-modeling-ile-sifir-guven-mimarisini-uygulamak"><img src="https://www.muhammedkoca.com.tr/api/og/cover.svg?title=Security-First%20M%C3%BChendislik%3A%20Threat%20Modeling%20ile%20S%C4%B1f%C4%B1r%20G%C3%BCven%20Mimarisini%20Uygulamak&category=Rehberler" width="240" alt="Security-First Mühendislik: Threat Modeling ile Sıfır Güven Mimarisini Uygulamak"/></a></td>
     <td valign="top" width="580">
-      <img src="https://img.shields.io/badge/Rehberler-a855f7?style=flat-square" alt="Rehberler"/> <sub>16 Tem 2026</sub><br/><br/>
-      <a href="https://muhammedkoca.com.tr/blog/node-js-ve-prisma-ile-yuksek-trafikli-sistemlerde-performans-darbogazlarini-orta-2"><b>Node.js ve Prisma ile Yüksek Trafikli Sistemlerde Performans Darboğazlarını Ortadan Kaldırmak: Adım Adım Rehber</b></a><br/><br/>
-      <sub>Yüksek trafikli bir Node.js uygulamasının performansını %300 artırmak için gerçek prodüksiyon vakalarından çıkarılan kritik optimizasyon…</sub>
+      <img src="https://img.shields.io/badge/Rehberler-a855f7?style=flat-square" alt="Rehberler"/> <sub>17 Tem 2026</sub><br/><br/>
+      <a href="https://muhammedkoca.com.tr/blog/security-first-muhendislik-threat-modeling-ile-sifir-guven-mimarisini-uygulamak"><b>Security-First Mühendislik: Threat Modeling ile Sıfır Güven Mimarisini Uygulamak</b></a><br/><br/>
+      <sub>Kurumsal sistemlerde güvenlik bir eklenti değil, mimarinin merkezinde olmalıdır. Bu rehberde, threat modeling sürecini adım adım uygulayarak sıfır…</sub>
     </td>
   </tr>
 </table>
