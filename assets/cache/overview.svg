@@ -20,14 +20,14 @@
     <g opacity="0">
       <animate attributeName="opacity" from="0" to="1" dur="0.6s" begin="0.00s" fill="freeze"/>
       <text x="105.0" y="60.0" text-anchor="middle" font-size="22">📈</text>
-      <text x="105.0" y="86.0" text-anchor="middle" font-family="Segoe UI, Arial, sans-serif" font-size="24" font-weight="800" fill="url(#neon)" filter="url(#glow)">71</text>
+      <text x="105.0" y="86.0" text-anchor="middle" font-family="Segoe UI, Arial, sans-serif" font-size="24" font-weight="800" fill="url(#neon)" filter="url(#glow)">81</text>
       <text x="105.0" y="104.0" text-anchor="middle" font-family="Segoe UI, Arial, sans-serif" font-size="11" fill="#94a3b8">Katkı (1 yıl)</text>
     </g>
 
     <g opacity="0">
       <animate attributeName="opacity" from="0" to="1" dur="0.6s" begin="0.12s" fill="freeze"/>
       <text x="315.0" y="60.0" text-anchor="middle" font-size="22">📦</text>
-      <text x="315.0" y="86.0" text-anchor="middle" font-family="Segoe UI, Arial, sans-serif" font-size="24" font-weight="800" fill="url(#neon)" filter="url(#glow)">3</text>
+      <text x="315.0" y="86.0" text-anchor="middle" font-family="Segoe UI, Arial, sans-serif" font-size="24" font-weight="800" fill="url(#neon)" filter="url(#glow)">6</text>
       <text x="315.0" y="104.0" text-anchor="middle" font-family="Segoe UI, Arial, sans-serif" font-size="11" fill="#94a3b8">Repository</text>
     </g>
 

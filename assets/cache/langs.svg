@@ -1,11 +1,11 @@
-<svg width="880" height="196" viewBox="0 0 880 196" fill="none" xmlns="http://www.w3.org/2000/svg">
+<svg width="880" height="260" viewBox="0 0 880 260" fill="none" xmlns="http://www.w3.org/2000/svg">
   <defs>
     <linearGradient id="neon" x1="0" y1="0" x2="880" y2="0" gradientUnits="userSpaceOnUse">
       <stop offset="0" stop-color="#a855f7"/>
       <stop offset="0.5" stop-color="#6366f1"/>
       <stop offset="1" stop-color="#22d3ee"/>
     </linearGradient>
-    <linearGradient id="bg" x1="0" y1="0" x2="880" y2="196" gradientUnits="userSpaceOnUse">
+    <linearGradient id="bg" x1="0" y1="0" x2="880" y2="260" gradientUnits="userSpaceOnUse">
       <stop offset="0" stop-color="#120b2e"/>
       <stop offset="1" stop-color="#03121f"/>
     </linearGradient>
@@ -14,34 +14,48 @@
       <feMerge><feMergeNode in="b"/><feMergeNode in="SourceGraphic"/></feMerge>
     </filter>
   </defs>
-  <rect x="1.5" y="1.5" width="877" height="193" rx="14" fill="url(#bg)" stroke="url(#neon)" stroke-width="1.6"/>
+  <rect x="1.5" y="1.5" width="877" height="257" rx="14" fill="url(#bg)" stroke="url(#neon)" stroke-width="1.6"/>
   <text x="856" y="28" text-anchor="end" font-family="Consolas, monospace" font-size="11" fill="#22d3ee" opacity="0.55">EN ÇOK KULLANILAN DİLLER</text>
   
-    <text x="24" y="59" font-family="Segoe UI, Arial, sans-serif" font-size="13" fill="#e2e8f0">PHP</text>
+    <text x="24" y="59" font-family="Segoe UI, Arial, sans-serif" font-size="13" fill="#e2e8f0">Python</text>
     <rect x="190" y="46" width="600" height="11" rx="5.5" fill="#a855f7" fill-opacity="0.12"/>
-    <rect x="190" y="46" width="0" height="11" rx="5.5" fill="#4F5D95" filter="url(#glow)">
-      <animate attributeName="width" from="0" to="304.8" dur="0.9s" begin="0.00s" fill="freeze"/>
+    <rect x="190" y="46" width="0" height="11" rx="5.5" fill="#3572A5" filter="url(#glow)">
+      <animate attributeName="width" from="0" to="279.7" dur="0.9s" begin="0.00s" fill="freeze"/>
     </rect>
-    <text x="804" y="56" font-family="Consolas, monospace" font-size="12" fill="#94a3b8">50.8%</text>
+    <text x="804" y="56" font-family="Consolas, monospace" font-size="12" fill="#94a3b8">46.6%</text>
 
-    <text x="24" y="91" font-family="Segoe UI, Arial, sans-serif" font-size="13" fill="#e2e8f0">Python</text>
+    <text x="24" y="91" font-family="Segoe UI, Arial, sans-serif" font-size="13" fill="#e2e8f0">Rust</text>
     <rect x="190" y="78" width="600" height="11" rx="5.5" fill="#a855f7" fill-opacity="0.12"/>
-    <rect x="190" y="78" width="0" height="11" rx="5.5" fill="#3572A5" filter="url(#glow)">
-      <animate attributeName="width" from="0" to="145.6" dur="0.9s" begin="0.10s" fill="freeze"/>
+    <rect x="190" y="78" width="0" height="11" rx="5.5" fill="#dea584" filter="url(#glow)">
+      <animate attributeName="width" from="0" to="180.7" dur="0.9s" begin="0.10s" fill="freeze"/>
     </rect>
-    <text x="804" y="88" font-family="Consolas, monospace" font-size="12" fill="#94a3b8">24.3%</text>
+    <text x="804" y="88" font-family="Consolas, monospace" font-size="12" fill="#94a3b8">30.1%</text>
 
-    <text x="24" y="123" font-family="Segoe UI, Arial, sans-serif" font-size="13" fill="#e2e8f0">CSS</text>
+    <text x="24" y="123" font-family="Segoe UI, Arial, sans-serif" font-size="13" fill="#e2e8f0">PHP</text>
     <rect x="190" y="110" width="600" height="11" rx="5.5" fill="#a855f7" fill-opacity="0.12"/>
-    <rect x="190" y="110" width="0" height="11" rx="5.5" fill="#663399" filter="url(#glow)">
-      <animate attributeName="width" from="0" to="78.4" dur="0.9s" begin="0.20s" fill="freeze"/>
+    <rect x="190" y="110" width="0" height="11" rx="5.5" fill="#4F5D95" filter="url(#glow)">
+      <animate attributeName="width" from="0" to="91.1" dur="0.9s" begin="0.20s" fill="freeze"/>
     </rect>
-    <text x="804" y="120" font-family="Consolas, monospace" font-size="12" fill="#94a3b8">13.1%</text>
+    <text x="804" y="120" font-family="Consolas, monospace" font-size="12" fill="#94a3b8">15.2%</text>
 
-    <text x="24" y="155" font-family="Segoe UI, Arial, sans-serif" font-size="13" fill="#e2e8f0">JavaScript</text>
+    <text x="24" y="155" font-family="Segoe UI, Arial, sans-serif" font-size="13" fill="#e2e8f0">CSS</text>
     <rect x="190" y="142" width="600" height="11" rx="5.5" fill="#a855f7" fill-opacity="0.12"/>
-    <rect x="190" y="142" width="0" height="11" rx="5.5" fill="#f1e05a" filter="url(#glow)">
-      <animate attributeName="width" from="0" to="71.2" dur="0.9s" begin="0.30s" fill="freeze"/>
+    <rect x="190" y="142" width="0" height="11" rx="5.5" fill="#663399" filter="url(#glow)">
+      <animate attributeName="width" from="0" to="23.4" dur="0.9s" begin="0.30s" fill="freeze"/>
     </rect>
-    <text x="804" y="152" font-family="Consolas, monospace" font-size="12" fill="#94a3b8">11.9%</text>
+    <text x="804" y="152" font-family="Consolas, monospace" font-size="12" fill="#94a3b8">3.9%</text>
+
+    <text x="24" y="187" font-family="Segoe UI, Arial, sans-serif" font-size="13" fill="#e2e8f0">JavaScript</text>
+    <rect x="190" y="174" width="600" height="11" rx="5.5" fill="#a855f7" fill-opacity="0.12"/>
+    <rect x="190" y="174" width="0" height="11" rx="5.5" fill="#f1e05a" filter="url(#glow)">
+      <animate attributeName="width" from="0" to="21.3" dur="0.9s" begin="0.40s" fill="freeze"/>
+    </rect>
+    <text x="804" y="184" font-family="Consolas, monospace" font-size="12" fill="#94a3b8">3.5%</text>
+
+    <text x="24" y="219" font-family="Segoe UI, Arial, sans-serif" font-size="13" fill="#e2e8f0">Batchfile</text>
+    <rect x="190" y="206" width="600" height="11" rx="5.5" fill="#a855f7" fill-opacity="0.12"/>
+    <rect x="190" y="206" width="0" height="11" rx="5.5" fill="#C1F12E" filter="url(#glow)">
+      <animate attributeName="width" from="0" to="4.0" dur="0.9s" begin="0.50s" fill="freeze"/>
+    </rect>
+    <text x="804" y="216" font-family="Consolas, monospace" font-size="12" fill="#94a3b8">0.7%</text>
 </svg>
