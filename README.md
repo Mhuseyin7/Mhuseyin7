@@ -148,29 +148,29 @@
 <!-- BLOG-CARDS:START -->
 <table>
   <tr>
+    <td width="260"><a href="https://muhammedkoca.com.tr/blog/senior-muhendisten-liderlige-teknik-derinlikten-stratejik-etkiye-gecis-rehberi-2"><img src="https://www.muhammedkoca.com.tr/api/og/cover.svg?title=Senior%20M%C3%BChendisten%20Liderli%C4%9Fe%3A%20Teknik%20Derinlikten%20Stratejik%20Etkiye%20Ge%C3%A7i%C5%9F%20Rehberi&category=Kariyer" width="240" alt="Senior Mühendisten Liderliğe: Teknik Derinlikten Stratejik Etkiye Geçiş Rehberi"/></a></td>
+    <td valign="top" width="580">
+      <img src="https://img.shields.io/badge/Kariyer-a855f7?style=flat-square" alt="Kariyer"/> <sub>18 Tem 2026</sub><br/><br/>
+      <a href="https://muhammedkoca.com.tr/blog/senior-muhendisten-liderlige-teknik-derinlikten-stratejik-etkiye-gecis-rehberi-2"><b>Senior Mühendisten Liderliğe: Teknik Derinlikten Stratejik Etkiye Geçiş Rehberi</b></a><br/><br/>
+      <sub>Senior mühendislikte ustalaştıktan sonra liderliğe geçiş, sadece kod yazmaktan sistem tasarlamaya ve ekipleri yönetmeye evrilen bir yolculuktur. Bu…</sub>
+    </td>
+  </tr>
+  <tr><td colspan="2"><img src="assets/divider.svg" alt="" width="100%"/></td></tr>
+  <tr>
+    <td width="260"><a href="https://muhammedkoca.com.tr/blog/node-js-ve-prisma-ile-dagitik-sistemlerde-veri-tutarliligi-transactional-outbox-"><img src="https://www.muhammedkoca.com.tr/api/og/cover.svg?title=Node.js%20ve%20Prisma%20ile%20Da%C4%9F%C4%B1t%C4%B1k%20Sistemlerde%20Veri%20Tutarl%C4%B1l%C4%B1%C4%9F%C4%B1%3A%20Transactional%20Outbox%20Pattern%20Rehberi&category=Rehberler" width="240" alt="Node.js ve Prisma ile Dağıtık Sistemlerde Veri Tutarlılığı: Transactional Outbox Pattern Rehberi"/></a></td>
+    <td valign="top" width="580">
+      <img src="https://img.shields.io/badge/Rehberler-a855f7?style=flat-square" alt="Rehberler"/> <sub>18 Tem 2026</sub><br/><br/>
+      <a href="https://muhammedkoca.com.tr/blog/node-js-ve-prisma-ile-dagitik-sistemlerde-veri-tutarliligi-transactional-outbox-"><b>Node.js ve Prisma ile Dağıtık Sistemlerde Veri Tutarlılığı: Transactional Outbox Pattern Rehberi</b></a><br/><br/>
+      <sub>Dağıtık sistemlerde veri tutarlılığını sağlamak, özellikle mikroservis mimarilerinde kritik bir zorluktur. Bu rehberde, Node.js ve Prisma kullanarak…</sub>
+    </td>
+  </tr>
+  <tr><td colspan="2"><img src="assets/divider.svg" alt="" width="100%"/></td></tr>
+  <tr>
     <td width="260"><a href="https://muhammedkoca.com.tr/blog/dagitik-sistemlerde-guvenlik-first-mimari-tehdit-modellemesi-ile-sifir-guven-zer"><img src="https://www.muhammedkoca.com.tr/api/og/cover.svg?title=Da%C4%9F%C4%B1t%C4%B1k%20Sistemlerde%20G%C3%BCvenlik-First%20Mimari%3A%20Tehdit%20Modellemesi%20ile%20S%C4%B1f%C4%B1r%20G%C3%BCven%20(Zero%20Trust)%20Uygulamalar%C4%B1&category=Mimari" width="240" alt="Dağıtık Sistemlerde Güvenlik-First Mimari: Tehdit Modellemesi ile Sıfır Güven (Zero Trust) Uygulamaları"/></a></td>
     <td valign="top" width="580">
       <img src="https://img.shields.io/badge/Mimari-a855f7?style=flat-square" alt="Mimari"/> <sub>17 Tem 2026</sub><br/><br/>
       <a href="https://muhammedkoca.com.tr/blog/dagitik-sistemlerde-guvenlik-first-mimari-tehdit-modellemesi-ile-sifir-guven-zer"><b>Dağıtık Sistemlerde Güvenlik-First Mimari: Tehdit Modellemesi ile Sıfır Güven (Zero Trust) Uygulamaları</b></a><br/><br/>
       <sub>Dağıtık sistemlerde güvenlik, sonradan eklenen bir katman değil, mimarinin temel taşıdır. Bu makalede, tehdit modellemesi (threat modeling) ile Zero…</sub>
-    </td>
-  </tr>
-  <tr><td colspan="2"><img src="assets/divider.svg" alt="" width="100%"/></td></tr>
-  <tr>
-    <td width="260"><a href="https://muhammedkoca.com.tr/blog/dagitik-sistemlerde-guvenlik-first-mimari-tehdit-modelleme-ile-sifir-guven-zero--3"><img src="https://www.muhammedkoca.com.tr/api/og/cover.svg?title=Da%C4%9F%C4%B1t%C4%B1k%20Sistemlerde%20G%C3%BCvenlik-First%20Mimari%3A%20Tehdit%20Modelleme%20ile%20S%C4%B1f%C4%B1r%20G%C3%BCven%20(Zero%20Trust)%20Tasar%C4%B1m%C4%B1&category=Mimari" width="240" alt="Dağıtık Sistemlerde Güvenlik-First Mimari: Tehdit Modelleme ile Sıfır Güven (Zero Trust) Tasarımı"/></a></td>
-    <td valign="top" width="580">
-      <img src="https://img.shields.io/badge/Mimari-a855f7?style=flat-square" alt="Mimari"/> <sub>17 Tem 2026</sub><br/><br/>
-      <a href="https://muhammedkoca.com.tr/blog/dagitik-sistemlerde-guvenlik-first-mimari-tehdit-modelleme-ile-sifir-guven-zero--3"><b>Dağıtık Sistemlerde Güvenlik-First Mimari: Tehdit Modelleme ile Sıfır Güven (Zero Trust) Tasarımı</b></a><br/><br/>
-      <sub>Dağıtık sistemlerde güvenlik sonradan eklenen bir özellik değil, mimarinin temel taşıdır. Bu makalede, tehdit modelleme (threat modeling) ile sıfır…</sub>
-    </td>
-  </tr>
-  <tr><td colspan="2"><img src="assets/divider.svg" alt="" width="100%"/></td></tr>
-  <tr>
-    <td width="260"><a href="https://muhammedkoca.com.tr/blog/node-js-ve-prisma-ile-event-sourcing-geleneksel-veritabani-yaklasimlarini-alt-us"><img src="https://www.muhammedkoca.com.tr/api/og/cover.svg?title=Node.js%20ve%20Prisma%20ile%20Event%20Sourcing%3A%20Geleneksel%20Veritaban%C4%B1%20Yakla%C5%9F%C4%B1mlar%C4%B1n%C4%B1%20Alt%20%C3%9Cst%20Eden%20Mimari&category=Teknoloji" width="240" alt="Node.js ve Prisma ile Event Sourcing: Geleneksel Veritabanı Yaklaşımlarını Alt Üst Eden Mimari"/></a></td>
-    <td valign="top" width="580">
-      <img src="https://img.shields.io/badge/Teknoloji-a855f7?style=flat-square" alt="Teknoloji"/> <sub>17 Tem 2026</sub><br/><br/>
-      <a href="https://muhammedkoca.com.tr/blog/node-js-ve-prisma-ile-event-sourcing-geleneksel-veritabani-yaklasimlarini-alt-us"><b>Node.js ve Prisma ile Event Sourcing: Geleneksel Veritabanı Yaklaşımlarını Alt Üst Eden Mimari</b></a><br/><br/>
-      <sub>Event Sourcing, veriyi anlık durum yerine olay akışı olarak saklamanın devrimsel bir yolu. Bu makalede, Node.js ve Prisma ile Event Sourcing&#x27;in nasıl…</sub>
     </td>
   </tr>
 </table>
