@@ -148,6 +148,15 @@
 <!-- BLOG-CARDS:START -->
 <table>
   <tr>
+    <td width="260"><a href="https://www.muhammedkoca.com.tr/blog/senior-muhendislikten-liderlige-produksiyon-krizlerinden-kariyer-stratejisine-do"><img src="https://www.muhammedkoca.com.tr/api/og/cover.svg?title=Senior%20M%C3%BChendislikten%20Liderli%C4%9Fe%3A%20Prod%C3%BCksiyon%20Krizlerinden%20Kariyer%20Stratejisine%20D%C3%B6n%C3%BC%C5%9F%C3%BCm%20Rehberi&category=Kariyer" width="240" alt="Senior Mühendislikten Liderliğe: Prodüksiyon Krizlerinden Kariyer Stratejisine Dönüşüm Rehberi"/></a></td>
+    <td valign="top" width="580">
+      <img src="https://img.shields.io/badge/Kariyer-a855f7?style=flat-square" alt="Kariyer"/> <sub>19 Tem 2026</sub><br/><br/>
+      <a href="https://www.muhammedkoca.com.tr/blog/senior-muhendislikten-liderlige-produksiyon-krizlerinden-kariyer-stratejisine-do"><b>Senior Mühendislikten Liderliğe: Prodüksiyon Krizlerinden Kariyer Stratejisine Dönüşüm Rehberi</b></a><br/><br/>
+      <sub>15 yıllık prodüksiyon krizleri, mikroservis felaketleri ve AI entegrasyon çöküşleri üzerinden edindiğim liderlik dersleri. Teknik derinlikten…</sub>
+    </td>
+  </tr>
+  <tr><td colspan="2"><img src="assets/divider.svg" alt="" width="100%"/></td></tr>
+  <tr>
     <td width="260"><a href="https://www.muhammedkoca.com.tr/blog/yuksek-performansli-muhendislik-yasaminda-dengenin-sistemi-verimlilik-saglik-ve-"><img src="https://www.muhammedkoca.com.tr/api/og/cover.svg?title=Y%C3%BCksek%20Performansl%C4%B1%20M%C3%BChendislik%20Ya%C5%9Fam%C4%B1nda%20Dengenin%20Sistemi%3A%20Verimlilik%2C%20Sa%C4%9Fl%C4%B1k%20ve%20S%C3%BCrd%C3%BCr%C3%BClebilir%20Rit%C3%BCellerin%20Mimarisi&category=Ya%C5%9Fam" width="240" alt="Yüksek Performanslı Mühendislik Yaşamında Dengenin Sistemi: Verimlilik, Sağlık ve Sürdürülebilir Ritüellerin Mimarisi"/></a></td>
     <td valign="top" width="580">
       <img src="https://img.shields.io/badge/Yaşam-a855f7?style=flat-square" alt="Yaşam"/> <sub>18 Tem 2026</sub><br/><br/>
@@ -162,15 +171,6 @@
       <img src="https://img.shields.io/badge/Kariyer-a855f7?style=flat-square" alt="Kariyer"/> <sub>18 Tem 2026</sub><br/><br/>
       <a href="https://www.muhammedkoca.com.tr/blog/senior-muhendisten-liderlige-teknik-derinlikten-stratejik-etkiye-gecis-rehberi-2"><b>Senior Mühendisten Liderliğe: Teknik Derinlikten Stratejik Etkiye Geçiş Rehberi</b></a><br/><br/>
       <sub>Senior mühendislikte ustalaştıktan sonra liderliğe geçiş, sadece kod yazmaktan sistem tasarlamaya ve ekipleri yönetmeye evrilen bir yolculuktur. Bu…</sub>
-    </td>
-  </tr>
-  <tr><td colspan="2"><img src="assets/divider.svg" alt="" width="100%"/></td></tr>
-  <tr>
-    <td width="260"><a href="https://www.muhammedkoca.com.tr/blog/node-js-ve-prisma-ile-dagitik-sistemlerde-veri-tutarliligi-transactional-outbox-"><img src="https://www.muhammedkoca.com.tr/api/og/cover.svg?title=Node.js%20ve%20Prisma%20ile%20Da%C4%9F%C4%B1t%C4%B1k%20Sistemlerde%20Veri%20Tutarl%C4%B1l%C4%B1%C4%9F%C4%B1%3A%20Transactional%20Outbox%20Pattern%20Rehberi&category=Rehberler" width="240" alt="Node.js ve Prisma ile Dağıtık Sistemlerde Veri Tutarlılığı: Transactional Outbox Pattern Rehberi"/></a></td>
-    <td valign="top" width="580">
-      <img src="https://img.shields.io/badge/Rehberler-a855f7?style=flat-square" alt="Rehberler"/> <sub>18 Tem 2026</sub><br/><br/>
-      <a href="https://www.muhammedkoca.com.tr/blog/node-js-ve-prisma-ile-dagitik-sistemlerde-veri-tutarliligi-transactional-outbox-"><b>Node.js ve Prisma ile Dağıtık Sistemlerde Veri Tutarlılığı: Transactional Outbox Pattern Rehberi</b></a><br/><br/>
-      <sub>Dağıtık sistemlerde veri tutarlılığını sağlamak, özellikle mikroservis mimarilerinde kritik bir zorluktur. Bu rehberde, Node.js ve Prisma kullanarak…</sub>
     </td>
   </tr>
 </table>
