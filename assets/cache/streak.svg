@@ -19,12 +19,12 @@
   
   <circle cx="105" cy="95" r="56" stroke="#a855f7" stroke-opacity="0.15" stroke-width="7" fill="none"/>
   <circle cx="105" cy="95" r="56" stroke="url(#neon)" stroke-width="7" fill="none"
-          stroke-linecap="round" stroke-dasharray="351.9 351.9" filter="url(#glow)"
+          stroke-linecap="round" stroke-dasharray="17.6 351.9" filter="url(#glow)"
           transform="rotate(-90 105 95)">
     <animateTransform attributeName="transform" type="rotate" from="-90 105 95" to="270 105 95" dur="18s" repeatCount="indefinite"/>
   </circle>
   <text x="105" y="88" text-anchor="middle" font-size="24">🔥</text>
-  <text x="105" y="124" text-anchor="middle" font-family="Segoe UI, Arial, sans-serif" font-size="28" font-weight="800" fill="#e2e8f0">2</text>
+  <text x="105" y="124" text-anchor="middle" font-family="Segoe UI, Arial, sans-serif" font-size="28" font-weight="800" fill="#e2e8f0">0</text>
   <text x="105" y="146" text-anchor="middle" font-family="Segoe UI, Arial, sans-serif" font-size="11" fill="#94a3b8">GÜNLÜK SERİ</text>
 
   <line x1="205" y1="34" x2="205" y2="170" stroke="#a855f7" stroke-opacity="0.18"/>
