@@ -148,6 +148,15 @@
 <!-- BLOG-CARDS:START -->
 <table>
   <tr>
+    <td width="260"><a href="https://www.muhammedkoca.com.tr/blog/node-js-ve-prisma-ile-yuksek-performansli-veritabani-sorgularinda-bottleneck-ana-2"><img src="https://www.muhammedkoca.com.tr/api/og/cover.svg?title=Node.js%20ve%20Prisma%20ile%20Y%C3%BCksek%20Performansl%C4%B1%20Veritaban%C4%B1%20Sorgular%C4%B1nda%20Bottleneck%20Analizi%20ve%20%C3%87%C3%B6z%C3%BCm%20Stratejileri&category=Rehberler" width="240" alt="Node.js ve Prisma ile Yüksek Performanslı Veritabanı Sorgularında Bottleneck Analizi ve Çözüm Stratejileri"/></a></td>
+    <td valign="top" width="580">
+      <img src="https://img.shields.io/badge/Rehberler-a855f7?style=flat-square" alt="Rehberler"/> <sub>20 Tem 2026</sub><br/><br/>
+      <a href="https://www.muhammedkoca.com.tr/blog/node-js-ve-prisma-ile-yuksek-performansli-veritabani-sorgularinda-bottleneck-ana-2"><b>Node.js ve Prisma ile Yüksek Performanslı Veritabanı Sorgularında Bottleneck Analizi ve Çözüm Stratejileri</b></a><br/><br/>
+      <sub>Production ortamında karşılaşılan veritabanı bottleneck&#x27;ları, sistem performansını ciddi şekilde düşürebilir. Bu rehberde, Node.js ve Prisma…</sub>
+    </td>
+  </tr>
+  <tr><td colspan="2"><img src="assets/divider.svg" alt="" width="100%"/></td></tr>
+  <tr>
     <td width="260"><a href="https://www.muhammedkoca.com.tr/blog/senior-muhendislikten-liderlige-produksiyon-krizlerinden-kariyer-stratejisine-do"><img src="https://www.muhammedkoca.com.tr/api/og/cover.svg?title=Senior%20M%C3%BChendislikten%20Liderli%C4%9Fe%3A%20Prod%C3%BCksiyon%20Krizlerinden%20Kariyer%20Stratejisine%20D%C3%B6n%C3%BC%C5%9F%C3%BCm%20Rehberi&category=Kariyer" width="240" alt="Senior Mühendislikten Liderliğe: Prodüksiyon Krizlerinden Kariyer Stratejisine Dönüşüm Rehberi"/></a></td>
     <td valign="top" width="580">
       <img src="https://img.shields.io/badge/Kariyer-a855f7?style=flat-square" alt="Kariyer"/> <sub>19 Tem 2026</sub><br/><br/>
@@ -162,15 +171,6 @@
       <img src="https://img.shields.io/badge/Yaşam-a855f7?style=flat-square" alt="Yaşam"/> <sub>18 Tem 2026</sub><br/><br/>
       <a href="https://www.muhammedkoca.com.tr/blog/yuksek-performansli-muhendislik-yasaminda-dengenin-sistemi-verimlilik-saglik-ve-"><b>Yüksek Performanslı Mühendislik Yaşamında Dengenin Sistemi: Verimlilik, Sağlık ve Sürdürülebilir Ritüellerin Mimarisi</b></a><br/><br/>
       <sub>15 yıllık prodüksiyon savaşlarından çıkan bir Principal Engineer olarak, yaşam dengesi kavramının bir seçenek değil, sistem mimarisinin zorunlu bir…</sub>
-    </td>
-  </tr>
-  <tr><td colspan="2"><img src="assets/divider.svg" alt="" width="100%"/></td></tr>
-  <tr>
-    <td width="260"><a href="https://www.muhammedkoca.com.tr/blog/senior-muhendisten-liderlige-teknik-derinlikten-stratejik-etkiye-gecis-rehberi-2"><img src="https://www.muhammedkoca.com.tr/api/og/cover.svg?title=Senior%20M%C3%BChendisten%20Liderli%C4%9Fe%3A%20Teknik%20Derinlikten%20Stratejik%20Etkiye%20Ge%C3%A7i%C5%9F%20Rehberi&category=Kariyer" width="240" alt="Senior Mühendisten Liderliğe: Teknik Derinlikten Stratejik Etkiye Geçiş Rehberi"/></a></td>
-    <td valign="top" width="580">
-      <img src="https://img.shields.io/badge/Kariyer-a855f7?style=flat-square" alt="Kariyer"/> <sub>18 Tem 2026</sub><br/><br/>
-      <a href="https://www.muhammedkoca.com.tr/blog/senior-muhendisten-liderlige-teknik-derinlikten-stratejik-etkiye-gecis-rehberi-2"><b>Senior Mühendisten Liderliğe: Teknik Derinlikten Stratejik Etkiye Geçiş Rehberi</b></a><br/><br/>
-      <sub>Senior mühendislikte ustalaştıktan sonra liderliğe geçiş, sadece kod yazmaktan sistem tasarlamaya ve ekipleri yönetmeye evrilen bir yolculuktur. Bu…</sub>
     </td>
   </tr>
 </table>
