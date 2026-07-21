@@ -148,29 +148,29 @@
 <!-- BLOG-CARDS:START -->
 <table>
   <tr>
-    <td width="260"><a href="https://www.muhammedkoca.com.tr/blog/node-js-ve-prisma-ile-yuksek-performansli-veritabani-sorgularinda-bottleneck-ana-2"><img src="https://www.muhammedkoca.com.tr/api/og/cover.svg?title=Node.js%20ve%20Prisma%20ile%20Y%C3%BCksek%20Performansl%C4%B1%20Veritaban%C4%B1%20Sorgular%C4%B1nda%20Bottleneck%20Analizi%20ve%20%C3%87%C3%B6z%C3%BCm%20Stratejileri&category=Rehberler" width="240" alt="Node.js ve Prisma ile Yüksek Performanslı Veritabanı Sorgularında Bottleneck Analizi ve Çözüm Stratejileri"/></a></td>
+    <td width="260"><a href="https://www.muhammedkoca.com.tr/blog/node-js-ve-prisma-ile-dagitik-sistemlerde-veri-tutarliligi-produksiyon-krizi-ve--2"><img src="https://www.muhammedkoca.com.tr/api/og/cover.svg?title=Node.js%20ve%20Prisma%20ile%20Da%C4%9F%C4%B1t%C4%B1k%20Sistemlerde%20Veri%20Tutarl%C4%B1l%C4%B1%C4%9F%C4%B1%3A%20Prod%C3%BCksiyon%20Krizi%20ve%20%C3%87%C3%B6z%C3%BCm%20Stratejileri&category=Rehberler" width="240" alt="Node.js ve Prisma ile Dağıtık Sistemlerde Veri Tutarlılığı: Prodüksiyon Krizi ve Çözüm Stratejileri"/></a></td>
     <td valign="top" width="580">
-      <img src="https://img.shields.io/badge/Rehberler-a855f7?style=flat-square" alt="Rehberler"/> <sub>20 Tem 2026</sub><br/><br/>
-      <a href="https://www.muhammedkoca.com.tr/blog/node-js-ve-prisma-ile-yuksek-performansli-veritabani-sorgularinda-bottleneck-ana-2"><b>Node.js ve Prisma ile Yüksek Performanslı Veritabanı Sorgularında Bottleneck Analizi ve Çözüm Stratejileri</b></a><br/><br/>
-      <sub>Production ortamında karşılaşılan veritabanı bottleneck&#x27;ları, sistem performansını ciddi şekilde düşürebilir. Bu rehberde, Node.js ve Prisma…</sub>
+      <img src="https://img.shields.io/badge/Rehberler-a855f7?style=flat-square" alt="Rehberler"/> <sub>21 Tem 2026</sub><br/><br/>
+      <a href="https://www.muhammedkoca.com.tr/blog/node-js-ve-prisma-ile-dagitik-sistemlerde-veri-tutarliligi-produksiyon-krizi-ve--2"><b>Node.js ve Prisma ile Dağıtık Sistemlerde Veri Tutarlılığı: Prodüksiyon Krizi ve Çözüm Stratejileri</b></a><br/><br/>
+      <sub>Dağıtık sistemlerde veri tutarlılığı, özellikle yüksek trafikli uygulamalarda kritik bir sorundur. Bu rehberde, bir e-ticaret platformunda yaşanan…</sub>
     </td>
   </tr>
   <tr><td colspan="2"><img src="assets/divider.svg" alt="" width="100%"/></td></tr>
   <tr>
-    <td width="260"><a href="https://www.muhammedkoca.com.tr/blog/senior-muhendislikten-liderlige-produksiyon-krizlerinden-kariyer-stratejisine-do"><img src="https://www.muhammedkoca.com.tr/api/og/cover.svg?title=Senior%20M%C3%BChendislikten%20Liderli%C4%9Fe%3A%20Prod%C3%BCksiyon%20Krizlerinden%20Kariyer%20Stratejisine%20D%C3%B6n%C3%BC%C5%9F%C3%BCm%20Rehberi&category=Kariyer" width="240" alt="Senior Mühendislikten Liderliğe: Prodüksiyon Krizlerinden Kariyer Stratejisine Dönüşüm Rehberi"/></a></td>
+    <td width="260"><a href="https://www.muhammedkoca.com.tr/blog/dagitik-sistemlerde-veri-tutarliligi-eventual-consistency-den-acid-e-gercek-duny"><img src="https://www.muhammedkoca.com.tr/api/og/cover.svg?title=Da%C4%9F%C4%B1t%C4%B1k%20Sistemlerde%20Veri%20Tutarl%C4%B1l%C4%B1%C4%9F%C4%B1%3A%20Eventual%20Consistency" width="240" alt="Dağıtık Sistemlerde Veri Tutarlılığı: Eventual Consistency&#x27;den ACID&#x27;e Gerçek Dünya Trade-off&#x27;ları"/></a></td>
     <td valign="top" width="580">
-      <img src="https://img.shields.io/badge/Kariyer-a855f7?style=flat-square" alt="Kariyer"/> <sub>19 Tem 2026</sub><br/><br/>
-      <a href="https://www.muhammedkoca.com.tr/blog/senior-muhendislikten-liderlige-produksiyon-krizlerinden-kariyer-stratejisine-do"><b>Senior Mühendislikten Liderliğe: Prodüksiyon Krizlerinden Kariyer Stratejisine Dönüşüm Rehberi</b></a><br/><br/>
-      <sub>15 yıllık prodüksiyon krizleri, mikroservis felaketleri ve AI entegrasyon çöküşleri üzerinden edindiğim liderlik dersleri. Teknik derinlikten…</sub>
+      <img src="https://img.shields.io/badge/Mimari-a855f7?style=flat-square" alt="Mimari"/> <sub>21 Tem 2026</sub><br/><br/>
+      <a href="https://www.muhammedkoca.com.tr/blog/dagitik-sistemlerde-veri-tutarliligi-eventual-consistency-den-acid-e-gercek-duny"><b>Dağıtık Sistemlerde Veri Tutarlılığı: Eventual Consistency&#x27;den ACID&#x27;e Gerçek Dünya Trade-off&#x27;ları</b></a><br/><br/>
+      <sub>Dağıtık sistemlerde veri tutarlılığı, ölçeklenebilirlik ve performans arasında kritik bir denge kurar. Bu makalede, eventual consistency&#x27;nin…</sub>
     </td>
   </tr>
   <tr><td colspan="2"><img src="assets/divider.svg" alt="" width="100%"/></td></tr>
   <tr>
-    <td width="260"><a href="https://www.muhammedkoca.com.tr/blog/yuksek-performansli-muhendislik-yasaminda-dengenin-sistemi-verimlilik-saglik-ve-"><img src="https://www.muhammedkoca.com.tr/api/og/cover.svg?title=Y%C3%BCksek%20Performansl%C4%B1%20M%C3%BChendislik%20Ya%C5%9Fam%C4%B1nda%20Dengenin%20Sistemi%3A%20Verimlilik%2C%20Sa%C4%9Fl%C4%B1k%20ve%20S%C3%BCrd%C3%BCr%C3%BClebilir%20Rit%C3%BCellerin%20Mimarisi&category=Ya%C5%9Fam" width="240" alt="Yüksek Performanslı Mühendislik Yaşamında Dengenin Sistemi: Verimlilik, Sağlık ve Sürdürülebilir Ritüellerin Mimarisi"/></a></td>
+    <td width="260"><a href="https://www.muhammedkoca.com.tr/blog/senior-muhendislik-kariyerinde-olumcul-5-anti-pattern-produksiyon-krizlerinden-c-2"><img src="https://www.muhammedkoca.com.tr/api/og/cover.svg?title=Senior%20M%C3%BChendislik%20Kariyerinde%20%C3%96l%C3%BCmc%C3%BCl%205%20Anti-Pattern%3A%20Prod%C3%BCksiyon%20Krizlerinden%20%C3%87%C4%B1kar%C4%B1lan%20Dersler&category=Kariyer" width="240" alt="Senior Mühendislik Kariyerinde Ölümcül 5 Anti-Pattern: Prodüksiyon Krizlerinden Çıkarılan Dersler"/></a></td>
     <td valign="top" width="580">
-      <img src="https://img.shields.io/badge/Yaşam-a855f7?style=flat-square" alt="Yaşam"/> <sub>18 Tem 2026</sub><br/><br/>
-      <a href="https://www.muhammedkoca.com.tr/blog/yuksek-performansli-muhendislik-yasaminda-dengenin-sistemi-verimlilik-saglik-ve-"><b>Yüksek Performanslı Mühendislik Yaşamında Dengenin Sistemi: Verimlilik, Sağlık ve Sürdürülebilir Ritüellerin Mimarisi</b></a><br/><br/>
-      <sub>15 yıllık prodüksiyon savaşlarından çıkan bir Principal Engineer olarak, yaşam dengesi kavramının bir seçenek değil, sistem mimarisinin zorunlu bir…</sub>
+      <img src="https://img.shields.io/badge/Kariyer-a855f7?style=flat-square" alt="Kariyer"/> <sub>21 Tem 2026</sub><br/><br/>
+      <a href="https://www.muhammedkoca.com.tr/blog/senior-muhendislik-kariyerinde-olumcul-5-anti-pattern-produksiyon-krizlerinden-c-2"><b>Senior Mühendislik Kariyerinde Ölümcül 5 Anti-Pattern: Prodüksiyon Krizlerinden Çıkarılan Dersler</b></a><br/><br/>
+      <sub>Kariyerinizde farkında olmadan tekrarladığınız 5 ölümcül anti-pattern, prodüksiyon krizlerine ve teknik borca neden oluyor. Bu makalede, 15 yıllık…</sub>
     </td>
   </tr>
 </table>
