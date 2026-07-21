@@ -148,29 +148,29 @@
 <!-- BLOG-CARDS:START -->
 <table>
   <tr>
-    <td width="260"><a href="https://www.muhammedkoca.com.tr/blog/node-js-ve-prisma-ile-yuksek-performansli-dagitik-sistemlerde-veri-tutarliligi-v"><img src="https://www.muhammedkoca.com.tr/api/og/cover.svg?title=Node.js%20ve%20Prisma%20ile%20Y%C3%BCksek%20Performansl%C4%B1%20Da%C4%9F%C4%B1t%C4%B1k%20Sistemlerde%20Veri%20Tutarl%C4%B1l%C4%B1%C4%9F%C4%B1%20ve%20Cache%20Stratejileri&category=Rehberler" width="240" alt="Node.js ve Prisma ile Yüksek Performanslı Dağıtık Sistemlerde Veri Tutarlılığı ve Cache Stratejileri"/></a></td>
+    <td width="260"><a href="https://www.muhammedkoca.com.tr/blog/modern-mikroservis-mimarilerinde-gelecege-dayanikli-sistem-tasarimi-5-kritik-evr"><img src="https://www.muhammedkoca.com.tr/api/og/cover.svg?title=Modern%20Mikroservis%20Mimarilerinde%20Gelece%C4%9Fe%20Dayan%C4%B1kl%C4%B1%20Sistem%20Tasar%C4%B1m%C4%B1%3A%205%20Kritik%20Evrim%20Ad%C4%B1m%C4%B1&category=Rehberler" width="240" alt="Modern Mikroservis Mimarilerinde Geleceğe Dayanıklı Sistem Tasarımı: 5 Kritik Evrim Adımı"/></a></td>
     <td valign="top" width="580">
       <img src="https://img.shields.io/badge/Rehberler-a855f7?style=flat-square" alt="Rehberler"/> <sub>21 Tem 2026</sub><br/><br/>
-      <a href="https://www.muhammedkoca.com.tr/blog/node-js-ve-prisma-ile-yuksek-performansli-dagitik-sistemlerde-veri-tutarliligi-v"><b>Node.js ve Prisma ile Yüksek Performanslı Dağıtık Sistemlerde Veri Tutarlılığı ve Cache Stratejileri</b></a><br/><br/>
-      <sub>Dağıtık sistemlerde veri tutarlılığı ve cache yönetimi, prodüksiyon ortamlarında karşılaşılan en kritik sorunlardan biridir. Bu rehberde, Node.js ve…</sub>
+      <a href="https://www.muhammedkoca.com.tr/blog/modern-mikroservis-mimarilerinde-gelecege-dayanikli-sistem-tasarimi-5-kritik-evr"><b>Modern Mikroservis Mimarilerinde Geleceğe Dayanıklı Sistem Tasarımı: 5 Kritik Evrim Adımı</b></a><br/><br/>
+      <sub>Mikroservis mimarileri, ölçeklenebilirlik vaatleriyle popülerleşse de prodüksiyonda karşılaşılan gerçek sorunlar genellikle mimari evrim…</sub>
     </td>
   </tr>
   <tr><td colspan="2"><img src="assets/divider.svg" alt="" width="100%"/></td></tr>
   <tr>
-    <td width="260"><a href="https://www.muhammedkoca.com.tr/blog/node-js-ve-prisma-ile-dagitik-sistemlerde-veri-tutarliligi-event-sourcing-ve-cqr-4"><img src="https://www.muhammedkoca.com.tr/api/og/cover.svg?title=Node.js%20ve%20Prisma%20ile%20Da%C4%9F%C4%B1t%C4%B1k%20Sistemlerde%20Veri%20Tutarl%C4%B1l%C4%B1%C4%9F%C4%B1%3A%20Event%20Sourcing%20ve%20CQRS%20Mimarisi%20Rehberi&category=Rehberler" width="240" alt="Node.js ve Prisma ile Dağıtık Sistemlerde Veri Tutarlılığı: Event Sourcing ve CQRS Mimarisi Rehberi"/></a></td>
+    <td width="260"><a href="https://www.muhammedkoca.com.tr/blog/kidemli-muhendisler-icin-gelecege-dayanikli-sistem-tasarimi-mimari-evrim-ve-krit"><img src="https://www.muhammedkoca.com.tr/api/og/cover.svg?title=K%C4%B1demli%20M%C3%BChendisler%20%C4%B0%C3%A7in%20Gelece%C4%9Fe%20Dayan%C4%B1kl%C4%B1%20Sistem%20Tasar%C4%B1m%C4%B1%3A%20Mimari%20Evrim%20ve%20Kritik%20Trade-off" width="240" alt="Kıdemli Mühendisler İçin Geleceğe Dayanıklı Sistem Tasarımı: Mimari Evrim ve Kritik Trade-off&#x27;lar"/></a></td>
     <td valign="top" width="580">
-      <img src="https://img.shields.io/badge/Rehberler-a855f7?style=flat-square" alt="Rehberler"/> <sub>21 Tem 2026</sub><br/><br/>
-      <a href="https://www.muhammedkoca.com.tr/blog/node-js-ve-prisma-ile-dagitik-sistemlerde-veri-tutarliligi-event-sourcing-ve-cqr-4"><b>Node.js ve Prisma ile Dağıtık Sistemlerde Veri Tutarlılığı: Event Sourcing ve CQRS Mimarisi Rehberi</b></a><br/><br/>
-      <sub>Dağıtık sistemlerde veri tutarlılığı sağlamak, özellikle yüksek trafikli uygulamalarda kritik bir zorluktur. Bu rehberde, Node.js ve Prisma…</sub>
+      <img src="https://img.shields.io/badge/Kariyer-a855f7?style=flat-square" alt="Kariyer"/> <sub>21 Tem 2026</sub><br/><br/>
+      <a href="https://www.muhammedkoca.com.tr/blog/kidemli-muhendisler-icin-gelecege-dayanikli-sistem-tasarimi-mimari-evrim-ve-krit"><b>Kıdemli Mühendisler İçin Geleceğe Dayanıklı Sistem Tasarımı: Mimari Evrim ve Kritik Trade-off&#x27;lar</b></a><br/><br/>
+      <sub>Sistemler büyüdükçe teknik borç katlanarak artar. Bu makalede, 15 yıllık prodüksiyon tecrübesinden süzülen mimari evrim stratejilerini, geleceğe…</sub>
     </td>
   </tr>
   <tr><td colspan="2"><img src="assets/divider.svg" alt="" width="100%"/></td></tr>
   <tr>
-    <td width="260"><a href="https://www.muhammedkoca.com.tr/blog/node-js-ve-prisma-ile-dagitik-sistemlerde-veri-tutarliligi-acid-den-eventual-con-3"><img src="https://www.muhammedkoca.com.tr/api/og/cover.svg?title=Node.js%20ve%20Prisma%20ile%20Da%C4%9F%C4%B1t%C4%B1k%20Sistemlerde%20Veri%20Tutarl%C4%B1l%C4%B1%C4%9F%C4%B1%3A%20ACID" width="240" alt="Node.js ve Prisma ile Dağıtık Sistemlerde Veri Tutarlılığı: ACID&#x27;den Eventual Consistency&#x27;ye Geçiş Rehberi"/></a></td>
+    <td width="260"><a href="https://www.muhammedkoca.com.tr/blog/node-js-ve-prisma-ile-yuksek-trafikli-api-lerde-performans-darbogazlarini-ortada"><img src="https://www.muhammedkoca.com.tr/api/og/cover.svg?title=Node.js%20ve%20Prisma%20ile%20Y%C3%BCksek%20Trafikli%20API" width="240" alt="Node.js ve Prisma ile Yüksek Trafikli API&#x27;lerde Performans Darboğazlarını Ortadan Kaldırma Rehberi"/></a></td>
     <td valign="top" width="580">
       <img src="https://img.shields.io/badge/Rehberler-a855f7?style=flat-square" alt="Rehberler"/> <sub>21 Tem 2026</sub><br/><br/>
-      <a href="https://www.muhammedkoca.com.tr/blog/node-js-ve-prisma-ile-dagitik-sistemlerde-veri-tutarliligi-acid-den-eventual-con-3"><b>Node.js ve Prisma ile Dağıtık Sistemlerde Veri Tutarlılığı: ACID&#x27;den Eventual Consistency&#x27;ye Geçiş Rehberi</b></a><br/><br/>
-      <sub>Dağıtık sistemlerde veri tutarlılığını sağlamak, monolitik mimarilerden farklı bir yaklaşım gerektirir. Bu rehberde, Node.js ve Prisma kullanarak…</sub>
+      <a href="https://www.muhammedkoca.com.tr/blog/node-js-ve-prisma-ile-yuksek-trafikli-api-lerde-performans-darbogazlarini-ortada"><b>Node.js ve Prisma ile Yüksek Trafikli API&#x27;lerde Performans Darboğazlarını Ortadan Kaldırma Rehberi</b></a><br/><br/>
+      <sub>Yüksek trafikli Node.js API&#x27;lerinde karşılaşılan performans darboğazlarını tespit etmek ve çözmek için adım adım bir rehber. Prisma ORM&#x27;in veritabanı…</sub>
     </td>
   </tr>
 </table>
