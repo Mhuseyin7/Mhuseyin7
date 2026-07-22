@@ -148,29 +148,29 @@
 <!-- BLOG-CARDS:START -->
 <table>
   <tr>
-    <td width="260"><a href="https://www.muhammedkoca.com.tr/blog/node-js-ve-prisma-ile-yuksek-performansli-dagitik-sistemlerde-veri-tutarliligi-v-2"><img src="https://www.muhammedkoca.com.tr/api/og/cover.svg?title=Node.js%20ve%20Prisma%20ile%20Y%C3%BCksek%20Performansl%C4%B1%20Da%C4%9F%C4%B1t%C4%B1k%20Sistemlerde%20Veri%20Tutarl%C4%B1l%C4%B1%C4%9F%C4%B1%20ve%20%C4%B0zolasyon%20Stratejileri&category=Rehberler" width="240" alt="Node.js ve Prisma ile Yüksek Performanslı Dağıtık Sistemlerde Veri Tutarlılığı ve İzolasyon Stratejileri"/></a></td>
+    <td width="260"><a href="https://www.muhammedkoca.com.tr/blog/kidemli-muhendisler-icin-gelecege-dayanikli-sistem-tasarimi-mimari-evrim-ve-stra-2"><img src="https://www.muhammedkoca.com.tr/api/og/cover.svg?title=K%C4%B1demli%20M%C3%BChendisler%20%C4%B0%C3%A7in%20Gelece%C4%9Fe%20Dayan%C4%B1kl%C4%B1%20Sistem%20Tasar%C4%B1m%C4%B1%3A%20Mimari%20Evrim%20ve%20Stratejik%20Trade-off" width="240" alt="Kıdemli Mühendisler İçin Geleceğe Dayanıklı Sistem Tasarımı: Mimari Evrim ve Stratejik Trade-off&#x27;lar"/></a></td>
     <td valign="top" width="580">
-      <img src="https://img.shields.io/badge/Rehberler-a855f7?style=flat-square" alt="Rehberler"/> <sub>22 Tem 2026</sub><br/><br/>
-      <a href="https://www.muhammedkoca.com.tr/blog/node-js-ve-prisma-ile-yuksek-performansli-dagitik-sistemlerde-veri-tutarliligi-v-2"><b>Node.js ve Prisma ile Yüksek Performanslı Dağıtık Sistemlerde Veri Tutarlılığı ve İzolasyon Stratejileri</b></a><br/><br/>
-      <sub>Dağıtık sistemlerde veri tutarlılığı ve izolasyon, prodüksiyon ortamlarında karşılaşılan en kritik sorunlardan biridir. Bu rehberde, Node.js ve…</sub>
+      <img src="https://img.shields.io/badge/Kariyer-a855f7?style=flat-square" alt="Kariyer"/> <sub>22 Tem 2026</sub><br/><br/>
+      <a href="https://www.muhammedkoca.com.tr/blog/kidemli-muhendisler-icin-gelecege-dayanikli-sistem-tasarimi-mimari-evrim-ve-stra-2"><b>Kıdemli Mühendisler İçin Geleceğe Dayanıklı Sistem Tasarımı: Mimari Evrim ve Stratejik Trade-off&#x27;lar</b></a><br/><br/>
+      <sub>Sistemleriniz 5 yıl sonra hala ayakta kalacak mı? Kıdemli mühendisler için kritik mimari kararlar, prodüksiyon vakaları ve geleceğe dayanıklı tasarım…</sub>
     </td>
   </tr>
   <tr><td colspan="2"><img src="assets/divider.svg" alt="" width="100%"/></td></tr>
   <tr>
-    <td width="260"><a href="https://www.muhammedkoca.com.tr/blog/node-js-ve-prisma-ile-dagitik-sistemlerde-veri-tutarliligi-eventual-consistency--2"><img src="https://www.muhammedkoca.com.tr/api/og/cover.svg?title=Node.js%20ve%20Prisma%20ile%20Da%C4%9F%C4%B1t%C4%B1k%20Sistemlerde%20Veri%20Tutarl%C4%B1l%C4%B1%C4%9F%C4%B1%3A%20Eventual%20Consistency" width="240" alt="Node.js ve Prisma ile Dağıtık Sistemlerde Veri Tutarlılığı: Eventual Consistency&#x27;den ACID&#x27;e Geçiş Rehberi"/></a></td>
+    <td width="260"><a href="https://www.muhammedkoca.com.tr/blog/senior-muhendisler-icin-performans-darbogazlarini-tespit-ve-cozme-stratejileri-p-2"><img src="https://www.muhammedkoca.com.tr/api/og/cover.svg?title=Senior%20M%C3%BChendisler%20%C4%B0%C3%A7in%20Performans%20Darbo%C4%9Fazlar%C4%B1n%C4%B1%20Tespit%20ve%20%C3%87%C3%B6zme%20Stratejileri%3A%20Prod%C3%BCksiyon%20Krizlerinden%20%C3%87%C4%B1kar%C4%B1lan%20Dersler&category=Kariyer" width="240" alt="Senior Mühendisler İçin Performans Darboğazlarını Tespit ve Çözme Stratejileri: Prodüksiyon Krizlerinden Çıkarılan Dersler"/></a></td>
     <td valign="top" width="580">
-      <img src="https://img.shields.io/badge/Rehberler-a855f7?style=flat-square" alt="Rehberler"/> <sub>22 Tem 2026</sub><br/><br/>
-      <a href="https://www.muhammedkoca.com.tr/blog/node-js-ve-prisma-ile-dagitik-sistemlerde-veri-tutarliligi-eventual-consistency--2"><b>Node.js ve Prisma ile Dağıtık Sistemlerde Veri Tutarlılığı: Eventual Consistency&#x27;den ACID&#x27;e Geçiş Rehberi</b></a><br/><br/>
-      <sub>Dağıtık sistemlerde veri tutarlılığı, mühendislerin en büyük kabusudur. Eventual consistency ile başlayan yolculuk, ACID garantileri gerektiren…</sub>
+      <img src="https://img.shields.io/badge/Kariyer-a855f7?style=flat-square" alt="Kariyer"/> <sub>22 Tem 2026</sub><br/><br/>
+      <a href="https://www.muhammedkoca.com.tr/blog/senior-muhendisler-icin-performans-darbogazlarini-tespit-ve-cozme-stratejileri-p-2"><b>Senior Mühendisler İçin Performans Darboğazlarını Tespit ve Çözme Stratejileri: Prodüksiyon Krizlerinden Çıkarılan Dersler</b></a><br/><br/>
+      <sub>Prodüksiyon ortamında karşılaşılan performans darboğazları, sistemlerin çökmesine ve milyonlarca liralık kayıplara yol açabilir. Bu makalede, 15…</sub>
     </td>
   </tr>
   <tr><td colspan="2"><img src="assets/divider.svg" alt="" width="100%"/></td></tr>
   <tr>
-    <td width="260"><a href="https://www.muhammedkoca.com.tr/blog/security-first-muhendislik-threat-modeling-ile-sifir-guven-mimarisini-uretim-ort"><img src="https://www.muhammedkoca.com.tr/api/og/cover.svg?title=Security-First%20M%C3%BChendislik%3A%20Threat%20Modeling%20ile%20S%C4%B1f%C4%B1r%20G%C3%BCven%20Mimarisini%20%C3%9Cretim%20Ortam%C4%B1nda%20Uygulamak&category=M%C3%BChendislik" width="240" alt="Security-First Mühendislik: Threat Modeling ile Sıfır Güven Mimarisini Üretim Ortamında Uygulamak"/></a></td>
+    <td width="260"><a href="https://www.muhammedkoca.com.tr/blog/senior-muhendisten-liderlige-produksiyon-krizlerinden-cikan-5-kariyer-dersi-ve-m"><img src="https://www.muhammedkoca.com.tr/api/og/cover.svg?title=Senior%20M%C3%BChendisten%20Liderli%C4%9Fe%3A%20Prod%C3%BCksiyon%20Krizlerinden%20%C3%87%C4%B1kan%205%20Kariyer%20Dersi%20ve%20Mimari%20Stratejiler&category=Kariyer" width="240" alt="Senior Mühendisten Liderliğe: Prodüksiyon Krizlerinden Çıkan 5 Kariyer Dersi ve Mimari Stratejiler"/></a></td>
     <td valign="top" width="580">
-      <img src="https://img.shields.io/badge/Mühendislik-a855f7?style=flat-square" alt="Mühendislik"/> <sub>22 Tem 2026</sub><br/><br/>
-      <a href="https://www.muhammedkoca.com.tr/blog/security-first-muhendislik-threat-modeling-ile-sifir-guven-mimarisini-uretim-ort"><b>Security-First Mühendislik: Threat Modeling ile Sıfır Güven Mimarisini Üretim Ortamında Uygulamak</b></a><br/><br/>
-      <sub>Üretim ortamında yaşanan siber saldırıların %70&#x27;i mimari aşamasında yapılan hatalar nedeniyle gerçekleşiyor. Bu makalede, threat modeling&#x27;in temel…</sub>
+      <img src="https://img.shields.io/badge/Kariyer-a855f7?style=flat-square" alt="Kariyer"/> <sub>22 Tem 2026</sub><br/><br/>
+      <a href="https://www.muhammedkoca.com.tr/blog/senior-muhendisten-liderlige-produksiyon-krizlerinden-cikan-5-kariyer-dersi-ve-m"><b>Senior Mühendisten Liderliğe: Prodüksiyon Krizlerinden Çıkan 5 Kariyer Dersi ve Mimari Stratejiler</b></a><br/><br/>
+      <sub>15 yıllık prodüksiyon tecrübesinden süzülen bu rehber, senior mühendislerin liderlik basamaklarını tırmanırken karşılaştıkları kritik krizleri ve bu…</sub>
     </td>
   </tr>
 </table>
