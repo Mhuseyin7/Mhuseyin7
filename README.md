@@ -148,29 +148,29 @@
 <!-- BLOG-CARDS:START -->
 <table>
   <tr>
-    <td width="260"><a href="https://www.muhammedkoca.com.tr/blog/yuksek-performansli-muhendislik-yasam-dongusu-7-24-produksiyon-sistemlerinden-og"><img src="https://www.muhammedkoca.com.tr/api/og/cover.svg?title=Y%C3%BCksek%20Performansl%C4%B1%20M%C3%BChendislik%20Ya%C5%9Fam%20D%C3%B6ng%C3%BCs%C3%BC%3A%207%2F24%20Prod%C3%BCksiyon%20Sistemlerinden%20%C3%96%C4%9Frenilen%20Ya%C5%9Fam%20Stratejileri&category=Ya%C5%9Fam" width="240" alt="Yüksek Performanslı Mühendislik Yaşam Döngüsü: 7/24 Prodüksiyon Sistemlerinden Öğrenilen Yaşam Stratejileri"/></a></td>
+    <td width="260"><a href="https://www.muhammedkoca.com.tr/blog/node-js-ve-prisma-ile-yuksek-performansli-dagitik-sistemlerde-veri-tutarliligi-v-2"><img src="https://www.muhammedkoca.com.tr/api/og/cover.svg?title=Node.js%20ve%20Prisma%20ile%20Y%C3%BCksek%20Performansl%C4%B1%20Da%C4%9F%C4%B1t%C4%B1k%20Sistemlerde%20Veri%20Tutarl%C4%B1l%C4%B1%C4%9F%C4%B1%20ve%20%C4%B0zolasyon%20Stratejileri&category=Rehberler" width="240" alt="Node.js ve Prisma ile Yüksek Performanslı Dağıtık Sistemlerde Veri Tutarlılığı ve İzolasyon Stratejileri"/></a></td>
     <td valign="top" width="580">
-      <img src="https://img.shields.io/badge/Yaşam-a855f7?style=flat-square" alt="Yaşam"/> <sub>22 Tem 2026</sub><br/><br/>
-      <a href="https://www.muhammedkoca.com.tr/blog/yuksek-performansli-muhendislik-yasam-dongusu-7-24-produksiyon-sistemlerinden-og"><b>Yüksek Performanslı Mühendislik Yaşam Döngüsü: 7/24 Prodüksiyon Sistemlerinden Öğrenilen Yaşam Stratejileri</b></a><br/><br/>
-      <sub>15 yıllık prodüksiyon krizleri, gece yarısı rollback&#x27;leri ve sistem çöküşleri bana bir şey öğretti: Mühendislik disiplini sadece kod yazmak değil…</sub>
+      <img src="https://img.shields.io/badge/Rehberler-a855f7?style=flat-square" alt="Rehberler"/> <sub>22 Tem 2026</sub><br/><br/>
+      <a href="https://www.muhammedkoca.com.tr/blog/node-js-ve-prisma-ile-yuksek-performansli-dagitik-sistemlerde-veri-tutarliligi-v-2"><b>Node.js ve Prisma ile Yüksek Performanslı Dağıtık Sistemlerde Veri Tutarlılığı ve İzolasyon Stratejileri</b></a><br/><br/>
+      <sub>Dağıtık sistemlerde veri tutarlılığı ve izolasyon, prodüksiyon ortamlarında karşılaşılan en kritik sorunlardan biridir. Bu rehberde, Node.js ve…</sub>
     </td>
   </tr>
   <tr><td colspan="2"><img src="assets/divider.svg" alt="" width="100%"/></td></tr>
   <tr>
-    <td width="260"><a href="https://www.muhammedkoca.com.tr/blog/muhendislik-zihninin-sessiz-dusmani-kognitif-yuk-ve-sistematik-denge-stratejiler-2"><img src="https://www.muhammedkoca.com.tr/api/og/cover.svg?title=M%C3%BChendislik%20Zihninin%20Sessiz%20D%C3%BC%C5%9Fman%C4%B1%3A%20Kognitif%20Y%C3%BCk%20ve%20Sistematik%20Denge%20Stratejileri&category=Ya%C5%9Fam" width="240" alt="Mühendislik Zihninin Sessiz Düşmanı: Kognitif Yük ve Sistematik Denge Stratejileri"/></a></td>
+    <td width="260"><a href="https://www.muhammedkoca.com.tr/blog/node-js-ve-prisma-ile-dagitik-sistemlerde-veri-tutarliligi-eventual-consistency--2"><img src="https://www.muhammedkoca.com.tr/api/og/cover.svg?title=Node.js%20ve%20Prisma%20ile%20Da%C4%9F%C4%B1t%C4%B1k%20Sistemlerde%20Veri%20Tutarl%C4%B1l%C4%B1%C4%9F%C4%B1%3A%20Eventual%20Consistency" width="240" alt="Node.js ve Prisma ile Dağıtık Sistemlerde Veri Tutarlılığı: Eventual Consistency&#x27;den ACID&#x27;e Geçiş Rehberi"/></a></td>
     <td valign="top" width="580">
-      <img src="https://img.shields.io/badge/Yaşam-a855f7?style=flat-square" alt="Yaşam"/> <sub>22 Tem 2026</sub><br/><br/>
-      <a href="https://www.muhammedkoca.com.tr/blog/muhendislik-zihninin-sessiz-dusmani-kognitif-yuk-ve-sistematik-denge-stratejiler-2"><b>Mühendislik Zihninin Sessiz Düşmanı: Kognitif Yük ve Sistematik Denge Stratejileri</b></a><br/><br/>
-      <sub>15 yıllık prodüksiyon krizleri, mikroservis mimarileri ve AI entegrasyonları boyunca öğrendiğim en kritik ders: verimlilik, kodun değil zihnin…</sub>
+      <img src="https://img.shields.io/badge/Rehberler-a855f7?style=flat-square" alt="Rehberler"/> <sub>22 Tem 2026</sub><br/><br/>
+      <a href="https://www.muhammedkoca.com.tr/blog/node-js-ve-prisma-ile-dagitik-sistemlerde-veri-tutarliligi-eventual-consistency--2"><b>Node.js ve Prisma ile Dağıtık Sistemlerde Veri Tutarlılığı: Eventual Consistency&#x27;den ACID&#x27;e Geçiş Rehberi</b></a><br/><br/>
+      <sub>Dağıtık sistemlerde veri tutarlılığı, mühendislerin en büyük kabusudur. Eventual consistency ile başlayan yolculuk, ACID garantileri gerektiren…</sub>
     </td>
   </tr>
   <tr><td colspan="2"><img src="assets/divider.svg" alt="" width="100%"/></td></tr>
   <tr>
-    <td width="260"><a href="https://www.muhammedkoca.com.tr/blog/dagitik-sistemlerde-eventual-consistency-anti-patterns-trade-offs-ve-production-"><img src="https://www.muhammedkoca.com.tr/api/og/cover.svg?title=Da%C4%9F%C4%B1t%C4%B1k%20Sistemlerde%20Eventual%20Consistency%3A%20Anti-Patterns%2C%20Trade-offs%20ve%20Production%E2%80%99dan%20Dersler&category=Mimari" width="240" alt="Dağıtık Sistemlerde Eventual Consistency: Anti-Patterns, Trade-offs ve Production’dan Dersler"/></a></td>
+    <td width="260"><a href="https://www.muhammedkoca.com.tr/blog/security-first-muhendislik-threat-modeling-ile-sifir-guven-mimarisini-uretim-ort"><img src="https://www.muhammedkoca.com.tr/api/og/cover.svg?title=Security-First%20M%C3%BChendislik%3A%20Threat%20Modeling%20ile%20S%C4%B1f%C4%B1r%20G%C3%BCven%20Mimarisini%20%C3%9Cretim%20Ortam%C4%B1nda%20Uygulamak&category=M%C3%BChendislik" width="240" alt="Security-First Mühendislik: Threat Modeling ile Sıfır Güven Mimarisini Üretim Ortamında Uygulamak"/></a></td>
     <td valign="top" width="580">
-      <img src="https://img.shields.io/badge/Mimari-a855f7?style=flat-square" alt="Mimari"/> <sub>22 Tem 2026</sub><br/><br/>
-      <a href="https://www.muhammedkoca.com.tr/blog/dagitik-sistemlerde-eventual-consistency-anti-patterns-trade-offs-ve-production-"><b>Dağıtık Sistemlerde Eventual Consistency: Anti-Patterns, Trade-offs ve Production’dan Dersler</b></a><br/><br/>
-      <sub>Eventual consistency, ölçeklenebilir dağıtık sistemlerin temel taşıdır; ancak yanlış uygulandığında veri kaybına, tutarsızlıklara ve saatler süren…</sub>
+      <img src="https://img.shields.io/badge/Mühendislik-a855f7?style=flat-square" alt="Mühendislik"/> <sub>22 Tem 2026</sub><br/><br/>
+      <a href="https://www.muhammedkoca.com.tr/blog/security-first-muhendislik-threat-modeling-ile-sifir-guven-mimarisini-uretim-ort"><b>Security-First Mühendislik: Threat Modeling ile Sıfır Güven Mimarisini Üretim Ortamında Uygulamak</b></a><br/><br/>
+      <sub>Üretim ortamında yaşanan siber saldırıların %70&#x27;i mimari aşamasında yapılan hatalar nedeniyle gerçekleşiyor. Bu makalede, threat modeling&#x27;in temel…</sub>
     </td>
   </tr>
 </table>
