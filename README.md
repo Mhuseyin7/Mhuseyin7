@@ -148,29 +148,29 @@
 <!-- BLOG-CARDS:START -->
 <table>
   <tr>
-    <td width="260"><a href="https://www.muhammedkoca.com.tr/blog/modern-mikroservis-mimarilerinde-gelecege-dayanikli-sistem-tasarimi-5-kritik-evr"><img src="https://www.muhammedkoca.com.tr/api/og/cover.svg?title=Modern%20Mikroservis%20Mimarilerinde%20Gelece%C4%9Fe%20Dayan%C4%B1kl%C4%B1%20Sistem%20Tasar%C4%B1m%C4%B1%3A%205%20Kritik%20Evrim%20Ad%C4%B1m%C4%B1&category=Rehberler" width="240" alt="Modern Mikroservis Mimarilerinde Geleceğe Dayanıklı Sistem Tasarımı: 5 Kritik Evrim Adımı"/></a></td>
+    <td width="260"><a href="https://www.muhammedkoca.com.tr/blog/yuksek-performansli-muhendislik-yasam-dongusu-7-24-produksiyon-sistemlerinden-og"><img src="https://www.muhammedkoca.com.tr/api/og/cover.svg?title=Y%C3%BCksek%20Performansl%C4%B1%20M%C3%BChendislik%20Ya%C5%9Fam%20D%C3%B6ng%C3%BCs%C3%BC%3A%207%2F24%20Prod%C3%BCksiyon%20Sistemlerinden%20%C3%96%C4%9Frenilen%20Ya%C5%9Fam%20Stratejileri&category=Ya%C5%9Fam" width="240" alt="Yüksek Performanslı Mühendislik Yaşam Döngüsü: 7/24 Prodüksiyon Sistemlerinden Öğrenilen Yaşam Stratejileri"/></a></td>
     <td valign="top" width="580">
-      <img src="https://img.shields.io/badge/Rehberler-a855f7?style=flat-square" alt="Rehberler"/> <sub>21 Tem 2026</sub><br/><br/>
-      <a href="https://www.muhammedkoca.com.tr/blog/modern-mikroservis-mimarilerinde-gelecege-dayanikli-sistem-tasarimi-5-kritik-evr"><b>Modern Mikroservis Mimarilerinde Geleceğe Dayanıklı Sistem Tasarımı: 5 Kritik Evrim Adımı</b></a><br/><br/>
-      <sub>Mikroservis mimarileri, ölçeklenebilirlik vaatleriyle popülerleşse de prodüksiyonda karşılaşılan gerçek sorunlar genellikle mimari evrim…</sub>
+      <img src="https://img.shields.io/badge/Yaşam-a855f7?style=flat-square" alt="Yaşam"/> <sub>22 Tem 2026</sub><br/><br/>
+      <a href="https://www.muhammedkoca.com.tr/blog/yuksek-performansli-muhendislik-yasam-dongusu-7-24-produksiyon-sistemlerinden-og"><b>Yüksek Performanslı Mühendislik Yaşam Döngüsü: 7/24 Prodüksiyon Sistemlerinden Öğrenilen Yaşam Stratejileri</b></a><br/><br/>
+      <sub>15 yıllık prodüksiyon krizleri, gece yarısı rollback&#x27;leri ve sistem çöküşleri bana bir şey öğretti: Mühendislik disiplini sadece kod yazmak değil…</sub>
     </td>
   </tr>
   <tr><td colspan="2"><img src="assets/divider.svg" alt="" width="100%"/></td></tr>
   <tr>
-    <td width="260"><a href="https://www.muhammedkoca.com.tr/blog/kidemli-muhendisler-icin-gelecege-dayanikli-sistem-tasarimi-mimari-evrim-ve-krit"><img src="https://www.muhammedkoca.com.tr/api/og/cover.svg?title=K%C4%B1demli%20M%C3%BChendisler%20%C4%B0%C3%A7in%20Gelece%C4%9Fe%20Dayan%C4%B1kl%C4%B1%20Sistem%20Tasar%C4%B1m%C4%B1%3A%20Mimari%20Evrim%20ve%20Kritik%20Trade-off" width="240" alt="Kıdemli Mühendisler İçin Geleceğe Dayanıklı Sistem Tasarımı: Mimari Evrim ve Kritik Trade-off&#x27;lar"/></a></td>
+    <td width="260"><a href="https://www.muhammedkoca.com.tr/blog/muhendislik-zihninin-sessiz-dusmani-kognitif-yuk-ve-sistematik-denge-stratejiler-2"><img src="https://www.muhammedkoca.com.tr/api/og/cover.svg?title=M%C3%BChendislik%20Zihninin%20Sessiz%20D%C3%BC%C5%9Fman%C4%B1%3A%20Kognitif%20Y%C3%BCk%20ve%20Sistematik%20Denge%20Stratejileri&category=Ya%C5%9Fam" width="240" alt="Mühendislik Zihninin Sessiz Düşmanı: Kognitif Yük ve Sistematik Denge Stratejileri"/></a></td>
     <td valign="top" width="580">
-      <img src="https://img.shields.io/badge/Kariyer-a855f7?style=flat-square" alt="Kariyer"/> <sub>21 Tem 2026</sub><br/><br/>
-      <a href="https://www.muhammedkoca.com.tr/blog/kidemli-muhendisler-icin-gelecege-dayanikli-sistem-tasarimi-mimari-evrim-ve-krit"><b>Kıdemli Mühendisler İçin Geleceğe Dayanıklı Sistem Tasarımı: Mimari Evrim ve Kritik Trade-off&#x27;lar</b></a><br/><br/>
-      <sub>Sistemler büyüdükçe teknik borç katlanarak artar. Bu makalede, 15 yıllık prodüksiyon tecrübesinden süzülen mimari evrim stratejilerini, geleceğe…</sub>
+      <img src="https://img.shields.io/badge/Yaşam-a855f7?style=flat-square" alt="Yaşam"/> <sub>22 Tem 2026</sub><br/><br/>
+      <a href="https://www.muhammedkoca.com.tr/blog/muhendislik-zihninin-sessiz-dusmani-kognitif-yuk-ve-sistematik-denge-stratejiler-2"><b>Mühendislik Zihninin Sessiz Düşmanı: Kognitif Yük ve Sistematik Denge Stratejileri</b></a><br/><br/>
+      <sub>15 yıllık prodüksiyon krizleri, mikroservis mimarileri ve AI entegrasyonları boyunca öğrendiğim en kritik ders: verimlilik, kodun değil zihnin…</sub>
     </td>
   </tr>
   <tr><td colspan="2"><img src="assets/divider.svg" alt="" width="100%"/></td></tr>
   <tr>
-    <td width="260"><a href="https://www.muhammedkoca.com.tr/blog/node-js-ve-prisma-ile-yuksek-trafikli-api-lerde-performans-darbogazlarini-ortada"><img src="https://www.muhammedkoca.com.tr/api/og/cover.svg?title=Node.js%20ve%20Prisma%20ile%20Y%C3%BCksek%20Trafikli%20API" width="240" alt="Node.js ve Prisma ile Yüksek Trafikli API&#x27;lerde Performans Darboğazlarını Ortadan Kaldırma Rehberi"/></a></td>
+    <td width="260"><a href="https://www.muhammedkoca.com.tr/blog/dagitik-sistemlerde-eventual-consistency-anti-patterns-trade-offs-ve-production-"><img src="https://www.muhammedkoca.com.tr/api/og/cover.svg?title=Da%C4%9F%C4%B1t%C4%B1k%20Sistemlerde%20Eventual%20Consistency%3A%20Anti-Patterns%2C%20Trade-offs%20ve%20Production%E2%80%99dan%20Dersler&category=Mimari" width="240" alt="Dağıtık Sistemlerde Eventual Consistency: Anti-Patterns, Trade-offs ve Production’dan Dersler"/></a></td>
     <td valign="top" width="580">
-      <img src="https://img.shields.io/badge/Rehberler-a855f7?style=flat-square" alt="Rehberler"/> <sub>21 Tem 2026</sub><br/><br/>
-      <a href="https://www.muhammedkoca.com.tr/blog/node-js-ve-prisma-ile-yuksek-trafikli-api-lerde-performans-darbogazlarini-ortada"><b>Node.js ve Prisma ile Yüksek Trafikli API&#x27;lerde Performans Darboğazlarını Ortadan Kaldırma Rehberi</b></a><br/><br/>
-      <sub>Yüksek trafikli Node.js API&#x27;lerinde karşılaşılan performans darboğazlarını tespit etmek ve çözmek için adım adım bir rehber. Prisma ORM&#x27;in veritabanı…</sub>
+      <img src="https://img.shields.io/badge/Mimari-a855f7?style=flat-square" alt="Mimari"/> <sub>22 Tem 2026</sub><br/><br/>
+      <a href="https://www.muhammedkoca.com.tr/blog/dagitik-sistemlerde-eventual-consistency-anti-patterns-trade-offs-ve-production-"><b>Dağıtık Sistemlerde Eventual Consistency: Anti-Patterns, Trade-offs ve Production’dan Dersler</b></a><br/><br/>
+      <sub>Eventual consistency, ölçeklenebilir dağıtık sistemlerin temel taşıdır; ancak yanlış uygulandığında veri kaybına, tutarsızlıklara ve saatler süren…</sub>
     </td>
   </tr>
 </table>
