@@ -30,7 +30,7 @@
     <animateMotion dur="7s" begin="2s" repeatCount="indefinite" path="M 40.0,186.0 Q 40.0,186.0 56.0,186.0 Q 72.0,186.0 88.0,186.0 Q 104.0,186.0 120.0,186.0 Q 136.0,186.0 152.0,186.0 Q 168.0,186.0 184.0,186.0 Q 200.0,186.0 216.0,186.0 Q 232.0,186.0 248.0,186.0 Q 264.0,186.0 280.0,186.0 Q 296.0,186.0 312.0,186.0 Q 328.0,186.0 344.0,186.0 Q 360.0,186.0 376.0,186.0 Q 392.0,186.0 408.0,183.8 Q 424.0,181.6 440.0,183.8 Q 456.0,186.0 472.0,186.0 Q 488.0,186.0 504.0,186.0 Q 520.0,186.0 536.0,186.0 Q 552.0,186.0 568.0,186.0 Q 584.0,186.0 600.0,186.0 Q 616.0,186.0 632.0,186.0 Q 648.0,186.0 664.0,186.0 Q 680.0,186.0 696.0,179.3 Q 712.0,172.7 728.0,169.3 Q 744.0,166.0 760.0,176.0 Q 776.0,186.0 792.0,116.0 Q 808.0,46.0 824.0,116.0 L 840.0,186.0"/>
   </circle>
   <text x="40" y="26" font-family="Consolas, monospace" font-size="12" fill="#94a3b8">2025-07-20</text>
-  <text x="840" y="26" text-anchor="end" font-family="Consolas, monospace" font-size="12" fill="#94a3b8">2026-07-22</text>
+  <text x="840" y="26" text-anchor="end" font-family="Consolas, monospace" font-size="12" fill="#94a3b8">2026-07-23</text>
   <text x="440.0" y="26" text-anchor="middle" font-family="Segoe UI, Arial, sans-serif" font-size="13" fill="#e2e8f0">haftalık ort. <tspan fill="#22d3ee" font-weight="700">3.1</tspan> katkı</text>
 
 </svg>
