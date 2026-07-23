@@ -148,29 +148,29 @@
 <!-- BLOG-CARDS:START -->
 <table>
   <tr>
-    <td width="260"><a href="https://www.muhammedkoca.com.tr/blog/senior-muhendisten-staff-engineer-a-teknik-liderlik-yolunda-kritik-donusum-rehbe"><img src="https://www.muhammedkoca.com.tr/api/og/cover.svg?title=Senior%20M%C3%BChendisten%20Staff%20Engineer" width="240" alt="Senior Mühendisten Staff Engineer&#x27;a: Teknik Liderlik Yolunda Kritik Dönüşüm Rehberi"/></a></td>
+    <td width="260"><a href="https://www.muhammedkoca.com.tr/blog/sistem-tasariminin-evrimi-yasaminizi-gelecege-hazirlamanin-muhendislik-ilkeleri-2"><img src="https://www.muhammedkoca.com.tr/api/og/cover.svg?title=Sistem%20Tasar%C4%B1m%C4%B1n%C4%B1n%20Evrimi%3A%20Ya%C5%9Fam%C4%B1n%C4%B1z%C4%B1%20Gelece%C4%9Fe%20Haz%C4%B1rlaman%C4%B1n%20M%C3%BChendislik%20%C4%B0lkeleri&category=Ya%C5%9Fam" width="240" alt="Sistem Tasarımının Evrimi: Yaşamınızı Geleceğe Hazırlamanın Mühendislik İlkeleri"/></a></td>
     <td valign="top" width="580">
-      <img src="https://img.shields.io/badge/Kariyer-a855f7?style=flat-square" alt="Kariyer"/> <sub>23 Tem 2026</sub><br/><br/>
-      <a href="https://www.muhammedkoca.com.tr/blog/senior-muhendisten-staff-engineer-a-teknik-liderlik-yolunda-kritik-donusum-rehbe"><b>Senior Mühendisten Staff Engineer&#x27;a: Teknik Liderlik Yolunda Kritik Dönüşüm Rehberi</b></a><br/><br/>
-      <sub>Staff Engineer olmak sadece kod yazmaktan ibaret değil; sistemik düşünme, mimari kararlar ve organizasyonel etki yaratma becerisi gerektirir. Bu…</sub>
+      <img src="https://img.shields.io/badge/Yaşam-a855f7?style=flat-square" alt="Yaşam"/> <sub>23 Tem 2026</sub><br/><br/>
+      <a href="https://www.muhammedkoca.com.tr/blog/sistem-tasariminin-evrimi-yasaminizi-gelecege-hazirlamanin-muhendislik-ilkeleri-2"><b>Sistem Tasarımının Evrimi: Yaşamınızı Geleceğe Hazırlamanın Mühendislik İlkeleri</b></a><br/><br/>
+      <sub>Bir mühendisin yaşamını optimize etmesi, dağıtık sistemler tasarlamaktan farksızdır: ölçeklenebilirlik, hata toleransı ve verimlilik kritik öneme…</sub>
     </td>
   </tr>
   <tr><td colspan="2"><img src="assets/divider.svg" alt="" width="100%"/></td></tr>
   <tr>
-    <td width="260"><a href="https://www.muhammedkoca.com.tr/blog/dagitik-sistemlerde-eventual-consistency-ve-conflict-free-replicated-data-types--5"><img src="https://www.muhammedkoca.com.tr/api/og/cover.svg?title=Da%C4%9F%C4%B1t%C4%B1k%20Sistemlerde%20Eventual%20Consistency%20ve%20Conflict-Free%20Replicated%20Data%20Types%20(CRDTs)%3A%20Node.js%20ile%20Pratik%20Uygulama%20ve%20Prod%C3%BCksiyon%20Trade-off" width="240" alt="Dağıtık Sistemlerde Eventual Consistency ve Conflict-Free Replicated Data Types (CRDTs): Node.js ile Pratik Uygulama ve Prodüksiyon Trade-off&#x27;ları"/></a></td>
+    <td width="260"><a href="https://www.muhammedkoca.com.tr/blog/dagitik-sistemlerde-performans-darbogazlarini-tespit-ve-cozum-stratejileri-node--3"><img src="https://www.muhammedkoca.com.tr/api/og/cover.svg?title=Da%C4%9F%C4%B1t%C4%B1k%20Sistemlerde%20Performans%20Darbo%C4%9Fazlar%C4%B1n%C4%B1%20Tespit%20ve%20%C3%87%C3%B6z%C3%BCm%20Stratejileri%3A%20Node.js%2C%20Prisma%20ve%20Mikroservislerle%20Uygulamal%C4%B1%20K%C4%B1lavuz&category=Mimari" width="240" alt="Dağıtık Sistemlerde Performans Darboğazlarını Tespit ve Çözüm Stratejileri: Node.js, Prisma ve Mikroservislerle Uygulamalı Kılavuz"/></a></td>
     <td valign="top" width="580">
       <img src="https://img.shields.io/badge/Mimari-a855f7?style=flat-square" alt="Mimari"/> <sub>23 Tem 2026</sub><br/><br/>
-      <a href="https://www.muhammedkoca.com.tr/blog/dagitik-sistemlerde-eventual-consistency-ve-conflict-free-replicated-data-types--5"><b>Dağıtık Sistemlerde Eventual Consistency ve Conflict-Free Replicated Data Types (CRDTs): Node.js ile Pratik Uygulama ve Prodüksiyon Trade-off&#x27;ları</b></a><br/><br/>
-      <sub>Dağıtık sistemlerde tutarlılık (consistency) ve yüksek erişilebilirlik (availability) arasındaki dengeyi sağlamak, CAP teoremi ile sınırlıdır…</sub>
+      <a href="https://www.muhammedkoca.com.tr/blog/dagitik-sistemlerde-performans-darbogazlarini-tespit-ve-cozum-stratejileri-node--3"><b>Dağıtık Sistemlerde Performans Darboğazlarını Tespit ve Çözüm Stratejileri: Node.js, Prisma ve Mikroservislerle Uygulamalı Kılavuz</b></a><br/><br/>
+      <sub>Dağıtık sistemlerde performans darboğazları, çoğu zaman görünmez bir düşman gibi çalışır: loglarda iz bırakmaz, alarm tetiklemez, ama sisteminizi…</sub>
     </td>
   </tr>
   <tr><td colspan="2"><img src="assets/divider.svg" alt="" width="100%"/></td></tr>
   <tr>
-    <td width="260"><a href="https://www.muhammedkoca.com.tr/blog/guvenlik-odakli-muhendislik-threat-modeling-ile-sifir-guven-mimarisini-uretimde-"><img src="https://www.muhammedkoca.com.tr/api/og/cover.svg?title=G%C3%BCvenlik%20Odakl%C4%B1%20M%C3%BChendislik%3A%20Threat%20Modeling%20ile%20S%C4%B1f%C4%B1r%20G%C3%BCven%20Mimarisini%20%C3%9Cretimde%20Uygulamak&category=M%C3%BChendislik" width="240" alt="Güvenlik Odaklı Mühendislik: Threat Modeling ile Sıfır Güven Mimarisini Üretimde Uygulamak"/></a></td>
+    <td width="260"><a href="https://www.muhammedkoca.com.tr/blog/node-js-ve-prisma-ile-yuksek-trafikli-mikroservislerde-veritabani-cakismalarini-"><img src="https://www.muhammedkoca.com.tr/api/og/cover.svg?title=Node.js%20ve%20Prisma%20ile%20Y%C3%BCksek%20Trafikli%20Mikroservislerde%20Veritaban%C4%B1%20%C3%87ak%C4%B1%C5%9Fmalar%C4%B1n%C4%B1%20%C3%96nleme%20Rehberi%3A%20Prod%C3%BCksiyon%20Vakalar%C4%B1%20ve%20%C3%87%C3%B6z%C3%BCm%20Stratejileri&category=Rehberler" width="240" alt="Node.js ve Prisma ile Yüksek Trafikli Mikroservislerde Veritabanı Çakışmalarını Önleme Rehberi: Prodüksiyon Vakaları ve Çözüm Stratejileri"/></a></td>
     <td valign="top" width="580">
-      <img src="https://img.shields.io/badge/Mühendislik-a855f7?style=flat-square" alt="Mühendislik"/> <sub>23 Tem 2026</sub><br/><br/>
-      <a href="https://www.muhammedkoca.com.tr/blog/guvenlik-odakli-muhendislik-threat-modeling-ile-sifir-guven-mimarisini-uretimde-"><b>Güvenlik Odaklı Mühendislik: Threat Modeling ile Sıfır Güven Mimarisini Üretimde Uygulamak</b></a><br/><br/>
-      <sub>Kurumsal sistemlerde güvenlik bir eklenti değil, mimarinin merkezinde olmalıdır. Bu makalede, threat modeling sürecini adım adım ele alıyor, Node.js…</sub>
+      <img src="https://img.shields.io/badge/Rehberler-a855f7?style=flat-square" alt="Rehberler"/> <sub>23 Tem 2026</sub><br/><br/>
+      <a href="https://www.muhammedkoca.com.tr/blog/node-js-ve-prisma-ile-yuksek-trafikli-mikroservislerde-veritabani-cakismalarini-"><b>Node.js ve Prisma ile Yüksek Trafikli Mikroservislerde Veritabanı Çakışmalarını Önleme Rehberi: Prodüksiyon Vakaları ve Çözüm Stratejileri</b></a><br/><br/>
+      <sub>Yüksek trafikli mikroservislerde veritabanı çakışmaları, sisteminizin çökmesine veya veri tutarsızlıklarına yol açabilir. Bu rehberde, Node.js ve…</sub>
     </td>
   </tr>
 </table>
