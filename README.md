@@ -148,29 +148,29 @@
 <!-- BLOG-CARDS:START -->
 <table>
   <tr>
-    <td width="260"><a href="https://www.muhammedkoca.com.tr/blog/senior-muhendislikten-liderlige-produksiyon-krizlerini-kariyer-firsatina-donustu-2"><img src="https://www.muhammedkoca.com.tr/api/og/cover.svg?title=Senior%20M%C3%BChendislikten%20Liderli%C4%9Fe%3A%20Prod%C3%BCksiyon%20Krizlerini%20Kariyer%20F%C4%B1rsat%C4%B1na%20D%C3%B6n%C3%BC%C5%9Ft%C3%BCrmenin%205%20Stratejik%20Ad%C4%B1m%C4%B1&category=Kariyer" width="240" alt="Senior Mühendislikten Liderliğe: Prodüksiyon Krizlerini Kariyer Fırsatına Dönüştürmenin 5 Stratejik Adımı"/></a></td>
+    <td width="260"><a href="https://www.muhammedkoca.com.tr/blog/senior-muhendisten-staff-engineer-a-teknik-liderlik-yolunda-kritik-donusum-rehbe"><img src="https://www.muhammedkoca.com.tr/api/og/cover.svg?title=Senior%20M%C3%BChendisten%20Staff%20Engineer" width="240" alt="Senior Mühendisten Staff Engineer&#x27;a: Teknik Liderlik Yolunda Kritik Dönüşüm Rehberi"/></a></td>
     <td valign="top" width="580">
       <img src="https://img.shields.io/badge/Kariyer-a855f7?style=flat-square" alt="Kariyer"/> <sub>23 Tem 2026</sub><br/><br/>
-      <a href="https://www.muhammedkoca.com.tr/blog/senior-muhendislikten-liderlige-produksiyon-krizlerini-kariyer-firsatina-donustu-2"><b>Senior Mühendislikten Liderliğe: Prodüksiyon Krizlerini Kariyer Fırsatına Dönüştürmenin 5 Stratejik Adımı</b></a><br/><br/>
-      <sub>Prodüksiyon krizleri, teknik borç ve sistem çöküşleri aslında kariyerinizdeki en büyük sıçrama tahtalarıdır. Bu makalede, 15 yıllık kurumsal altyapı…</sub>
+      <a href="https://www.muhammedkoca.com.tr/blog/senior-muhendisten-staff-engineer-a-teknik-liderlik-yolunda-kritik-donusum-rehbe"><b>Senior Mühendisten Staff Engineer&#x27;a: Teknik Liderlik Yolunda Kritik Dönüşüm Rehberi</b></a><br/><br/>
+      <sub>Staff Engineer olmak sadece kod yazmaktan ibaret değil; sistemik düşünme, mimari kararlar ve organizasyonel etki yaratma becerisi gerektirir. Bu…</sub>
     </td>
   </tr>
   <tr><td colspan="2"><img src="assets/divider.svg" alt="" width="100%"/></td></tr>
   <tr>
-    <td width="260"><a href="https://www.muhammedkoca.com.tr/blog/node-js-ve-prisma-ile-veritabani-tabanli-rate-limiting-olceklenebilir-ve-guvenli"><img src="https://www.muhammedkoca.com.tr/api/og/cover.svg?title=Node.js%20ve%20Prisma%20ile%20Veritaban%C4%B1%20Tabanl%C4%B1%20Rate%20Limiting%3A%20%C3%96l%C3%A7eklenebilir%20ve%20G%C3%BCvenli%20API" width="240" alt="Node.js ve Prisma ile Veritabanı Tabanlı Rate Limiting: Ölçeklenebilir ve Güvenli API&#x27;ler İçin Mimari Rehber"/></a></td>
-    <td valign="top" width="580">
-      <img src="https://img.shields.io/badge/Mühendislik-a855f7?style=flat-square" alt="Mühendislik"/> <sub>23 Tem 2026</sub><br/><br/>
-      <a href="https://www.muhammedkoca.com.tr/blog/node-js-ve-prisma-ile-veritabani-tabanli-rate-limiting-olceklenebilir-ve-guvenli"><b>Node.js ve Prisma ile Veritabanı Tabanlı Rate Limiting: Ölçeklenebilir ve Güvenli API&#x27;ler İçin Mimari Rehber</b></a><br/><br/>
-      <sub>API&#x27;lerinizi DDoS saldırılarına, brute-force ataklarına ve ani trafik patlamalarına karşı korumak için veritabanı tabanlı rate limiting…</sub>
-    </td>
-  </tr>
-  <tr><td colspan="2"><img src="assets/divider.svg" alt="" width="100%"/></td></tr>
-  <tr>
-    <td width="260"><a href="https://www.muhammedkoca.com.tr/blog/dagitik-sistemlerde-veri-tutarliligi-saga-pattern-ile-acid-den-eventual-consiste-2"><img src="https://www.muhammedkoca.com.tr/api/og/cover.svg?title=Da%C4%9F%C4%B1t%C4%B1k%20Sistemlerde%20Veri%20Tutarl%C4%B1l%C4%B1%C4%9F%C4%B1%3A%20Saga%20Pattern%20ile%20ACID" width="240" alt="Dağıtık Sistemlerde Veri Tutarlılığı: Saga Pattern ile ACID&#x27;den Eventual Consistency&#x27;ye Geçiş Rehberi"/></a></td>
+    <td width="260"><a href="https://www.muhammedkoca.com.tr/blog/dagitik-sistemlerde-eventual-consistency-ve-conflict-free-replicated-data-types--5"><img src="https://www.muhammedkoca.com.tr/api/og/cover.svg?title=Da%C4%9F%C4%B1t%C4%B1k%20Sistemlerde%20Eventual%20Consistency%20ve%20Conflict-Free%20Replicated%20Data%20Types%20(CRDTs)%3A%20Node.js%20ile%20Pratik%20Uygulama%20ve%20Prod%C3%BCksiyon%20Trade-off" width="240" alt="Dağıtık Sistemlerde Eventual Consistency ve Conflict-Free Replicated Data Types (CRDTs): Node.js ile Pratik Uygulama ve Prodüksiyon Trade-off&#x27;ları"/></a></td>
     <td valign="top" width="580">
       <img src="https://img.shields.io/badge/Mimari-a855f7?style=flat-square" alt="Mimari"/> <sub>23 Tem 2026</sub><br/><br/>
-      <a href="https://www.muhammedkoca.com.tr/blog/dagitik-sistemlerde-veri-tutarliligi-saga-pattern-ile-acid-den-eventual-consiste-2"><b>Dağıtık Sistemlerde Veri Tutarlılığı: Saga Pattern ile ACID&#x27;den Eventual Consistency&#x27;ye Geçiş Rehberi</b></a><br/><br/>
-      <sub>Dağıtık sistemlerde ACID işlemleri global ölçekte sürdürmek imkansızdır. Saga Pattern, mikroservis mimarilerinde veri tutarlılığını sağlarken…</sub>
+      <a href="https://www.muhammedkoca.com.tr/blog/dagitik-sistemlerde-eventual-consistency-ve-conflict-free-replicated-data-types--5"><b>Dağıtık Sistemlerde Eventual Consistency ve Conflict-Free Replicated Data Types (CRDTs): Node.js ile Pratik Uygulama ve Prodüksiyon Trade-off&#x27;ları</b></a><br/><br/>
+      <sub>Dağıtık sistemlerde tutarlılık (consistency) ve yüksek erişilebilirlik (availability) arasındaki dengeyi sağlamak, CAP teoremi ile sınırlıdır…</sub>
+    </td>
+  </tr>
+  <tr><td colspan="2"><img src="assets/divider.svg" alt="" width="100%"/></td></tr>
+  <tr>
+    <td width="260"><a href="https://www.muhammedkoca.com.tr/blog/guvenlik-odakli-muhendislik-threat-modeling-ile-sifir-guven-mimarisini-uretimde-"><img src="https://www.muhammedkoca.com.tr/api/og/cover.svg?title=G%C3%BCvenlik%20Odakl%C4%B1%20M%C3%BChendislik%3A%20Threat%20Modeling%20ile%20S%C4%B1f%C4%B1r%20G%C3%BCven%20Mimarisini%20%C3%9Cretimde%20Uygulamak&category=M%C3%BChendislik" width="240" alt="Güvenlik Odaklı Mühendislik: Threat Modeling ile Sıfır Güven Mimarisini Üretimde Uygulamak"/></a></td>
+    <td valign="top" width="580">
+      <img src="https://img.shields.io/badge/Mühendislik-a855f7?style=flat-square" alt="Mühendislik"/> <sub>23 Tem 2026</sub><br/><br/>
+      <a href="https://www.muhammedkoca.com.tr/blog/guvenlik-odakli-muhendislik-threat-modeling-ile-sifir-guven-mimarisini-uretimde-"><b>Güvenlik Odaklı Mühendislik: Threat Modeling ile Sıfır Güven Mimarisini Üretimde Uygulamak</b></a><br/><br/>
+      <sub>Kurumsal sistemlerde güvenlik bir eklenti değil, mimarinin merkezinde olmalıdır. Bu makalede, threat modeling sürecini adım adım ele alıyor, Node.js…</sub>
     </td>
   </tr>
 </table>
