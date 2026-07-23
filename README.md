@@ -148,29 +148,29 @@
 <!-- BLOG-CARDS:START -->
 <table>
   <tr>
-    <td width="260"><a href="https://www.muhammedkoca.com.tr/blog/kidemli-muhendisler-icin-gelecege-dayanikli-sistem-tasarimi-mimari-evrim-ve-stra-2"><img src="https://www.muhammedkoca.com.tr/api/og/cover.svg?title=K%C4%B1demli%20M%C3%BChendisler%20%C4%B0%C3%A7in%20Gelece%C4%9Fe%20Dayan%C4%B1kl%C4%B1%20Sistem%20Tasar%C4%B1m%C4%B1%3A%20Mimari%20Evrim%20ve%20Stratejik%20Trade-off" width="240" alt="Kıdemli Mühendisler İçin Geleceğe Dayanıklı Sistem Tasarımı: Mimari Evrim ve Stratejik Trade-off&#x27;lar"/></a></td>
+    <td width="260"><a href="https://www.muhammedkoca.com.tr/blog/senior-muhendislikten-liderlige-produksiyon-krizlerini-kariyer-firsatina-donustu-2"><img src="https://www.muhammedkoca.com.tr/api/og/cover.svg?title=Senior%20M%C3%BChendislikten%20Liderli%C4%9Fe%3A%20Prod%C3%BCksiyon%20Krizlerini%20Kariyer%20F%C4%B1rsat%C4%B1na%20D%C3%B6n%C3%BC%C5%9Ft%C3%BCrmenin%205%20Stratejik%20Ad%C4%B1m%C4%B1&category=Kariyer" width="240" alt="Senior Mühendislikten Liderliğe: Prodüksiyon Krizlerini Kariyer Fırsatına Dönüştürmenin 5 Stratejik Adımı"/></a></td>
     <td valign="top" width="580">
-      <img src="https://img.shields.io/badge/Kariyer-a855f7?style=flat-square" alt="Kariyer"/> <sub>22 Tem 2026</sub><br/><br/>
-      <a href="https://www.muhammedkoca.com.tr/blog/kidemli-muhendisler-icin-gelecege-dayanikli-sistem-tasarimi-mimari-evrim-ve-stra-2"><b>Kıdemli Mühendisler İçin Geleceğe Dayanıklı Sistem Tasarımı: Mimari Evrim ve Stratejik Trade-off&#x27;lar</b></a><br/><br/>
-      <sub>Sistemleriniz 5 yıl sonra hala ayakta kalacak mı? Kıdemli mühendisler için kritik mimari kararlar, prodüksiyon vakaları ve geleceğe dayanıklı tasarım…</sub>
+      <img src="https://img.shields.io/badge/Kariyer-a855f7?style=flat-square" alt="Kariyer"/> <sub>23 Tem 2026</sub><br/><br/>
+      <a href="https://www.muhammedkoca.com.tr/blog/senior-muhendislikten-liderlige-produksiyon-krizlerini-kariyer-firsatina-donustu-2"><b>Senior Mühendislikten Liderliğe: Prodüksiyon Krizlerini Kariyer Fırsatına Dönüştürmenin 5 Stratejik Adımı</b></a><br/><br/>
+      <sub>Prodüksiyon krizleri, teknik borç ve sistem çöküşleri aslında kariyerinizdeki en büyük sıçrama tahtalarıdır. Bu makalede, 15 yıllık kurumsal altyapı…</sub>
     </td>
   </tr>
   <tr><td colspan="2"><img src="assets/divider.svg" alt="" width="100%"/></td></tr>
   <tr>
-    <td width="260"><a href="https://www.muhammedkoca.com.tr/blog/senior-muhendisler-icin-performans-darbogazlarini-tespit-ve-cozme-stratejileri-p-2"><img src="https://www.muhammedkoca.com.tr/api/og/cover.svg?title=Senior%20M%C3%BChendisler%20%C4%B0%C3%A7in%20Performans%20Darbo%C4%9Fazlar%C4%B1n%C4%B1%20Tespit%20ve%20%C3%87%C3%B6zme%20Stratejileri%3A%20Prod%C3%BCksiyon%20Krizlerinden%20%C3%87%C4%B1kar%C4%B1lan%20Dersler&category=Kariyer" width="240" alt="Senior Mühendisler İçin Performans Darboğazlarını Tespit ve Çözme Stratejileri: Prodüksiyon Krizlerinden Çıkarılan Dersler"/></a></td>
+    <td width="260"><a href="https://www.muhammedkoca.com.tr/blog/node-js-ve-prisma-ile-veritabani-tabanli-rate-limiting-olceklenebilir-ve-guvenli"><img src="https://www.muhammedkoca.com.tr/api/og/cover.svg?title=Node.js%20ve%20Prisma%20ile%20Veritaban%C4%B1%20Tabanl%C4%B1%20Rate%20Limiting%3A%20%C3%96l%C3%A7eklenebilir%20ve%20G%C3%BCvenli%20API" width="240" alt="Node.js ve Prisma ile Veritabanı Tabanlı Rate Limiting: Ölçeklenebilir ve Güvenli API&#x27;ler İçin Mimari Rehber"/></a></td>
     <td valign="top" width="580">
-      <img src="https://img.shields.io/badge/Kariyer-a855f7?style=flat-square" alt="Kariyer"/> <sub>22 Tem 2026</sub><br/><br/>
-      <a href="https://www.muhammedkoca.com.tr/blog/senior-muhendisler-icin-performans-darbogazlarini-tespit-ve-cozme-stratejileri-p-2"><b>Senior Mühendisler İçin Performans Darboğazlarını Tespit ve Çözme Stratejileri: Prodüksiyon Krizlerinden Çıkarılan Dersler</b></a><br/><br/>
-      <sub>Prodüksiyon ortamında karşılaşılan performans darboğazları, sistemlerin çökmesine ve milyonlarca liralık kayıplara yol açabilir. Bu makalede, 15…</sub>
+      <img src="https://img.shields.io/badge/Mühendislik-a855f7?style=flat-square" alt="Mühendislik"/> <sub>23 Tem 2026</sub><br/><br/>
+      <a href="https://www.muhammedkoca.com.tr/blog/node-js-ve-prisma-ile-veritabani-tabanli-rate-limiting-olceklenebilir-ve-guvenli"><b>Node.js ve Prisma ile Veritabanı Tabanlı Rate Limiting: Ölçeklenebilir ve Güvenli API&#x27;ler İçin Mimari Rehber</b></a><br/><br/>
+      <sub>API&#x27;lerinizi DDoS saldırılarına, brute-force ataklarına ve ani trafik patlamalarına karşı korumak için veritabanı tabanlı rate limiting…</sub>
     </td>
   </tr>
   <tr><td colspan="2"><img src="assets/divider.svg" alt="" width="100%"/></td></tr>
   <tr>
-    <td width="260"><a href="https://www.muhammedkoca.com.tr/blog/senior-muhendisten-liderlige-produksiyon-krizlerinden-cikan-5-kariyer-dersi-ve-m"><img src="https://www.muhammedkoca.com.tr/api/og/cover.svg?title=Senior%20M%C3%BChendisten%20Liderli%C4%9Fe%3A%20Prod%C3%BCksiyon%20Krizlerinden%20%C3%87%C4%B1kan%205%20Kariyer%20Dersi%20ve%20Mimari%20Stratejiler&category=Kariyer" width="240" alt="Senior Mühendisten Liderliğe: Prodüksiyon Krizlerinden Çıkan 5 Kariyer Dersi ve Mimari Stratejiler"/></a></td>
+    <td width="260"><a href="https://www.muhammedkoca.com.tr/blog/dagitik-sistemlerde-veri-tutarliligi-saga-pattern-ile-acid-den-eventual-consiste-2"><img src="https://www.muhammedkoca.com.tr/api/og/cover.svg?title=Da%C4%9F%C4%B1t%C4%B1k%20Sistemlerde%20Veri%20Tutarl%C4%B1l%C4%B1%C4%9F%C4%B1%3A%20Saga%20Pattern%20ile%20ACID" width="240" alt="Dağıtık Sistemlerde Veri Tutarlılığı: Saga Pattern ile ACID&#x27;den Eventual Consistency&#x27;ye Geçiş Rehberi"/></a></td>
     <td valign="top" width="580">
-      <img src="https://img.shields.io/badge/Kariyer-a855f7?style=flat-square" alt="Kariyer"/> <sub>22 Tem 2026</sub><br/><br/>
-      <a href="https://www.muhammedkoca.com.tr/blog/senior-muhendisten-liderlige-produksiyon-krizlerinden-cikan-5-kariyer-dersi-ve-m"><b>Senior Mühendisten Liderliğe: Prodüksiyon Krizlerinden Çıkan 5 Kariyer Dersi ve Mimari Stratejiler</b></a><br/><br/>
-      <sub>15 yıllık prodüksiyon tecrübesinden süzülen bu rehber, senior mühendislerin liderlik basamaklarını tırmanırken karşılaştıkları kritik krizleri ve bu…</sub>
+      <img src="https://img.shields.io/badge/Mimari-a855f7?style=flat-square" alt="Mimari"/> <sub>23 Tem 2026</sub><br/><br/>
+      <a href="https://www.muhammedkoca.com.tr/blog/dagitik-sistemlerde-veri-tutarliligi-saga-pattern-ile-acid-den-eventual-consiste-2"><b>Dağıtık Sistemlerde Veri Tutarlılığı: Saga Pattern ile ACID&#x27;den Eventual Consistency&#x27;ye Geçiş Rehberi</b></a><br/><br/>
+      <sub>Dağıtık sistemlerde ACID işlemleri global ölçekte sürdürmek imkansızdır. Saga Pattern, mikroservis mimarilerinde veri tutarlılığını sağlarken…</sub>
     </td>
   </tr>
 </table>
