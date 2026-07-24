@@ -148,29 +148,29 @@
 <!-- BLOG-CARDS:START -->
 <table>
   <tr>
-    <td width="260"><a href="https://www.muhammedkoca.com.tr/blog/node-js-ve-prisma-ile-yuksek-performansli-veritabani-okuma-yazma-ayrimi-produksi"><img src="https://www.muhammedkoca.com.tr/api/og/cover.svg?title=Node.js%20ve%20Prisma%20ile%20Y%C3%BCksek%20Performansl%C4%B1%20Veritaban%C4%B1%20Okuma%2FYazma%20Ayr%C4%B1m%C4%B1%3A%20Prod%C3%BCksiyon%20Kan%C4%B1tl%C4%B1%20Mimariler%20ve%20Kritik%20Optimizasyonlar&category=M%C3%BChendislik" width="240" alt="Node.js ve Prisma ile Yüksek Performanslı Veritabanı Okuma/Yazma Ayrımı: Prodüksiyon Kanıtlı Mimariler ve Kritik Optimizasyonlar"/></a></td>
+    <td width="260"><a href="https://www.muhammedkoca.com.tr/blog/sistem-tasariminda-gelecege-dayaniklilik-mimari-evrim-ve-kariyerinizi-korumanin-"><img src="https://www.muhammedkoca.com.tr/api/og/cover.svg?title=Sistem%20Tasar%C4%B1m%C4%B1nda%20Gelece%C4%9Fe%20Dayan%C4%B1kl%C4%B1l%C4%B1k%3A%20Mimari%20Evrim%20ve%20Kariyerinizi%20Koruman%C4%B1n%205%20Kritik%20Stratejisi&category=Kariyer" width="240" alt="Sistem Tasarımında Geleceğe Dayanıklılık: Mimari Evrim ve Kariyerinizi Korumanın 5 Kritik Stratejisi"/></a></td>
     <td valign="top" width="580">
-      <img src="https://img.shields.io/badge/Mühendislik-a855f7?style=flat-square" alt="Mühendislik"/> <sub>24 Tem 2026</sub><br/><br/>
-      <a href="https://www.muhammedkoca.com.tr/blog/node-js-ve-prisma-ile-yuksek-performansli-veritabani-okuma-yazma-ayrimi-produksi"><b>Node.js ve Prisma ile Yüksek Performanslı Veritabanı Okuma/Yazma Ayrımı: Prodüksiyon Kanıtlı Mimariler ve Kritik Optimizasyonlar</b></a><br/><br/>
-      <sub>Veritabanı okuma/yazma ayrımı (read/write splitting), yüksek trafikli sistemlerde kritik performans artışı sağlar. Ancak yanlış uygulandığında veri…</sub>
+      <img src="https://img.shields.io/badge/Kariyer-a855f7?style=flat-square" alt="Kariyer"/> <sub>24 Tem 2026</sub><br/><br/>
+      <a href="https://www.muhammedkoca.com.tr/blog/sistem-tasariminda-gelecege-dayaniklilik-mimari-evrim-ve-kariyerinizi-korumanin-"><b>Sistem Tasarımında Geleceğe Dayanıklılık: Mimari Evrim ve Kariyerinizi Korumanın 5 Kritik Stratejisi</b></a><br/><br/>
+      <sub>Kurumsal sistemlerin %78&#x27;i 5 yıl içinde teknik borç nedeniyle yeniden yazılıyor. Bu makalede, 15 yıllık prodüksiyon tecrübesinden süzülen mimari…</sub>
     </td>
   </tr>
   <tr><td colspan="2"><img src="assets/divider.svg" alt="" width="100%"/></td></tr>
   <tr>
-    <td width="260"><a href="https://www.muhammedkoca.com.tr/blog/node-js-ve-prisma-ile-dagitik-sistemlerde-veri-tutarliligi-eventual-consistency--9"><img src="https://www.muhammedkoca.com.tr/api/og/cover.svg?title=Node.js%20ve%20Prisma%20ile%20Da%C4%9F%C4%B1t%C4%B1k%20Sistemlerde%20Veri%20Tutarl%C4%B1l%C4%B1%C4%9F%C4%B1%3A%20Eventual%20Consistency%E2%80%99den%20ACID%E2%80%99e%20Ge%C3%A7i%C5%9F%20Rehberi&category=Rehberler" width="240" alt="Node.js ve Prisma ile Dağıtık Sistemlerde Veri Tutarlılığı: Eventual Consistency’den ACID’e Geçiş Rehberi"/></a></td>
+    <td width="260"><a href="https://www.muhammedkoca.com.tr/blog/node-js-ve-prisma-ile-kritik-performans-darbogazlarini-ortadan-kaldirma-gercek-p"><img src="https://www.muhammedkoca.com.tr/api/og/cover.svg?title=Node.js%20ve%20Prisma%20ile%20Kritik%20Performans%20Darbo%C4%9Fazlar%C4%B1n%C4%B1%20Ortadan%20Kald%C4%B1rma%3A%20Ger%C3%A7ek%20Prod%C3%BCksiyon%20Vakalar%C4%B1%20ve%20%C3%87%C3%B6z%C3%BCmleri&category=Rehberler" width="240" alt="Node.js ve Prisma ile Kritik Performans Darboğazlarını Ortadan Kaldırma: Gerçek Prodüksiyon Vakaları ve Çözümleri"/></a></td>
     <td valign="top" width="580">
       <img src="https://img.shields.io/badge/Rehberler-a855f7?style=flat-square" alt="Rehberler"/> <sub>24 Tem 2026</sub><br/><br/>
-      <a href="https://www.muhammedkoca.com.tr/blog/node-js-ve-prisma-ile-dagitik-sistemlerde-veri-tutarliligi-eventual-consistency--9"><b>Node.js ve Prisma ile Dağıtık Sistemlerde Veri Tutarlılığı: Eventual Consistency’den ACID’e Geçiş Rehberi</b></a><br/><br/>
-      <sub>Dağıtık sistemlerde veri tutarlılığı, performans ve güvenilirlik arasında kritik bir denge kurar. Bu rehberde, Node.js ve Prisma kullanarak eventual…</sub>
+      <a href="https://www.muhammedkoca.com.tr/blog/node-js-ve-prisma-ile-kritik-performans-darbogazlarini-ortadan-kaldirma-gercek-p"><b>Node.js ve Prisma ile Kritik Performans Darboğazlarını Ortadan Kaldırma: Gerçek Prodüksiyon Vakaları ve Çözümleri</b></a><br/><br/>
+      <sub>Prodüksiyonda karşılaşılan performans darboğazları, sisteminizin ölçeklenebilirliğini ve kullanıcı deneyimini doğrudan tehdit eder. Bu rehberde…</sub>
     </td>
   </tr>
   <tr><td colspan="2"><img src="assets/divider.svg" alt="" width="100%"/></td></tr>
   <tr>
-    <td width="260"><a href="https://www.muhammedkoca.com.tr/blog/dagitik-sistemlerde-guvenlik-first-mimari-tehdit-modelleme-ile-sifir-guven-zero-"><img src="https://www.muhammedkoca.com.tr/api/og/cover.svg?title=Da%C4%9F%C4%B1t%C4%B1k%20Sistemlerde%20G%C3%BCvenlik-First%20Mimari%3A%20Tehdit%20Modelleme%20ile%20S%C4%B1f%C4%B1r%20G%C3%BCven%20(Zero%20Trust)%20Tasar%C4%B1m%C4%B1&category=Mimari" width="240" alt="Dağıtık Sistemlerde Güvenlik-First Mimari: Tehdit Modelleme ile Sıfır Güven (Zero Trust) Tasarımı"/></a></td>
+    <td width="260"><a href="https://www.muhammedkoca.com.tr/blog/node-js-ve-prisma-ile-dagitik-sistemlerde-veri-tutarliligi-post-mortem-ve-olcekl"><img src="https://www.muhammedkoca.com.tr/api/og/cover.svg?title=Node.js%20ve%20Prisma%20ile%20Da%C4%9F%C4%B1t%C4%B1k%20Sistemlerde%20Veri%20Tutarl%C4%B1l%C4%B1%C4%9F%C4%B1%3A%20Post-Mortem%20ve%20%C3%96l%C3%A7eklenebilir%20%C3%87%C3%B6z%C3%BCmler&category=Rehberler" width="240" alt="Node.js ve Prisma ile Dağıtık Sistemlerde Veri Tutarlılığı: Post-Mortem ve Ölçeklenebilir Çözümler"/></a></td>
     <td valign="top" width="580">
-      <img src="https://img.shields.io/badge/Mimari-a855f7?style=flat-square" alt="Mimari"/> <sub>24 Tem 2026</sub><br/><br/>
-      <a href="https://www.muhammedkoca.com.tr/blog/dagitik-sistemlerde-guvenlik-first-mimari-tehdit-modelleme-ile-sifir-guven-zero-"><b>Dağıtık Sistemlerde Güvenlik-First Mimari: Tehdit Modelleme ile Sıfır Güven (Zero Trust) Tasarımı</b></a><br/><br/>
-      <sub>Dağıtık sistemlerde güvenlik, sonradan eklenen bir katman değil, mimarinin temel taşıdır. Bu makalede, tehdit modelleme (Threat Modeling) ile Zero…</sub>
+      <img src="https://img.shields.io/badge/Rehberler-a855f7?style=flat-square" alt="Rehberler"/> <sub>24 Tem 2026</sub><br/><br/>
+      <a href="https://www.muhammedkoca.com.tr/blog/node-js-ve-prisma-ile-dagitik-sistemlerde-veri-tutarliligi-post-mortem-ve-olcekl"><b>Node.js ve Prisma ile Dağıtık Sistemlerde Veri Tutarlılığı: Post-Mortem ve Ölçeklenebilir Çözümler</b></a><br/><br/>
+      <sub>Dağıtık sistemlerde veri tutarlılığı, en deneyimli ekiplerin bile zorlandığı bir alan. Bu rehberde, gerçek bir prodüksiyon vakasını adım adım analiz…</sub>
     </td>
   </tr>
 </table>
