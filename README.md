@@ -148,29 +148,29 @@
 <!-- BLOG-CARDS:START -->
 <table>
   <tr>
-    <td width="260"><a href="https://www.muhammedkoca.com.tr/blog/node-js-ve-prisma-ile-dagitik-sistemlerde-kritik-performans-darbogazlari-bir-pro-2"><img src="https://www.muhammedkoca.com.tr/api/og/cover.svg?title=Node.js%20ve%20Prisma%20ile%20Da%C4%9F%C4%B1t%C4%B1k%20Sistemlerde%20Kritik%20Performans%20Darbo%C4%9Fazlar%C4%B1%3A%20Bir%20Prod%C3%BCksiyon%20Post-Mortem%20Analizi&category=M%C3%BChendislik" width="240" alt="Node.js ve Prisma ile Dağıtık Sistemlerde Kritik Performans Darboğazları: Bir Prodüksiyon Post-Mortem Analizi"/></a></td>
+    <td width="260"><a href="https://www.muhammedkoca.com.tr/blog/node-js-ve-prisma-ile-yuksek-performansli-veritabani-okuma-yazma-ayrimi-produksi"><img src="https://www.muhammedkoca.com.tr/api/og/cover.svg?title=Node.js%20ve%20Prisma%20ile%20Y%C3%BCksek%20Performansl%C4%B1%20Veritaban%C4%B1%20Okuma%2FYazma%20Ayr%C4%B1m%C4%B1%3A%20Prod%C3%BCksiyon%20Kan%C4%B1tl%C4%B1%20Mimariler%20ve%20Kritik%20Optimizasyonlar&category=M%C3%BChendislik" width="240" alt="Node.js ve Prisma ile Yüksek Performanslı Veritabanı Okuma/Yazma Ayrımı: Prodüksiyon Kanıtlı Mimariler ve Kritik Optimizasyonlar"/></a></td>
     <td valign="top" width="580">
       <img src="https://img.shields.io/badge/Mühendislik-a855f7?style=flat-square" alt="Mühendislik"/> <sub>24 Tem 2026</sub><br/><br/>
-      <a href="https://www.muhammedkoca.com.tr/blog/node-js-ve-prisma-ile-dagitik-sistemlerde-kritik-performans-darbogazlari-bir-pro-2"><b>Node.js ve Prisma ile Dağıtık Sistemlerde Kritik Performans Darboğazları: Bir Prodüksiyon Post-Mortem Analizi</b></a><br/><br/>
-      <sub>2023 yılında yaşadığımız bir prodüksiyon krizi, Node.js ve Prisma tabanlı dağıtık sistemlerdeki performans darboğazlarının nasıl felakete…</sub>
+      <a href="https://www.muhammedkoca.com.tr/blog/node-js-ve-prisma-ile-yuksek-performansli-veritabani-okuma-yazma-ayrimi-produksi"><b>Node.js ve Prisma ile Yüksek Performanslı Veritabanı Okuma/Yazma Ayrımı: Prodüksiyon Kanıtlı Mimariler ve Kritik Optimizasyonlar</b></a><br/><br/>
+      <sub>Veritabanı okuma/yazma ayrımı (read/write splitting), yüksek trafikli sistemlerde kritik performans artışı sağlar. Ancak yanlış uygulandığında veri…</sub>
     </td>
   </tr>
   <tr><td colspan="2"><img src="assets/divider.svg" alt="" width="100%"/></td></tr>
   <tr>
-    <td width="260"><a href="https://www.muhammedkoca.com.tr/blog/node-js-mikroservislerinde-kritik-veri-tutarliligi-event-sourcing-ve-cqrs-anti-p"><img src="https://www.muhammedkoca.com.tr/api/og/cover.svg?title=Node.js%20Mikroservislerinde%20Kritik%20Veri%20Tutarl%C4%B1l%C4%B1%C4%9F%C4%B1%3A%20Event%20Sourcing%20ve%20CQRS%20Anti-Pattern" width="240" alt="Node.js Mikroservislerinde Kritik Veri Tutarlılığı: Event Sourcing ve CQRS Anti-Pattern&#x27;leri ile Mücadele"/></a></td>
-    <td valign="top" width="580">
-      <img src="https://img.shields.io/badge/Teknoloji-a855f7?style=flat-square" alt="Teknoloji"/> <sub>24 Tem 2026</sub><br/><br/>
-      <a href="https://www.muhammedkoca.com.tr/blog/node-js-mikroservislerinde-kritik-veri-tutarliligi-event-sourcing-ve-cqrs-anti-p"><b>Node.js Mikroservislerinde Kritik Veri Tutarlılığı: Event Sourcing ve CQRS Anti-Pattern&#x27;leri ile Mücadele</b></a><br/><br/>
-      <sub>Dağıtık sistemlerde veri tutarlılığı, en deneyimli mühendislerin bile başını ağrıtmaya devam ediyor. Event Sourcing ve CQRS, teoride çözüm gibi…</sub>
-    </td>
-  </tr>
-  <tr><td colspan="2"><img src="assets/divider.svg" alt="" width="100%"/></td></tr>
-  <tr>
-    <td width="260"><a href="https://www.muhammedkoca.com.tr/blog/node-js-ve-prisma-ile-yuksek-performansli-dagitik-sistemlerde-veri-tutarliligi-t"><img src="https://www.muhammedkoca.com.tr/api/og/cover.svg?title=Node.js%20ve%20Prisma%20ile%20Y%C3%BCksek%20Performansl%C4%B1%20Da%C4%9F%C4%B1t%C4%B1k%20Sistemlerde%20Veri%20Tutarl%C4%B1l%C4%B1%C4%9F%C4%B1%3A%20Transactional%20Outbox%20Pattern%20Rehberi&category=Rehberler" width="240" alt="Node.js ve Prisma ile Yüksek Performanslı Dağıtık Sistemlerde Veri Tutarlılığı: Transactional Outbox Pattern Rehberi"/></a></td>
+    <td width="260"><a href="https://www.muhammedkoca.com.tr/blog/node-js-ve-prisma-ile-dagitik-sistemlerde-veri-tutarliligi-eventual-consistency--9"><img src="https://www.muhammedkoca.com.tr/api/og/cover.svg?title=Node.js%20ve%20Prisma%20ile%20Da%C4%9F%C4%B1t%C4%B1k%20Sistemlerde%20Veri%20Tutarl%C4%B1l%C4%B1%C4%9F%C4%B1%3A%20Eventual%20Consistency%E2%80%99den%20ACID%E2%80%99e%20Ge%C3%A7i%C5%9F%20Rehberi&category=Rehberler" width="240" alt="Node.js ve Prisma ile Dağıtık Sistemlerde Veri Tutarlılığı: Eventual Consistency’den ACID’e Geçiş Rehberi"/></a></td>
     <td valign="top" width="580">
       <img src="https://img.shields.io/badge/Rehberler-a855f7?style=flat-square" alt="Rehberler"/> <sub>24 Tem 2026</sub><br/><br/>
-      <a href="https://www.muhammedkoca.com.tr/blog/node-js-ve-prisma-ile-yuksek-performansli-dagitik-sistemlerde-veri-tutarliligi-t"><b>Node.js ve Prisma ile Yüksek Performanslı Dağıtık Sistemlerde Veri Tutarlılığı: Transactional Outbox Pattern Rehberi</b></a><br/><br/>
-      <sub>Dağıtık sistemlerde veri tutarlılığı sağlamak, mikroservis mimarilerinin en kritik zorluklarından biridir. Bu rehberde, Node.js ve Prisma kullanarak…</sub>
+      <a href="https://www.muhammedkoca.com.tr/blog/node-js-ve-prisma-ile-dagitik-sistemlerde-veri-tutarliligi-eventual-consistency--9"><b>Node.js ve Prisma ile Dağıtık Sistemlerde Veri Tutarlılığı: Eventual Consistency’den ACID’e Geçiş Rehberi</b></a><br/><br/>
+      <sub>Dağıtık sistemlerde veri tutarlılığı, performans ve güvenilirlik arasında kritik bir denge kurar. Bu rehberde, Node.js ve Prisma kullanarak eventual…</sub>
+    </td>
+  </tr>
+  <tr><td colspan="2"><img src="assets/divider.svg" alt="" width="100%"/></td></tr>
+  <tr>
+    <td width="260"><a href="https://www.muhammedkoca.com.tr/blog/dagitik-sistemlerde-guvenlik-first-mimari-tehdit-modelleme-ile-sifir-guven-zero-"><img src="https://www.muhammedkoca.com.tr/api/og/cover.svg?title=Da%C4%9F%C4%B1t%C4%B1k%20Sistemlerde%20G%C3%BCvenlik-First%20Mimari%3A%20Tehdit%20Modelleme%20ile%20S%C4%B1f%C4%B1r%20G%C3%BCven%20(Zero%20Trust)%20Tasar%C4%B1m%C4%B1&category=Mimari" width="240" alt="Dağıtık Sistemlerde Güvenlik-First Mimari: Tehdit Modelleme ile Sıfır Güven (Zero Trust) Tasarımı"/></a></td>
+    <td valign="top" width="580">
+      <img src="https://img.shields.io/badge/Mimari-a855f7?style=flat-square" alt="Mimari"/> <sub>24 Tem 2026</sub><br/><br/>
+      <a href="https://www.muhammedkoca.com.tr/blog/dagitik-sistemlerde-guvenlik-first-mimari-tehdit-modelleme-ile-sifir-guven-zero-"><b>Dağıtık Sistemlerde Güvenlik-First Mimari: Tehdit Modelleme ile Sıfır Güven (Zero Trust) Tasarımı</b></a><br/><br/>
+      <sub>Dağıtık sistemlerde güvenlik, sonradan eklenen bir katman değil, mimarinin temel taşıdır. Bu makalede, tehdit modelleme (Threat Modeling) ile Zero…</sub>
     </td>
   </tr>
 </table>
