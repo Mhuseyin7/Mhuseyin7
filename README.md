@@ -148,29 +148,29 @@
 <!-- BLOG-CARDS:START -->
 <table>
   <tr>
-    <td width="260"><a href="https://www.muhammedkoca.com.tr/blog/sistem-tasariminin-evrimi-yasaminizi-gelecege-hazirlamanin-muhendislik-ilkeleri-2"><img src="https://www.muhammedkoca.com.tr/api/og/cover.svg?title=Sistem%20Tasar%C4%B1m%C4%B1n%C4%B1n%20Evrimi%3A%20Ya%C5%9Fam%C4%B1n%C4%B1z%C4%B1%20Gelece%C4%9Fe%20Haz%C4%B1rlaman%C4%B1n%20M%C3%BChendislik%20%C4%B0lkeleri&category=Ya%C5%9Fam" width="240" alt="Sistem Tasarımının Evrimi: Yaşamınızı Geleceğe Hazırlamanın Mühendislik İlkeleri"/></a></td>
+    <td width="260"><a href="https://www.muhammedkoca.com.tr/blog/node-js-ve-prisma-ile-dagitik-sistemlerde-kritik-performans-darbogazlari-bir-pro-2"><img src="https://www.muhammedkoca.com.tr/api/og/cover.svg?title=Node.js%20ve%20Prisma%20ile%20Da%C4%9F%C4%B1t%C4%B1k%20Sistemlerde%20Kritik%20Performans%20Darbo%C4%9Fazlar%C4%B1%3A%20Bir%20Prod%C3%BCksiyon%20Post-Mortem%20Analizi&category=M%C3%BChendislik" width="240" alt="Node.js ve Prisma ile Dağıtık Sistemlerde Kritik Performans Darboğazları: Bir Prodüksiyon Post-Mortem Analizi"/></a></td>
     <td valign="top" width="580">
-      <img src="https://img.shields.io/badge/Yaşam-a855f7?style=flat-square" alt="Yaşam"/> <sub>23 Tem 2026</sub><br/><br/>
-      <a href="https://www.muhammedkoca.com.tr/blog/sistem-tasariminin-evrimi-yasaminizi-gelecege-hazirlamanin-muhendislik-ilkeleri-2"><b>Sistem Tasarımının Evrimi: Yaşamınızı Geleceğe Hazırlamanın Mühendislik İlkeleri</b></a><br/><br/>
-      <sub>Bir mühendisin yaşamını optimize etmesi, dağıtık sistemler tasarlamaktan farksızdır: ölçeklenebilirlik, hata toleransı ve verimlilik kritik öneme…</sub>
+      <img src="https://img.shields.io/badge/Mühendislik-a855f7?style=flat-square" alt="Mühendislik"/> <sub>24 Tem 2026</sub><br/><br/>
+      <a href="https://www.muhammedkoca.com.tr/blog/node-js-ve-prisma-ile-dagitik-sistemlerde-kritik-performans-darbogazlari-bir-pro-2"><b>Node.js ve Prisma ile Dağıtık Sistemlerde Kritik Performans Darboğazları: Bir Prodüksiyon Post-Mortem Analizi</b></a><br/><br/>
+      <sub>2023 yılında yaşadığımız bir prodüksiyon krizi, Node.js ve Prisma tabanlı dağıtık sistemlerdeki performans darboğazlarının nasıl felakete…</sub>
     </td>
   </tr>
   <tr><td colspan="2"><img src="assets/divider.svg" alt="" width="100%"/></td></tr>
   <tr>
-    <td width="260"><a href="https://www.muhammedkoca.com.tr/blog/dagitik-sistemlerde-performans-darbogazlarini-tespit-ve-cozum-stratejileri-node--3"><img src="https://www.muhammedkoca.com.tr/api/og/cover.svg?title=Da%C4%9F%C4%B1t%C4%B1k%20Sistemlerde%20Performans%20Darbo%C4%9Fazlar%C4%B1n%C4%B1%20Tespit%20ve%20%C3%87%C3%B6z%C3%BCm%20Stratejileri%3A%20Node.js%2C%20Prisma%20ve%20Mikroservislerle%20Uygulamal%C4%B1%20K%C4%B1lavuz&category=Mimari" width="240" alt="Dağıtık Sistemlerde Performans Darboğazlarını Tespit ve Çözüm Stratejileri: Node.js, Prisma ve Mikroservislerle Uygulamalı Kılavuz"/></a></td>
+    <td width="260"><a href="https://www.muhammedkoca.com.tr/blog/node-js-mikroservislerinde-kritik-veri-tutarliligi-event-sourcing-ve-cqrs-anti-p"><img src="https://www.muhammedkoca.com.tr/api/og/cover.svg?title=Node.js%20Mikroservislerinde%20Kritik%20Veri%20Tutarl%C4%B1l%C4%B1%C4%9F%C4%B1%3A%20Event%20Sourcing%20ve%20CQRS%20Anti-Pattern" width="240" alt="Node.js Mikroservislerinde Kritik Veri Tutarlılığı: Event Sourcing ve CQRS Anti-Pattern&#x27;leri ile Mücadele"/></a></td>
     <td valign="top" width="580">
-      <img src="https://img.shields.io/badge/Mimari-a855f7?style=flat-square" alt="Mimari"/> <sub>23 Tem 2026</sub><br/><br/>
-      <a href="https://www.muhammedkoca.com.tr/blog/dagitik-sistemlerde-performans-darbogazlarini-tespit-ve-cozum-stratejileri-node--3"><b>Dağıtık Sistemlerde Performans Darboğazlarını Tespit ve Çözüm Stratejileri: Node.js, Prisma ve Mikroservislerle Uygulamalı Kılavuz</b></a><br/><br/>
-      <sub>Dağıtık sistemlerde performans darboğazları, çoğu zaman görünmez bir düşman gibi çalışır: loglarda iz bırakmaz, alarm tetiklemez, ama sisteminizi…</sub>
+      <img src="https://img.shields.io/badge/Teknoloji-a855f7?style=flat-square" alt="Teknoloji"/> <sub>24 Tem 2026</sub><br/><br/>
+      <a href="https://www.muhammedkoca.com.tr/blog/node-js-mikroservislerinde-kritik-veri-tutarliligi-event-sourcing-ve-cqrs-anti-p"><b>Node.js Mikroservislerinde Kritik Veri Tutarlılığı: Event Sourcing ve CQRS Anti-Pattern&#x27;leri ile Mücadele</b></a><br/><br/>
+      <sub>Dağıtık sistemlerde veri tutarlılığı, en deneyimli mühendislerin bile başını ağrıtmaya devam ediyor. Event Sourcing ve CQRS, teoride çözüm gibi…</sub>
     </td>
   </tr>
   <tr><td colspan="2"><img src="assets/divider.svg" alt="" width="100%"/></td></tr>
   <tr>
-    <td width="260"><a href="https://www.muhammedkoca.com.tr/blog/node-js-ve-prisma-ile-yuksek-trafikli-mikroservislerde-veritabani-cakismalarini-"><img src="https://www.muhammedkoca.com.tr/api/og/cover.svg?title=Node.js%20ve%20Prisma%20ile%20Y%C3%BCksek%20Trafikli%20Mikroservislerde%20Veritaban%C4%B1%20%C3%87ak%C4%B1%C5%9Fmalar%C4%B1n%C4%B1%20%C3%96nleme%20Rehberi%3A%20Prod%C3%BCksiyon%20Vakalar%C4%B1%20ve%20%C3%87%C3%B6z%C3%BCm%20Stratejileri&category=Rehberler" width="240" alt="Node.js ve Prisma ile Yüksek Trafikli Mikroservislerde Veritabanı Çakışmalarını Önleme Rehberi: Prodüksiyon Vakaları ve Çözüm Stratejileri"/></a></td>
+    <td width="260"><a href="https://www.muhammedkoca.com.tr/blog/node-js-ve-prisma-ile-yuksek-performansli-dagitik-sistemlerde-veri-tutarliligi-t"><img src="https://www.muhammedkoca.com.tr/api/og/cover.svg?title=Node.js%20ve%20Prisma%20ile%20Y%C3%BCksek%20Performansl%C4%B1%20Da%C4%9F%C4%B1t%C4%B1k%20Sistemlerde%20Veri%20Tutarl%C4%B1l%C4%B1%C4%9F%C4%B1%3A%20Transactional%20Outbox%20Pattern%20Rehberi&category=Rehberler" width="240" alt="Node.js ve Prisma ile Yüksek Performanslı Dağıtık Sistemlerde Veri Tutarlılığı: Transactional Outbox Pattern Rehberi"/></a></td>
     <td valign="top" width="580">
-      <img src="https://img.shields.io/badge/Rehberler-a855f7?style=flat-square" alt="Rehberler"/> <sub>23 Tem 2026</sub><br/><br/>
-      <a href="https://www.muhammedkoca.com.tr/blog/node-js-ve-prisma-ile-yuksek-trafikli-mikroservislerde-veritabani-cakismalarini-"><b>Node.js ve Prisma ile Yüksek Trafikli Mikroservislerde Veritabanı Çakışmalarını Önleme Rehberi: Prodüksiyon Vakaları ve Çözüm Stratejileri</b></a><br/><br/>
-      <sub>Yüksek trafikli mikroservislerde veritabanı çakışmaları, sisteminizin çökmesine veya veri tutarsızlıklarına yol açabilir. Bu rehberde, Node.js ve…</sub>
+      <img src="https://img.shields.io/badge/Rehberler-a855f7?style=flat-square" alt="Rehberler"/> <sub>24 Tem 2026</sub><br/><br/>
+      <a href="https://www.muhammedkoca.com.tr/blog/node-js-ve-prisma-ile-yuksek-performansli-dagitik-sistemlerde-veri-tutarliligi-t"><b>Node.js ve Prisma ile Yüksek Performanslı Dağıtık Sistemlerde Veri Tutarlılığı: Transactional Outbox Pattern Rehberi</b></a><br/><br/>
+      <sub>Dağıtık sistemlerde veri tutarlılığı sağlamak, mikroservis mimarilerinin en kritik zorluklarından biridir. Bu rehberde, Node.js ve Prisma kullanarak…</sub>
     </td>
   </tr>
 </table>
