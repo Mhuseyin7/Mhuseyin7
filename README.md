@@ -148,29 +148,29 @@
 <!-- BLOG-CARDS:START -->
 <table>
   <tr>
-    <td width="260"><a href="https://www.muhammedkoca.com.tr/blog/yuksek-performansli-muhendislik-kariyerinde-surdurulebilir-verimlilik-sistematik-2"><img src="https://www.muhammedkoca.com.tr/api/og/cover.svg?title=Y%C3%BCksek%20Performansl%C4%B1%20M%C3%BChendislik%20Kariyerinde%20S%C3%BCrd%C3%BCr%C3%BClebilir%20Verimlilik%3A%20Sistematik%20Denge%20ve%20Sa%C4%9Fl%C4%B1k%20Stratejileri&category=Ya%C5%9Fam" width="240" alt="Yüksek Performanslı Mühendislik Kariyerinde Sürdürülebilir Verimlilik: Sistematik Denge ve Sağlık Stratejileri"/></a></td>
-    <td valign="top" width="580">
-      <img src="https://img.shields.io/badge/Yaşam-a855f7?style=flat-square" alt="Yaşam"/> <sub>25 Tem 2026</sub><br/><br/>
-      <a href="https://www.muhammedkoca.com.tr/blog/yuksek-performansli-muhendislik-kariyerinde-surdurulebilir-verimlilik-sistematik-2"><b>Yüksek Performanslı Mühendislik Kariyerinde Sürdürülebilir Verimlilik: Sistematik Denge ve Sağlık Stratejileri</b></a><br/><br/>
-      <sub>15 yıllık prodüksiyon krizleri, mikroservis mimarileri ve AI entegrasyonları boyunca edindiğim tecrübeler, mühendislik verimliliğinin sadece kod…</sub>
-    </td>
-  </tr>
-  <tr><td colspan="2"><img src="assets/divider.svg" alt="" width="100%"/></td></tr>
-  <tr>
-    <td width="260"><a href="https://www.muhammedkoca.com.tr/blog/dagitik-sistemlerde-eventual-consistency-anti-pattern-leri-produksiyon-felaketle"><img src="https://www.muhammedkoca.com.tr/api/og/cover.svg?title=Da%C4%9F%C4%B1t%C4%B1k%20Sistemlerde%20Eventual%20Consistency%20Anti-Pattern" width="240" alt="Dağıtık Sistemlerde Eventual Consistency Anti-Pattern&#x27;leri: Prodüksiyon Felaketlerinden Alınan Dersler"/></a></td>
+    <td width="260"><a href="https://www.muhammedkoca.com.tr/blog/dagitik-sistemlerde-veri-tutarliligi-eventual-consistency-ve-conflict-free-repli"><img src="https://www.muhammedkoca.com.tr/api/og/cover.svg?title=Da%C4%9F%C4%B1t%C4%B1k%20Sistemlerde%20Veri%20Tutarl%C4%B1l%C4%B1%C4%9F%C4%B1%3A%20Eventual%20Consistency%20ve%20Conflict-Free%20Replicated%20Data%20Types%20(CRDTs)%20ile%20Pratik%20%C3%87%C3%B6z%C3%BCmler&category=Mimari" width="240" alt="Dağıtık Sistemlerde Veri Tutarlılığı: Eventual Consistency ve Conflict-Free Replicated Data Types (CRDTs) ile Pratik Çözümler"/></a></td>
     <td valign="top" width="580">
       <img src="https://img.shields.io/badge/Mimari-a855f7?style=flat-square" alt="Mimari"/> <sub>25 Tem 2026</sub><br/><br/>
-      <a href="https://www.muhammedkoca.com.tr/blog/dagitik-sistemlerde-eventual-consistency-anti-pattern-leri-produksiyon-felaketle"><b>Dağıtık Sistemlerde Eventual Consistency Anti-Pattern&#x27;leri: Prodüksiyon Felaketlerinden Alınan Dersler</b></a><br/><br/>
-      <sub>Eventual consistency, ölçeklenebilirlik vaadiyle dağıtık sistemlerin vazgeçilmezi haline geldi. Ancak yanlış uygulandığında saatler süren veri…</sub>
+      <a href="https://www.muhammedkoca.com.tr/blog/dagitik-sistemlerde-veri-tutarliligi-eventual-consistency-ve-conflict-free-repli"><b>Dağıtık Sistemlerde Veri Tutarlılığı: Eventual Consistency ve Conflict-Free Replicated Data Types (CRDTs) ile Pratik Çözümler</b></a><br/><br/>
+      <sub>Dağıtık sistemlerde veri tutarlılığı, ölçeklenebilirlik ve yüksek erişilebilirlik arasındaki dengeyi sağlamak en zorlu mimari problemlerden biridir…</sub>
     </td>
   </tr>
   <tr><td colspan="2"><img src="assets/divider.svg" alt="" width="100%"/></td></tr>
   <tr>
-    <td width="260"><a href="https://www.muhammedkoca.com.tr/blog/node-js-ve-prisma-ile-dagitik-sistemlerde-veri-tutarliligi-acid-den-eventual-con-6"><img src="https://www.muhammedkoca.com.tr/api/og/cover.svg?title=Node.js%20ve%20Prisma%20ile%20Da%C4%9F%C4%B1t%C4%B1k%20Sistemlerde%20Veri%20Tutarl%C4%B1l%C4%B1%C4%9F%C4%B1%3A%20ACID" width="240" alt="Node.js ve Prisma ile Dağıtık Sistemlerde Veri Tutarlılığı: ACID&#x27;den Eventual Consistency&#x27;ye Geçiş Rehberi"/></a></td>
+    <td width="260"><a href="https://www.muhammedkoca.com.tr/blog/security-first-muhendislik-threat-modeling-ile-sifir-guven-mimarisine-adim-adim--3"><img src="https://www.muhammedkoca.com.tr/api/og/cover.svg?title=Security-First%20M%C3%BChendislik%3A%20Threat%20Modeling%20ile%20S%C4%B1f%C4%B1r%20G%C3%BCven%20Mimarisine%20Ad%C4%B1m%20Ad%C4%B1m%20Rehber&category=Rehberler" width="240" alt="Security-First Mühendislik: Threat Modeling ile Sıfır Güven Mimarisine Adım Adım Rehber"/></a></td>
     <td valign="top" width="580">
       <img src="https://img.shields.io/badge/Rehberler-a855f7?style=flat-square" alt="Rehberler"/> <sub>25 Tem 2026</sub><br/><br/>
-      <a href="https://www.muhammedkoca.com.tr/blog/node-js-ve-prisma-ile-dagitik-sistemlerde-veri-tutarliligi-acid-den-eventual-con-6"><b>Node.js ve Prisma ile Dağıtık Sistemlerde Veri Tutarlılığı: ACID&#x27;den Eventual Consistency&#x27;ye Geçiş Rehberi</b></a><br/><br/>
-      <sub>Dağıtık sistemlerde veri tutarlılığını sağlamak, monolitik mimariden uzaklaştıkça karşılaşılan en kritik sorunlardan biridir. Bu rehberde, Node.js ve…</sub>
+      <a href="https://www.muhammedkoca.com.tr/blog/security-first-muhendislik-threat-modeling-ile-sifir-guven-mimarisine-adim-adim--3"><b>Security-First Mühendislik: Threat Modeling ile Sıfır Güven Mimarisine Adım Adım Rehber</b></a><br/><br/>
+      <sub>Kurumsal sistemlerde güvenlik bir eklenti değil, mimarinin kendisidir. Bu rehberde, threat modeling sürecini adım adım uygulayarak sıfır güven (Zero…</sub>
+    </td>
+  </tr>
+  <tr><td colspan="2"><img src="assets/divider.svg" alt="" width="100%"/></td></tr>
+  <tr>
+    <td width="260"><a href="https://www.muhammedkoca.com.tr/blog/kidemli-muhendisler-icin-gizli-kariyer-hizlandiricisi-teknik-liderlik-yerine-sis"><img src="https://www.muhammedkoca.com.tr/api/og/cover.svg?title=K%C4%B1demli%20M%C3%BChendisler%20%C4%B0%C3%A7in%20Gizli%20Kariyer%20H%C4%B1zland%C4%B1r%C4%B1c%C4%B1s%C4%B1%3A%20%22Teknik%20Liderlik%22%20Yerine%20%22Sistemik%20Etki%22%20Stratejisi&category=Kariyer" width="240" alt="Kıdemli Mühendisler İçin Gizli Kariyer Hızlandırıcısı: &quot;Teknik Liderlik&quot; Yerine &quot;Sistemik Etki&quot; Stratejisi"/></a></td>
+    <td valign="top" width="580">
+      <img src="https://img.shields.io/badge/Kariyer-a855f7?style=flat-square" alt="Kariyer"/> <sub>25 Tem 2026</sub><br/><br/>
+      <a href="https://www.muhammedkoca.com.tr/blog/kidemli-muhendisler-icin-gizli-kariyer-hizlandiricisi-teknik-liderlik-yerine-sis"><b>Kıdemli Mühendisler İçin Gizli Kariyer Hızlandırıcısı: &quot;Teknik Liderlik&quot; Yerine &quot;Sistemik Etki&quot; Stratejisi</b></a><br/><br/>
+      <sub>Çoğu kıdemli mühendis &#x27;teknik liderlik&#x27; peşinde koşarken, gerçek kariyer sıçraması yapanlar sistemik etki yaratmayı öğrenir. Bu makale, prodüksiyon…</sub>
     </td>
   </tr>
 </table>
