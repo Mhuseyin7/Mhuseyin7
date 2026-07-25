@@ -148,29 +148,29 @@
 <!-- BLOG-CARDS:START -->
 <table>
   <tr>
-    <td width="260"><a href="https://www.muhammedkoca.com.tr/blog/sistem-tasariminda-gelecege-dayaniklilik-mimari-evrim-ve-kariyerinizi-korumanin-"><img src="https://www.muhammedkoca.com.tr/api/og/cover.svg?title=Sistem%20Tasar%C4%B1m%C4%B1nda%20Gelece%C4%9Fe%20Dayan%C4%B1kl%C4%B1l%C4%B1k%3A%20Mimari%20Evrim%20ve%20Kariyerinizi%20Koruman%C4%B1n%205%20Kritik%20Stratejisi&category=Kariyer" width="240" alt="Sistem Tasarımında Geleceğe Dayanıklılık: Mimari Evrim ve Kariyerinizi Korumanın 5 Kritik Stratejisi"/></a></td>
+    <td width="260"><a href="https://www.muhammedkoca.com.tr/blog/yuksek-performansli-muhendislik-kariyerinde-surdurulebilir-verimlilik-sistematik-2"><img src="https://www.muhammedkoca.com.tr/api/og/cover.svg?title=Y%C3%BCksek%20Performansl%C4%B1%20M%C3%BChendislik%20Kariyerinde%20S%C3%BCrd%C3%BCr%C3%BClebilir%20Verimlilik%3A%20Sistematik%20Denge%20ve%20Sa%C4%9Fl%C4%B1k%20Stratejileri&category=Ya%C5%9Fam" width="240" alt="Yüksek Performanslı Mühendislik Kariyerinde Sürdürülebilir Verimlilik: Sistematik Denge ve Sağlık Stratejileri"/></a></td>
     <td valign="top" width="580">
-      <img src="https://img.shields.io/badge/Kariyer-a855f7?style=flat-square" alt="Kariyer"/> <sub>24 Tem 2026</sub><br/><br/>
-      <a href="https://www.muhammedkoca.com.tr/blog/sistem-tasariminda-gelecege-dayaniklilik-mimari-evrim-ve-kariyerinizi-korumanin-"><b>Sistem Tasarımında Geleceğe Dayanıklılık: Mimari Evrim ve Kariyerinizi Korumanın 5 Kritik Stratejisi</b></a><br/><br/>
-      <sub>Kurumsal sistemlerin %78&#x27;i 5 yıl içinde teknik borç nedeniyle yeniden yazılıyor. Bu makalede, 15 yıllık prodüksiyon tecrübesinden süzülen mimari…</sub>
+      <img src="https://img.shields.io/badge/Yaşam-a855f7?style=flat-square" alt="Yaşam"/> <sub>25 Tem 2026</sub><br/><br/>
+      <a href="https://www.muhammedkoca.com.tr/blog/yuksek-performansli-muhendislik-kariyerinde-surdurulebilir-verimlilik-sistematik-2"><b>Yüksek Performanslı Mühendislik Kariyerinde Sürdürülebilir Verimlilik: Sistematik Denge ve Sağlık Stratejileri</b></a><br/><br/>
+      <sub>15 yıllık prodüksiyon krizleri, mikroservis mimarileri ve AI entegrasyonları boyunca edindiğim tecrübeler, mühendislik verimliliğinin sadece kod…</sub>
     </td>
   </tr>
   <tr><td colspan="2"><img src="assets/divider.svg" alt="" width="100%"/></td></tr>
   <tr>
-    <td width="260"><a href="https://www.muhammedkoca.com.tr/blog/node-js-ve-prisma-ile-kritik-performans-darbogazlarini-ortadan-kaldirma-gercek-p"><img src="https://www.muhammedkoca.com.tr/api/og/cover.svg?title=Node.js%20ve%20Prisma%20ile%20Kritik%20Performans%20Darbo%C4%9Fazlar%C4%B1n%C4%B1%20Ortadan%20Kald%C4%B1rma%3A%20Ger%C3%A7ek%20Prod%C3%BCksiyon%20Vakalar%C4%B1%20ve%20%C3%87%C3%B6z%C3%BCmleri&category=Rehberler" width="240" alt="Node.js ve Prisma ile Kritik Performans Darboğazlarını Ortadan Kaldırma: Gerçek Prodüksiyon Vakaları ve Çözümleri"/></a></td>
+    <td width="260"><a href="https://www.muhammedkoca.com.tr/blog/dagitik-sistemlerde-eventual-consistency-anti-pattern-leri-produksiyon-felaketle"><img src="https://www.muhammedkoca.com.tr/api/og/cover.svg?title=Da%C4%9F%C4%B1t%C4%B1k%20Sistemlerde%20Eventual%20Consistency%20Anti-Pattern" width="240" alt="Dağıtık Sistemlerde Eventual Consistency Anti-Pattern&#x27;leri: Prodüksiyon Felaketlerinden Alınan Dersler"/></a></td>
     <td valign="top" width="580">
-      <img src="https://img.shields.io/badge/Rehberler-a855f7?style=flat-square" alt="Rehberler"/> <sub>24 Tem 2026</sub><br/><br/>
-      <a href="https://www.muhammedkoca.com.tr/blog/node-js-ve-prisma-ile-kritik-performans-darbogazlarini-ortadan-kaldirma-gercek-p"><b>Node.js ve Prisma ile Kritik Performans Darboğazlarını Ortadan Kaldırma: Gerçek Prodüksiyon Vakaları ve Çözümleri</b></a><br/><br/>
-      <sub>Prodüksiyonda karşılaşılan performans darboğazları, sisteminizin ölçeklenebilirliğini ve kullanıcı deneyimini doğrudan tehdit eder. Bu rehberde…</sub>
+      <img src="https://img.shields.io/badge/Mimari-a855f7?style=flat-square" alt="Mimari"/> <sub>25 Tem 2026</sub><br/><br/>
+      <a href="https://www.muhammedkoca.com.tr/blog/dagitik-sistemlerde-eventual-consistency-anti-pattern-leri-produksiyon-felaketle"><b>Dağıtık Sistemlerde Eventual Consistency Anti-Pattern&#x27;leri: Prodüksiyon Felaketlerinden Alınan Dersler</b></a><br/><br/>
+      <sub>Eventual consistency, ölçeklenebilirlik vaadiyle dağıtık sistemlerin vazgeçilmezi haline geldi. Ancak yanlış uygulandığında saatler süren veri…</sub>
     </td>
   </tr>
   <tr><td colspan="2"><img src="assets/divider.svg" alt="" width="100%"/></td></tr>
   <tr>
-    <td width="260"><a href="https://www.muhammedkoca.com.tr/blog/node-js-ve-prisma-ile-dagitik-sistemlerde-veri-tutarliligi-post-mortem-ve-olcekl"><img src="https://www.muhammedkoca.com.tr/api/og/cover.svg?title=Node.js%20ve%20Prisma%20ile%20Da%C4%9F%C4%B1t%C4%B1k%20Sistemlerde%20Veri%20Tutarl%C4%B1l%C4%B1%C4%9F%C4%B1%3A%20Post-Mortem%20ve%20%C3%96l%C3%A7eklenebilir%20%C3%87%C3%B6z%C3%BCmler&category=Rehberler" width="240" alt="Node.js ve Prisma ile Dağıtık Sistemlerde Veri Tutarlılığı: Post-Mortem ve Ölçeklenebilir Çözümler"/></a></td>
+    <td width="260"><a href="https://www.muhammedkoca.com.tr/blog/node-js-ve-prisma-ile-dagitik-sistemlerde-veri-tutarliligi-acid-den-eventual-con-6"><img src="https://www.muhammedkoca.com.tr/api/og/cover.svg?title=Node.js%20ve%20Prisma%20ile%20Da%C4%9F%C4%B1t%C4%B1k%20Sistemlerde%20Veri%20Tutarl%C4%B1l%C4%B1%C4%9F%C4%B1%3A%20ACID" width="240" alt="Node.js ve Prisma ile Dağıtık Sistemlerde Veri Tutarlılığı: ACID&#x27;den Eventual Consistency&#x27;ye Geçiş Rehberi"/></a></td>
     <td valign="top" width="580">
-      <img src="https://img.shields.io/badge/Rehberler-a855f7?style=flat-square" alt="Rehberler"/> <sub>24 Tem 2026</sub><br/><br/>
-      <a href="https://www.muhammedkoca.com.tr/blog/node-js-ve-prisma-ile-dagitik-sistemlerde-veri-tutarliligi-post-mortem-ve-olcekl"><b>Node.js ve Prisma ile Dağıtık Sistemlerde Veri Tutarlılığı: Post-Mortem ve Ölçeklenebilir Çözümler</b></a><br/><br/>
-      <sub>Dağıtık sistemlerde veri tutarlılığı, en deneyimli ekiplerin bile zorlandığı bir alan. Bu rehberde, gerçek bir prodüksiyon vakasını adım adım analiz…</sub>
+      <img src="https://img.shields.io/badge/Rehberler-a855f7?style=flat-square" alt="Rehberler"/> <sub>25 Tem 2026</sub><br/><br/>
+      <a href="https://www.muhammedkoca.com.tr/blog/node-js-ve-prisma-ile-dagitik-sistemlerde-veri-tutarliligi-acid-den-eventual-con-6"><b>Node.js ve Prisma ile Dağıtık Sistemlerde Veri Tutarlılığı: ACID&#x27;den Eventual Consistency&#x27;ye Geçiş Rehberi</b></a><br/><br/>
+      <sub>Dağıtık sistemlerde veri tutarlılığını sağlamak, monolitik mimariden uzaklaştıkça karşılaşılan en kritik sorunlardan biridir. Bu rehberde, Node.js ve…</sub>
     </td>
   </tr>
 </table>
