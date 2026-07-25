@@ -148,29 +148,29 @@
 <!-- BLOG-CARDS:START -->
 <table>
   <tr>
-    <td width="260"><a href="https://www.muhammedkoca.com.tr/blog/dagitik-sistemlerde-veri-tutarliligi-eventual-consistency-ve-conflict-free-repli"><img src="https://www.muhammedkoca.com.tr/api/og/cover.svg?title=Da%C4%9F%C4%B1t%C4%B1k%20Sistemlerde%20Veri%20Tutarl%C4%B1l%C4%B1%C4%9F%C4%B1%3A%20Eventual%20Consistency%20ve%20Conflict-Free%20Replicated%20Data%20Types%20(CRDTs)%20ile%20Pratik%20%C3%87%C3%B6z%C3%BCmler&category=Mimari" width="240" alt="Dağıtık Sistemlerde Veri Tutarlılığı: Eventual Consistency ve Conflict-Free Replicated Data Types (CRDTs) ile Pratik Çözümler"/></a></td>
+    <td width="260"><a href="https://www.muhammedkoca.com.tr/blog/dagitik-sistemlerde-gelecege-dayanikli-mimari-performans-guvenlik-ve-olceklenebi-3"><img src="https://www.muhammedkoca.com.tr/api/og/cover.svg?title=Da%C4%9F%C4%B1t%C4%B1k%20Sistemlerde%20Gelece%C4%9Fe%20Dayan%C4%B1kl%C4%B1%20Mimari%3A%20Performans%2C%20G%C3%BCvenlik%20ve%20%C3%96l%C3%A7eklenebilirlik%20%C4%B0%C3%A7in%20Kritik%20Stratejiler&category=M%C3%BChendislik" width="240" alt="Dağıtık Sistemlerde Geleceğe Dayanıklı Mimari: Performans, Güvenlik ve Ölçeklenebilirlik İçin Kritik Stratejiler"/></a></td>
+    <td valign="top" width="580">
+      <img src="https://img.shields.io/badge/Mühendislik-a855f7?style=flat-square" alt="Mühendislik"/> <sub>25 Tem 2026</sub><br/><br/>
+      <a href="https://www.muhammedkoca.com.tr/blog/dagitik-sistemlerde-gelecege-dayanikli-mimari-performans-guvenlik-ve-olceklenebi-3"><b>Dağıtık Sistemlerde Geleceğe Dayanıklı Mimari: Performans, Güvenlik ve Ölçeklenebilirlik İçin Kritik Stratejiler</b></a><br/><br/>
+      <sub>Dağıtık sistemler, modern yazılım mühendisliğinin en karmaşık ve kritik alanlarından biri. Ancak çoğu mimari, gelecekteki yükleri, güvenlik…</sub>
+    </td>
+  </tr>
+  <tr><td colspan="2"><img src="assets/divider.svg" alt="" width="100%"/></td></tr>
+  <tr>
+    <td width="260"><a href="https://www.muhammedkoca.com.tr/blog/node-js-ve-prisma-ile-dagitik-sistemlerde-performans-darbogazlarini-ortadan-kald-4"><img src="https://www.muhammedkoca.com.tr/api/og/cover.svg?title=Node.js%20ve%20Prisma%20ile%20Da%C4%9F%C4%B1t%C4%B1k%20Sistemlerde%20Performans%20Darbo%C4%9Fazlar%C4%B1n%C4%B1%20Ortadan%20Kald%C4%B1rmak%3A%20Ger%C3%A7ek%20Prod%C3%BCksiyon%20Vakalar%C4%B1%20ve%20%C3%87%C3%B6z%C3%BCm%20Stratejileri&category=Mimari" width="240" alt="Node.js ve Prisma ile Dağıtık Sistemlerde Performans Darboğazlarını Ortadan Kaldırmak: Gerçek Prodüksiyon Vakaları ve Çözüm Stratejileri"/></a></td>
     <td valign="top" width="580">
       <img src="https://img.shields.io/badge/Mimari-a855f7?style=flat-square" alt="Mimari"/> <sub>25 Tem 2026</sub><br/><br/>
-      <a href="https://www.muhammedkoca.com.tr/blog/dagitik-sistemlerde-veri-tutarliligi-eventual-consistency-ve-conflict-free-repli"><b>Dağıtık Sistemlerde Veri Tutarlılığı: Eventual Consistency ve Conflict-Free Replicated Data Types (CRDTs) ile Pratik Çözümler</b></a><br/><br/>
-      <sub>Dağıtık sistemlerde veri tutarlılığı, ölçeklenebilirlik ve yüksek erişilebilirlik arasındaki dengeyi sağlamak en zorlu mimari problemlerden biridir…</sub>
+      <a href="https://www.muhammedkoca.com.tr/blog/node-js-ve-prisma-ile-dagitik-sistemlerde-performans-darbogazlarini-ortadan-kald-4"><b>Node.js ve Prisma ile Dağıtık Sistemlerde Performans Darboğazlarını Ortadan Kaldırmak: Gerçek Prodüksiyon Vakaları ve Çözüm Stratejileri</b></a><br/><br/>
+      <sub>Dağıtık sistemlerde performans darboğazları, çoğu zaman yanlış mimari kararlarının veya eksik optimizasyonların sonucudur. Bu makalede, Node.js ve…</sub>
     </td>
   </tr>
   <tr><td colspan="2"><img src="assets/divider.svg" alt="" width="100%"/></td></tr>
   <tr>
-    <td width="260"><a href="https://www.muhammedkoca.com.tr/blog/security-first-muhendislik-threat-modeling-ile-sifir-guven-mimarisine-adim-adim--3"><img src="https://www.muhammedkoca.com.tr/api/og/cover.svg?title=Security-First%20M%C3%BChendislik%3A%20Threat%20Modeling%20ile%20S%C4%B1f%C4%B1r%20G%C3%BCven%20Mimarisine%20Ad%C4%B1m%20Ad%C4%B1m%20Rehber&category=Rehberler" width="240" alt="Security-First Mühendislik: Threat Modeling ile Sıfır Güven Mimarisine Adım Adım Rehber"/></a></td>
+    <td width="260"><a href="https://www.muhammedkoca.com.tr/blog/dagitik-sistemlerde-kritik-veri-tutarliligi-node-js-ve-prisma-ile-eventual-consi-2"><img src="https://www.muhammedkoca.com.tr/api/og/cover.svg?title=Da%C4%9F%C4%B1t%C4%B1k%20Sistemlerde%20Kritik%20Veri%20Tutarl%C4%B1l%C4%B1%C4%9F%C4%B1%3A%20Node.js%20ve%20Prisma%20ile%20Eventual%20Consistency" width="240" alt="Dağıtık Sistemlerde Kritik Veri Tutarlılığı: Node.js ve Prisma ile Eventual Consistency&#x27;den Strong Consistency&#x27;e Geçiş Rehberi"/></a></td>
     <td valign="top" width="580">
-      <img src="https://img.shields.io/badge/Rehberler-a855f7?style=flat-square" alt="Rehberler"/> <sub>25 Tem 2026</sub><br/><br/>
-      <a href="https://www.muhammedkoca.com.tr/blog/security-first-muhendislik-threat-modeling-ile-sifir-guven-mimarisine-adim-adim--3"><b>Security-First Mühendislik: Threat Modeling ile Sıfır Güven Mimarisine Adım Adım Rehber</b></a><br/><br/>
-      <sub>Kurumsal sistemlerde güvenlik bir eklenti değil, mimarinin kendisidir. Bu rehberde, threat modeling sürecini adım adım uygulayarak sıfır güven (Zero…</sub>
-    </td>
-  </tr>
-  <tr><td colspan="2"><img src="assets/divider.svg" alt="" width="100%"/></td></tr>
-  <tr>
-    <td width="260"><a href="https://www.muhammedkoca.com.tr/blog/kidemli-muhendisler-icin-gizli-kariyer-hizlandiricisi-teknik-liderlik-yerine-sis"><img src="https://www.muhammedkoca.com.tr/api/og/cover.svg?title=K%C4%B1demli%20M%C3%BChendisler%20%C4%B0%C3%A7in%20Gizli%20Kariyer%20H%C4%B1zland%C4%B1r%C4%B1c%C4%B1s%C4%B1%3A%20%22Teknik%20Liderlik%22%20Yerine%20%22Sistemik%20Etki%22%20Stratejisi&category=Kariyer" width="240" alt="Kıdemli Mühendisler İçin Gizli Kariyer Hızlandırıcısı: &quot;Teknik Liderlik&quot; Yerine &quot;Sistemik Etki&quot; Stratejisi"/></a></td>
-    <td valign="top" width="580">
-      <img src="https://img.shields.io/badge/Kariyer-a855f7?style=flat-square" alt="Kariyer"/> <sub>25 Tem 2026</sub><br/><br/>
-      <a href="https://www.muhammedkoca.com.tr/blog/kidemli-muhendisler-icin-gizli-kariyer-hizlandiricisi-teknik-liderlik-yerine-sis"><b>Kıdemli Mühendisler İçin Gizli Kariyer Hızlandırıcısı: &quot;Teknik Liderlik&quot; Yerine &quot;Sistemik Etki&quot; Stratejisi</b></a><br/><br/>
-      <sub>Çoğu kıdemli mühendis &#x27;teknik liderlik&#x27; peşinde koşarken, gerçek kariyer sıçraması yapanlar sistemik etki yaratmayı öğrenir. Bu makale, prodüksiyon…</sub>
+      <img src="https://img.shields.io/badge/Mimari-a855f7?style=flat-square" alt="Mimari"/> <sub>25 Tem 2026</sub><br/><br/>
+      <a href="https://www.muhammedkoca.com.tr/blog/dagitik-sistemlerde-kritik-veri-tutarliligi-node-js-ve-prisma-ile-eventual-consi-2"><b>Dağıtık Sistemlerde Kritik Veri Tutarlılığı: Node.js ve Prisma ile Eventual Consistency&#x27;den Strong Consistency&#x27;e Geçiş Rehberi</b></a><br/><br/>
+      <sub>Dağıtık sistemlerde veri tutarlılığı, ölçeklenebilirlik ve performans arasında kritik bir denge noktasıdır. Bu makalede, bir fintech şirketinin…</sub>
     </td>
   </tr>
 </table>
