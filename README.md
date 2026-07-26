@@ -148,29 +148,29 @@
 <!-- BLOG-CARDS:START -->
 <table>
   <tr>
-    <td width="260"><a href="https://www.muhammedkoca.com.tr/blog/dagitik-sistemlerde-gelecege-dayanikli-mimari-performans-guvenlik-ve-olceklenebi-3"><img src="https://www.muhammedkoca.com.tr/api/og/cover.svg?title=Da%C4%9F%C4%B1t%C4%B1k%20Sistemlerde%20Gelece%C4%9Fe%20Dayan%C4%B1kl%C4%B1%20Mimari%3A%20Performans%2C%20G%C3%BCvenlik%20ve%20%C3%96l%C3%A7eklenebilirlik%20%C4%B0%C3%A7in%20Kritik%20Stratejiler&category=M%C3%BChendislik" width="240" alt="Dağıtık Sistemlerde Geleceğe Dayanıklı Mimari: Performans, Güvenlik ve Ölçeklenebilirlik İçin Kritik Stratejiler"/></a></td>
+    <td width="260"><a href="https://www.muhammedkoca.com.tr/blog/node-js-ve-prisma-ile-dagitik-sistemlerde-veri-tutarliligi-acid-den-eventual-con-7"><img src="https://www.muhammedkoca.com.tr/api/og/cover.svg?title=Node.js%20ve%20Prisma%20ile%20Da%C4%9F%C4%B1t%C4%B1k%20Sistemlerde%20Veri%20Tutarl%C4%B1l%C4%B1%C4%9F%C4%B1%3A%20ACID" width="240" alt="Node.js ve Prisma ile Dağıtık Sistemlerde Veri Tutarlılığı: ACID&#x27;den Eventual Consistency&#x27;ye Geçiş Rehberi"/></a></td>
     <td valign="top" width="580">
-      <img src="https://img.shields.io/badge/Mühendislik-a855f7?style=flat-square" alt="Mühendislik"/> <sub>25 Tem 2026</sub><br/><br/>
-      <a href="https://www.muhammedkoca.com.tr/blog/dagitik-sistemlerde-gelecege-dayanikli-mimari-performans-guvenlik-ve-olceklenebi-3"><b>Dağıtık Sistemlerde Geleceğe Dayanıklı Mimari: Performans, Güvenlik ve Ölçeklenebilirlik İçin Kritik Stratejiler</b></a><br/><br/>
-      <sub>Dağıtık sistemler, modern yazılım mühendisliğinin en karmaşık ve kritik alanlarından biri. Ancak çoğu mimari, gelecekteki yükleri, güvenlik…</sub>
+      <img src="https://img.shields.io/badge/Rehberler-a855f7?style=flat-square" alt="Rehberler"/> <sub>26 Tem 2026</sub><br/><br/>
+      <a href="https://www.muhammedkoca.com.tr/blog/node-js-ve-prisma-ile-dagitik-sistemlerde-veri-tutarliligi-acid-den-eventual-con-7"><b>Node.js ve Prisma ile Dağıtık Sistemlerde Veri Tutarlılığı: ACID&#x27;den Eventual Consistency&#x27;ye Geçiş Rehberi</b></a><br/><br/>
+      <sub>Dağıtık sistemlerde veri tutarlılığı, her mühendisin karşılaştığı en kritik trade-off&#x27;lardan biridir. Bu rehberde, Node.js ve Prisma ile monolitik…</sub>
     </td>
   </tr>
   <tr><td colspan="2"><img src="assets/divider.svg" alt="" width="100%"/></td></tr>
   <tr>
-    <td width="260"><a href="https://www.muhammedkoca.com.tr/blog/node-js-ve-prisma-ile-dagitik-sistemlerde-performans-darbogazlarini-ortadan-kald-4"><img src="https://www.muhammedkoca.com.tr/api/og/cover.svg?title=Node.js%20ve%20Prisma%20ile%20Da%C4%9F%C4%B1t%C4%B1k%20Sistemlerde%20Performans%20Darbo%C4%9Fazlar%C4%B1n%C4%B1%20Ortadan%20Kald%C4%B1rmak%3A%20Ger%C3%A7ek%20Prod%C3%BCksiyon%20Vakalar%C4%B1%20ve%20%C3%87%C3%B6z%C3%BCm%20Stratejileri&category=Mimari" width="240" alt="Node.js ve Prisma ile Dağıtık Sistemlerde Performans Darboğazlarını Ortadan Kaldırmak: Gerçek Prodüksiyon Vakaları ve Çözüm Stratejileri"/></a></td>
+    <td width="260"><a href="https://www.muhammedkoca.com.tr/blog/yuksek-performansli-muhendislik-yasami-derin-odak-sistemik-denge-ve-surdurulebil-2"><img src="https://www.muhammedkoca.com.tr/api/og/cover.svg?title=Y%C3%BCksek%20Performansl%C4%B1%20M%C3%BChendislik%20Ya%C5%9Fam%C4%B1%3A%20Derin%20Odak%2C%20Sistemik%20Denge%20ve%20S%C3%BCrd%C3%BCr%C3%BClebilir%20Verimlilik&category=Ya%C5%9Fam" width="240" alt="Yüksek Performanslı Mühendislik Yaşamı: Derin Odak, Sistemik Denge ve Sürdürülebilir Verimlilik"/></a></td>
     <td valign="top" width="580">
-      <img src="https://img.shields.io/badge/Mimari-a855f7?style=flat-square" alt="Mimari"/> <sub>25 Tem 2026</sub><br/><br/>
-      <a href="https://www.muhammedkoca.com.tr/blog/node-js-ve-prisma-ile-dagitik-sistemlerde-performans-darbogazlarini-ortadan-kald-4"><b>Node.js ve Prisma ile Dağıtık Sistemlerde Performans Darboğazlarını Ortadan Kaldırmak: Gerçek Prodüksiyon Vakaları ve Çözüm Stratejileri</b></a><br/><br/>
-      <sub>Dağıtık sistemlerde performans darboğazları, çoğu zaman yanlış mimari kararlarının veya eksik optimizasyonların sonucudur. Bu makalede, Node.js ve…</sub>
+      <img src="https://img.shields.io/badge/Yaşam-a855f7?style=flat-square" alt="Yaşam"/> <sub>26 Tem 2026</sub><br/><br/>
+      <a href="https://www.muhammedkoca.com.tr/blog/yuksek-performansli-muhendislik-yasami-derin-odak-sistemik-denge-ve-surdurulebil-2"><b>Yüksek Performanslı Mühendislik Yaşamı: Derin Odak, Sistemik Denge ve Sürdürülebilir Verimlilik</b></a><br/><br/>
+      <sub>15 yıllık prodüksiyon savaşlarından çıkan bir Principal Engineer, derin odak ve sistemik dengeyi nasıl sağladığını açıklar. Teknoloji stack&#x27;inden…</sub>
     </td>
   </tr>
   <tr><td colspan="2"><img src="assets/divider.svg" alt="" width="100%"/></td></tr>
   <tr>
-    <td width="260"><a href="https://www.muhammedkoca.com.tr/blog/dagitik-sistemlerde-kritik-veri-tutarliligi-node-js-ve-prisma-ile-eventual-consi-2"><img src="https://www.muhammedkoca.com.tr/api/og/cover.svg?title=Da%C4%9F%C4%B1t%C4%B1k%20Sistemlerde%20Kritik%20Veri%20Tutarl%C4%B1l%C4%B1%C4%9F%C4%B1%3A%20Node.js%20ve%20Prisma%20ile%20Eventual%20Consistency" width="240" alt="Dağıtık Sistemlerde Kritik Veri Tutarlılığı: Node.js ve Prisma ile Eventual Consistency&#x27;den Strong Consistency&#x27;e Geçiş Rehberi"/></a></td>
+    <td width="260"><a href="https://www.muhammedkoca.com.tr/blog/node-js-ve-prisma-ile-yuksek-trafikli-sistemlerde-veritabani-okuma-yazma-ayristi-8"><img src="https://www.muhammedkoca.com.tr/api/og/cover.svg?title=Node.js%20ve%20Prisma%20ile%20Y%C3%BCksek%20Trafikli%20Sistemlerde%20Veritaban%C4%B1%20Okuma%2FYazma%20Ayr%C4%B1%C5%9Ft%C4%B1rmas%C4%B1%3A%20Prod%C3%BCksiyon%20Kan%C4%B1tl%C4%B1%20Mimari%20Rehberi&category=M%C3%BChendislik" width="240" alt="Node.js ve Prisma ile Yüksek Trafikli Sistemlerde Veritabanı Okuma/Yazma Ayrıştırması: Prodüksiyon Kanıtlı Mimari Rehberi"/></a></td>
     <td valign="top" width="580">
-      <img src="https://img.shields.io/badge/Mimari-a855f7?style=flat-square" alt="Mimari"/> <sub>25 Tem 2026</sub><br/><br/>
-      <a href="https://www.muhammedkoca.com.tr/blog/dagitik-sistemlerde-kritik-veri-tutarliligi-node-js-ve-prisma-ile-eventual-consi-2"><b>Dağıtık Sistemlerde Kritik Veri Tutarlılığı: Node.js ve Prisma ile Eventual Consistency&#x27;den Strong Consistency&#x27;e Geçiş Rehberi</b></a><br/><br/>
-      <sub>Dağıtık sistemlerde veri tutarlılığı, ölçeklenebilirlik ve performans arasında kritik bir denge noktasıdır. Bu makalede, bir fintech şirketinin…</sub>
+      <img src="https://img.shields.io/badge/Mühendislik-a855f7?style=flat-square" alt="Mühendislik"/> <sub>26 Tem 2026</sub><br/><br/>
+      <a href="https://www.muhammedkoca.com.tr/blog/node-js-ve-prisma-ile-yuksek-trafikli-sistemlerde-veritabani-okuma-yazma-ayristi-8"><b>Node.js ve Prisma ile Yüksek Trafikli Sistemlerde Veritabanı Okuma/Yazma Ayrıştırması: Prodüksiyon Kanıtlı Mimari Rehberi</b></a><br/><br/>
+      <sub>Yüksek trafikli sistemlerde veritabanı darboğazları, prodüksiyon ortamlarında en sık karşılaşılan ve en maliyetli sorunlardan biridir. Bu rehberde…</sub>
     </td>
   </tr>
 </table>
