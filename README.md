@@ -148,29 +148,29 @@
 <!-- BLOG-CARDS:START -->
 <table>
   <tr>
-    <td width="260"><a href="https://www.muhammedkoca.com.tr/blog/node-js-ve-prisma-ile-yuksek-performansli-veritabani-okuma-cogaltma-read-replica"><img src="https://www.muhammedkoca.com.tr/api/og/cover.svg?title=Node.js%20ve%20Prisma%20ile%20Y%C3%BCksek%20Performansl%C4%B1%20Veritaban%C4%B1%20Okuma%20%C3%87o%C4%9Faltma%20(Read%20Replication)%20Stratejileri%3A%20Prod%C3%BCksiyon" width="240" alt="Node.js ve Prisma ile Yüksek Performanslı Veritabanı Okuma Çoğaltma (Read Replication) Stratejileri: Prodüksiyon&#x27;dan Dersler"/></a></td>
+    <td width="260"><a href="https://www.muhammedkoca.com.tr/blog/modern-yazilim-mimarisinde-gelecege-dayanikli-sistem-tasarimi-olceklenebilirlik-"><img src="https://www.muhammedkoca.com.tr/api/og/cover.svg?title=Modern%20Yaz%C4%B1l%C4%B1m%20Mimarisinde%20Gelece%C4%9Fe%20Dayan%C4%B1kl%C4%B1%20Sistem%20Tasar%C4%B1m%C4%B1%3A%20%C3%96l%C3%A7eklenebilirlik%2C%20G%C3%BCvenlik%20ve%20Maliyet%20Optimizasyonu&category=Teknoloji" width="240" alt="Modern Yazılım Mimarisinde Geleceğe Dayanıklı Sistem Tasarımı: Ölçeklenebilirlik, Güvenlik ve Maliyet Optimizasyonu"/></a></td>
     <td valign="top" width="580">
-      <img src="https://img.shields.io/badge/Mühendislik-a855f7?style=flat-square" alt="Mühendislik"/> <sub>26 Tem 2026</sub><br/><br/>
-      <a href="https://www.muhammedkoca.com.tr/blog/node-js-ve-prisma-ile-yuksek-performansli-veritabani-okuma-cogaltma-read-replica"><b>Node.js ve Prisma ile Yüksek Performanslı Veritabanı Okuma Çoğaltma (Read Replication) Stratejileri: Prodüksiyon&#x27;dan Dersler</b></a><br/><br/>
-      <sub>Yüksek trafikli sistemlerde veritabanı okuma çoğaltma (read replication) kritik bir performans kaldıracıdır. Ancak yanlış uygulandığında veri…</sub>
+      <img src="https://img.shields.io/badge/Teknoloji-a855f7?style=flat-square" alt="Teknoloji"/> <sub>26 Tem 2026</sub><br/><br/>
+      <a href="https://www.muhammedkoca.com.tr/blog/modern-yazilim-mimarisinde-gelecege-dayanikli-sistem-tasarimi-olceklenebilirlik-"><b>Modern Yazılım Mimarisinde Geleceğe Dayanıklı Sistem Tasarımı: Ölçeklenebilirlik, Güvenlik ve Maliyet Optimizasyonu</b></a><br/><br/>
+      <sub>Geleceğe dayanıklı sistemler inşa etmek, sadece bugünün ihtiyaçlarını karşılamakla kalmaz, aynı zamanda yarının bilinmeyen gereksinimlerine de uyum…</sub>
     </td>
   </tr>
   <tr><td colspan="2"><img src="assets/divider.svg" alt="" width="100%"/></td></tr>
   <tr>
-    <td width="260"><a href="https://www.muhammedkoca.com.tr/blog/senior-muhendisten-staff-muhendise-teknik-derinlikten-stratejik-liderlige-gecis-"><img src="https://www.muhammedkoca.com.tr/api/og/cover.svg?title=Senior%20M%C3%BChendisten%20Staff%20M%C3%BChendise%3A%20Teknik%20Derinlikten%20Stratejik%20Liderli%C4%9Fe%20Ge%C3%A7i%C5%9F%20Rehberi&category=Kariyer" width="240" alt="Senior Mühendisten Staff Mühendise: Teknik Derinlikten Stratejik Liderliğe Geçiş Rehberi"/></a></td>
+    <td width="260"><a href="https://www.muhammedkoca.com.tr/blog/muhendis-zihnini-optimize-etmek-performans-darbogazlarini-yasaminiza-tasimak-2"><img src="https://www.muhammedkoca.com.tr/api/og/cover.svg?title=M%C3%BChendis%20Zihnini%20Optimize%20Etmek%3A%20Performans%20Darbo%C4%9Fazlar%C4%B1n%C4%B1%20Ya%C5%9Fam%C4%B1n%C4%B1za%20Ta%C5%9F%C4%B1mak&category=Ya%C5%9Fam" width="240" alt="Mühendis Zihnini Optimize Etmek: Performans Darboğazlarını Yaşamınıza Taşımak"/></a></td>
     <td valign="top" width="580">
-      <img src="https://img.shields.io/badge/Kariyer-a855f7?style=flat-square" alt="Kariyer"/> <sub>26 Tem 2026</sub><br/><br/>
-      <a href="https://www.muhammedkoca.com.tr/blog/senior-muhendisten-staff-muhendise-teknik-derinlikten-stratejik-liderlige-gecis-"><b>Senior Mühendisten Staff Mühendise: Teknik Derinlikten Stratejik Liderliğe Geçiş Rehberi</b></a><br/><br/>
-      <sub>Staff mühendis olmanın yolu kod yazmaktan geçmiyor. Üretim sistemlerinin nasıl kırıldığını, organizasyonel ölçekte nasıl karar alındığını ve teknik…</sub>
+      <img src="https://img.shields.io/badge/Yaşam-a855f7?style=flat-square" alt="Yaşam"/> <sub>26 Tem 2026</sub><br/><br/>
+      <a href="https://www.muhammedkoca.com.tr/blog/muhendis-zihnini-optimize-etmek-performans-darbogazlarini-yasaminiza-tasimak-2"><b>Mühendis Zihnini Optimize Etmek: Performans Darboğazlarını Yaşamınıza Taşımak</b></a><br/><br/>
+      <sub>15 yıllık üretim sistemlerinde darboğazları çözmekten öğrendiğim bir gerçek: Yazılım performansını optimize etmek ne kadar kritikse, yaşam…</sub>
     </td>
   </tr>
   <tr><td colspan="2"><img src="assets/divider.svg" alt="" width="100%"/></td></tr>
   <tr>
-    <td width="260"><a href="https://www.muhammedkoca.com.tr/blog/security-first-muhendislik-threat-modeling-ile-kariyerinizi-liderlik-seviyesine--2"><img src="https://www.muhammedkoca.com.tr/api/og/cover.svg?title=Security-First%20M%C3%BChendislik%3A%20Threat%20Modeling%20ile%20Kariyerinizi%20Liderlik%20Seviyesine%20Ta%C5%9F%C4%B1y%C4%B1n&category=Kariyer" width="240" alt="Security-First Mühendislik: Threat Modeling ile Kariyerinizi Liderlik Seviyesine Taşıyın"/></a></td>
+    <td width="260"><a href="https://www.muhammedkoca.com.tr/blog/yuksek-performansli-muhendislik-zihni-sistematik-yasam-optimizasyonu-ve-surdurul-2"><img src="https://www.muhammedkoca.com.tr/api/og/cover.svg?title=Y%C3%BCksek%20Performansl%C4%B1%20M%C3%BChendislik%20Zihni%3A%20Sistematik%20Ya%C5%9Fam%20Optimizasyonu%20ve%20S%C3%BCrd%C3%BCr%C3%BClebilir%20Verimlilik&category=Ya%C5%9Fam" width="240" alt="Yüksek Performanslı Mühendislik Zihni: Sistematik Yaşam Optimizasyonu ve Sürdürülebilir Verimlilik"/></a></td>
     <td valign="top" width="580">
-      <img src="https://img.shields.io/badge/Kariyer-a855f7?style=flat-square" alt="Kariyer"/> <sub>26 Tem 2026</sub><br/><br/>
-      <a href="https://www.muhammedkoca.com.tr/blog/security-first-muhendislik-threat-modeling-ile-kariyerinizi-liderlik-seviyesine--2"><b>Security-First Mühendislik: Threat Modeling ile Kariyerinizi Liderlik Seviyesine Taşıyın</b></a><br/><br/>
-      <sub>Kariyerinizde senior seviyeden liderliğe geçmek istiyorsanız, güvenliği bir gereklilik değil, sisteminizin DNA&#x27;sı haline getirmelisiniz. Bu makalede…</sub>
+      <img src="https://img.shields.io/badge/Yaşam-a855f7?style=flat-square" alt="Yaşam"/> <sub>26 Tem 2026</sub><br/><br/>
+      <a href="https://www.muhammedkoca.com.tr/blog/yuksek-performansli-muhendislik-zihni-sistematik-yasam-optimizasyonu-ve-surdurul-2"><b>Yüksek Performanslı Mühendislik Zihni: Sistematik Yaşam Optimizasyonu ve Sürdürülebilir Verimlilik</b></a><br/><br/>
+      <sub>15 yıllık prodüksiyon krizleri ve mikroservis mimarileriyle yoğrulmuş bir mühendisin, yaşam verimliliğini sistematik olarak nasıl optimize ettiğini…</sub>
     </td>
   </tr>
 </table>
