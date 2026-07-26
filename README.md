@@ -148,29 +148,29 @@
 <!-- BLOG-CARDS:START -->
 <table>
   <tr>
-    <td width="260"><a href="https://www.muhammedkoca.com.tr/blog/node-js-ve-prisma-ile-dagitik-sistemlerde-veri-tutarliligi-acid-den-eventual-con-7"><img src="https://www.muhammedkoca.com.tr/api/og/cover.svg?title=Node.js%20ve%20Prisma%20ile%20Da%C4%9F%C4%B1t%C4%B1k%20Sistemlerde%20Veri%20Tutarl%C4%B1l%C4%B1%C4%9F%C4%B1%3A%20ACID" width="240" alt="Node.js ve Prisma ile Dağıtık Sistemlerde Veri Tutarlılığı: ACID&#x27;den Eventual Consistency&#x27;ye Geçiş Rehberi"/></a></td>
-    <td valign="top" width="580">
-      <img src="https://img.shields.io/badge/Rehberler-a855f7?style=flat-square" alt="Rehberler"/> <sub>26 Tem 2026</sub><br/><br/>
-      <a href="https://www.muhammedkoca.com.tr/blog/node-js-ve-prisma-ile-dagitik-sistemlerde-veri-tutarliligi-acid-den-eventual-con-7"><b>Node.js ve Prisma ile Dağıtık Sistemlerde Veri Tutarlılığı: ACID&#x27;den Eventual Consistency&#x27;ye Geçiş Rehberi</b></a><br/><br/>
-      <sub>Dağıtık sistemlerde veri tutarlılığı, her mühendisin karşılaştığı en kritik trade-off&#x27;lardan biridir. Bu rehberde, Node.js ve Prisma ile monolitik…</sub>
-    </td>
-  </tr>
-  <tr><td colspan="2"><img src="assets/divider.svg" alt="" width="100%"/></td></tr>
-  <tr>
-    <td width="260"><a href="https://www.muhammedkoca.com.tr/blog/yuksek-performansli-muhendislik-yasami-derin-odak-sistemik-denge-ve-surdurulebil-2"><img src="https://www.muhammedkoca.com.tr/api/og/cover.svg?title=Y%C3%BCksek%20Performansl%C4%B1%20M%C3%BChendislik%20Ya%C5%9Fam%C4%B1%3A%20Derin%20Odak%2C%20Sistemik%20Denge%20ve%20S%C3%BCrd%C3%BCr%C3%BClebilir%20Verimlilik&category=Ya%C5%9Fam" width="240" alt="Yüksek Performanslı Mühendislik Yaşamı: Derin Odak, Sistemik Denge ve Sürdürülebilir Verimlilik"/></a></td>
-    <td valign="top" width="580">
-      <img src="https://img.shields.io/badge/Yaşam-a855f7?style=flat-square" alt="Yaşam"/> <sub>26 Tem 2026</sub><br/><br/>
-      <a href="https://www.muhammedkoca.com.tr/blog/yuksek-performansli-muhendislik-yasami-derin-odak-sistemik-denge-ve-surdurulebil-2"><b>Yüksek Performanslı Mühendislik Yaşamı: Derin Odak, Sistemik Denge ve Sürdürülebilir Verimlilik</b></a><br/><br/>
-      <sub>15 yıllık prodüksiyon savaşlarından çıkan bir Principal Engineer, derin odak ve sistemik dengeyi nasıl sağladığını açıklar. Teknoloji stack&#x27;inden…</sub>
-    </td>
-  </tr>
-  <tr><td colspan="2"><img src="assets/divider.svg" alt="" width="100%"/></td></tr>
-  <tr>
-    <td width="260"><a href="https://www.muhammedkoca.com.tr/blog/node-js-ve-prisma-ile-yuksek-trafikli-sistemlerde-veritabani-okuma-yazma-ayristi-8"><img src="https://www.muhammedkoca.com.tr/api/og/cover.svg?title=Node.js%20ve%20Prisma%20ile%20Y%C3%BCksek%20Trafikli%20Sistemlerde%20Veritaban%C4%B1%20Okuma%2FYazma%20Ayr%C4%B1%C5%9Ft%C4%B1rmas%C4%B1%3A%20Prod%C3%BCksiyon%20Kan%C4%B1tl%C4%B1%20Mimari%20Rehberi&category=M%C3%BChendislik" width="240" alt="Node.js ve Prisma ile Yüksek Trafikli Sistemlerde Veritabanı Okuma/Yazma Ayrıştırması: Prodüksiyon Kanıtlı Mimari Rehberi"/></a></td>
+    <td width="260"><a href="https://www.muhammedkoca.com.tr/blog/node-js-ve-prisma-ile-yuksek-performansli-veritabani-okuma-cogaltma-read-replica"><img src="https://www.muhammedkoca.com.tr/api/og/cover.svg?title=Node.js%20ve%20Prisma%20ile%20Y%C3%BCksek%20Performansl%C4%B1%20Veritaban%C4%B1%20Okuma%20%C3%87o%C4%9Faltma%20(Read%20Replication)%20Stratejileri%3A%20Prod%C3%BCksiyon" width="240" alt="Node.js ve Prisma ile Yüksek Performanslı Veritabanı Okuma Çoğaltma (Read Replication) Stratejileri: Prodüksiyon&#x27;dan Dersler"/></a></td>
     <td valign="top" width="580">
       <img src="https://img.shields.io/badge/Mühendislik-a855f7?style=flat-square" alt="Mühendislik"/> <sub>26 Tem 2026</sub><br/><br/>
-      <a href="https://www.muhammedkoca.com.tr/blog/node-js-ve-prisma-ile-yuksek-trafikli-sistemlerde-veritabani-okuma-yazma-ayristi-8"><b>Node.js ve Prisma ile Yüksek Trafikli Sistemlerde Veritabanı Okuma/Yazma Ayrıştırması: Prodüksiyon Kanıtlı Mimari Rehberi</b></a><br/><br/>
-      <sub>Yüksek trafikli sistemlerde veritabanı darboğazları, prodüksiyon ortamlarında en sık karşılaşılan ve en maliyetli sorunlardan biridir. Bu rehberde…</sub>
+      <a href="https://www.muhammedkoca.com.tr/blog/node-js-ve-prisma-ile-yuksek-performansli-veritabani-okuma-cogaltma-read-replica"><b>Node.js ve Prisma ile Yüksek Performanslı Veritabanı Okuma Çoğaltma (Read Replication) Stratejileri: Prodüksiyon&#x27;dan Dersler</b></a><br/><br/>
+      <sub>Yüksek trafikli sistemlerde veritabanı okuma çoğaltma (read replication) kritik bir performans kaldıracıdır. Ancak yanlış uygulandığında veri…</sub>
+    </td>
+  </tr>
+  <tr><td colspan="2"><img src="assets/divider.svg" alt="" width="100%"/></td></tr>
+  <tr>
+    <td width="260"><a href="https://www.muhammedkoca.com.tr/blog/senior-muhendisten-staff-muhendise-teknik-derinlikten-stratejik-liderlige-gecis-"><img src="https://www.muhammedkoca.com.tr/api/og/cover.svg?title=Senior%20M%C3%BChendisten%20Staff%20M%C3%BChendise%3A%20Teknik%20Derinlikten%20Stratejik%20Liderli%C4%9Fe%20Ge%C3%A7i%C5%9F%20Rehberi&category=Kariyer" width="240" alt="Senior Mühendisten Staff Mühendise: Teknik Derinlikten Stratejik Liderliğe Geçiş Rehberi"/></a></td>
+    <td valign="top" width="580">
+      <img src="https://img.shields.io/badge/Kariyer-a855f7?style=flat-square" alt="Kariyer"/> <sub>26 Tem 2026</sub><br/><br/>
+      <a href="https://www.muhammedkoca.com.tr/blog/senior-muhendisten-staff-muhendise-teknik-derinlikten-stratejik-liderlige-gecis-"><b>Senior Mühendisten Staff Mühendise: Teknik Derinlikten Stratejik Liderliğe Geçiş Rehberi</b></a><br/><br/>
+      <sub>Staff mühendis olmanın yolu kod yazmaktan geçmiyor. Üretim sistemlerinin nasıl kırıldığını, organizasyonel ölçekte nasıl karar alındığını ve teknik…</sub>
+    </td>
+  </tr>
+  <tr><td colspan="2"><img src="assets/divider.svg" alt="" width="100%"/></td></tr>
+  <tr>
+    <td width="260"><a href="https://www.muhammedkoca.com.tr/blog/security-first-muhendislik-threat-modeling-ile-kariyerinizi-liderlik-seviyesine--2"><img src="https://www.muhammedkoca.com.tr/api/og/cover.svg?title=Security-First%20M%C3%BChendislik%3A%20Threat%20Modeling%20ile%20Kariyerinizi%20Liderlik%20Seviyesine%20Ta%C5%9F%C4%B1y%C4%B1n&category=Kariyer" width="240" alt="Security-First Mühendislik: Threat Modeling ile Kariyerinizi Liderlik Seviyesine Taşıyın"/></a></td>
+    <td valign="top" width="580">
+      <img src="https://img.shields.io/badge/Kariyer-a855f7?style=flat-square" alt="Kariyer"/> <sub>26 Tem 2026</sub><br/><br/>
+      <a href="https://www.muhammedkoca.com.tr/blog/security-first-muhendislik-threat-modeling-ile-kariyerinizi-liderlik-seviyesine--2"><b>Security-First Mühendislik: Threat Modeling ile Kariyerinizi Liderlik Seviyesine Taşıyın</b></a><br/><br/>
+      <sub>Kariyerinizde senior seviyeden liderliğe geçmek istiyorsanız, güvenliği bir gereklilik değil, sisteminizin DNA&#x27;sı haline getirmelisiniz. Bu makalede…</sub>
     </td>
   </tr>
 </table>
