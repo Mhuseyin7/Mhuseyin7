@@ -148,29 +148,29 @@
 <!-- BLOG-CARDS:START -->
 <table>
   <tr>
-    <td width="260"><a href="https://www.muhammedkoca.com.tr/blog/modern-yazilim-mimarisinde-gelecege-dayanikli-sistem-tasarimi-olceklenebilirlik-"><img src="https://www.muhammedkoca.com.tr/api/og/cover.svg?title=Modern%20Yaz%C4%B1l%C4%B1m%20Mimarisinde%20Gelece%C4%9Fe%20Dayan%C4%B1kl%C4%B1%20Sistem%20Tasar%C4%B1m%C4%B1%3A%20%C3%96l%C3%A7eklenebilirlik%2C%20G%C3%BCvenlik%20ve%20Maliyet%20Optimizasyonu&category=Teknoloji" width="240" alt="Modern Yazılım Mimarisinde Geleceğe Dayanıklı Sistem Tasarımı: Ölçeklenebilirlik, Güvenlik ve Maliyet Optimizasyonu"/></a></td>
+    <td width="260"><a href="https://www.muhammedkoca.com.tr/blog/node-js-ve-prisma-ile-dagitik-sistemlerde-veritabani-cogaltma-replication-strate-2"><img src="https://www.muhammedkoca.com.tr/api/og/cover.svg?title=Node.js%20ve%20Prisma%20ile%20Da%C4%9F%C4%B1t%C4%B1k%20Sistemlerde%20Veritaban%C4%B1%20%C3%87o%C4%9Faltma%20(Replication)%20Stratejileri%3A%20Prod%C3%BCksiyon%20Vakalar%C4%B1%20ve%20Performans%20Optimizasyonlar%C4%B1&category=Rehberler" width="240" alt="Node.js ve Prisma ile Dağıtık Sistemlerde Veritabanı Çoğaltma (Replication) Stratejileri: Prodüksiyon Vakaları ve Performans Optimizasyonları"/></a></td>
     <td valign="top" width="580">
-      <img src="https://img.shields.io/badge/Teknoloji-a855f7?style=flat-square" alt="Teknoloji"/> <sub>26 Tem 2026</sub><br/><br/>
-      <a href="https://www.muhammedkoca.com.tr/blog/modern-yazilim-mimarisinde-gelecege-dayanikli-sistem-tasarimi-olceklenebilirlik-"><b>Modern Yazılım Mimarisinde Geleceğe Dayanıklı Sistem Tasarımı: Ölçeklenebilirlik, Güvenlik ve Maliyet Optimizasyonu</b></a><br/><br/>
-      <sub>Geleceğe dayanıklı sistemler inşa etmek, sadece bugünün ihtiyaçlarını karşılamakla kalmaz, aynı zamanda yarının bilinmeyen gereksinimlerine de uyum…</sub>
+      <img src="https://img.shields.io/badge/Rehberler-a855f7?style=flat-square" alt="Rehberler"/> <sub>27 Tem 2026</sub><br/><br/>
+      <a href="https://www.muhammedkoca.com.tr/blog/node-js-ve-prisma-ile-dagitik-sistemlerde-veritabani-cogaltma-replication-strate-2"><b>Node.js ve Prisma ile Dağıtık Sistemlerde Veritabanı Çoğaltma (Replication) Stratejileri: Prodüksiyon Vakaları ve Performans Optimizasyonları</b></a><br/><br/>
+      <sub>Dağıtık sistemlerde veritabanı çoğaltma (replication), yüksek erişilebilirlik ve performans için kritik öneme sahiptir. Bu rehberde, Node.js ve…</sub>
     </td>
   </tr>
   <tr><td colspan="2"><img src="assets/divider.svg" alt="" width="100%"/></td></tr>
   <tr>
-    <td width="260"><a href="https://www.muhammedkoca.com.tr/blog/muhendis-zihnini-optimize-etmek-performans-darbogazlarini-yasaminiza-tasimak-2"><img src="https://www.muhammedkoca.com.tr/api/og/cover.svg?title=M%C3%BChendis%20Zihnini%20Optimize%20Etmek%3A%20Performans%20Darbo%C4%9Fazlar%C4%B1n%C4%B1%20Ya%C5%9Fam%C4%B1n%C4%B1za%20Ta%C5%9F%C4%B1mak&category=Ya%C5%9Fam" width="240" alt="Mühendis Zihnini Optimize Etmek: Performans Darboğazlarını Yaşamınıza Taşımak"/></a></td>
+    <td width="260"><a href="https://www.muhammedkoca.com.tr/blog/senior-muhendislik-kariyerinde-yapilan-5-kritik-hata-ve-sistematik-cozumleri-pro"><img src="https://www.muhammedkoca.com.tr/api/og/cover.svg?title=Senior%20M%C3%BChendislik%20Kariyerinde%20Yap%C4%B1lan%205%20Kritik%20Hata%20ve%20Sistematik%20%C3%87%C3%B6z%C3%BCmleri%3A%20Prod%C3%BCksiyon%20Deneyimlerinden%20Dersler&category=Kariyer" width="240" alt="Senior Mühendislik Kariyerinde Yapılan 5 Kritik Hata ve Sistematik Çözümleri: Prodüksiyon Deneyimlerinden Dersler"/></a></td>
     <td valign="top" width="580">
-      <img src="https://img.shields.io/badge/Yaşam-a855f7?style=flat-square" alt="Yaşam"/> <sub>26 Tem 2026</sub><br/><br/>
-      <a href="https://www.muhammedkoca.com.tr/blog/muhendis-zihnini-optimize-etmek-performans-darbogazlarini-yasaminiza-tasimak-2"><b>Mühendis Zihnini Optimize Etmek: Performans Darboğazlarını Yaşamınıza Taşımak</b></a><br/><br/>
-      <sub>15 yıllık üretim sistemlerinde darboğazları çözmekten öğrendiğim bir gerçek: Yazılım performansını optimize etmek ne kadar kritikse, yaşam…</sub>
+      <img src="https://img.shields.io/badge/Kariyer-a855f7?style=flat-square" alt="Kariyer"/> <sub>27 Tem 2026</sub><br/><br/>
+      <a href="https://www.muhammedkoca.com.tr/blog/senior-muhendislik-kariyerinde-yapilan-5-kritik-hata-ve-sistematik-cozumleri-pro"><b>Senior Mühendislik Kariyerinde Yapılan 5 Kritik Hata ve Sistematik Çözümleri: Prodüksiyon Deneyimlerinden Dersler</b></a><br/><br/>
+      <sub>Senior mühendisler için kariyer ilerlemesi, sadece teknik becerilerle değil, sistemik düşünme ve liderlik yetkinlikleriyle mümkündür. Bu makalede, 15…</sub>
     </td>
   </tr>
   <tr><td colspan="2"><img src="assets/divider.svg" alt="" width="100%"/></td></tr>
   <tr>
-    <td width="260"><a href="https://www.muhammedkoca.com.tr/blog/yuksek-performansli-muhendislik-zihni-sistematik-yasam-optimizasyonu-ve-surdurul-2"><img src="https://www.muhammedkoca.com.tr/api/og/cover.svg?title=Y%C3%BCksek%20Performansl%C4%B1%20M%C3%BChendislik%20Zihni%3A%20Sistematik%20Ya%C5%9Fam%20Optimizasyonu%20ve%20S%C3%BCrd%C3%BCr%C3%BClebilir%20Verimlilik&category=Ya%C5%9Fam" width="240" alt="Yüksek Performanslı Mühendislik Zihni: Sistematik Yaşam Optimizasyonu ve Sürdürülebilir Verimlilik"/></a></td>
+    <td width="260"><a href="https://www.muhammedkoca.com.tr/blog/next-js-ve-vercel-edge-ile-gercek-zamanli-ai-akis-uygulamalari-production-grade-"><img src="https://www.muhammedkoca.com.tr/api/og/cover.svg?title=Next.js%20ve%20Vercel%20Edge%20ile%20Ger%C3%A7ek%20Zamanl%C4%B1%20AI%20Ak%C4%B1%C5%9F%20Uygulamalar%C4%B1%3A%20Production-Grade%20Mimari%20Rehberi&category=Rehberler" width="240" alt="Next.js ve Vercel Edge ile Gerçek Zamanlı AI Akış Uygulamaları: Production-Grade Mimari Rehberi"/></a></td>
     <td valign="top" width="580">
-      <img src="https://img.shields.io/badge/Yaşam-a855f7?style=flat-square" alt="Yaşam"/> <sub>26 Tem 2026</sub><br/><br/>
-      <a href="https://www.muhammedkoca.com.tr/blog/yuksek-performansli-muhendislik-zihni-sistematik-yasam-optimizasyonu-ve-surdurul-2"><b>Yüksek Performanslı Mühendislik Zihni: Sistematik Yaşam Optimizasyonu ve Sürdürülebilir Verimlilik</b></a><br/><br/>
-      <sub>15 yıllık prodüksiyon krizleri ve mikroservis mimarileriyle yoğrulmuş bir mühendisin, yaşam verimliliğini sistematik olarak nasıl optimize ettiğini…</sub>
+      <img src="https://img.shields.io/badge/Rehberler-a855f7?style=flat-square" alt="Rehberler"/> <sub>27 Tem 2026</sub><br/><br/>
+      <a href="https://www.muhammedkoca.com.tr/blog/next-js-ve-vercel-edge-ile-gercek-zamanli-ai-akis-uygulamalari-production-grade-"><b>Next.js ve Vercel Edge ile Gerçek Zamanlı AI Akış Uygulamaları: Production-Grade Mimari Rehberi</b></a><br/><br/>
+      <sub>Gerçek zamanlı AI akış uygulamaları, kullanıcı deneyimini devrim niteliğinde iyileştirirken, mimari karmaşıklığı ve operasyonel riskleri de…</sub>
     </td>
   </tr>
 </table>
