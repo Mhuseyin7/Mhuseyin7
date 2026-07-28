@@ -148,29 +148,29 @@
 <!-- BLOG-CARDS:START -->
 <table>
   <tr>
-    <td width="260"><a href="https://www.muhammedkoca.com.tr/blog/yuksek-performansli-muhendislik-yasam-dongusu-produksiyon-krizlerinden-ogrenilen"><img src="https://www.muhammedkoca.com.tr/api/og/cover.svg?title=Y%C3%BCksek%20Performansl%C4%B1%20M%C3%BChendislik%20Ya%C5%9Fam%20D%C3%B6ng%C3%BCs%C3%BC%3A%20Prod%C3%BCksiyon%20Krizlerinden%20%C3%96%C4%9Frenilen%205%20Sistemik%20Denge%20Stratejisi&category=Ya%C5%9Fam" width="240" alt="Yüksek Performanslı Mühendislik Yaşam Döngüsü: Prodüksiyon Krizlerinden Öğrenilen 5 Sistemik Denge Stratejisi"/></a></td>
+    <td width="260"><a href="https://www.muhammedkoca.com.tr/blog/guvenlik-odakli-muhendislik-senior-muhendisler-icin-tehdit-modelleme-ve-produksi"><img src="https://www.muhammedkoca.com.tr/api/og/cover.svg?title=G%C3%BCvenlik%20Odakl%C4%B1%20M%C3%BChendislik%3A%20Senior%20M%C3%BChendisler%20%C4%B0%C3%A7in%20Tehdit%20Modelleme%20ve%20Prod%C3%BCksiyon%20Dayan%C4%B1kl%C4%B1l%C4%B1%C4%9F%C4%B1%20Rehberi&category=Kariyer" width="240" alt="Güvenlik Odaklı Mühendislik: Senior Mühendisler İçin Tehdit Modelleme ve Prodüksiyon Dayanıklılığı Rehberi"/></a></td>
     <td valign="top" width="580">
-      <img src="https://img.shields.io/badge/Yaşam-a855f7?style=flat-square" alt="Yaşam"/> <sub>28 Tem 2026</sub><br/><br/>
-      <a href="https://www.muhammedkoca.com.tr/blog/yuksek-performansli-muhendislik-yasam-dongusu-produksiyon-krizlerinden-ogrenilen"><b>Yüksek Performanslı Mühendislik Yaşam Döngüsü: Prodüksiyon Krizlerinden Öğrenilen 5 Sistemik Denge Stratejisi</b></a><br/><br/>
-      <sub>15 yıllık prodüksiyon savaşlarından çıkarılan dersler, mühendislik verimliliğini maksimize ederken sağlık ve zihinsel dengeyi korumanın sistemik…</sub>
+      <img src="https://img.shields.io/badge/Kariyer-a855f7?style=flat-square" alt="Kariyer"/> <sub>28 Tem 2026</sub><br/><br/>
+      <a href="https://www.muhammedkoca.com.tr/blog/guvenlik-odakli-muhendislik-senior-muhendisler-icin-tehdit-modelleme-ve-produksi"><b>Güvenlik Odaklı Mühendislik: Senior Mühendisler İçin Tehdit Modelleme ve Prodüksiyon Dayanıklılığı Rehberi</b></a><br/><br/>
+      <sub>Prodüksiyon sistemlerinde güvenlik bir checkbox değil, sürekli bir mühendislik disiplinidir. Bu rehberde, senior mühendislerin tehdit modellemeyi…</sub>
     </td>
   </tr>
   <tr><td colspan="2"><img src="assets/divider.svg" alt="" width="100%"/></td></tr>
   <tr>
-    <td width="260"><a href="https://www.muhammedkoca.com.tr/blog/node-js-ve-prisma-ile-dagitik-sistemlerde-veri-tutarliligi-anti-pattern-lerden-k"><img src="https://www.muhammedkoca.com.tr/api/og/cover.svg?title=Node.js%20ve%20Prisma%20ile%20Da%C4%9F%C4%B1t%C4%B1k%20Sistemlerde%20Veri%20Tutarl%C4%B1l%C4%B1%C4%9F%C4%B1%3A%20Anti-Pattern" width="240" alt="Node.js ve Prisma ile Dağıtık Sistemlerde Veri Tutarlılığı: Anti-Pattern&#x27;lerden Kaçınma Rehberi"/></a></td>
+    <td width="260"><a href="https://www.muhammedkoca.com.tr/blog/edge-fonksiyonlari-ile-mikroservislerinizi-nasil-10x-hizlandirabilirsiniz-vercel"><img src="https://www.muhammedkoca.com.tr/api/og/cover.svg?title=Edge%20Fonksiyonlar%C4%B1%20ile%20Mikroservislerinizi%20Nas%C4%B1l%2010x%20H%C4%B1zland%C4%B1rabilirsiniz%3F%20Vercel%2C%20Node.js%20ve%20Prisma%20ile%20S%C4%B1f%C4%B1rdan%20Y%C3%BCksek%20Performansl%C4%B1%20Bir%20Mimari%20%C4%B0n%C5%9Fa%20Etmek&category=Teknoloji" width="240" alt="Edge Fonksiyonları ile Mikroservislerinizi Nasıl 10x Hızlandırabilirsiniz? Vercel, Node.js ve Prisma ile Sıfırdan Yüksek Performanslı Bir Mimari İnşa Etmek"/></a></td>
     <td valign="top" width="580">
-      <img src="https://img.shields.io/badge/Rehberler-a855f7?style=flat-square" alt="Rehberler"/> <sub>28 Tem 2026</sub><br/><br/>
-      <a href="https://www.muhammedkoca.com.tr/blog/node-js-ve-prisma-ile-dagitik-sistemlerde-veri-tutarliligi-anti-pattern-lerden-k"><b>Node.js ve Prisma ile Dağıtık Sistemlerde Veri Tutarlılığı: Anti-Pattern&#x27;lerden Kaçınma Rehberi</b></a><br/><br/>
-      <sub>Dağıtık sistemlerde veri tutarlılığı, çoğu mühendisin göz ardı ettiği ancak prodüksiyonda felaketlere yol açan bir konudur. Bu rehberde, Node.js ve…</sub>
+      <img src="https://img.shields.io/badge/Teknoloji-a855f7?style=flat-square" alt="Teknoloji"/> <sub>28 Tem 2026</sub><br/><br/>
+      <a href="https://www.muhammedkoca.com.tr/blog/edge-fonksiyonlari-ile-mikroservislerinizi-nasil-10x-hizlandirabilirsiniz-vercel"><b>Edge Fonksiyonları ile Mikroservislerinizi Nasıl 10x Hızlandırabilirsiniz? Vercel, Node.js ve Prisma ile Sıfırdan Yüksek Performanslı Bir Mimari İnşa Etmek</b></a><br/><br/>
+      <sub>Edge fonksiyonları, geleneksel sunucu mimarilerinin sınırlarını zorlayarak mikroservislerinizi gerçek zamanlıya yakın hale getirir. Bu rehberde…</sub>
     </td>
   </tr>
   <tr><td colspan="2"><img src="assets/divider.svg" alt="" width="100%"/></td></tr>
   <tr>
-    <td width="260"><a href="https://www.muhammedkoca.com.tr/blog/node-js-ve-prisma-ile-yuksek-performansli-veritabani-okuma-optimizasyonlari-edge-3"><img src="https://www.muhammedkoca.com.tr/api/og/cover.svg?title=Node.js%20ve%20Prisma%20ile%20Y%C3%BCksek%20Performansl%C4%B1%20Veritaban%C4%B1%20Okuma%20Optimizasyonlar%C4%B1%3A%20Edge" width="240" alt="Node.js ve Prisma ile Yüksek Performanslı Veritabanı Okuma Optimizasyonları: Edge&#x27;den Core&#x27;a Ölçeklenebilir Mimari"/></a></td>
+    <td width="260"><a href="https://www.muhammedkoca.com.tr/blog/dagitik-sistemlerde-gelecege-dayanikli-mimari-olceklenebilirlik-dayaniklilik-ve--2"><img src="https://www.muhammedkoca.com.tr/api/og/cover.svg?title=Da%C4%9F%C4%B1t%C4%B1k%20Sistemlerde%20Gelece%C4%9Fe%20Dayan%C4%B1kl%C4%B1%20Mimari%3A%20%C3%96l%C3%A7eklenebilirlik%2C%20Dayan%C4%B1kl%C4%B1l%C4%B1k%20ve%20Maliyet%20Optimizasyonu&category=M%C3%BChendislik" width="240" alt="Dağıtık Sistemlerde Geleceğe Dayanıklı Mimari: Ölçeklenebilirlik, Dayanıklılık ve Maliyet Optimizasyonu"/></a></td>
     <td valign="top" width="580">
       <img src="https://img.shields.io/badge/Mühendislik-a855f7?style=flat-square" alt="Mühendislik"/> <sub>28 Tem 2026</sub><br/><br/>
-      <a href="https://www.muhammedkoca.com.tr/blog/node-js-ve-prisma-ile-yuksek-performansli-veritabani-okuma-optimizasyonlari-edge-3"><b>Node.js ve Prisma ile Yüksek Performanslı Veritabanı Okuma Optimizasyonları: Edge&#x27;den Core&#x27;a Ölçeklenebilir Mimari</b></a><br/><br/>
-      <sub>Veritabanı okuma operasyonları, yüksek trafikli sistemlerde performans darboğazlarının başında gelir. Bu rehberde, Node.js ve Prisma kullanarak edge…</sub>
+      <a href="https://www.muhammedkoca.com.tr/blog/dagitik-sistemlerde-gelecege-dayanikli-mimari-olceklenebilirlik-dayaniklilik-ve--2"><b>Dağıtık Sistemlerde Geleceğe Dayanıklı Mimari: Ölçeklenebilirlik, Dayanıklılık ve Maliyet Optimizasyonu</b></a><br/><br/>
+      <sub>Dağıtık sistemler, modern yazılımın omurgası haline geldi. Ancak bu sistemlerin geleceğe dayanıklı olması, sadece ölçeklenebilirlikle değil, aynı…</sub>
     </td>
   </tr>
 </table>
