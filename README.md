@@ -148,6 +148,15 @@
 <!-- BLOG-CARDS:START -->
 <table>
   <tr>
+    <td width="260"><a href="https://www.muhammedkoca.com.tr/blog/node-js-ve-prisma-ile-yuksek-trafik-altinda-veritabani-okuma-yazma-ayristirmasi--3"><img src="https://www.muhammedkoca.com.tr/api/og/cover.svg?title=Node.js%20ve%20Prisma%20ile%20Y%C3%BCksek%20Trafik%20Alt%C4%B1nda%20Veritaban%C4%B1%20Okuma%2FYazma%20Ayr%C4%B1%C5%9Ft%C4%B1rmas%C4%B1%3A%20Prod%C3%BCksiyon%20Krizinden%20%C3%87%C4%B1k%C4%B1%C5%9F%20Re%C3%A7etesi&category=M%C3%BChendislik" width="240" alt="Node.js ve Prisma ile Yüksek Trafik Altında Veritabanı Okuma/Yazma Ayrıştırması: Prodüksiyon Krizinden Çıkış Reçetesi"/></a></td>
+    <td valign="top" width="580">
+      <img src="https://img.shields.io/badge/Mühendislik-a855f7?style=flat-square" alt="Mühendislik"/> <sub>28 Tem 2026</sub><br/><br/>
+      <a href="https://www.muhammedkoca.com.tr/blog/node-js-ve-prisma-ile-yuksek-trafik-altinda-veritabani-okuma-yazma-ayristirmasi--3"><b>Node.js ve Prisma ile Yüksek Trafik Altında Veritabanı Okuma/Yazma Ayrıştırması: Prodüksiyon Krizinden Çıkış Reçetesi</b></a><br/><br/>
+      <sub>2023 yılında bir e-ticaret platformunda yaşanan 3 saatlik kesinti, tek bir veritabanı sorgusunun 12.000 eşzamanlı kullanıcı altında neden çöktüğünü…</sub>
+    </td>
+  </tr>
+  <tr><td colspan="2"><img src="assets/divider.svg" alt="" width="100%"/></td></tr>
+  <tr>
     <td width="260"><a href="https://www.muhammedkoca.com.tr/blog/guvenlik-odakli-muhendislik-senior-muhendisler-icin-tehdit-modelleme-ve-produksi"><img src="https://www.muhammedkoca.com.tr/api/og/cover.svg?title=G%C3%BCvenlik%20Odakl%C4%B1%20M%C3%BChendislik%3A%20Senior%20M%C3%BChendisler%20%C4%B0%C3%A7in%20Tehdit%20Modelleme%20ve%20Prod%C3%BCksiyon%20Dayan%C4%B1kl%C4%B1l%C4%B1%C4%9F%C4%B1%20Rehberi&category=Kariyer" width="240" alt="Güvenlik Odaklı Mühendislik: Senior Mühendisler İçin Tehdit Modelleme ve Prodüksiyon Dayanıklılığı Rehberi"/></a></td>
     <td valign="top" width="580">
       <img src="https://img.shields.io/badge/Kariyer-a855f7?style=flat-square" alt="Kariyer"/> <sub>28 Tem 2026</sub><br/><br/>
@@ -162,15 +171,6 @@
       <img src="https://img.shields.io/badge/Teknoloji-a855f7?style=flat-square" alt="Teknoloji"/> <sub>28 Tem 2026</sub><br/><br/>
       <a href="https://www.muhammedkoca.com.tr/blog/edge-fonksiyonlari-ile-mikroservislerinizi-nasil-10x-hizlandirabilirsiniz-vercel"><b>Edge Fonksiyonları ile Mikroservislerinizi Nasıl 10x Hızlandırabilirsiniz? Vercel, Node.js ve Prisma ile Sıfırdan Yüksek Performanslı Bir Mimari İnşa Etmek</b></a><br/><br/>
       <sub>Edge fonksiyonları, geleneksel sunucu mimarilerinin sınırlarını zorlayarak mikroservislerinizi gerçek zamanlıya yakın hale getirir. Bu rehberde…</sub>
-    </td>
-  </tr>
-  <tr><td colspan="2"><img src="assets/divider.svg" alt="" width="100%"/></td></tr>
-  <tr>
-    <td width="260"><a href="https://www.muhammedkoca.com.tr/blog/dagitik-sistemlerde-gelecege-dayanikli-mimari-olceklenebilirlik-dayaniklilik-ve--2"><img src="https://www.muhammedkoca.com.tr/api/og/cover.svg?title=Da%C4%9F%C4%B1t%C4%B1k%20Sistemlerde%20Gelece%C4%9Fe%20Dayan%C4%B1kl%C4%B1%20Mimari%3A%20%C3%96l%C3%A7eklenebilirlik%2C%20Dayan%C4%B1kl%C4%B1l%C4%B1k%20ve%20Maliyet%20Optimizasyonu&category=M%C3%BChendislik" width="240" alt="Dağıtık Sistemlerde Geleceğe Dayanıklı Mimari: Ölçeklenebilirlik, Dayanıklılık ve Maliyet Optimizasyonu"/></a></td>
-    <td valign="top" width="580">
-      <img src="https://img.shields.io/badge/Mühendislik-a855f7?style=flat-square" alt="Mühendislik"/> <sub>28 Tem 2026</sub><br/><br/>
-      <a href="https://www.muhammedkoca.com.tr/blog/dagitik-sistemlerde-gelecege-dayanikli-mimari-olceklenebilirlik-dayaniklilik-ve--2"><b>Dağıtık Sistemlerde Geleceğe Dayanıklı Mimari: Ölçeklenebilirlik, Dayanıklılık ve Maliyet Optimizasyonu</b></a><br/><br/>
-      <sub>Dağıtık sistemler, modern yazılımın omurgası haline geldi. Ancak bu sistemlerin geleceğe dayanıklı olması, sadece ölçeklenebilirlikle değil, aynı…</sub>
     </td>
   </tr>
 </table>
