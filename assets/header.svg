@@ -1,92 +1,113 @@
-<svg width="880" height="240" viewBox="0 0 880 240" fill="none" xmlns="http://www.w3.org/2000/svg">
+<svg width="880" height="240" viewBox="0 0 880 240" preserveAspectRatio="xMidYMid meet" fill="none" xmlns="http://www.w3.org/2000/svg">
   <defs>
-    <linearGradient id="neon" x1="0" y1="0" x2="880" y2="0" gradientUnits="userSpaceOnUse">
-      <stop offset="0" stop-color="#a855f7"/>
-      <stop offset="0.5" stop-color="#6366f1"/>
-      <stop offset="1" stop-color="#22d3ee"/>
+    <linearGradient id="ember" x1="0" y1="0" x2="880" y2="0" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#7f1d1d"/>
+      <stop offset="0.5" stop-color="#dc2626"/>
+      <stop offset="1" stop-color="#f43f5e"/>
     </linearGradient>
-    <linearGradient id="bg" x1="0" y1="0" x2="880" y2="240" gradientUnits="userSpaceOnUse">
-      <stop offset="0" stop-color="#120b2e"/>
-      <stop offset="1" stop-color="#03121f"/>
-    </linearGradient>
+    <radialGradient id="bg" cx="0.18" cy="0.14" r="1.15">
+      <stop offset="0" stop-color="#1a080c"/>
+      <stop offset="0.55" stop-color="#0a0305"/>
+      <stop offset="1" stop-color="#030102"/>
+    </radialGradient>
+    <radialGradient id="crimsonHalo" cx="0.9" cy="0.5" r="0.55">
+      <stop offset="0" stop-color="#dc2626" stop-opacity="0.18"/>
+      <stop offset="1" stop-color="#dc2626" stop-opacity="0"/>
+    </radialGradient>
     <filter id="glow" x="-50%" y="-50%" width="200%" height="200%">
-      <feGaussianBlur stdDeviation="3.5" result="b"/>
-      <feMerge>
-        <feMergeNode in="b"/>
-        <feMergeNode in="SourceGraphic"/>
-      </feMerge>
+      <feGaussianBlur stdDeviation="3" result="b"/>
+      <feMerge><feMergeNode in="b"/><feMergeNode in="SourceGraphic"/></feMerge>
     </filter>
     <mask id="typeReveal">
-      <rect x="46" y="146" width="0" height="34" fill="#ffffff">
-        <animate attributeName="width" from="0" to="470" dur="2.6s" begin="1.1s" fill="freeze"/>
+      <rect x="46" y="168" width="0" height="24" fill="#ffffff">
+        <animate attributeName="width" from="0" to="480" dur="2.6s" begin="1.1s" fill="freeze"/>
       </rect>
     </mask>
+    <clipPath id="frame"><rect x="1.5" y="1.5" width="877" height="237" rx="18"/></clipPath>
+    <pattern id="hex" x="0" y="0" width="48" height="41.6" patternUnits="userSpaceOnUse">
+      <path d="M 24 0 L 48 13.9 L 48 27.7 L 24 41.6 L 0 27.7 L 0 13.9 Z" fill="none" stroke="#dc2626" stroke-opacity="0.05" stroke-width="0.6"/>
+    </pattern>
   </defs>
 
   <!-- panel -->
-  <rect x="1.5" y="1.5" width="877" height="237" rx="16" fill="url(#bg)" stroke="url(#neon)" stroke-width="2"/>
+  <rect x="1.5" y="1.5" width="877" height="237" rx="18" fill="url(#bg)" stroke="url(#ember)" stroke-width="1.6"/>
 
-  <!-- faint grid -->
-  <g stroke="#a855f7" stroke-width="1" opacity="0.06">
-    <line x1="0" y1="60" x2="880" y2="60"/>
-    <line x1="0" y1="120" x2="880" y2="120"/>
-    <line x1="0" y1="180" x2="880" y2="180"/>
-    <line x1="176" y1="0" x2="176" y2="240"/>
-    <line x1="352" y1="0" x2="352" y2="240"/>
-    <line x1="528" y1="0" x2="528" y2="240"/>
-    <line x1="704" y1="0" x2="704" y2="240"/>
+  <g clip-path="url(#frame)">
+    <rect x="0" y="0" width="880" height="240" fill="url(#hex)"/>
+    <rect x="0" y="0" width="880" height="240" fill="url(#crimsonHalo)"/>
+
+    <!-- subtle rising embers -->
+    <g fill="#dc2626">
+      <circle cx="180" cy="230" r="1.6" opacity="0">
+        <animate attributeName="opacity" values="0;0.7;0" dur="6s" begin="0s" repeatCount="indefinite"/>
+        <animateTransform attributeName="transform" type="translate" from="0 0" to="14 -210" dur="6s" begin="0s" repeatCount="indefinite"/>
+      </circle>
+      <circle cx="440" cy="235" r="1.4" fill="#f43f5e" opacity="0">
+        <animate attributeName="opacity" values="0;0.8;0" dur="7s" begin="1.6s" repeatCount="indefinite"/>
+        <animateTransform attributeName="transform" type="translate" from="0 0" to="-10 -220" dur="7s" begin="1.6s" repeatCount="indefinite"/>
+      </circle>
+      <circle cx="640" cy="232" r="1.6" opacity="0">
+        <animate attributeName="opacity" values="0;0.75;0" dur="6.5s" begin="3.2s" repeatCount="indefinite"/>
+        <animateTransform attributeName="transform" type="translate" from="0 0" to="12 -215" dur="6.5s" begin="3.2s" repeatCount="indefinite"/>
+      </circle>
+    </g>
+
+    <!-- corporate emblem (right) — simpler -->
+    <g transform="translate(790 120)" opacity="0">
+      <animate attributeName="opacity" from="0" to="1" dur="1.2s" begin="0.3s" fill="freeze"/>
+      <polygon points="0,-56 48.5,-28 48.5,28 0,56 -48.5,28 -48.5,-28"
+               fill="none" stroke="#dc2626" stroke-opacity="0.32" stroke-width="1.2"/>
+      <polygon points="0,-42 36.4,-21 36.4,21 0,42 -36.4,21 -36.4,-21"
+               fill="none" stroke="#f43f5e" stroke-opacity="0.22" stroke-width="1" stroke-dasharray="3 6">
+        <animateTransform attributeName="transform" type="rotate" from="0" to="360" dur="26s" repeatCount="indefinite"/>
+      </polygon>
+      <circle r="52" fill="none" stroke="url(#ember)" stroke-width="2.2" stroke-linecap="round" stroke-dasharray="70 260" filter="url(#glow)">
+        <animateTransform attributeName="transform" type="rotate" from="0" to="360" dur="10s" repeatCount="indefinite"/>
+      </circle>
+      <circle r="16" fill="#0a0305" stroke="url(#ember)" stroke-width="1.4"/>
+      <circle r="6" fill="url(#ember)" filter="url(#glow)">
+        <animate attributeName="r" values="6;9;6" dur="2.8s" repeatCount="indefinite"/>
+      </circle>
+    </g>
+
+    <!-- top corner brand tag -->
+    <g font-family="Consolas, 'Courier New', monospace" font-size="12">
+      <rect x="46" y="24" width="6" height="6" fill="#dc2626"/>
+      <text x="60" y="31" fill="#dc2626" opacity="0.8" letter-spacing="1.4">RESILIENT.SYSTEMS &#8250; FORGE</text>
+    </g>
+
+    <!-- top divider line under tag -->
+    <line x1="46" y1="46" x2="720" y2="46" stroke="#dc2626" stroke-opacity="0.2" stroke-width="1"/>
+
+    <!-- name -->
+    <text x="46" y="98" font-family="Segoe UI, Arial, sans-serif" font-size="42" font-weight="800" fill="url(#ember)" filter="url(#glow)" opacity="0" letter-spacing="-0.5">Muhammed Koca
+      <animate attributeName="opacity" from="0" to="1" dur="1.1s" begin="0.1s" fill="freeze"/>
+    </text>
+
+    <!-- accent underline -->
+    <rect x="46" y="108" width="0" height="2" fill="url(#ember)">
+      <animate attributeName="width" from="0" to="68" dur="0.8s" begin="0.7s" fill="freeze"/>
+    </rect>
+
+    <!-- subtitle -->
+    <text x="46" y="136" font-family="Segoe UI, Arial, sans-serif" font-size="16" fill="#d4d4d4" opacity="0" letter-spacing="0.3">Full-Stack Architect &#8226; Enterprise Web Developer &#8226; Bursa, T&#252;rkiye
+      <animate attributeName="opacity" from="0" to="1" dur="1s" begin="0.6s" fill="freeze"/>
+    </text>
+
+    <!-- typing terminal line -->
+    <g mask="url(#typeReveal)" font-family="Consolas, 'Courier New', monospace" font-size="16">
+      <text x="46" y="186"><tspan fill="#dc2626" font-weight="700">&#10148;</tspan><tspan fill="#f5f5f5"> ./system --heal</tspan><tspan fill="#6b6b6b">  &#8594;</tspan><tspan fill="#f43f5e"> self-healing: </tspan><tspan fill="#4ade80" font-weight="700">ACTIVE &#10003;</tspan></text>
+    </g>
+    <rect x="50" y="174" width="9" height="17" fill="#dc2626">
+      <animate attributeName="x" from="50" to="530" dur="2.6s" begin="1.1s" fill="freeze"/>
+      <animate attributeName="opacity" values="1;0;1" dur="1s" repeatCount="indefinite"/>
+    </rect>
+
+    <!-- flowing signal wave at bottom -->
+    <path d="M 0 216 Q 28 196 55 216 Q 82 236 110 216 Q 138 196 165 216 Q 192 236 220 216 Q 248 196 275 216 Q 302 236 330 216 Q 358 196 385 216 Q 412 236 440 216 Q 468 196 495 216 Q 522 236 550 216 Q 578 196 605 216 Q 632 236 660 216 Q 688 196 715 216 Q 742 236 770 216 Q 798 196 825 216 Q 852 236 880 216"
+          stroke="url(#ember)" stroke-width="2" fill="none" filter="url(#glow)"
+          stroke-dasharray="1500" stroke-dashoffset="1500">
+      <animate attributeName="stroke-dashoffset" values="1500;0;-1500" keyTimes="0;0.5;1" dur="8s" repeatCount="indefinite"/>
+    </path>
   </g>
-
-  <!-- floating bits -->
-  <g font-family="Consolas, 'Courier New', monospace" font-size="13" fill="#a855f7">
-    <text x="70" y="220" opacity="0">01
-      <animate attributeName="opacity" values="0;0.35;0" dur="6s" begin="0s" repeatCount="indefinite"/>
-      <animateTransform attributeName="transform" type="translate" from="0 0" to="0 -140" dur="6s" begin="0s" repeatCount="indefinite"/>
-    </text>
-    <text x="230" y="230" opacity="0">10
-      <animate attributeName="opacity" values="0;0.3;0" dur="7.5s" begin="1.2s" repeatCount="indefinite"/>
-      <animateTransform attributeName="transform" type="translate" from="0 0" to="0 -160" dur="7.5s" begin="1.2s" repeatCount="indefinite"/>
-    </text>
-    <text x="610" y="225" opacity="0" fill="#22d3ee">11
-      <animate attributeName="opacity" values="0;0.3;0" dur="6.8s" begin="0.6s" repeatCount="indefinite"/>
-      <animateTransform attributeName="transform" type="translate" from="0 0" to="0 -150" dur="6.8s" begin="0.6s" repeatCount="indefinite"/>
-    </text>
-    <text x="760" y="235" opacity="0">00
-      <animate attributeName="opacity" values="0;0.35;0" dur="8s" begin="2s" repeatCount="indefinite"/>
-      <animateTransform attributeName="transform" type="translate" from="0 0" to="0 -170" dur="8s" begin="2s" repeatCount="indefinite"/>
-    </text>
-    <text x="440" y="228" opacity="0" fill="#22d3ee">01
-      <animate attributeName="opacity" values="0;0.28;0" dur="7s" begin="3s" repeatCount="indefinite"/>
-      <animateTransform attributeName="transform" type="translate" from="0 0" to="0 -150" dur="7s" begin="3s" repeatCount="indefinite"/>
-    </text>
-  </g>
-
-  <!-- corner tag -->
-  <text x="836" y="34" text-anchor="end" font-family="Consolas, 'Courier New', monospace" font-size="12" fill="#38bdf8" opacity="0.55">// self-healing systems</text>
-
-  <!-- name -->
-  <text x="46" y="88" font-family="Segoe UI, Arial, sans-serif" font-size="41" font-weight="800" fill="url(#neon)" filter="url(#glow)" opacity="0">Muhammed Koca
-    <animate attributeName="opacity" from="0" to="1" dur="1.1s" begin="0.1s" fill="freeze"/>
-  </text>
-
-  <!-- subtitle -->
-  <text x="46" y="120" font-family="Segoe UI, Arial, sans-serif" font-size="17" fill="#94a3b8" opacity="0">Full-Stack Architect · Enterprise Web Developer · Bursa, Türkiye
-    <animate attributeName="opacity" from="0" to="1" dur="1s" begin="0.6s" fill="freeze"/>
-  </text>
-
-  <!-- typing terminal line -->
-  <g mask="url(#typeReveal)" font-family="Consolas, 'Courier New', monospace" font-size="16">
-    <text x="46" y="168"><tspan fill="#34d399">$</tspan><tspan fill="#e2e8f0"> ./system --heal</tspan><tspan fill="#64748b">  →</tspan><tspan fill="#22d3ee"> self-healing: </tspan><tspan fill="#34d399" font-weight="700">ACTIVE ✓</tspan></text>
-  </g>
-  <rect x="50" y="154" width="9" height="18" fill="#22d3ee">
-    <animate attributeName="x" from="50" to="520" dur="2.6s" begin="1.1s" fill="freeze"/>
-    <animate attributeName="opacity" values="1;0;1" dur="1s" repeatCount="indefinite"/>
-  </rect>
-
-  <!-- heartbeat line -->
-  <path d="M0 205 L120 205 L133 205 L143 184 L153 223 L163 205 L330 205 L343 205 L353 182 L363 224 L373 205 L540 205 L553 205 L563 184 L573 223 L583 205 L750 205 L763 205 L773 183 L783 224 L793 205 L880 205"
-        stroke="url(#neon)" stroke-width="2.2" fill="none" filter="url(#glow)"
-        stroke-dasharray="980" stroke-dashoffset="980">
-    <animate attributeName="stroke-dashoffset" values="980;0;-980" keyTimes="0;0.5;1" dur="7s" repeatCount="indefinite"/>
-  </path>
 </svg>

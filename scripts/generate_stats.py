@@ -1,8 +1,8 @@
 #!/usr/bin/env python3
 """
 GitHub istatistik kartlarını (overview, streak, langs, activity) GitHub'ın kendi
-GraphQL API'sinden veri çekerek, mor/indigo/cyan temalı, tamamen özgün SVG kartlar
-olarak üretir.
+GraphQL API'sinden veri çekerek, "Sunset Forge" (altın/turuncu/mercan) temalı,
+tamamen özgün SVG kartlar olarak üretir.
 
 Hiçbir dış render servisine (vercel.app, demolab.com vb.) bağımlı DEĞİLDİR.
 Tek bağımlılık: api.github.com (GITHUB_TOKEN veya GH_PAT ile).
@@ -28,9 +28,11 @@ USERNAME = os.environ.get("GH_USERNAME", "Mhuseyin7")
 TOKEN = os.environ.get("GH_PAT") or os.environ.get("GH_TOKEN") or os.environ.get("GITHUB_TOKEN")
 OUT_DIR = sys.argv[1] if len(sys.argv) > 1 else "assets/cache"
 
-PURPLE, INDIGO, CYAN = "#a855f7", "#6366f1", "#22d3ee"
-BG1, BG2 = "#120b2e", "#03121f"
-TEXT, TEXT_DIM = "#e2e8f0", "#94a3b8"
+# ── "Crimson Noir" teması: derin kan kırmızısı → kızıl → gül-kızıl degrade ──
+# (Değişken adları eski gradient sırasını korur; değerler yeni kırmızı-siyah paletdir.)
+PURPLE, INDIGO, CYAN = "#7f1d1d", "#dc2626", "#f43f5e"
+BG1, BG2 = "#1a080c", "#050203"
+TEXT, TEXT_DIM = "#f5f5f5", "#a3a3a3"
 
 QUERY = """
 query($login: String!) {
@@ -203,8 +205,8 @@ def overview_svg(s):
       <text x="{cx}" y="{cy + 46}" text-anchor="middle" font-family="Segoe UI, Arial, sans-serif" font-size="24" font-weight="800" fill="url(#neon)" filter="url(#glow)">{xml_escape(value)}</text>
       <text x="{cx}" y="{cy + 64}" text-anchor="middle" font-family="Segoe UI, Arial, sans-serif" font-size="11" fill="{TEXT_DIM}">{xml_escape(label)}</text>
     </g>''')
-    items.append(f'<line x1="{col_w}" y1="30" x2="{col_w}" y2="{h - 20}" stroke="{PURPLE}" stroke-opacity="0.16"/>')
-    items.append(f'<line x1="30" y1="{40 + row_h}" x2="{w - 30}" y2="{40 + row_h}" stroke="{PURPLE}" stroke-opacity="0.16"/>')
+    items.append(f'<line x1="{col_w}" y1="30" x2="{col_w}" y2="{h - 20}" stroke="{INDIGO}" stroke-opacity="0.16"/>')
+    items.append(f'<line x1="30" y1="{40 + row_h}" x2="{w - 30}" y2="{40 + row_h}" stroke="{INDIGO}" stroke-opacity="0.16"/>')
     return shell(w, h, "\n".join(items), title="GENEL BAKIŞ")
 
 
@@ -215,7 +217,7 @@ def streak_svg(s):
     ratio = (s["current_streak"] / s["longest_streak"]) if s["longest_streak"] else 0
     dash = max(circumference * min(max(ratio, 0.05), 1), 6)
     body = f'''
-  <circle cx="{cx}" cy="{cy}" r="{r}" stroke="{PURPLE}" stroke-opacity="0.15" stroke-width="7" fill="none"/>
+  <circle cx="{cx}" cy="{cy}" r="{r}" stroke="{INDIGO}" stroke-opacity="0.15" stroke-width="7" fill="none"/>
   <circle cx="{cx}" cy="{cy}" r="{r}" stroke="url(#neon)" stroke-width="7" fill="none"
           stroke-linecap="round" stroke-dasharray="{dash:.1f} {circumference:.1f}" filter="url(#glow)"
           transform="rotate(-90 {cx} {cy})">
@@ -225,7 +227,7 @@ def streak_svg(s):
   <text x="{cx}" y="124" text-anchor="middle" font-family="Segoe UI, Arial, sans-serif" font-size="28" font-weight="800" fill="{TEXT}">{s['current_streak']}</text>
   <text x="{cx}" y="146" text-anchor="middle" font-family="Segoe UI, Arial, sans-serif" font-size="11" fill="{TEXT_DIM}">GÜNLÜK SERİ</text>
 
-  <line x1="205" y1="34" x2="205" y2="{h - 30}" stroke="{PURPLE}" stroke-opacity="0.18"/>
+  <line x1="205" y1="34" x2="205" y2="{h - 30}" stroke="{INDIGO}" stroke-opacity="0.18"/>
 
   <text x="312" y="76" text-anchor="middle" font-family="Segoe UI, Arial, sans-serif" font-size="12" fill="{TEXT_DIM}">En Uzun Seri</text>
   <text x="312" y="112" text-anchor="middle" font-family="Segoe UI, Arial, sans-serif" font-size="26" font-weight="800" fill="url(#neon)" filter="url(#glow)">{s['longest_streak']}</text>
@@ -250,7 +252,7 @@ def langs_svg(s):
             safe_color = color if re.match(r"^#[0-9a-fA-F]{6}$", color or "") else PURPLE
             rows.append(f'''
     <text x="24" y="{y + 13}" font-family="Segoe UI, Arial, sans-serif" font-size="13" fill="{TEXT}">{xml_escape(name)}</text>
-    <rect x="{bar_x}" y="{y}" width="{bar_max_w}" height="11" rx="5.5" fill="{PURPLE}" fill-opacity="0.12"/>
+    <rect x="{bar_x}" y="{y}" width="{bar_max_w}" height="11" rx="5.5" fill="{INDIGO}" fill-opacity="0.12"/>
     <rect x="{bar_x}" y="{y}" width="0" height="11" rx="5.5" fill="{safe_color}" filter="url(#glow)">
       <animate attributeName="width" from="0" to="{bw:.1f}" dur="0.9s" begin="{delay:.2f}s" fill="freeze"/>
     </rect>
@@ -288,7 +290,7 @@ def activity_svg(s):
     path_len = int(chart_w + chart_h) * 2 + 200
 
     grid = "\n".join(
-        f'<line x1="{pad_l}" y1="{pad_t + chart_h * f:.1f}" x2="{pad_l + chart_w}" y2="{pad_t + chart_h * f:.1f}" stroke="{PURPLE}" stroke-opacity="0.08"/>'
+        f'<line x1="{pad_l}" y1="{pad_t + chart_h * f:.1f}" x2="{pad_l + chart_w}" y2="{pad_t + chart_h * f:.1f}" stroke="{INDIGO}" stroke-opacity="0.08"/>'
         for f in (0.0, 0.33, 0.66, 1.0)
     )
     body = f'''

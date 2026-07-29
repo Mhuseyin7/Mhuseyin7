@@ -1,21 +1,36 @@
-<svg width="880" height="14" viewBox="0 0 880 14" fill="none" xmlns="http://www.w3.org/2000/svg">
+<svg width="880" height="18" viewBox="0 0 880 18" fill="none" xmlns="http://www.w3.org/2000/svg">
   <defs>
     <linearGradient id="dg" x1="0" y1="0" x2="880" y2="0" gradientUnits="userSpaceOnUse">
-      <stop offset="0" stop-color="#a855f7" stop-opacity="0"/>
-      <stop offset="0.5" stop-color="#6366f1" stop-opacity="0.9"/>
-      <stop offset="1" stop-color="#22d3ee" stop-opacity="0"/>
+      <stop offset="0" stop-color="#7f1d1d" stop-opacity="0"/>
+      <stop offset="0.15" stop-color="#dc2626" stop-opacity="0.6"/>
+      <stop offset="0.5" stop-color="#f43f5e" stop-opacity="0.95"/>
+      <stop offset="0.85" stop-color="#dc2626" stop-opacity="0.6"/>
+      <stop offset="1" stop-color="#7f1d1d" stop-opacity="0"/>
     </linearGradient>
     <filter id="dglow" x="-50%" y="-50%" width="200%" height="200%">
-      <feGaussianBlur stdDeviation="2.5" result="b"/>
-      <feMerge>
-        <feMergeNode in="b"/>
-        <feMergeNode in="SourceGraphic"/>
-      </feMerge>
+      <feGaussianBlur stdDeviation="2.4" result="b"/>
+      <feMerge><feMergeNode in="b"/><feMergeNode in="SourceGraphic"/></feMerge>
     </filter>
   </defs>
-  <line x1="0" y1="7" x2="880" y2="7" stroke="url(#dg)" stroke-width="1.5"/>
-  <circle cy="7" r="3" fill="#22d3ee" filter="url(#dglow)">
-    <animate attributeName="cx" values="0;880;0" dur="9s" repeatCount="indefinite"/>
-    <animate attributeName="fill" values="#22d3ee;#a855f7;#22d3ee" dur="9s" repeatCount="indefinite"/>
-  </circle>
+  <!-- outer soft rail -->
+  <line x1="0" y1="9" x2="880" y2="9" stroke="url(#dg)" stroke-width="1"/>
+  <!-- inner glow rail -->
+  <line x1="0" y1="9" x2="880" y2="9" stroke="url(#dg)" stroke-width="2.2" filter="url(#dglow)" opacity="0.8"/>
+  <!-- flowing energy dashes -->
+  <line x1="0" y1="9" x2="880" y2="9" stroke="#dc2626" stroke-width="1.4" stroke-opacity="0.55"
+        stroke-dasharray="8 24" filter="url(#dglow)">
+    <animate attributeName="stroke-dashoffset" from="0" to="-64" dur="1.6s" repeatCount="indefinite"/>
+  </line>
+  <!-- static crimson tick anchors -->
+  <g fill="#dc2626" opacity="0.55">
+    <rect x="6" y="7" width="4" height="4"/>
+    <rect x="870" y="7" width="4" height="4"/>
+  </g>
+  <!-- diamond node gliding along the rail -->
+  <g filter="url(#dglow)">
+    <animateTransform attributeName="transform" type="translate" values="0 0;880 0;0 0" dur="8s" repeatCount="indefinite"/>
+    <rect x="-3.5" y="5.5" width="7" height="7" rx="1.2" fill="#f43f5e" transform="rotate(45 0 9)">
+      <animate attributeName="fill" values="#f43f5e;#dc2626;#7f1d1d;#dc2626;#f43f5e" dur="8s" repeatCount="indefinite"/>
+    </rect>
+  </g>
 </svg>
