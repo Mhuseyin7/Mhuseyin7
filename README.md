@@ -148,29 +148,29 @@
 <!-- BLOG-CARDS:START -->
 <table>
   <tr>
-    <td width="260"><a href="https://www.muhammedkoca.com.tr/blog/node-js-ve-prisma-ile-yuksek-trafik-altinda-veritabani-okuma-yazma-ayristirmasi--3"><img src="https://www.muhammedkoca.com.tr/api/og/cover.svg?title=Node.js%20ve%20Prisma%20ile%20Y%C3%BCksek%20Trafik%20Alt%C4%B1nda%20Veritaban%C4%B1%20Okuma%2FYazma%20Ayr%C4%B1%C5%9Ft%C4%B1rmas%C4%B1%3A%20Prod%C3%BCksiyon%20Krizinden%20%C3%87%C4%B1k%C4%B1%C5%9F%20Re%C3%A7etesi&category=M%C3%BChendislik" width="240" alt="Node.js ve Prisma ile Yüksek Trafik Altında Veritabanı Okuma/Yazma Ayrıştırması: Prodüksiyon Krizinden Çıkış Reçetesi"/></a></td>
+    <td width="260"><a href="https://www.muhammedkoca.com.tr/blog/dagitik-sistemlerde-kritik-veri-tutarliligi-node-js-ve-prisma-ile-saga-pattern-u-2"><img src="https://www.muhammedkoca.com.tr/api/og/cover.svg?title=Da%C4%9F%C4%B1t%C4%B1k%20Sistemlerde%20Kritik%20Veri%20Tutarl%C4%B1l%C4%B1%C4%9F%C4%B1%3A%20Node.js%20ve%20Prisma%20ile%20Saga%20Pattern%20Uygulamas%C4%B1%20ve%20Prod%C3%BCksiyon%20Felaketlerinden%20Dersler&category=Mimari" width="240" alt="Dağıtık Sistemlerde Kritik Veri Tutarlılığı: Node.js ve Prisma ile Saga Pattern Uygulaması ve Prodüksiyon Felaketlerinden Dersler"/></a></td>
     <td valign="top" width="580">
-      <img src="https://img.shields.io/badge/Mühendislik-a855f7?style=flat-square" alt="Mühendislik"/> <sub>28 Tem 2026</sub><br/><br/>
-      <a href="https://www.muhammedkoca.com.tr/blog/node-js-ve-prisma-ile-yuksek-trafik-altinda-veritabani-okuma-yazma-ayristirmasi--3"><b>Node.js ve Prisma ile Yüksek Trafik Altında Veritabanı Okuma/Yazma Ayrıştırması: Prodüksiyon Krizinden Çıkış Reçetesi</b></a><br/><br/>
-      <sub>2023 yılında bir e-ticaret platformunda yaşanan 3 saatlik kesinti, tek bir veritabanı sorgusunun 12.000 eşzamanlı kullanıcı altında neden çöktüğünü…</sub>
+      <img src="https://img.shields.io/badge/Mimari-a855f7?style=flat-square" alt="Mimari"/> <sub>29 Tem 2026</sub><br/><br/>
+      <a href="https://www.muhammedkoca.com.tr/blog/dagitik-sistemlerde-kritik-veri-tutarliligi-node-js-ve-prisma-ile-saga-pattern-u-2"><b>Dağıtık Sistemlerde Kritik Veri Tutarlılığı: Node.js ve Prisma ile Saga Pattern Uygulaması ve Prodüksiyon Felaketlerinden Dersler</b></a><br/><br/>
+      <sub>Dağıtık sistemlerde ACID işlemleri sağlamak, veritabanı sınırlarını aşan iş akışlarında tutarlılığı korumak kritik bir zorluktur. Bu makalede, Saga…</sub>
     </td>
   </tr>
   <tr><td colspan="2"><img src="assets/divider.svg" alt="" width="100%"/></td></tr>
   <tr>
-    <td width="260"><a href="https://www.muhammedkoca.com.tr/blog/guvenlik-odakli-muhendislik-senior-muhendisler-icin-tehdit-modelleme-ve-produksi"><img src="https://www.muhammedkoca.com.tr/api/og/cover.svg?title=G%C3%BCvenlik%20Odakl%C4%B1%20M%C3%BChendislik%3A%20Senior%20M%C3%BChendisler%20%C4%B0%C3%A7in%20Tehdit%20Modelleme%20ve%20Prod%C3%BCksiyon%20Dayan%C4%B1kl%C4%B1l%C4%B1%C4%9F%C4%B1%20Rehberi&category=Kariyer" width="240" alt="Güvenlik Odaklı Mühendislik: Senior Mühendisler İçin Tehdit Modelleme ve Prodüksiyon Dayanıklılığı Rehberi"/></a></td>
+    <td width="260"><a href="https://www.muhammedkoca.com.tr/blog/yuksek-performansli-muhendislik-zihni-24-saatlik-uretkenlik-dongusunu-yeniden-ta"><img src="https://www.muhammedkoca.com.tr/api/og/cover.svg?title=Y%C3%BCksek%20Performansl%C4%B1%20M%C3%BChendislik%20Zihni%3A%2024%20Saatlik%20%C3%9Cretkenlik%20D%C3%B6ng%C3%BCs%C3%BCn%C3%BC%20Yeniden%20Tasarlamak&category=Ya%C5%9Fam" width="240" alt="Yüksek Performanslı Mühendislik Zihni: 24 Saatlik Üretkenlik Döngüsünü Yeniden Tasarlamak"/></a></td>
     <td valign="top" width="580">
-      <img src="https://img.shields.io/badge/Kariyer-a855f7?style=flat-square" alt="Kariyer"/> <sub>28 Tem 2026</sub><br/><br/>
-      <a href="https://www.muhammedkoca.com.tr/blog/guvenlik-odakli-muhendislik-senior-muhendisler-icin-tehdit-modelleme-ve-produksi"><b>Güvenlik Odaklı Mühendislik: Senior Mühendisler İçin Tehdit Modelleme ve Prodüksiyon Dayanıklılığı Rehberi</b></a><br/><br/>
-      <sub>Prodüksiyon sistemlerinde güvenlik bir checkbox değil, sürekli bir mühendislik disiplinidir. Bu rehberde, senior mühendislerin tehdit modellemeyi…</sub>
+      <img src="https://img.shields.io/badge/Yaşam-a855f7?style=flat-square" alt="Yaşam"/> <sub>29 Tem 2026</sub><br/><br/>
+      <a href="https://www.muhammedkoca.com.tr/blog/yuksek-performansli-muhendislik-zihni-24-saatlik-uretkenlik-dongusunu-yeniden-ta"><b>Yüksek Performanslı Mühendislik Zihni: 24 Saatlik Üretkenlik Döngüsünü Yeniden Tasarlamak</b></a><br/><br/>
+      <sub>15 yıllık üretim sistemleri mimarisinde edindiğim tecrübeler, mühendislik verimliliğinin kod yazmaktan ibaret olmadığını gösterdi. Gerçek yüksek…</sub>
     </td>
   </tr>
   <tr><td colspan="2"><img src="assets/divider.svg" alt="" width="100%"/></td></tr>
   <tr>
-    <td width="260"><a href="https://www.muhammedkoca.com.tr/blog/edge-fonksiyonlari-ile-mikroservislerinizi-nasil-10x-hizlandirabilirsiniz-vercel"><img src="https://www.muhammedkoca.com.tr/api/og/cover.svg?title=Edge%20Fonksiyonlar%C4%B1%20ile%20Mikroservislerinizi%20Nas%C4%B1l%2010x%20H%C4%B1zland%C4%B1rabilirsiniz%3F%20Vercel%2C%20Node.js%20ve%20Prisma%20ile%20S%C4%B1f%C4%B1rdan%20Y%C3%BCksek%20Performansl%C4%B1%20Bir%20Mimari%20%C4%B0n%C5%9Fa%20Etmek&category=Teknoloji" width="240" alt="Edge Fonksiyonları ile Mikroservislerinizi Nasıl 10x Hızlandırabilirsiniz? Vercel, Node.js ve Prisma ile Sıfırdan Yüksek Performanslı Bir Mimari İnşa Etmek"/></a></td>
+    <td width="260"><a href="https://www.muhammedkoca.com.tr/blog/node-js-uygulamalarinda-guvenlik-odakli-mimari-tasarimi-tehdit-modelleme-ve-owas"><img src="https://www.muhammedkoca.com.tr/api/og/cover.svg?title=Node.js%20Uygulamalar%C4%B1nda%20G%C3%BCvenlik%20Odakl%C4%B1%20Mimari%20Tasar%C4%B1m%C4%B1%3A%20Tehdit%20Modelleme%20ve%20OWASP%20Top%2010%20Entegrasyonu&category=Rehberler" width="240" alt="Node.js Uygulamalarında Güvenlik Odaklı Mimari Tasarımı: Tehdit Modelleme ve OWASP Top 10 Entegrasyonu"/></a></td>
     <td valign="top" width="580">
-      <img src="https://img.shields.io/badge/Teknoloji-a855f7?style=flat-square" alt="Teknoloji"/> <sub>28 Tem 2026</sub><br/><br/>
-      <a href="https://www.muhammedkoca.com.tr/blog/edge-fonksiyonlari-ile-mikroservislerinizi-nasil-10x-hizlandirabilirsiniz-vercel"><b>Edge Fonksiyonları ile Mikroservislerinizi Nasıl 10x Hızlandırabilirsiniz? Vercel, Node.js ve Prisma ile Sıfırdan Yüksek Performanslı Bir Mimari İnşa Etmek</b></a><br/><br/>
-      <sub>Edge fonksiyonları, geleneksel sunucu mimarilerinin sınırlarını zorlayarak mikroservislerinizi gerçek zamanlıya yakın hale getirir. Bu rehberde…</sub>
+      <img src="https://img.shields.io/badge/Rehberler-a855f7?style=flat-square" alt="Rehberler"/> <sub>28 Tem 2026</sub><br/><br/>
+      <a href="https://www.muhammedkoca.com.tr/blog/node-js-uygulamalarinda-guvenlik-odakli-mimari-tasarimi-tehdit-modelleme-ve-owas"><b>Node.js Uygulamalarında Güvenlik Odaklı Mimari Tasarımı: Tehdit Modelleme ve OWASP Top 10 Entegrasyonu</b></a><br/><br/>
+      <sub>Kurumsal Node.js uygulamalarında güvenlik, sonradan eklenen bir özellik değil, mimarinin temel taşıdır. Bu rehberde, tehdit modelleme sürecini adım…</sub>
     </td>
   </tr>
 </table>
