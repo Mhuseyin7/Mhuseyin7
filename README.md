@@ -148,6 +148,15 @@
 <!-- BLOG-CARDS:START -->
 <table>
   <tr>
+    <td width="260"><a href="https://www.muhammedkoca.com.tr/blog/kidemli-muhendisler-icin-gizli-kariyer-hizlandiricisi-sessiz-rol-stratejisiyle-l"><img src="https://www.muhammedkoca.com.tr/api/og/cover.svg?title=K%C4%B1demli%20M%C3%BChendisler%20%C4%B0%C3%A7in%20Gizli%20Kariyer%20H%C4%B1zland%C4%B1r%C4%B1c%C4%B1s%C4%B1%3A%20%22Sessiz%20Rol%22%20Stratejisiyle%20Liderli%C4%9Fe%20S%C4%B1%C3%A7rama&category=Kariyer" width="240" alt="Kıdemli Mühendisler İçin Gizli Kariyer Hızlandırıcısı: &quot;Sessiz Rol&quot; Stratejisiyle Liderliğe Sıçrama"/></a></td>
+    <td valign="top" width="580">
+      <img src="https://img.shields.io/badge/Kariyer-dc2626?style=flat-square&labelColor=0a0304" alt="Kariyer"/> <sub>30 Tem 2026</sub><br/><br/>
+      <a href="https://www.muhammedkoca.com.tr/blog/kidemli-muhendisler-icin-gizli-kariyer-hizlandiricisi-sessiz-rol-stratejisiyle-l"><b>Kıdemli Mühendisler İçin Gizli Kariyer Hızlandırıcısı: &quot;Sessiz Rol&quot; Stratejisiyle Liderliğe Sıçrama</b></a><br/><br/>
+      <sub>Çoğu mühendis kariyerini yanlış yönde hızlandırıyor: daha fazla kod yazmak, daha fazla toplantıya katılmak. Oysa gerçek liderlik, görünmeyen…</sub>
+    </td>
+  </tr>
+  <tr><td colspan="2"><img src="assets/divider.svg" alt="" width="100%"/></td></tr>
+  <tr>
     <td width="260"><a href="https://www.muhammedkoca.com.tr/blog/muhendis-zihnini-yeniden-programlamak-deep-work-ve-sistematik-iyilesme-icin-4-ka"><img src="https://www.muhammedkoca.com.tr/api/og/cover.svg?title=M%C3%BChendis%20Zihnini%20Yeniden%20Programlamak%3A%20Deep%20Work%20ve%20Sistematik%20%C4%B0yile%C5%9Fme%20%C4%B0%C3%A7in%204%20Kan%C4%B1tlanm%C4%B1%C5%9F%20Taktik&category=Ya%C5%9Fam" width="240" alt="Mühendis Zihnini Yeniden Programlamak: Deep Work ve Sistematik İyileşme İçin 4 Kanıtlanmış Taktik"/></a></td>
     <td valign="top" width="580">
       <img src="https://img.shields.io/badge/Yaşam-dc2626?style=flat-square&labelColor=0a0304" alt="Yaşam"/> <sub>29 Tem 2026</sub><br/><br/>
@@ -162,15 +171,6 @@
       <img src="https://img.shields.io/badge/Mimari-dc2626?style=flat-square&labelColor=0a0304" alt="Mimari"/> <sub>29 Tem 2026</sub><br/><br/>
       <a href="https://www.muhammedkoca.com.tr/blog/dagitik-sistemlerde-performans-darbogazlarini-tespit-etmek-ve-cozmek-node-js-pri"><b>Dağıtık Sistemlerde Performans Darboğazlarını Tespit Etmek ve Çözmek: Node.js, Prisma ve Mikroservislerde İleri Düzey Optimizasyon Stratejileri</b></a><br/><br/>
       <sub>Dağıtık sistemlerde performans darboğazları, çoğu zaman görünmez bir düşman gibi sisteminizi yavaş yavaş çökertir. Bu makalede, Node.js ve Prisma…</sub>
-    </td>
-  </tr>
-  <tr><td colspan="2"><img src="assets/divider.svg" alt="" width="100%"/></td></tr>
-  <tr>
-    <td width="260"><a href="https://www.muhammedkoca.com.tr/blog/dagitik-sistemlerde-kritik-veri-tutarliligi-node-js-ve-prisma-ile-saga-pattern-u-2"><img src="https://www.muhammedkoca.com.tr/api/og/cover.svg?title=Da%C4%9F%C4%B1t%C4%B1k%20Sistemlerde%20Kritik%20Veri%20Tutarl%C4%B1l%C4%B1%C4%9F%C4%B1%3A%20Node.js%20ve%20Prisma%20ile%20Saga%20Pattern%20Uygulamas%C4%B1%20ve%20Prod%C3%BCksiyon%20Felaketlerinden%20Dersler&category=Mimari" width="240" alt="Dağıtık Sistemlerde Kritik Veri Tutarlılığı: Node.js ve Prisma ile Saga Pattern Uygulaması ve Prodüksiyon Felaketlerinden Dersler"/></a></td>
-    <td valign="top" width="580">
-      <img src="https://img.shields.io/badge/Mimari-dc2626?style=flat-square&labelColor=0a0304" alt="Mimari"/> <sub>29 Tem 2026</sub><br/><br/>
-      <a href="https://www.muhammedkoca.com.tr/blog/dagitik-sistemlerde-kritik-veri-tutarliligi-node-js-ve-prisma-ile-saga-pattern-u-2"><b>Dağıtık Sistemlerde Kritik Veri Tutarlılığı: Node.js ve Prisma ile Saga Pattern Uygulaması ve Prodüksiyon Felaketlerinden Dersler</b></a><br/><br/>
-      <sub>Dağıtık sistemlerde ACID işlemleri sağlamak, veritabanı sınırlarını aşan iş akışlarında tutarlılığı korumak kritik bir zorluktur. Bu makalede, Saga…</sub>
     </td>
   </tr>
 </table>
