@@ -148,9 +148,18 @@
 <!-- BLOG-CARDS:START -->
 <table>
   <tr>
+    <td width="260"><a href="https://www.muhammedkoca.com.tr/blog/muhendis-zihnini-yeniden-programlamak-deep-work-ve-sistematik-iyilesme-icin-4-ka"><img src="https://www.muhammedkoca.com.tr/api/og/cover.svg?title=M%C3%BChendis%20Zihnini%20Yeniden%20Programlamak%3A%20Deep%20Work%20ve%20Sistematik%20%C4%B0yile%C5%9Fme%20%C4%B0%C3%A7in%204%20Kan%C4%B1tlanm%C4%B1%C5%9F%20Taktik&category=Ya%C5%9Fam" width="240" alt="Mühendis Zihnini Yeniden Programlamak: Deep Work ve Sistematik İyileşme İçin 4 Kanıtlanmış Taktik"/></a></td>
+    <td valign="top" width="580">
+      <img src="https://img.shields.io/badge/Yaşam-dc2626?style=flat-square&labelColor=0a0304" alt="Yaşam"/> <sub>29 Tem 2026</sub><br/><br/>
+      <a href="https://www.muhammedkoca.com.tr/blog/muhendis-zihnini-yeniden-programlamak-deep-work-ve-sistematik-iyilesme-icin-4-ka"><b>Mühendis Zihnini Yeniden Programlamak: Deep Work ve Sistematik İyileşme İçin 4 Kanıtlanmış Taktik</b></a><br/><br/>
+      <sub>15 yıllık prodüksiyon savaşlarından sonra öğrendiğim bir gerçek: Verimlilik bir tool meselesi değil, zihinsel mimari meselesidir. Bu makalede, derin…</sub>
+    </td>
+  </tr>
+  <tr><td colspan="2"><img src="assets/divider.svg" alt="" width="100%"/></td></tr>
+  <tr>
     <td width="260"><a href="https://www.muhammedkoca.com.tr/blog/dagitik-sistemlerde-performans-darbogazlarini-tespit-etmek-ve-cozmek-node-js-pri"><img src="https://www.muhammedkoca.com.tr/api/og/cover.svg?title=Da%C4%9F%C4%B1t%C4%B1k%20Sistemlerde%20Performans%20Darbo%C4%9Fazlar%C4%B1n%C4%B1%20Tespit%20Etmek%20ve%20%C3%87%C3%B6zmek%3A%20Node.js%2C%20Prisma%20ve%20Mikroservislerde%20%C4%B0leri%20D%C3%BCzey%20Optimizasyon%20Stratejileri&category=Mimari" width="240" alt="Dağıtık Sistemlerde Performans Darboğazlarını Tespit Etmek ve Çözmek: Node.js, Prisma ve Mikroservislerde İleri Düzey Optimizasyon Stratejileri"/></a></td>
     <td valign="top" width="580">
-      <img src="https://img.shields.io/badge/Mimari-fb923c?style=flat-square" alt="Mimari"/> <sub>29 Tem 2026</sub><br/><br/>
+      <img src="https://img.shields.io/badge/Mimari-dc2626?style=flat-square&labelColor=0a0304" alt="Mimari"/> <sub>29 Tem 2026</sub><br/><br/>
       <a href="https://www.muhammedkoca.com.tr/blog/dagitik-sistemlerde-performans-darbogazlarini-tespit-etmek-ve-cozmek-node-js-pri"><b>Dağıtık Sistemlerde Performans Darboğazlarını Tespit Etmek ve Çözmek: Node.js, Prisma ve Mikroservislerde İleri Düzey Optimizasyon Stratejileri</b></a><br/><br/>
       <sub>Dağıtık sistemlerde performans darboğazları, çoğu zaman görünmez bir düşman gibi sisteminizi yavaş yavaş çökertir. Bu makalede, Node.js ve Prisma…</sub>
     </td>
@@ -159,18 +168,9 @@
   <tr>
     <td width="260"><a href="https://www.muhammedkoca.com.tr/blog/dagitik-sistemlerde-kritik-veri-tutarliligi-node-js-ve-prisma-ile-saga-pattern-u-2"><img src="https://www.muhammedkoca.com.tr/api/og/cover.svg?title=Da%C4%9F%C4%B1t%C4%B1k%20Sistemlerde%20Kritik%20Veri%20Tutarl%C4%B1l%C4%B1%C4%9F%C4%B1%3A%20Node.js%20ve%20Prisma%20ile%20Saga%20Pattern%20Uygulamas%C4%B1%20ve%20Prod%C3%BCksiyon%20Felaketlerinden%20Dersler&category=Mimari" width="240" alt="Dağıtık Sistemlerde Kritik Veri Tutarlılığı: Node.js ve Prisma ile Saga Pattern Uygulaması ve Prodüksiyon Felaketlerinden Dersler"/></a></td>
     <td valign="top" width="580">
-      <img src="https://img.shields.io/badge/Mimari-fb923c?style=flat-square" alt="Mimari"/> <sub>29 Tem 2026</sub><br/><br/>
+      <img src="https://img.shields.io/badge/Mimari-dc2626?style=flat-square&labelColor=0a0304" alt="Mimari"/> <sub>29 Tem 2026</sub><br/><br/>
       <a href="https://www.muhammedkoca.com.tr/blog/dagitik-sistemlerde-kritik-veri-tutarliligi-node-js-ve-prisma-ile-saga-pattern-u-2"><b>Dağıtık Sistemlerde Kritik Veri Tutarlılığı: Node.js ve Prisma ile Saga Pattern Uygulaması ve Prodüksiyon Felaketlerinden Dersler</b></a><br/><br/>
       <sub>Dağıtık sistemlerde ACID işlemleri sağlamak, veritabanı sınırlarını aşan iş akışlarında tutarlılığı korumak kritik bir zorluktur. Bu makalede, Saga…</sub>
-    </td>
-  </tr>
-  <tr><td colspan="2"><img src="assets/divider.svg" alt="" width="100%"/></td></tr>
-  <tr>
-    <td width="260"><a href="https://www.muhammedkoca.com.tr/blog/yuksek-performansli-muhendislik-zihni-24-saatlik-uretkenlik-dongusunu-yeniden-ta"><img src="https://www.muhammedkoca.com.tr/api/og/cover.svg?title=Y%C3%BCksek%20Performansl%C4%B1%20M%C3%BChendislik%20Zihni%3A%2024%20Saatlik%20%C3%9Cretkenlik%20D%C3%B6ng%C3%BCs%C3%BCn%C3%BC%20Yeniden%20Tasarlamak&category=Ya%C5%9Fam" width="240" alt="Yüksek Performanslı Mühendislik Zihni: 24 Saatlik Üretkenlik Döngüsünü Yeniden Tasarlamak"/></a></td>
-    <td valign="top" width="580">
-      <img src="https://img.shields.io/badge/Yaşam-fb923c?style=flat-square" alt="Yaşam"/> <sub>29 Tem 2026</sub><br/><br/>
-      <a href="https://www.muhammedkoca.com.tr/blog/yuksek-performansli-muhendislik-zihni-24-saatlik-uretkenlik-dongusunu-yeniden-ta"><b>Yüksek Performanslı Mühendislik Zihni: 24 Saatlik Üretkenlik Döngüsünü Yeniden Tasarlamak</b></a><br/><br/>
-      <sub>15 yıllık üretim sistemleri mimarisinde edindiğim tecrübeler, mühendislik verimliliğinin kod yazmaktan ibaret olmadığını gösterdi. Gerçek yüksek…</sub>
     </td>
   </tr>
 </table>
