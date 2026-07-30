@@ -94,7 +94,7 @@ def build_cards(items):
         desc_safe = html_escape(truncate(it["desc"]))
         date_safe = html_escape(format_date(it["pubDate"]))
         cat_safe = html_escape(category) if category else ""
-        cat_badge = f'<img src="https://img.shields.io/badge/{cat_safe.replace(" ", "%20")}-dc2626?style=flat-square&labelColor=0a0304" alt="{cat_safe}"/>' if cat_safe else ""
+        cat_badge = f'<img src="https://img.shields.io/badge/{cat_safe.replace(" ", "%20")}-3b82f6?style=flat-square&labelColor=0a0a0b" alt="{cat_safe}"/>' if cat_safe else ""
 
         rows.append(f'''  <tr>
     <td width="260"><a href="{it['link']}"><img src="{cover}" width="240" alt="{title_safe}"/></a></td>

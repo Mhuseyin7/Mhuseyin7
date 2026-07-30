@@ -1,63 +1,15 @@
-<svg width="880" height="120" viewBox="0 0 880 120" preserveAspectRatio="xMidYMid meet" fill="none" xmlns="http://www.w3.org/2000/svg">
-  <defs>
-    <linearGradient id="ember" x1="0" y1="0" x2="880" y2="0" gradientUnits="userSpaceOnUse">
-      <stop offset="0" stop-color="#7f1d1d"/>
-      <stop offset="0.5" stop-color="#dc2626"/>
-      <stop offset="1" stop-color="#f43f5e"/>
-    </linearGradient>
-    <radialGradient id="fbg" cx="0.5" cy="0.1" r="1.2">
-      <stop offset="0" stop-color="#1a080c"/>
-      <stop offset="0.6" stop-color="#0a0305"/>
-      <stop offset="1" stop-color="#030102"/>
-    </radialGradient>
-    <radialGradient id="crimsonWash" cx="0.5" cy="0.5" r="0.7">
-      <stop offset="0" stop-color="#dc2626" stop-opacity="0.12"/>
-      <stop offset="1" stop-color="#dc2626" stop-opacity="0"/>
-    </radialGradient>
-    <filter id="fglow" x="-50%" y="-50%" width="200%" height="200%">
-      <feGaussianBlur stdDeviation="2.8" result="b"/>
-      <feMerge><feMergeNode in="b"/><feMergeNode in="SourceGraphic"/></feMerge>
-    </filter>
-    <clipPath id="fframe"><rect x="1.5" y="1.5" width="877" height="117" rx="16"/></clipPath>
-  </defs>
+<svg width="880" height="96" viewBox="0 0 880 96" preserveAspectRatio="xMidYMid meet" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <rect x="0.5" y="0.5" width="879" height="95" rx="12" fill="#0a0a0b" stroke="#1c1c20" stroke-width="1"/>
 
-  <rect x="1.5" y="1.5" width="877" height="117" rx="16" fill="url(#fbg)" stroke="url(#ember)" stroke-width="1.6"/>
+  <!-- left accent rail -->
+  <rect x="0" y="12" width="2" height="72" fill="#3b82f6"/>
 
-  <g clip-path="url(#fframe)">
-    <rect x="0" y="0" width="880" height="120" fill="url(#crimsonWash)"/>
+  <!-- brand tagline -->
+  <text x="440" y="42" text-anchor="middle" font-family="'Inter', 'Segoe UI', Arial, sans-serif" font-size="18" font-weight="600" fill="#f4f4f5" letter-spacing="0.4">&#214;ng&#246;r &#8594; Kurtar &#8594; G&#252;&#231;lendir</text>
 
-    <!-- rising embers -->
-    <g fill="#dc2626">
-      <circle cx="220" cy="115" r="1.6" opacity="0">
-        <animate attributeName="opacity" values="0;0.8;0" dur="6s" begin="0s" repeatCount="indefinite"/>
-        <animateTransform attributeName="transform" type="translate" from="0 0" to="10 -100" dur="6s" begin="0s" repeatCount="indefinite"/>
-      </circle>
-      <circle cx="660" cy="118" r="1.8" fill="#f43f5e" opacity="0">
-        <animate attributeName="opacity" values="0;0.85;0" dur="7s" begin="2s" repeatCount="indefinite"/>
-        <animateTransform attributeName="transform" type="translate" from="0 0" to="-12 -108" dur="7s" begin="2s" repeatCount="indefinite"/>
-      </circle>
-    </g>
+  <!-- URL row -->
+  <text x="440" y="68" text-anchor="middle" font-family="'JetBrains Mono', Consolas, monospace" font-size="12" fill="#a1a1aa" letter-spacing="0.8">muhammedkoca.com.tr</text>
 
-    <!-- diamond markers -->
-    <g fill="url(#ember)" filter="url(#fglow)">
-      <rect x="212" y="42" width="7" height="7" rx="1.2" transform="rotate(45 215.5 45.5)"/>
-      <rect x="661" y="42" width="7" height="7" rx="1.2" transform="rotate(45 664.5 45.5)"/>
-    </g>
-
-    <!-- tagline -->
-    <text x="440" y="51" text-anchor="middle" font-family="Segoe UI, Arial, sans-serif" font-size="22" font-weight="800" fill="url(#ember)" filter="url(#fglow)" letter-spacing="0.5">&#214;ng&#246;r &#8594; Kurtar &#8594; G&#252;&#231;lendir</text>
-
-    <!-- URL -->
-    <text x="440" y="78" text-anchor="middle" font-family="Consolas, 'Courier New', monospace" font-size="14" fill="#d4d4d4" letter-spacing="1">
-      <tspan fill="#dc2626" font-weight="700">$</tspan> curl -s muhammedkoca.com.tr
-      <animate attributeName="opacity" values="1;0.6;1" dur="3.4s" repeatCount="indefinite"/>
-    </text>
-
-    <!-- flowing signal wave -->
-    <path d="M 0 100 Q 28 86 55 100 Q 82 114 110 100 Q 138 86 165 100 Q 192 114 220 100 Q 248 86 275 100 Q 302 114 330 100 Q 358 86 385 100 Q 412 114 440 100 Q 468 86 495 100 Q 522 114 550 100 Q 578 86 605 100 Q 632 114 660 100 Q 688 86 715 100 Q 742 114 770 100 Q 798 86 825 100 Q 852 114 880 100"
-          stroke="url(#ember)" stroke-width="1.8" fill="none" filter="url(#fglow)"
-          stroke-dasharray="1400" stroke-dashoffset="1400">
-      <animate attributeName="stroke-dashoffset" values="1400;0;-1400" keyTimes="0;0.5;1" dur="7s" repeatCount="indefinite"/>
-    </path>
-  </g>
+  <!-- bottom meta -->
+  <text x="440" y="86" text-anchor="middle" font-family="'JetBrains Mono', Consolas, monospace" font-size="10" fill="#52525a" letter-spacing="2.4">RESILIENT &#183; OBSERVABLE &#183; SELF-HEALING</text>
 </svg>

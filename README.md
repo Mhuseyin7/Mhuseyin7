@@ -13,16 +13,16 @@
 
 <br/><br/>
 
-[![typing](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=17&duration=2600&pause=900&color=DC2626&center=true&vCenter=true&random=false&width=700&height=44&lines=%24+.%2Fsystem+--heal+%E2%86%92+self-healing%3A+ACTIVE;%C3%96ng%C3%B6r+%E2%86%92+Kurtar+%E2%86%92+G%C3%BC%C3%A7lendir;Fault-tolerant+%C2%B7+Chaos+Engineering+%C2%B7+Observability;935%2B+yaz%C4%B1+%C2%B7+1.3M%2B+kelime+%C2%B7+muhammedkoca.com.tr)](https://www.muhammedkoca.com.tr)
+[![typing](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=17&duration=2600&pause=900&color=3B82F6&center=true&vCenter=true&random=false&width=700&height=44&lines=%24+.%2Fsystem+--heal+%E2%86%92+self-healing%3A+ACTIVE;%C3%96ng%C3%B6r+%E2%86%92+Kurtar+%E2%86%92+G%C3%BC%C3%A7lendir;Fault-tolerant+%C2%B7+Chaos+Engineering+%C2%B7+Observability;935%2B+yaz%C4%B1+%C2%B7+1.3M%2B+kelime+%C2%B7+muhammedkoca.com.tr)](https://www.muhammedkoca.com.tr)
 
-<a href="https://www.muhammedkoca.com.tr/"><img alt="Blog" src="https://img.shields.io/badge/Blog-muhammedkoca.com.tr-dc2626?style=for-the-badge&logo=astro&logoColor=white&labelColor=0a0304"></a>&nbsp;
-<a href="https://www.linkedin.com/in/muhammed-h%C3%BCseyin-koca-221a853b9/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Muhammed%20Koca-f43f5e?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0a0304"></a>&nbsp;
-<a href="https://www.instagram.com/muhammedkoca.dev/"><img alt="Instagram" src="https://img.shields.io/badge/Instagram-%40muhammedkoca.dev-7f1d1d?style=for-the-badge&logo=instagram&logoColor=white&labelColor=0a0304"></a>
+<a href="https://www.muhammedkoca.com.tr/"><img alt="Blog" src="https://img.shields.io/badge/Blog-muhammedkoca.com.tr-3b82f6?style=flat-square&logo=astro&logoColor=white&labelColor=0a0a0b"></a>&nbsp;
+<a href="https://www.linkedin.com/in/muhammed-h%C3%BCseyin-koca-221a853b9/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Muhammed%20Koca-3b82f6?style=flat-square&logo=linkedin&logoColor=white&labelColor=0a0a0b"></a>&nbsp;
+<a href="https://www.instagram.com/muhammedkoca.dev/"><img alt="Instagram" src="https://img.shields.io/badge/Instagram-%40muhammedkoca.dev-3b82f6?style=flat-square&logo=instagram&logoColor=white&labelColor=0a0a0b"></a>
 
-<a href="mailto:mhuseyinkoca9@gmail.com"><img alt="Mail" src="https://img.shields.io/badge/Mail-mhuseyinkoca9%40gmail.com-0a0304?style=flat-square&logo=gmail&logoColor=dc2626"></a>
-<a href="https://www.muhammedkoca.com.tr/rss.xml"><img alt="RSS" src="https://img.shields.io/badge/RSS-Feed-0a0304?style=flat-square&logo=rss&logoColor=f43f5e"></a>
-<img alt="profile views" src="https://komarev.com/ghpvc/?username=Mhuseyin7&label=Ziyaret&color=dc2626&style=flat-square">
-<img alt="followers" src="https://img.shields.io/github/followers/Mhuseyin7?style=flat-square&label=Followers&color=f43f5e&labelColor=0a0304">
+<a href="mailto:mhuseyinkoca9@gmail.com"><img alt="Mail" src="https://img.shields.io/badge/Mail-mhuseyinkoca9%40gmail.com-0a0a0b?style=flat-square&logo=gmail&logoColor=3b82f6"></a>
+<a href="https://www.muhammedkoca.com.tr/rss.xml"><img alt="RSS" src="https://img.shields.io/badge/RSS-Feed-0a0a0b?style=flat-square&logo=rss&logoColor=3b82f6"></a>
+<img alt="profile views" src="https://komarev.com/ghpvc/?username=Mhuseyin7&label=Ziyaret&color=3b82f6&style=flat-square">
+<img alt="followers" src="https://img.shields.io/github/followers/Mhuseyin7?style=flat-square&label=Followers&color=3b82f6&labelColor=0a0a0b">
 
 </div>
 
@@ -148,29 +148,29 @@
 <!-- BLOG-CARDS:START -->
 <table>
   <tr>
-    <td width="260"><a href="https://www.muhammedkoca.com.tr/blog/senior-muhendisler-icin-performans-darbogazlarini-sistematik-olarak-cozme-rehber"><img src="https://www.muhammedkoca.com.tr/api/og/cover.svg?title=Senior%20M%C3%BChendisler%20%C4%B0%C3%A7in%20Performans%20Darbo%C4%9Fazlar%C4%B1n%C4%B1%20Sistematik%20Olarak%20%C3%87%C3%B6zme%20Rehberi%3A%20Teori%2C%20Uygulama%20ve%20Prod%C3%BCksiyon%20Vakalar%C4%B1&category=Kariyer" width="240" alt="Senior Mühendisler İçin Performans Darboğazlarını Sistematik Olarak Çözme Rehberi: Teori, Uygulama ve Prodüksiyon Vakaları"/></a></td>
+    <td width="260"><a href="https://www.muhammedkoca.com.tr/blog/dagitik-sistemlerde-performans-darbogazlarini-tespit-etmek-ve-cozmek-node-js-pri"><img src="https://www.muhammedkoca.com.tr/api/og/cover.svg?title=Da%C4%9F%C4%B1t%C4%B1k%20Sistemlerde%20Performans%20Darbo%C4%9Fazlar%C4%B1n%C4%B1%20Tespit%20Etmek%20ve%20%C3%87%C3%B6zmek%3A%20Node.js%2C%20Prisma%20ve%20Mikroservislerde%20%C4%B0leri%20D%C3%BCzey%20Optimizasyon%20Stratejileri&category=Mimari" width="240" alt="Dağıtık Sistemlerde Performans Darboğazlarını Tespit Etmek ve Çözmek: Node.js, Prisma ve Mikroservislerde İleri Düzey Optimizasyon Stratejileri"/></a></td>
     <td valign="top" width="580">
-      <img src="https://img.shields.io/badge/Kariyer-dc2626?style=flat-square&labelColor=0a0304" alt="Kariyer"/> <sub>30 Tem 2026</sub><br/><br/>
-      <a href="https://www.muhammedkoca.com.tr/blog/senior-muhendisler-icin-performans-darbogazlarini-sistematik-olarak-cozme-rehber"><b>Senior Mühendisler İçin Performans Darboğazlarını Sistematik Olarak Çözme Rehberi: Teori, Uygulama ve Prodüksiyon Vakaları</b></a><br/><br/>
-      <sub>Performans darboğazları, sistemlerin en zayıf halkasıdır ve çoğu zaman yanlış yerlerde aranır. Bu rehberde, 15 yıllık prodüksiyon tecrübesinden…</sub>
+      <img src="https://img.shields.io/badge/Mimari-fb923c?style=flat-square" alt="Mimari"/> <sub>29 Tem 2026</sub><br/><br/>
+      <a href="https://www.muhammedkoca.com.tr/blog/dagitik-sistemlerde-performans-darbogazlarini-tespit-etmek-ve-cozmek-node-js-pri"><b>Dağıtık Sistemlerde Performans Darboğazlarını Tespit Etmek ve Çözmek: Node.js, Prisma ve Mikroservislerde İleri Düzey Optimizasyon Stratejileri</b></a><br/><br/>
+      <sub>Dağıtık sistemlerde performans darboğazları, çoğu zaman görünmez bir düşman gibi sisteminizi yavaş yavaş çökertir. Bu makalede, Node.js ve Prisma…</sub>
     </td>
   </tr>
   <tr><td colspan="2"><img src="assets/divider.svg" alt="" width="100%"/></td></tr>
   <tr>
-    <td width="260"><a href="https://www.muhammedkoca.com.tr/blog/kidemli-muhendisler-icin-gizli-kariyer-hizlandiricisi-sessiz-rol-stratejisiyle-l"><img src="https://www.muhammedkoca.com.tr/api/og/cover.svg?title=K%C4%B1demli%20M%C3%BChendisler%20%C4%B0%C3%A7in%20Gizli%20Kariyer%20H%C4%B1zland%C4%B1r%C4%B1c%C4%B1s%C4%B1%3A%20%22Sessiz%20Rol%22%20Stratejisiyle%20Liderli%C4%9Fe%20S%C4%B1%C3%A7rama&category=Kariyer" width="240" alt="Kıdemli Mühendisler İçin Gizli Kariyer Hızlandırıcısı: &quot;Sessiz Rol&quot; Stratejisiyle Liderliğe Sıçrama"/></a></td>
+    <td width="260"><a href="https://www.muhammedkoca.com.tr/blog/dagitik-sistemlerde-kritik-veri-tutarliligi-node-js-ve-prisma-ile-saga-pattern-u-2"><img src="https://www.muhammedkoca.com.tr/api/og/cover.svg?title=Da%C4%9F%C4%B1t%C4%B1k%20Sistemlerde%20Kritik%20Veri%20Tutarl%C4%B1l%C4%B1%C4%9F%C4%B1%3A%20Node.js%20ve%20Prisma%20ile%20Saga%20Pattern%20Uygulamas%C4%B1%20ve%20Prod%C3%BCksiyon%20Felaketlerinden%20Dersler&category=Mimari" width="240" alt="Dağıtık Sistemlerde Kritik Veri Tutarlılığı: Node.js ve Prisma ile Saga Pattern Uygulaması ve Prodüksiyon Felaketlerinden Dersler"/></a></td>
     <td valign="top" width="580">
-      <img src="https://img.shields.io/badge/Kariyer-dc2626?style=flat-square&labelColor=0a0304" alt="Kariyer"/> <sub>30 Tem 2026</sub><br/><br/>
-      <a href="https://www.muhammedkoca.com.tr/blog/kidemli-muhendisler-icin-gizli-kariyer-hizlandiricisi-sessiz-rol-stratejisiyle-l"><b>Kıdemli Mühendisler İçin Gizli Kariyer Hızlandırıcısı: &quot;Sessiz Rol&quot; Stratejisiyle Liderliğe Sıçrama</b></a><br/><br/>
-      <sub>Çoğu mühendis kariyerini yanlış yönde hızlandırıyor: daha fazla kod yazmak, daha fazla toplantıya katılmak. Oysa gerçek liderlik, görünmeyen…</sub>
+      <img src="https://img.shields.io/badge/Mimari-fb923c?style=flat-square" alt="Mimari"/> <sub>29 Tem 2026</sub><br/><br/>
+      <a href="https://www.muhammedkoca.com.tr/blog/dagitik-sistemlerde-kritik-veri-tutarliligi-node-js-ve-prisma-ile-saga-pattern-u-2"><b>Dağıtık Sistemlerde Kritik Veri Tutarlılığı: Node.js ve Prisma ile Saga Pattern Uygulaması ve Prodüksiyon Felaketlerinden Dersler</b></a><br/><br/>
+      <sub>Dağıtık sistemlerde ACID işlemleri sağlamak, veritabanı sınırlarını aşan iş akışlarında tutarlılığı korumak kritik bir zorluktur. Bu makalede, Saga…</sub>
     </td>
   </tr>
   <tr><td colspan="2"><img src="assets/divider.svg" alt="" width="100%"/></td></tr>
   <tr>
-    <td width="260"><a href="https://www.muhammedkoca.com.tr/blog/muhendis-zihnini-yeniden-programlamak-deep-work-ve-sistematik-iyilesme-icin-4-ka"><img src="https://www.muhammedkoca.com.tr/api/og/cover.svg?title=M%C3%BChendis%20Zihnini%20Yeniden%20Programlamak%3A%20Deep%20Work%20ve%20Sistematik%20%C4%B0yile%C5%9Fme%20%C4%B0%C3%A7in%204%20Kan%C4%B1tlanm%C4%B1%C5%9F%20Taktik&category=Ya%C5%9Fam" width="240" alt="Mühendis Zihnini Yeniden Programlamak: Deep Work ve Sistematik İyileşme İçin 4 Kanıtlanmış Taktik"/></a></td>
+    <td width="260"><a href="https://www.muhammedkoca.com.tr/blog/yuksek-performansli-muhendislik-zihni-24-saatlik-uretkenlik-dongusunu-yeniden-ta"><img src="https://www.muhammedkoca.com.tr/api/og/cover.svg?title=Y%C3%BCksek%20Performansl%C4%B1%20M%C3%BChendislik%20Zihni%3A%2024%20Saatlik%20%C3%9Cretkenlik%20D%C3%B6ng%C3%BCs%C3%BCn%C3%BC%20Yeniden%20Tasarlamak&category=Ya%C5%9Fam" width="240" alt="Yüksek Performanslı Mühendislik Zihni: 24 Saatlik Üretkenlik Döngüsünü Yeniden Tasarlamak"/></a></td>
     <td valign="top" width="580">
-      <img src="https://img.shields.io/badge/Yaşam-dc2626?style=flat-square&labelColor=0a0304" alt="Yaşam"/> <sub>29 Tem 2026</sub><br/><br/>
-      <a href="https://www.muhammedkoca.com.tr/blog/muhendis-zihnini-yeniden-programlamak-deep-work-ve-sistematik-iyilesme-icin-4-ka"><b>Mühendis Zihnini Yeniden Programlamak: Deep Work ve Sistematik İyileşme İçin 4 Kanıtlanmış Taktik</b></a><br/><br/>
-      <sub>15 yıllık prodüksiyon savaşlarından sonra öğrendiğim bir gerçek: Verimlilik bir tool meselesi değil, zihinsel mimari meselesidir. Bu makalede, derin…</sub>
+      <img src="https://img.shields.io/badge/Yaşam-fb923c?style=flat-square" alt="Yaşam"/> <sub>29 Tem 2026</sub><br/><br/>
+      <a href="https://www.muhammedkoca.com.tr/blog/yuksek-performansli-muhendislik-zihni-24-saatlik-uretkenlik-dongusunu-yeniden-ta"><b>Yüksek Performanslı Mühendislik Zihni: 24 Saatlik Üretkenlik Döngüsünü Yeniden Tasarlamak</b></a><br/><br/>
+      <sub>15 yıllık üretim sistemleri mimarisinde edindiğim tecrübeler, mühendislik verimliliğinin kod yazmaktan ibaret olmadığını gösterdi. Gerçek yüksek…</sub>
     </td>
   </tr>
 </table>

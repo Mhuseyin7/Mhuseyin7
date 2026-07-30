@@ -1,13 +1,13 @@
 <svg width="880" height="260" viewBox="0 0 880 260" fill="none" xmlns="http://www.w3.org/2000/svg">
   <defs>
     <linearGradient id="neon" x1="0" y1="0" x2="880" y2="0" gradientUnits="userSpaceOnUse">
-      <stop offset="0" stop-color="#7f1d1d"/>
-      <stop offset="0.5" stop-color="#dc2626"/>
-      <stop offset="1" stop-color="#f43f5e"/>
+      <stop offset="0" stop-color="#1e3a8a"/>
+      <stop offset="0.5" stop-color="#3b82f6"/>
+      <stop offset="1" stop-color="#60a5fa"/>
     </linearGradient>
     <linearGradient id="bg" x1="0" y1="0" x2="880" y2="260" gradientUnits="userSpaceOnUse">
-      <stop offset="0" stop-color="#1a080c"/>
-      <stop offset="1" stop-color="#050203"/>
+      <stop offset="0" stop-color="#0a0a0b"/>
+      <stop offset="1" stop-color="#0a0a0b"/>
     </linearGradient>
     <filter id="glow" x="-50%" y="-50%" width="200%" height="200%">
       <feGaussianBlur stdDeviation="2.6" result="b"/>
@@ -15,47 +15,47 @@
     </filter>
   </defs>
   <rect x="1.5" y="1.5" width="877" height="257" rx="14" fill="url(#bg)" stroke="url(#neon)" stroke-width="1.6"/>
-  <text x="856" y="28" text-anchor="end" font-family="Consolas, monospace" font-size="11" fill="#f43f5e" opacity="0.55">EN ÇOK KULLANILAN DİLLER</text>
+  <text x="856" y="28" text-anchor="end" font-family="Consolas, monospace" font-size="11" fill="#60a5fa" opacity="0.55">EN ÇOK KULLANILAN DİLLER</text>
   
     <text x="24" y="59" font-family="Segoe UI, Arial, sans-serif" font-size="13" fill="#f5f5f5">Python</text>
-    <rect x="190" y="46" width="600" height="11" rx="5.5" fill="#dc2626" fill-opacity="0.12"/>
+    <rect x="190" y="46" width="600" height="11" rx="5.5" fill="#3b82f6" fill-opacity="0.12"/>
     <rect x="190" y="46" width="0" height="11" rx="5.5" fill="#3572A5" filter="url(#glow)">
-      <animate attributeName="width" from="0" to="237.8" dur="0.9s" begin="0.00s" fill="freeze"/>
+      <animate attributeName="width" from="0" to="237.7" dur="0.9s" begin="0.00s" fill="freeze"/>
     </rect>
-    <text x="804" y="56" font-family="Consolas, monospace" font-size="12" fill="#a3a3a3">39.6%</text>
+    <text x="804" y="56" font-family="Consolas, monospace" font-size="12" fill="#a1a1aa">39.6%</text>
 
     <text x="24" y="91" font-family="Segoe UI, Arial, sans-serif" font-size="13" fill="#f5f5f5">Rust</text>
-    <rect x="190" y="78" width="600" height="11" rx="5.5" fill="#dc2626" fill-opacity="0.12"/>
+    <rect x="190" y="78" width="600" height="11" rx="5.5" fill="#3b82f6" fill-opacity="0.12"/>
     <rect x="190" y="78" width="0" height="11" rx="5.5" fill="#dea584" filter="url(#glow)">
-      <animate attributeName="width" from="0" to="153.5" dur="0.9s" begin="0.10s" fill="freeze"/>
+      <animate attributeName="width" from="0" to="153.6" dur="0.9s" begin="0.10s" fill="freeze"/>
     </rect>
-    <text x="804" y="88" font-family="Consolas, monospace" font-size="12" fill="#a3a3a3">25.6%</text>
+    <text x="804" y="88" font-family="Consolas, monospace" font-size="12" fill="#a1a1aa">25.6%</text>
 
     <text x="24" y="123" font-family="Segoe UI, Arial, sans-serif" font-size="13" fill="#f5f5f5">TypeScript</text>
-    <rect x="190" y="110" width="600" height="11" rx="5.5" fill="#dc2626" fill-opacity="0.12"/>
+    <rect x="190" y="110" width="600" height="11" rx="5.5" fill="#3b82f6" fill-opacity="0.12"/>
     <rect x="190" y="110" width="0" height="11" rx="5.5" fill="#3178c6" filter="url(#glow)">
       <animate attributeName="width" from="0" to="88.6" dur="0.9s" begin="0.20s" fill="freeze"/>
     </rect>
-    <text x="804" y="120" font-family="Consolas, monospace" font-size="12" fill="#a3a3a3">14.8%</text>
+    <text x="804" y="120" font-family="Consolas, monospace" font-size="12" fill="#a1a1aa">14.8%</text>
 
     <text x="24" y="155" font-family="Segoe UI, Arial, sans-serif" font-size="13" fill="#f5f5f5">PHP</text>
-    <rect x="190" y="142" width="600" height="11" rx="5.5" fill="#dc2626" fill-opacity="0.12"/>
+    <rect x="190" y="142" width="600" height="11" rx="5.5" fill="#3b82f6" fill-opacity="0.12"/>
     <rect x="190" y="142" width="0" height="11" rx="5.5" fill="#4F5D95" filter="url(#glow)">
       <animate attributeName="width" from="0" to="77.4" dur="0.9s" begin="0.30s" fill="freeze"/>
     </rect>
-    <text x="804" y="152" font-family="Consolas, monospace" font-size="12" fill="#a3a3a3">12.9%</text>
+    <text x="804" y="152" font-family="Consolas, monospace" font-size="12" fill="#a1a1aa">12.9%</text>
 
     <text x="24" y="187" font-family="Segoe UI, Arial, sans-serif" font-size="13" fill="#f5f5f5">CSS</text>
-    <rect x="190" y="174" width="600" height="11" rx="5.5" fill="#dc2626" fill-opacity="0.12"/>
+    <rect x="190" y="174" width="600" height="11" rx="5.5" fill="#3b82f6" fill-opacity="0.12"/>
     <rect x="190" y="174" width="0" height="11" rx="5.5" fill="#663399" filter="url(#glow)">
       <animate attributeName="width" from="0" to="21.1" dur="0.9s" begin="0.40s" fill="freeze"/>
     </rect>
-    <text x="804" y="184" font-family="Consolas, monospace" font-size="12" fill="#a3a3a3">3.5%</text>
+    <text x="804" y="184" font-family="Consolas, monospace" font-size="12" fill="#a1a1aa">3.5%</text>
 
     <text x="24" y="219" font-family="Segoe UI, Arial, sans-serif" font-size="13" fill="#f5f5f5">JavaScript</text>
-    <rect x="190" y="206" width="600" height="11" rx="5.5" fill="#dc2626" fill-opacity="0.12"/>
+    <rect x="190" y="206" width="600" height="11" rx="5.5" fill="#3b82f6" fill-opacity="0.12"/>
     <rect x="190" y="206" width="0" height="11" rx="5.5" fill="#f1e05a" filter="url(#glow)">
       <animate attributeName="width" from="0" to="18.2" dur="0.9s" begin="0.50s" fill="freeze"/>
     </rect>
-    <text x="804" y="216" font-family="Consolas, monospace" font-size="12" fill="#a3a3a3">3.0%</text>
+    <text x="804" y="216" font-family="Consolas, monospace" font-size="12" fill="#a1a1aa">3.0%</text>
 </svg>
