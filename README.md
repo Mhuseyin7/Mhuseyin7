@@ -148,6 +148,15 @@
 <!-- BLOG-CARDS:START -->
 <table>
   <tr>
+    <td width="260"><a href="https://www.muhammedkoca.com.tr/blog/senior-muhendisler-icin-performans-darbogazlarini-sistematik-olarak-cozme-rehber"><img src="https://www.muhammedkoca.com.tr/api/og/cover.svg?title=Senior%20M%C3%BChendisler%20%C4%B0%C3%A7in%20Performans%20Darbo%C4%9Fazlar%C4%B1n%C4%B1%20Sistematik%20Olarak%20%C3%87%C3%B6zme%20Rehberi%3A%20Teori%2C%20Uygulama%20ve%20Prod%C3%BCksiyon%20Vakalar%C4%B1&category=Kariyer" width="240" alt="Senior Mühendisler İçin Performans Darboğazlarını Sistematik Olarak Çözme Rehberi: Teori, Uygulama ve Prodüksiyon Vakaları"/></a></td>
+    <td valign="top" width="580">
+      <img src="https://img.shields.io/badge/Kariyer-dc2626?style=flat-square&labelColor=0a0304" alt="Kariyer"/> <sub>30 Tem 2026</sub><br/><br/>
+      <a href="https://www.muhammedkoca.com.tr/blog/senior-muhendisler-icin-performans-darbogazlarini-sistematik-olarak-cozme-rehber"><b>Senior Mühendisler İçin Performans Darboğazlarını Sistematik Olarak Çözme Rehberi: Teori, Uygulama ve Prodüksiyon Vakaları</b></a><br/><br/>
+      <sub>Performans darboğazları, sistemlerin en zayıf halkasıdır ve çoğu zaman yanlış yerlerde aranır. Bu rehberde, 15 yıllık prodüksiyon tecrübesinden…</sub>
+    </td>
+  </tr>
+  <tr><td colspan="2"><img src="assets/divider.svg" alt="" width="100%"/></td></tr>
+  <tr>
     <td width="260"><a href="https://www.muhammedkoca.com.tr/blog/kidemli-muhendisler-icin-gizli-kariyer-hizlandiricisi-sessiz-rol-stratejisiyle-l"><img src="https://www.muhammedkoca.com.tr/api/og/cover.svg?title=K%C4%B1demli%20M%C3%BChendisler%20%C4%B0%C3%A7in%20Gizli%20Kariyer%20H%C4%B1zland%C4%B1r%C4%B1c%C4%B1s%C4%B1%3A%20%22Sessiz%20Rol%22%20Stratejisiyle%20Liderli%C4%9Fe%20S%C4%B1%C3%A7rama&category=Kariyer" width="240" alt="Kıdemli Mühendisler İçin Gizli Kariyer Hızlandırıcısı: &quot;Sessiz Rol&quot; Stratejisiyle Liderliğe Sıçrama"/></a></td>
     <td valign="top" width="580">
       <img src="https://img.shields.io/badge/Kariyer-dc2626?style=flat-square&labelColor=0a0304" alt="Kariyer"/> <sub>30 Tem 2026</sub><br/><br/>
@@ -162,15 +171,6 @@
       <img src="https://img.shields.io/badge/Yaşam-dc2626?style=flat-square&labelColor=0a0304" alt="Yaşam"/> <sub>29 Tem 2026</sub><br/><br/>
       <a href="https://www.muhammedkoca.com.tr/blog/muhendis-zihnini-yeniden-programlamak-deep-work-ve-sistematik-iyilesme-icin-4-ka"><b>Mühendis Zihnini Yeniden Programlamak: Deep Work ve Sistematik İyileşme İçin 4 Kanıtlanmış Taktik</b></a><br/><br/>
       <sub>15 yıllık prodüksiyon savaşlarından sonra öğrendiğim bir gerçek: Verimlilik bir tool meselesi değil, zihinsel mimari meselesidir. Bu makalede, derin…</sub>
-    </td>
-  </tr>
-  <tr><td colspan="2"><img src="assets/divider.svg" alt="" width="100%"/></td></tr>
-  <tr>
-    <td width="260"><a href="https://www.muhammedkoca.com.tr/blog/dagitik-sistemlerde-performans-darbogazlarini-tespit-etmek-ve-cozmek-node-js-pri"><img src="https://www.muhammedkoca.com.tr/api/og/cover.svg?title=Da%C4%9F%C4%B1t%C4%B1k%20Sistemlerde%20Performans%20Darbo%C4%9Fazlar%C4%B1n%C4%B1%20Tespit%20Etmek%20ve%20%C3%87%C3%B6zmek%3A%20Node.js%2C%20Prisma%20ve%20Mikroservislerde%20%C4%B0leri%20D%C3%BCzey%20Optimizasyon%20Stratejileri&category=Mimari" width="240" alt="Dağıtık Sistemlerde Performans Darboğazlarını Tespit Etmek ve Çözmek: Node.js, Prisma ve Mikroservislerde İleri Düzey Optimizasyon Stratejileri"/></a></td>
-    <td valign="top" width="580">
-      <img src="https://img.shields.io/badge/Mimari-dc2626?style=flat-square&labelColor=0a0304" alt="Mimari"/> <sub>29 Tem 2026</sub><br/><br/>
-      <a href="https://www.muhammedkoca.com.tr/blog/dagitik-sistemlerde-performans-darbogazlarini-tespit-etmek-ve-cozmek-node-js-pri"><b>Dağıtık Sistemlerde Performans Darboğazlarını Tespit Etmek ve Çözmek: Node.js, Prisma ve Mikroservislerde İleri Düzey Optimizasyon Stratejileri</b></a><br/><br/>
-      <sub>Dağıtık sistemlerde performans darboğazları, çoğu zaman görünmez bir düşman gibi sisteminizi yavaş yavaş çökertir. Bu makalede, Node.js ve Prisma…</sub>
     </td>
   </tr>
 </table>
