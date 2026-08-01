@@ -148,29 +148,29 @@
 <!-- BLOG-CARDS:START -->
 <table>
   <tr>
+    <td width="260"><a href="https://www.muhammedkoca.com.tr/blog/node-js-ve-prisma-ile-dagitik-sistemlerde-performans-anti-pattern-leri-produksiy"><img src="https://www.muhammedkoca.com.tr/api/og/cover.svg?title=Node.js%20ve%20Prisma%20ile%20Da%C4%9F%C4%B1t%C4%B1k%20Sistemlerde%20Performans%20Anti-Pattern" width="240" alt="Node.js ve Prisma ile Dağıtık Sistemlerde Performans Anti-Pattern&#x27;leri: Prodüksiyon Krizlerinden Dersler"/></a></td>
+    <td valign="top" width="580">
+      <img src="https://img.shields.io/badge/Mühendislik-3b82f6?style=flat-square&labelColor=0a0a0b" alt="Mühendislik"/> <sub>1 Ağu 2026</sub><br/><br/>
+      <a href="https://www.muhammedkoca.com.tr/blog/node-js-ve-prisma-ile-dagitik-sistemlerde-performans-anti-pattern-leri-produksiy"><b>Node.js ve Prisma ile Dağıtık Sistemlerde Performans Anti-Pattern&#x27;leri: Prodüksiyon Krizlerinden Dersler</b></a><br/><br/>
+      <sub>Dağıtık sistemlerde performans sorunları genellikle yanlış mimari kararları ve anti-pattern&#x27;lerden kaynaklanır. Bu makalede, Node.js ve Prisma…</sub>
+    </td>
+  </tr>
+  <tr><td colspan="2"><img src="assets/divider.svg" alt="" width="100%"/></td></tr>
+  <tr>
+    <td width="260"><a href="https://www.muhammedkoca.com.tr/blog/kidemli-muhendisler-icin-guvenlik-odakli-mimaride-tehdit-modelleme-ve-produksiyo"><img src="https://www.muhammedkoca.com.tr/api/og/cover.svg?title=K%C4%B1demli%20M%C3%BChendisler%20%C4%B0%C3%A7in%20G%C3%BCvenlik%20Odakl%C4%B1%20Mimaride%20Tehdit%20Modelleme%20ve%20Prod%C3%BCksiyon%20Krizi%20Y%C3%B6netimi&category=Kariyer" width="240" alt="Kıdemli Mühendisler İçin Güvenlik Odaklı Mimaride Tehdit Modelleme ve Prodüksiyon Krizi Yönetimi"/></a></td>
+    <td valign="top" width="580">
+      <img src="https://img.shields.io/badge/Kariyer-3b82f6?style=flat-square&labelColor=0a0a0b" alt="Kariyer"/> <sub>31 Tem 2026</sub><br/><br/>
+      <a href="https://www.muhammedkoca.com.tr/blog/kidemli-muhendisler-icin-guvenlik-odakli-mimaride-tehdit-modelleme-ve-produksiyo"><b>Kıdemli Mühendisler İçin Güvenlik Odaklı Mimaride Tehdit Modelleme ve Prodüksiyon Krizi Yönetimi</b></a><br/><br/>
+      <sub>Kıdemli mühendisler için güvenlik odaklı mimari tasarımda tehdit modellemenin kritik rolünü, gerçek prodüksiyon vakaları üzerinden inceleyin. Sızma…</sub>
+    </td>
+  </tr>
+  <tr><td colspan="2"><img src="assets/divider.svg" alt="" width="100%"/></td></tr>
+  <tr>
     <td width="260"><a href="https://www.muhammedkoca.com.tr/blog/dijital-yasamin-tehdit-modeli-siber-guvenlik-prensiplerini-kisisel-verimlilik-ve"><img src="https://www.muhammedkoca.com.tr/api/og/cover.svg?title=Dijital%20Ya%C5%9Fam%C4%B1n%20Tehdit%20Modeli%3A%20Siber%20G%C3%BCvenlik%20Prensiplerini%20Ki%C5%9Fisel%20Verimlilik%20ve%20Sa%C4%9Fl%C4%B1%C4%9Fa%20Uygulamak&category=Ya%C5%9Fam" width="240" alt="Dijital Yaşamın Tehdit Modeli: Siber Güvenlik Prensiplerini Kişisel Verimlilik ve Sağlığa Uygulamak"/></a></td>
     <td valign="top" width="580">
       <img src="https://img.shields.io/badge/Yaşam-3b82f6?style=flat-square&labelColor=0a0a0b" alt="Yaşam"/> <sub>30 Tem 2026</sub><br/><br/>
       <a href="https://www.muhammedkoca.com.tr/blog/dijital-yasamin-tehdit-modeli-siber-guvenlik-prensiplerini-kisisel-verimlilik-ve"><b>Dijital Yaşamın Tehdit Modeli: Siber Güvenlik Prensiplerini Kişisel Verimlilik ve Sağlığa Uygulamak</b></a><br/><br/>
       <sub>Kurumsal sistemlerdeki tehdit modelleme ve güvenlik ilkelerini kişisel yaşamınıza nasıl uygularsınız? Bu rehber, 15 yıllık prodüksiyon deneyimiyle…</sub>
-    </td>
-  </tr>
-  <tr><td colspan="2"><img src="assets/divider.svg" alt="" width="100%"/></td></tr>
-  <tr>
-    <td width="260"><a href="https://www.muhammedkoca.com.tr/blog/senior-muhendisler-icin-kariyerde-sicrama-yaratacak-3-alisilmadik-strateji-tekni"><img src="https://www.muhammedkoca.com.tr/api/og/cover.svg?title=Senior%20M%C3%BChendisler%20%C4%B0%C3%A7in%20Kariyerde%20S%C4%B1%C3%A7rama%20Yaratacak%203%20Al%C4%B1%C5%9F%C4%B1lmad%C4%B1k%20Strateji%3A%20Teknik%20Derinlikten%20Liderlik%20Zirvesine&category=Kariyer" width="240" alt="Senior Mühendisler İçin Kariyerde Sıçrama Yaratacak 3 Alışılmadık Strateji: Teknik Derinlikten Liderlik Zirvesine"/></a></td>
-    <td valign="top" width="580">
-      <img src="https://img.shields.io/badge/Kariyer-3b82f6?style=flat-square&labelColor=0a0a0b" alt="Kariyer"/> <sub>30 Tem 2026</sub><br/><br/>
-      <a href="https://www.muhammedkoca.com.tr/blog/senior-muhendisler-icin-kariyerde-sicrama-yaratacak-3-alisilmadik-strateji-tekni"><b>Senior Mühendisler İçin Kariyerde Sıçrama Yaratacak 3 Alışılmadık Strateji: Teknik Derinlikten Liderlik Zirvesine</b></a><br/><br/>
-      <sub>Çoğu mühendis kariyerini lineer ilerletmeye çalışır: daha fazla kod, daha fazla yönetim, daha fazla unvan. Oysa gerçek sıçrama, alışılmışın dışında…</sub>
-    </td>
-  </tr>
-  <tr><td colspan="2"><img src="assets/divider.svg" alt="" width="100%"/></td></tr>
-  <tr>
-    <td width="260"><a href="https://www.muhammedkoca.com.tr/blog/senior-muhendisler-icin-performans-darbogazlarini-sistematik-olarak-cozme-rehber"><img src="https://www.muhammedkoca.com.tr/api/og/cover.svg?title=Senior%20M%C3%BChendisler%20%C4%B0%C3%A7in%20Performans%20Darbo%C4%9Fazlar%C4%B1n%C4%B1%20Sistematik%20Olarak%20%C3%87%C3%B6zme%20Rehberi%3A%20Teori%2C%20Uygulama%20ve%20Prod%C3%BCksiyon%20Vakalar%C4%B1&category=Kariyer" width="240" alt="Senior Mühendisler İçin Performans Darboğazlarını Sistematik Olarak Çözme Rehberi: Teori, Uygulama ve Prodüksiyon Vakaları"/></a></td>
-    <td valign="top" width="580">
-      <img src="https://img.shields.io/badge/Kariyer-3b82f6?style=flat-square&labelColor=0a0a0b" alt="Kariyer"/> <sub>30 Tem 2026</sub><br/><br/>
-      <a href="https://www.muhammedkoca.com.tr/blog/senior-muhendisler-icin-performans-darbogazlarini-sistematik-olarak-cozme-rehber"><b>Senior Mühendisler İçin Performans Darboğazlarını Sistematik Olarak Çözme Rehberi: Teori, Uygulama ve Prodüksiyon Vakaları</b></a><br/><br/>
-      <sub>Performans darboğazları, sistemlerin en zayıf halkasıdır ve çoğu zaman yanlış yerlerde aranır. Bu rehberde, 15 yıllık prodüksiyon tecrübesinden…</sub>
     </td>
   </tr>
 </table>
