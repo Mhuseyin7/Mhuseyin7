@@ -1,0 +1,39 @@
+# 🚀 Projeler — muhammedkoca.com.tr/projeler sayfasından üstten 10 proje kartını
+# çeker ve README'deki PROJECTS:START/END işaretleri arasını günceller.
+# Script hata alırsa README'ye DOKUNMAZ — mevcut liste olduğu gibi kalır.
+
+name: Update Projects
+
+on:
+  schedule:
+    - cron: "0 */6 * * *" # 6 saatte bir
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+concurrency:
+  group: projects-cards
+  cancel-in-progress: true
+
+jobs:
+  update:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+
+      - name: Generate project cards
+        run: python3 scripts/generate_projects.py README.md
+
+      - name: Commit changes
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git add README.md
+          git diff --cached --quiet || (git commit -m "docs: proje kartları güncellendi 🤖" && git push)
