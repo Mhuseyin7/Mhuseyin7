@@ -148,29 +148,29 @@
 <!-- BLOG-CARDS:START -->
 <table>
   <tr>
+    <td width="260"><a href="https://www.muhammedkoca.com.tr/blog/dagitik-sistemlerde-guvenlik-first-mimari-tehdit-modelleme-ile-sifir-guven-yakla"><img src="https://www.muhammedkoca.com.tr/api/og/cover.svg?title=Da%C4%9F%C4%B1t%C4%B1k%20Sistemlerde%20G%C3%BCvenlik-First%20Mimari%3A%20Tehdit%20Modelleme%20ile%20S%C4%B1f%C4%B1r%20G%C3%BCven%20Yakla%C5%9F%C4%B1m%C4%B1&category=Mimari" width="240" alt="Dağıtık Sistemlerde Güvenlik-First Mimari: Tehdit Modelleme ile Sıfır Güven Yaklaşımı"/></a></td>
+    <td valign="top" width="580">
+      <img src="https://img.shields.io/badge/Mimari-3b82f6?style=flat-square&labelColor=0a0a0b" alt="Mimari"/> <sub>1 Ağu 2026</sub><br/><br/>
+      <a href="https://www.muhammedkoca.com.tr/blog/dagitik-sistemlerde-guvenlik-first-mimari-tehdit-modelleme-ile-sifir-guven-yakla"><b>Dağıtık Sistemlerde Güvenlik-First Mimari: Tehdit Modelleme ile Sıfır Güven Yaklaşımı</b></a><br/><br/>
+      <sub>Dağıtık sistemlerde güvenlik, sonradan eklenen bir katman değil, mimarinin temel taşıdır. Bu makalede, tehdit modelleme ile sıfır güven (Zero Trust)…</sub>
+    </td>
+  </tr>
+  <tr><td colspan="2"><img src="assets/divider.svg" alt="" width="100%"/></td></tr>
+  <tr>
+    <td width="260"><a href="https://www.muhammedkoca.com.tr/blog/muhendis-zihnini-yeniden-programlamak-derin-odak-ve-sistemik-verimlilik-icin-nor"><img src="https://www.muhammedkoca.com.tr/api/og/cover.svg?title=M%C3%BChendis%20Zihnini%20Yeniden%20Programlamak%3A%20Derin%20Odak%20ve%20Sistemik%20Verimlilik%20%C4%B0%C3%A7in%20N%C3%B6robilim%20Destekli%20Stratejiler&category=Ya%C5%9Fam" width="240" alt="Mühendis Zihnini Yeniden Programlamak: Derin Odak ve Sistemik Verimlilik İçin Nörobilim Destekli Stratejiler"/></a></td>
+    <td valign="top" width="580">
+      <img src="https://img.shields.io/badge/Yaşam-3b82f6?style=flat-square&labelColor=0a0a0b" alt="Yaşam"/> <sub>1 Ağu 2026</sub><br/><br/>
+      <a href="https://www.muhammedkoca.com.tr/blog/muhendis-zihnini-yeniden-programlamak-derin-odak-ve-sistemik-verimlilik-icin-nor"><b>Mühendis Zihnini Yeniden Programlamak: Derin Odak ve Sistemik Verimlilik İçin Nörobilim Destekli Stratejiler</b></a><br/><br/>
+      <sub>15 yıllık üretim krizi ve sistem tasarımı deneyimi, derin odaklanmanın sadece bir beceri değil, bir mühendislik problemi olduğunu gösterdi. Bu…</sub>
+    </td>
+  </tr>
+  <tr><td colspan="2"><img src="assets/divider.svg" alt="" width="100%"/></td></tr>
+  <tr>
     <td width="260"><a href="https://www.muhammedkoca.com.tr/blog/node-js-ve-prisma-ile-dagitik-sistemlerde-performans-anti-pattern-leri-produksiy"><img src="https://www.muhammedkoca.com.tr/api/og/cover.svg?title=Node.js%20ve%20Prisma%20ile%20Da%C4%9F%C4%B1t%C4%B1k%20Sistemlerde%20Performans%20Anti-Pattern" width="240" alt="Node.js ve Prisma ile Dağıtık Sistemlerde Performans Anti-Pattern&#x27;leri: Prodüksiyon Krizlerinden Dersler"/></a></td>
     <td valign="top" width="580">
       <img src="https://img.shields.io/badge/Mühendislik-3b82f6?style=flat-square&labelColor=0a0a0b" alt="Mühendislik"/> <sub>1 Ağu 2026</sub><br/><br/>
       <a href="https://www.muhammedkoca.com.tr/blog/node-js-ve-prisma-ile-dagitik-sistemlerde-performans-anti-pattern-leri-produksiy"><b>Node.js ve Prisma ile Dağıtık Sistemlerde Performans Anti-Pattern&#x27;leri: Prodüksiyon Krizlerinden Dersler</b></a><br/><br/>
       <sub>Dağıtık sistemlerde performans sorunları genellikle yanlış mimari kararları ve anti-pattern&#x27;lerden kaynaklanır. Bu makalede, Node.js ve Prisma…</sub>
-    </td>
-  </tr>
-  <tr><td colspan="2"><img src="assets/divider.svg" alt="" width="100%"/></td></tr>
-  <tr>
-    <td width="260"><a href="https://www.muhammedkoca.com.tr/blog/kidemli-muhendisler-icin-guvenlik-odakli-mimaride-tehdit-modelleme-ve-produksiyo"><img src="https://www.muhammedkoca.com.tr/api/og/cover.svg?title=K%C4%B1demli%20M%C3%BChendisler%20%C4%B0%C3%A7in%20G%C3%BCvenlik%20Odakl%C4%B1%20Mimaride%20Tehdit%20Modelleme%20ve%20Prod%C3%BCksiyon%20Krizi%20Y%C3%B6netimi&category=Kariyer" width="240" alt="Kıdemli Mühendisler İçin Güvenlik Odaklı Mimaride Tehdit Modelleme ve Prodüksiyon Krizi Yönetimi"/></a></td>
-    <td valign="top" width="580">
-      <img src="https://img.shields.io/badge/Kariyer-3b82f6?style=flat-square&labelColor=0a0a0b" alt="Kariyer"/> <sub>31 Tem 2026</sub><br/><br/>
-      <a href="https://www.muhammedkoca.com.tr/blog/kidemli-muhendisler-icin-guvenlik-odakli-mimaride-tehdit-modelleme-ve-produksiyo"><b>Kıdemli Mühendisler İçin Güvenlik Odaklı Mimaride Tehdit Modelleme ve Prodüksiyon Krizi Yönetimi</b></a><br/><br/>
-      <sub>Kıdemli mühendisler için güvenlik odaklı mimari tasarımda tehdit modellemenin kritik rolünü, gerçek prodüksiyon vakaları üzerinden inceleyin. Sızma…</sub>
-    </td>
-  </tr>
-  <tr><td colspan="2"><img src="assets/divider.svg" alt="" width="100%"/></td></tr>
-  <tr>
-    <td width="260"><a href="https://www.muhammedkoca.com.tr/blog/dijital-yasamin-tehdit-modeli-siber-guvenlik-prensiplerini-kisisel-verimlilik-ve"><img src="https://www.muhammedkoca.com.tr/api/og/cover.svg?title=Dijital%20Ya%C5%9Fam%C4%B1n%20Tehdit%20Modeli%3A%20Siber%20G%C3%BCvenlik%20Prensiplerini%20Ki%C5%9Fisel%20Verimlilik%20ve%20Sa%C4%9Fl%C4%B1%C4%9Fa%20Uygulamak&category=Ya%C5%9Fam" width="240" alt="Dijital Yaşamın Tehdit Modeli: Siber Güvenlik Prensiplerini Kişisel Verimlilik ve Sağlığa Uygulamak"/></a></td>
-    <td valign="top" width="580">
-      <img src="https://img.shields.io/badge/Yaşam-3b82f6?style=flat-square&labelColor=0a0a0b" alt="Yaşam"/> <sub>30 Tem 2026</sub><br/><br/>
-      <a href="https://www.muhammedkoca.com.tr/blog/dijital-yasamin-tehdit-modeli-siber-guvenlik-prensiplerini-kisisel-verimlilik-ve"><b>Dijital Yaşamın Tehdit Modeli: Siber Güvenlik Prensiplerini Kişisel Verimlilik ve Sağlığa Uygulamak</b></a><br/><br/>
-      <sub>Kurumsal sistemlerdeki tehdit modelleme ve güvenlik ilkelerini kişisel yaşamınıza nasıl uygularsınız? Bu rehber, 15 yıllık prodüksiyon deneyimiyle…</sub>
     </td>
   </tr>
 </table>
