@@ -155,29 +155,29 @@
 <!-- BLOG-CARDS:START -->
 <table>
   <tr>
+    <td width="260"><a href="https://www.muhammedkoca.com.tr/blog/muhendis-zihninde-guvenlik-yasam-dengesi-ve-tehdit-modellemenin-psikolojisi"><img src="https://www.muhammedkoca.com.tr/api/og/cover.svg?title=M%C3%BChendis%20Zihninde%20G%C3%BCvenlik%3A%20Ya%C5%9Fam%20Dengesi%20ve%20Tehdit%20Modellemenin%20Psikolojisi&category=Ya%C5%9Fam" width="240" alt="Mühendis Zihninde Güvenlik: Yaşam Dengesi ve Tehdit Modellemenin Psikolojisi"/></a></td>
+    <td valign="top" width="580">
+      <img src="https://img.shields.io/badge/Yaşam-3b82f6?style=flat-square&labelColor=0a0a0b" alt="Yaşam"/> <sub>1 Ağu 2026</sub><br/><br/>
+      <a href="https://www.muhammedkoca.com.tr/blog/muhendis-zihninde-guvenlik-yasam-dengesi-ve-tehdit-modellemenin-psikolojisi"><b>Mühendis Zihninde Güvenlik: Yaşam Dengesi ve Tehdit Modellemenin Psikolojisi</b></a><br/><br/>
+      <sub>Kariyeriniz boyunca yüzlerce prodüksiyon krizi atlattınız, ama hiç kendi zihninizin güvenlik açıklarını tehdit modellemesiyle ele aldınız mı? Bu…</sub>
+    </td>
+  </tr>
+  <tr><td colspan="2"><img src="assets/divider.svg" alt="" width="100%"/></td></tr>
+  <tr>
+    <td width="260"><a href="https://www.muhammedkoca.com.tr/blog/dagitik-sistemlerde-anti-pattern-olarak-eventual-consistency-gercek-dunya-trade-"><img src="https://www.muhammedkoca.com.tr/api/og/cover.svg?title=Da%C4%9F%C4%B1t%C4%B1k%20Sistemlerde%20" width="240" alt="Dağıtık Sistemlerde &#x27;Anti-Pattern&#x27; Olarak Eventual Consistency: Gerçek Dünya Trade-off&#x27;ları ve Alternatif Mimariler"/></a></td>
+    <td valign="top" width="580">
+      <img src="https://img.shields.io/badge/Mimari-3b82f6?style=flat-square&labelColor=0a0a0b" alt="Mimari"/> <sub>1 Ağu 2026</sub><br/><br/>
+      <a href="https://www.muhammedkoca.com.tr/blog/dagitik-sistemlerde-anti-pattern-olarak-eventual-consistency-gercek-dunya-trade-"><b>Dağıtık Sistemlerde &#x27;Anti-Pattern&#x27; Olarak Eventual Consistency: Gerçek Dünya Trade-off&#x27;ları ve Alternatif Mimariler</b></a><br/><br/>
+      <sub>Eventual consistency, ölçeklenebilirlik vaadiyle popülerleşse de prodüksiyonda felaketlere yol açabiliyor. Bu makalede, eventual consistency&#x27;nin…</sub>
+    </td>
+  </tr>
+  <tr><td colspan="2"><img src="assets/divider.svg" alt="" width="100%"/></td></tr>
+  <tr>
     <td width="260"><a href="https://www.muhammedkoca.com.tr/blog/senior-muhendisten-staff-muhendise-teknik-liderlikte-sicrama-yapmanin-4-kritik-m"><img src="https://www.muhammedkoca.com.tr/api/og/cover.svg?title=Senior%20M%C3%BChendisten%20Staff%20M%C3%BChendise%3A%20Teknik%20Liderlikte%20S%C4%B1%C3%A7rama%20Yapman%C4%B1n%204%20Kritik%20Mimarisi&category=Kariyer" width="240" alt="Senior Mühendisten Staff Mühendise: Teknik Liderlikte Sıçrama Yapmanın 4 Kritik Mimarisi"/></a></td>
     <td valign="top" width="580">
       <img src="https://img.shields.io/badge/Kariyer-3b82f6?style=flat-square&labelColor=0a0a0b" alt="Kariyer"/> <sub>1 Ağu 2026</sub><br/><br/>
       <a href="https://www.muhammedkoca.com.tr/blog/senior-muhendisten-staff-muhendise-teknik-liderlikte-sicrama-yapmanin-4-kritik-m"><b>Senior Mühendisten Staff Mühendise: Teknik Liderlikte Sıçrama Yapmanın 4 Kritik Mimarisi</b></a><br/><br/>
       <sub>Staff mühendis olmak sadece kod yazmak değil, sistemlerin nasıl bozulduğunu öngörmek ve krizi yönetmektir. Bu rehberde, 15 yıllık prodüksiyon…</sub>
-    </td>
-  </tr>
-  <tr><td colspan="2"><img src="assets/divider.svg" alt="" width="100%"/></td></tr>
-  <tr>
-    <td width="260"><a href="https://www.muhammedkoca.com.tr/blog/dagitik-sistemlerde-guvenlik-first-mimari-tehdit-modelleme-ile-sifir-guven-yakla"><img src="https://www.muhammedkoca.com.tr/api/og/cover.svg?title=Da%C4%9F%C4%B1t%C4%B1k%20Sistemlerde%20G%C3%BCvenlik-First%20Mimari%3A%20Tehdit%20Modelleme%20ile%20S%C4%B1f%C4%B1r%20G%C3%BCven%20Yakla%C5%9F%C4%B1m%C4%B1&category=Mimari" width="240" alt="Dağıtık Sistemlerde Güvenlik-First Mimari: Tehdit Modelleme ile Sıfır Güven Yaklaşımı"/></a></td>
-    <td valign="top" width="580">
-      <img src="https://img.shields.io/badge/Mimari-3b82f6?style=flat-square&labelColor=0a0a0b" alt="Mimari"/> <sub>1 Ağu 2026</sub><br/><br/>
-      <a href="https://www.muhammedkoca.com.tr/blog/dagitik-sistemlerde-guvenlik-first-mimari-tehdit-modelleme-ile-sifir-guven-yakla"><b>Dağıtık Sistemlerde Güvenlik-First Mimari: Tehdit Modelleme ile Sıfır Güven Yaklaşımı</b></a><br/><br/>
-      <sub>Dağıtık sistemlerde güvenlik, sonradan eklenen bir katman değil, mimarinin temel taşıdır. Bu makalede, tehdit modelleme ile sıfır güven (Zero Trust)…</sub>
-    </td>
-  </tr>
-  <tr><td colspan="2"><img src="assets/divider.svg" alt="" width="100%"/></td></tr>
-  <tr>
-    <td width="260"><a href="https://www.muhammedkoca.com.tr/blog/muhendis-zihnini-yeniden-programlamak-derin-odak-ve-sistemik-verimlilik-icin-nor"><img src="https://www.muhammedkoca.com.tr/api/og/cover.svg?title=M%C3%BChendis%20Zihnini%20Yeniden%20Programlamak%3A%20Derin%20Odak%20ve%20Sistemik%20Verimlilik%20%C4%B0%C3%A7in%20N%C3%B6robilim%20Destekli%20Stratejiler&category=Ya%C5%9Fam" width="240" alt="Mühendis Zihnini Yeniden Programlamak: Derin Odak ve Sistemik Verimlilik İçin Nörobilim Destekli Stratejiler"/></a></td>
-    <td valign="top" width="580">
-      <img src="https://img.shields.io/badge/Yaşam-3b82f6?style=flat-square&labelColor=0a0a0b" alt="Yaşam"/> <sub>1 Ağu 2026</sub><br/><br/>
-      <a href="https://www.muhammedkoca.com.tr/blog/muhendis-zihnini-yeniden-programlamak-derin-odak-ve-sistemik-verimlilik-icin-nor"><b>Mühendis Zihnini Yeniden Programlamak: Derin Odak ve Sistemik Verimlilik İçin Nörobilim Destekli Stratejiler</b></a><br/><br/>
-      <sub>15 yıllık üretim krizi ve sistem tasarımı deneyimi, derin odaklanmanın sadece bir beceri değil, bir mühendislik problemi olduğunu gösterdi. Bu…</sub>
     </td>
   </tr>
 </table>
