@@ -155,29 +155,29 @@
 <!-- BLOG-CARDS:START -->
 <table>
   <tr>
+    <td width="260"><a href="https://www.muhammedkoca.com.tr/blog/dagitik-sistemlerde-guvenlik-first-mimari-threat-modeling-ile-sifir-guven-prensi"><img src="https://www.muhammedkoca.com.tr/api/og/cover.svg?title=Da%C4%9F%C4%B1t%C4%B1k%20Sistemlerde%20G%C3%BCvenlik-First%20Mimari%3A%20Threat%20Modeling%20ile%20S%C4%B1f%C4%B1r%20G%C3%BCven%20Prensiplerini%20Uygulamak&category=Mimari" width="240" alt="Dağıtık Sistemlerde Güvenlik-First Mimari: Threat Modeling ile Sıfır Güven Prensiplerini Uygulamak"/></a></td>
+    <td valign="top" width="580">
+      <img src="https://img.shields.io/badge/Mimari-3b82f6?style=flat-square&labelColor=0a0a0b" alt="Mimari"/> <sub>2 Ağu 2026</sub><br/><br/>
+      <a href="https://www.muhammedkoca.com.tr/blog/dagitik-sistemlerde-guvenlik-first-mimari-threat-modeling-ile-sifir-guven-prensi"><b>Dağıtık Sistemlerde Güvenlik-First Mimari: Threat Modeling ile Sıfır Güven Prensiplerini Uygulamak</b></a><br/><br/>
+      <sub>Dağıtık sistemlerde güvenlik, sonradan eklenen bir katman değil, mimarinin temel taşıdır. Bu makalede, threat modeling sürecini adım adım uygulayarak…</sub>
+    </td>
+  </tr>
+  <tr><td colspan="2"><img src="assets/divider.svg" alt="" width="100%"/></td></tr>
+  <tr>
+    <td width="260"><a href="https://www.muhammedkoca.com.tr/blog/dagitik-sistemlerde-eventual-leadership-pattern-konsensus-olmadan-yuksek-tutarli"><img src="https://www.muhammedkoca.com.tr/api/og/cover.svg?title=Da%C4%9F%C4%B1t%C4%B1k%20Sistemlerde%20" width="240" alt="Dağıtık Sistemlerde &#x27;Eventual Leadership&#x27; Pattern: Konsensüs Olmadan Yüksek Tutarlılık Sağlamak"/></a></td>
+    <td valign="top" width="580">
+      <img src="https://img.shields.io/badge/Mimari-3b82f6?style=flat-square&labelColor=0a0a0b" alt="Mimari"/> <sub>2 Ağu 2026</sub><br/><br/>
+      <a href="https://www.muhammedkoca.com.tr/blog/dagitik-sistemlerde-eventual-leadership-pattern-konsensus-olmadan-yuksek-tutarli"><b>Dağıtık Sistemlerde &#x27;Eventual Leadership&#x27; Pattern: Konsensüs Olmadan Yüksek Tutarlılık Sağlamak</b></a><br/><br/>
+      <sub>Geleneksel Raft veya Paxos tabanlı konsensüs protokolleri, dağıtık sistemlerde tutarlılık için kritik öneme sahip olsa da, yüksek gecikme ve…</sub>
+    </td>
+  </tr>
+  <tr><td colspan="2"><img src="assets/divider.svg" alt="" width="100%"/></td></tr>
+  <tr>
     <td width="260"><a href="https://www.muhammedkoca.com.tr/blog/muhendis-zihnini-korumanin-bilimsel-yolu-noroplastisite-ve-sistematik-yasam-opti"><img src="https://www.muhammedkoca.com.tr/api/og/cover.svg?title=M%C3%BChendis%20Zihnini%20Koruman%C4%B1n%20Bilimsel%20Yolu%3A%20N%C3%B6roplastisite%20ve%20Sistematik%20Ya%C5%9Fam%20Optimizasyonu&category=Ya%C5%9Fam" width="240" alt="Mühendis Zihnini Korumanın Bilimsel Yolu: Nöroplastisite ve Sistematik Yaşam Optimizasyonu"/></a></td>
     <td valign="top" width="580">
       <img src="https://img.shields.io/badge/Yaşam-3b82f6?style=flat-square&labelColor=0a0a0b" alt="Yaşam"/> <sub>2 Ağu 2026</sub><br/><br/>
       <a href="https://www.muhammedkoca.com.tr/blog/muhendis-zihnini-korumanin-bilimsel-yolu-noroplastisite-ve-sistematik-yasam-opti"><b>Mühendis Zihnini Korumanın Bilimsel Yolu: Nöroplastisite ve Sistematik Yaşam Optimizasyonu</b></a><br/><br/>
       <sub>15 yıllık prodüksiyon savaşlarından sonra öğrendiğim bir gerçek: Beyniniz bir sistemdir, kodunuz kadar optimize edilebilir. Nöroplastisiteyi…</sub>
-    </td>
-  </tr>
-  <tr><td colspan="2"><img src="assets/divider.svg" alt="" width="100%"/></td></tr>
-  <tr>
-    <td width="260"><a href="https://www.muhammedkoca.com.tr/blog/senior-muhendislikten-liderlige-gorunmeyen-kariyer-bosluklarini-doldurmanin-4-si"><img src="https://www.muhammedkoca.com.tr/api/og/cover.svg?title=Senior%20M%C3%BChendislikten%20Liderli%C4%9Fe%3A%20G%C3%B6r%C3%BCnmeyen%20Kariyer%20Bo%C5%9Fluklar%C4%B1n%C4%B1%20Doldurman%C4%B1n%204%20Sistemi&category=Kariyer" width="240" alt="Senior Mühendislikten Liderliğe: Görünmeyen Kariyer Boşluklarını Doldurmanın 4 Sistemi"/></a></td>
-    <td valign="top" width="580">
-      <img src="https://img.shields.io/badge/Kariyer-3b82f6?style=flat-square&labelColor=0a0a0b" alt="Kariyer"/> <sub>2 Ağu 2026</sub><br/><br/>
-      <a href="https://www.muhammedkoca.com.tr/blog/senior-muhendislikten-liderlige-gorunmeyen-kariyer-bosluklarini-doldurmanin-4-si"><b>Senior Mühendislikten Liderliğe: Görünmeyen Kariyer Boşluklarını Doldurmanın 4 Sistemi</b></a><br/><br/>
-      <sub>Çoğu mühendis kariyerinde &#x27;Senior&#x27; unvanını aldıktan sonra duraklar. Yılların tecrübesi var, ama terfi yok. Bu makale, prodüksiyon krizlerini yöneten…</sub>
-    </td>
-  </tr>
-  <tr><td colspan="2"><img src="assets/divider.svg" alt="" width="100%"/></td></tr>
-  <tr>
-    <td width="260"><a href="https://www.muhammedkoca.com.tr/blog/muhendis-zihninde-guvenlik-yasam-dengesi-ve-tehdit-modellemenin-psikolojisi"><img src="https://www.muhammedkoca.com.tr/api/og/cover.svg?title=M%C3%BChendis%20Zihninde%20G%C3%BCvenlik%3A%20Ya%C5%9Fam%20Dengesi%20ve%20Tehdit%20Modellemenin%20Psikolojisi&category=Ya%C5%9Fam" width="240" alt="Mühendis Zihninde Güvenlik: Yaşam Dengesi ve Tehdit Modellemenin Psikolojisi"/></a></td>
-    <td valign="top" width="580">
-      <img src="https://img.shields.io/badge/Yaşam-3b82f6?style=flat-square&labelColor=0a0a0b" alt="Yaşam"/> <sub>1 Ağu 2026</sub><br/><br/>
-      <a href="https://www.muhammedkoca.com.tr/blog/muhendis-zihninde-guvenlik-yasam-dengesi-ve-tehdit-modellemenin-psikolojisi"><b>Mühendis Zihninde Güvenlik: Yaşam Dengesi ve Tehdit Modellemenin Psikolojisi</b></a><br/><br/>
-      <sub>Kariyeriniz boyunca yüzlerce prodüksiyon krizi atlattınız, ama hiç kendi zihninizin güvenlik açıklarını tehdit modellemesiyle ele aldınız mı? Bu…</sub>
     </td>
   </tr>
 </table>
