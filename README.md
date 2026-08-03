@@ -155,29 +155,29 @@
 <!-- BLOG-CARDS:START -->
 <table>
   <tr>
-    <td width="260"><a href="https://www.muhammedkoca.com.tr/blog/dagitik-sistemlerde-guvenlik-first-mimari-threat-modeling-ile-sifir-guven-prensi"><img src="https://www.muhammedkoca.com.tr/api/og/cover.svg?title=Da%C4%9F%C4%B1t%C4%B1k%20Sistemlerde%20G%C3%BCvenlik-First%20Mimari%3A%20Threat%20Modeling%20ile%20S%C4%B1f%C4%B1r%20G%C3%BCven%20Prensiplerini%20Uygulamak&category=Mimari" width="240" alt="Dağıtık Sistemlerde Güvenlik-First Mimari: Threat Modeling ile Sıfır Güven Prensiplerini Uygulamak"/></a></td>
+    <td width="260"><a href="https://www.muhammedkoca.com.tr/blog/dagitik-sistemlerde-eventual-consistency-node-js-ve-prisma-ile-gercek-dunya-uygu"><img src="https://www.muhammedkoca.com.tr/api/og/cover.svg?title=Da%C4%9F%C4%B1t%C4%B1k%20Sistemlerde%20Eventual%20Consistency%3A%20Node.js%20ve%20Prisma%20ile%20Ger%C3%A7ek%20D%C3%BCnya%20Uygulamalar%C4%B1%20ve%20Kritik%20Trade-off" width="240" alt="Dağıtık Sistemlerde Eventual Consistency: Node.js ve Prisma ile Gerçek Dünya Uygulamaları ve Kritik Trade-off&#x27;lar"/></a></td>
     <td valign="top" width="580">
-      <img src="https://img.shields.io/badge/Mimari-3b82f6?style=flat-square&labelColor=0a0a0b" alt="Mimari"/> <sub>2 Ağu 2026</sub><br/><br/>
-      <a href="https://www.muhammedkoca.com.tr/blog/dagitik-sistemlerde-guvenlik-first-mimari-threat-modeling-ile-sifir-guven-prensi"><b>Dağıtık Sistemlerde Güvenlik-First Mimari: Threat Modeling ile Sıfır Güven Prensiplerini Uygulamak</b></a><br/><br/>
-      <sub>Dağıtık sistemlerde güvenlik, sonradan eklenen bir katman değil, mimarinin temel taşıdır. Bu makalede, threat modeling sürecini adım adım uygulayarak…</sub>
+      <img src="https://img.shields.io/badge/Mimari-3b82f6?style=flat-square&labelColor=0a0a0b" alt="Mimari"/> <sub>3 Ağu 2026</sub><br/><br/>
+      <a href="https://www.muhammedkoca.com.tr/blog/dagitik-sistemlerde-eventual-consistency-node-js-ve-prisma-ile-gercek-dunya-uygu"><b>Dağıtık Sistemlerde Eventual Consistency: Node.js ve Prisma ile Gerçek Dünya Uygulamaları ve Kritik Trade-off&#x27;lar</b></a><br/><br/>
+      <sub>Dağıtık sistemlerde tutarlılık garantileri, ölçeklenebilirlik ve dayanıklılık arasında kritik bir denge kurar. Bu makalede, eventual consistency&#x27;nin…</sub>
     </td>
   </tr>
   <tr><td colspan="2"><img src="assets/divider.svg" alt="" width="100%"/></td></tr>
   <tr>
-    <td width="260"><a href="https://www.muhammedkoca.com.tr/blog/dagitik-sistemlerde-eventual-leadership-pattern-konsensus-olmadan-yuksek-tutarli"><img src="https://www.muhammedkoca.com.tr/api/og/cover.svg?title=Da%C4%9F%C4%B1t%C4%B1k%20Sistemlerde%20" width="240" alt="Dağıtık Sistemlerde &#x27;Eventual Leadership&#x27; Pattern: Konsensüs Olmadan Yüksek Tutarlılık Sağlamak"/></a></td>
+    <td width="260"><a href="https://www.muhammedkoca.com.tr/blog/node-js-ve-prisma-ile-guvenlik-odakli-threat-modeling-sifir-guven-mimarisi-rehbe"><img src="https://www.muhammedkoca.com.tr/api/og/cover.svg?title=Node.js%20ve%20Prisma%20ile%20G%C3%BCvenlik%20Odakl%C4%B1%20Threat%20Modeling%3A%20S%C4%B1f%C4%B1r%20G%C3%BCven%20Mimarisi%20Rehberi&category=Rehberler" width="240" alt="Node.js ve Prisma ile Güvenlik Odaklı Threat Modeling: Sıfır Güven Mimarisi Rehberi"/></a></td>
     <td valign="top" width="580">
-      <img src="https://img.shields.io/badge/Mimari-3b82f6?style=flat-square&labelColor=0a0a0b" alt="Mimari"/> <sub>2 Ağu 2026</sub><br/><br/>
-      <a href="https://www.muhammedkoca.com.tr/blog/dagitik-sistemlerde-eventual-leadership-pattern-konsensus-olmadan-yuksek-tutarli"><b>Dağıtık Sistemlerde &#x27;Eventual Leadership&#x27; Pattern: Konsensüs Olmadan Yüksek Tutarlılık Sağlamak</b></a><br/><br/>
-      <sub>Geleneksel Raft veya Paxos tabanlı konsensüs protokolleri, dağıtık sistemlerde tutarlılık için kritik öneme sahip olsa da, yüksek gecikme ve…</sub>
+      <img src="https://img.shields.io/badge/Rehberler-3b82f6?style=flat-square&labelColor=0a0a0b" alt="Rehberler"/> <sub>3 Ağu 2026</sub><br/><br/>
+      <a href="https://www.muhammedkoca.com.tr/blog/node-js-ve-prisma-ile-guvenlik-odakli-threat-modeling-sifir-guven-mimarisi-rehbe"><b>Node.js ve Prisma ile Güvenlik Odaklı Threat Modeling: Sıfır Güven Mimarisi Rehberi</b></a><br/><br/>
+      <sub>Kurumsal sistemlerde güvenlik, sonradan eklenen bir özellik değil, tasarımın merkezinde yer almalıdır. Bu rehberde, Node.js ve Prisma kullanarak…</sub>
     </td>
   </tr>
   <tr><td colspan="2"><img src="assets/divider.svg" alt="" width="100%"/></td></tr>
   <tr>
-    <td width="260"><a href="https://www.muhammedkoca.com.tr/blog/muhendis-zihnini-korumanin-bilimsel-yolu-noroplastisite-ve-sistematik-yasam-opti"><img src="https://www.muhammedkoca.com.tr/api/og/cover.svg?title=M%C3%BChendis%20Zihnini%20Koruman%C4%B1n%20Bilimsel%20Yolu%3A%20N%C3%B6roplastisite%20ve%20Sistematik%20Ya%C5%9Fam%20Optimizasyonu&category=Ya%C5%9Fam" width="240" alt="Mühendis Zihnini Korumanın Bilimsel Yolu: Nöroplastisite ve Sistematik Yaşam Optimizasyonu"/></a></td>
+    <td width="260"><a href="https://www.muhammedkoca.com.tr/blog/dagitik-sistemlerde-anti-caching-pattern-performans-ve-dayaniklilik-icin-alisilm"><img src="https://www.muhammedkoca.com.tr/api/og/cover.svg?title=Da%C4%9F%C4%B1t%C4%B1k%20Sistemlerde%20" width="240" alt="Dağıtık Sistemlerde &#x27;Anti-Caching&#x27; Pattern: Performans ve Dayanıklılık için Alışılmadık Bir Yaklaşım"/></a></td>
     <td valign="top" width="580">
-      <img src="https://img.shields.io/badge/Yaşam-3b82f6?style=flat-square&labelColor=0a0a0b" alt="Yaşam"/> <sub>2 Ağu 2026</sub><br/><br/>
-      <a href="https://www.muhammedkoca.com.tr/blog/muhendis-zihnini-korumanin-bilimsel-yolu-noroplastisite-ve-sistematik-yasam-opti"><b>Mühendis Zihnini Korumanın Bilimsel Yolu: Nöroplastisite ve Sistematik Yaşam Optimizasyonu</b></a><br/><br/>
-      <sub>15 yıllık prodüksiyon savaşlarından sonra öğrendiğim bir gerçek: Beyniniz bir sistemdir, kodunuz kadar optimize edilebilir. Nöroplastisiteyi…</sub>
+      <img src="https://img.shields.io/badge/Mimari-3b82f6?style=flat-square&labelColor=0a0a0b" alt="Mimari"/> <sub>3 Ağu 2026</sub><br/><br/>
+      <a href="https://www.muhammedkoca.com.tr/blog/dagitik-sistemlerde-anti-caching-pattern-performans-ve-dayaniklilik-icin-alisilm"><b>Dağıtık Sistemlerde &#x27;Anti-Caching&#x27; Pattern: Performans ve Dayanıklılık için Alışılmadık Bir Yaklaşım</b></a><br/><br/>
+      <sub>Geleneksel caching stratejileri ölçeklenebilirlikte tıkanma noktalarına ulaştığında, &#x27;Anti-Caching&#x27; pattern devreye girer. Bu makalede, yüksek…</sub>
     </td>
   </tr>
 </table>
