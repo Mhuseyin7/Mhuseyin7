@@ -155,29 +155,29 @@
 <!-- BLOG-CARDS:START -->
 <table>
   <tr>
-    <td width="260"><a href="https://www.muhammedkoca.com.tr/blog/dagitik-sistemlerde-eventual-consistency-node-js-ve-prisma-ile-gercek-dunya-uygu"><img src="https://www.muhammedkoca.com.tr/api/og/cover.svg?title=Da%C4%9F%C4%B1t%C4%B1k%20Sistemlerde%20Eventual%20Consistency%3A%20Node.js%20ve%20Prisma%20ile%20Ger%C3%A7ek%20D%C3%BCnya%20Uygulamalar%C4%B1%20ve%20Kritik%20Trade-off" width="240" alt="Dağıtık Sistemlerde Eventual Consistency: Node.js ve Prisma ile Gerçek Dünya Uygulamaları ve Kritik Trade-off&#x27;lar"/></a></td>
+    <td width="260"><a href="https://www.muhammedkoca.com.tr/blog/node-js-mikroservis-mimarilerinde-cqrs-ve-event-sourcing-yuksek-olceklenebilirli"><img src="https://www.muhammedkoca.com.tr/api/og/cover.svg?title=Node.js%20Mikroservis%20Mimarilerinde%20CQRS%20ve%20Event%20Sourcing%3A%20Y%C3%BCksek%20%C3%96l%C3%A7eklenebilirlik%20ve%20Tutarl%C4%B1l%C4%B1k&category=Genel" width="240" alt="Node.js Mikroservis Mimarilerinde CQRS ve Event Sourcing: Yüksek Ölçeklenebilirlik ve Tutarlılık"/></a></td>
     <td valign="top" width="580">
       <img src="https://img.shields.io/badge/Mimari-3b82f6?style=flat-square&labelColor=0a0a0b" alt="Mimari"/> <sub>3 Ağu 2026</sub><br/><br/>
-      <a href="https://www.muhammedkoca.com.tr/blog/dagitik-sistemlerde-eventual-consistency-node-js-ve-prisma-ile-gercek-dunya-uygu"><b>Dağıtık Sistemlerde Eventual Consistency: Node.js ve Prisma ile Gerçek Dünya Uygulamaları ve Kritik Trade-off&#x27;lar</b></a><br/><br/>
-      <sub>Dağıtık sistemlerde tutarlılık garantileri, ölçeklenebilirlik ve dayanıklılık arasında kritik bir denge kurar. Bu makalede, eventual consistency&#x27;nin…</sub>
+      <a href="https://www.muhammedkoca.com.tr/blog/node-js-mikroservis-mimarilerinde-cqrs-ve-event-sourcing-yuksek-olceklenebilirli"><b>Node.js Mikroservis Mimarilerinde CQRS ve Event Sourcing: Yüksek Ölçeklenebilirlik ve Tutarlılık</b></a><br/><br/>
+      <sub>Geleneksel CRUD yaklaşımları, yüksek ölçekli ve domain açısından zengin mikroservis mimarilerinde performans, tutarlılık ve denetlenebilirlik…</sub>
     </td>
   </tr>
   <tr><td colspan="2"><img src="assets/divider.svg" alt="" width="100%"/></td></tr>
   <tr>
-    <td width="260"><a href="https://www.muhammedkoca.com.tr/blog/node-js-ve-prisma-ile-guvenlik-odakli-threat-modeling-sifir-guven-mimarisi-rehbe"><img src="https://www.muhammedkoca.com.tr/api/og/cover.svg?title=Node.js%20ve%20Prisma%20ile%20G%C3%BCvenlik%20Odakl%C4%B1%20Threat%20Modeling%3A%20S%C4%B1f%C4%B1r%20G%C3%BCven%20Mimarisi%20Rehberi&category=Rehberler" width="240" alt="Node.js ve Prisma ile Güvenlik Odaklı Threat Modeling: Sıfır Güven Mimarisi Rehberi"/></a></td>
+    <td width="260"><a href="https://www.muhammedkoca.com.tr/blog/node-js-ve-mikroservis-mimarisinde-event-driven-yaklasimlar-olceklenebilirlik-ve"><img src="https://www.muhammedkoca.com.tr/api/og/cover.svg?title=Node.js%20ve%20Mikroservis%20Mimarisinde%20Event-Driven%20Yakla%C5%9F%C4%B1mlar%3A%20%C3%96l%C3%A7eklenebilirlik%20ve%20Diren%C3%A7lilik&category=M%C3%BChendislik" width="240" alt="Node.js ve Mikroservis Mimarisinde Event-Driven Yaklaşımlar: Ölçeklenebilirlik ve Dirençlilik"/></a></td>
+    <td valign="top" width="580">
+      <img src="https://img.shields.io/badge/Mühendislik-3b82f6?style=flat-square&labelColor=0a0a0b" alt="Mühendislik"/> <sub>3 Ağu 2026</sub><br/><br/>
+      <a href="https://www.muhammedkoca.com.tr/blog/node-js-ve-mikroservis-mimarisinde-event-driven-yaklasimlar-olceklenebilirlik-ve"><b>Node.js ve Mikroservis Mimarisinde Event-Driven Yaklaşımlar: Ölçeklenebilirlik ve Dirençlilik</b></a><br/><br/>
+      <sub>Gelişen mikroservis mimarilerinde, eşzamansız iletişim ve gevşek bağlılık, sistemlerin yüksek ölçeklenebilirlik ve hata toleransı sağlaması için…</sub>
+    </td>
+  </tr>
+  <tr><td colspan="2"><img src="assets/divider.svg" alt="" width="100%"/></td></tr>
+  <tr>
+    <td width="260"><a href="https://www.muhammedkoca.com.tr/blog/node-js-prisma-ve-yapay-zeka-ile-yuksek-performansli-arama-motoru-mimarileri"><img src="https://www.muhammedkoca.com.tr/api/og/cover.svg?title=Node.js%2C%20Prisma%20ve%20Yapay%20Zeka%20ile%20Y%C3%BCksek%20Performansl%C4%B1%20Arama%20Motoru%20Mimarileri&category=Rehberler" width="240" alt="Node.js, Prisma ve Yapay Zeka ile Yüksek Performanslı Arama Motoru Mimarileri"/></a></td>
     <td valign="top" width="580">
       <img src="https://img.shields.io/badge/Rehberler-3b82f6?style=flat-square&labelColor=0a0a0b" alt="Rehberler"/> <sub>3 Ağu 2026</sub><br/><br/>
-      <a href="https://www.muhammedkoca.com.tr/blog/node-js-ve-prisma-ile-guvenlik-odakli-threat-modeling-sifir-guven-mimarisi-rehbe"><b>Node.js ve Prisma ile Güvenlik Odaklı Threat Modeling: Sıfır Güven Mimarisi Rehberi</b></a><br/><br/>
-      <sub>Kurumsal sistemlerde güvenlik, sonradan eklenen bir özellik değil, tasarımın merkezinde yer almalıdır. Bu rehberde, Node.js ve Prisma kullanarak…</sub>
-    </td>
-  </tr>
-  <tr><td colspan="2"><img src="assets/divider.svg" alt="" width="100%"/></td></tr>
-  <tr>
-    <td width="260"><a href="https://www.muhammedkoca.com.tr/blog/dagitik-sistemlerde-anti-caching-pattern-performans-ve-dayaniklilik-icin-alisilm"><img src="https://www.muhammedkoca.com.tr/api/og/cover.svg?title=Da%C4%9F%C4%B1t%C4%B1k%20Sistemlerde%20" width="240" alt="Dağıtık Sistemlerde &#x27;Anti-Caching&#x27; Pattern: Performans ve Dayanıklılık için Alışılmadık Bir Yaklaşım"/></a></td>
-    <td valign="top" width="580">
-      <img src="https://img.shields.io/badge/Mimari-3b82f6?style=flat-square&labelColor=0a0a0b" alt="Mimari"/> <sub>3 Ağu 2026</sub><br/><br/>
-      <a href="https://www.muhammedkoca.com.tr/blog/dagitik-sistemlerde-anti-caching-pattern-performans-ve-dayaniklilik-icin-alisilm"><b>Dağıtık Sistemlerde &#x27;Anti-Caching&#x27; Pattern: Performans ve Dayanıklılık için Alışılmadık Bir Yaklaşım</b></a><br/><br/>
-      <sub>Geleneksel caching stratejileri ölçeklenebilirlikte tıkanma noktalarına ulaştığında, &#x27;Anti-Caching&#x27; pattern devreye girer. Bu makalede, yüksek…</sub>
+      <a href="https://www.muhammedkoca.com.tr/blog/node-js-prisma-ve-yapay-zeka-ile-yuksek-performansli-arama-motoru-mimarileri"><b>Node.js, Prisma ve Yapay Zeka ile Yüksek Performanslı Arama Motoru Mimarileri</b></a><br/><br/>
+      <sub>Veri yığınları arasında doğru ve hızlı arama yapmak, modern uygulamaların en kritik gereksinimlerinden biridir. Bu makalede, klasik BM25…</sub>
     </td>
   </tr>
 </table>
