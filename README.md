@@ -155,29 +155,29 @@
 <!-- BLOG-CARDS:START -->
 <table>
   <tr>
-    <td width="260"><a href="https://www.muhammedkoca.com.tr/blog/node-js-mikroservis-mimarilerinde-cqrs-ve-event-sourcing-yuksek-olceklenebilirli"><img src="https://www.muhammedkoca.com.tr/api/og/cover.svg?title=Node.js%20Mikroservis%20Mimarilerinde%20CQRS%20ve%20Event%20Sourcing%3A%20Y%C3%BCksek%20%C3%96l%C3%A7eklenebilirlik%20ve%20Tutarl%C4%B1l%C4%B1k&category=Genel" width="240" alt="Node.js Mikroservis Mimarilerinde CQRS ve Event Sourcing: Yüksek Ölçeklenebilirlik ve Tutarlılık"/></a></td>
+    <td width="260"><a href="https://www.muhammedkoca.com.tr/blog/kidemli-muhendislerin-kritik-rolu-mimari-liderlik-sistem-resilience-ve-teknik-bo"><img src="https://www.muhammedkoca.com.tr/api/og/cover.svg?title=K%C4%B1demli%20M%C3%BChendislerin%20Kritik%20Rol%C3%BC%3A%20Mimari%20Liderlik%2C%20Sistem%20Resilience%20ve%20Teknik%20Bor%C3%A7%20Y%C3%B6netimi&category=Kariyer" width="240" alt="Kıdemli Mühendislerin Kritik Rolü: Mimari Liderlik, Sistem Resilience ve Teknik Borç Yönetimi"/></a></td>
     <td valign="top" width="580">
-      <img src="https://img.shields.io/badge/Mimari-3b82f6?style=flat-square&labelColor=0a0a0b" alt="Mimari"/> <sub>3 Ağu 2026</sub><br/><br/>
-      <a href="https://www.muhammedkoca.com.tr/blog/node-js-mikroservis-mimarilerinde-cqrs-ve-event-sourcing-yuksek-olceklenebilirli"><b>Node.js Mikroservis Mimarilerinde CQRS ve Event Sourcing: Yüksek Ölçeklenebilirlik ve Tutarlılık</b></a><br/><br/>
-      <sub>Geleneksel CRUD yaklaşımları, yüksek ölçekli ve domain açısından zengin mikroservis mimarilerinde performans, tutarlılık ve denetlenebilirlik…</sub>
+      <img src="https://img.shields.io/badge/Kariyer-3b82f6?style=flat-square&labelColor=0a0a0b" alt="Kariyer"/> <sub>3 Ağu 2026</sub><br/><br/>
+      <a href="https://www.muhammedkoca.com.tr/blog/kidemli-muhendislerin-kritik-rolu-mimari-liderlik-sistem-resilience-ve-teknik-bo"><b>Kıdemli Mühendislerin Kritik Rolü: Mimari Liderlik, Sistem Resilience ve Teknik Borç Yönetimi</b></a><br/><br/>
+      <sub>Prodüksiyon sistemlerinde sıklıkla karşılaşılan krizlerin temelinde yatan mimari zafiyetleri ve teknik borç birikimini anlamak, kıdemli mühendislerin…</sub>
     </td>
   </tr>
   <tr><td colspan="2"><img src="assets/divider.svg" alt="" width="100%"/></td></tr>
   <tr>
-    <td width="260"><a href="https://www.muhammedkoca.com.tr/blog/node-js-ve-mikroservis-mimarisinde-event-driven-yaklasimlar-olceklenebilirlik-ve"><img src="https://www.muhammedkoca.com.tr/api/og/cover.svg?title=Node.js%20ve%20Mikroservis%20Mimarisinde%20Event-Driven%20Yakla%C5%9F%C4%B1mlar%3A%20%C3%96l%C3%A7eklenebilirlik%20ve%20Diren%C3%A7lilik&category=M%C3%BChendislik" width="240" alt="Node.js ve Mikroservis Mimarisinde Event-Driven Yaklaşımlar: Ölçeklenebilirlik ve Dirençlilik"/></a></td>
-    <td valign="top" width="580">
-      <img src="https://img.shields.io/badge/Mühendislik-3b82f6?style=flat-square&labelColor=0a0a0b" alt="Mühendislik"/> <sub>3 Ağu 2026</sub><br/><br/>
-      <a href="https://www.muhammedkoca.com.tr/blog/node-js-ve-mikroservis-mimarisinde-event-driven-yaklasimlar-olceklenebilirlik-ve"><b>Node.js ve Mikroservis Mimarisinde Event-Driven Yaklaşımlar: Ölçeklenebilirlik ve Dirençlilik</b></a><br/><br/>
-      <sub>Gelişen mikroservis mimarilerinde, eşzamansız iletişim ve gevşek bağlılık, sistemlerin yüksek ölçeklenebilirlik ve hata toleransı sağlaması için…</sub>
-    </td>
-  </tr>
-  <tr><td colspan="2"><img src="assets/divider.svg" alt="" width="100%"/></td></tr>
-  <tr>
-    <td width="260"><a href="https://www.muhammedkoca.com.tr/blog/node-js-prisma-ve-yapay-zeka-ile-yuksek-performansli-arama-motoru-mimarileri"><img src="https://www.muhammedkoca.com.tr/api/og/cover.svg?title=Node.js%2C%20Prisma%20ve%20Yapay%20Zeka%20ile%20Y%C3%BCksek%20Performansl%C4%B1%20Arama%20Motoru%20Mimarileri&category=Rehberler" width="240" alt="Node.js, Prisma ve Yapay Zeka ile Yüksek Performanslı Arama Motoru Mimarileri"/></a></td>
+    <td width="260"><a href="https://www.muhammedkoca.com.tr/blog/sunucusuz-ortamlarda-guvenli-ve-olceklenebilir-mikroservis-mimarileri-node-js-ve"><img src="https://www.muhammedkoca.com.tr/api/og/cover.svg?title=Sunucusuz%20Ortamlarda%20G%C3%BCvenli%20ve%20%C3%96l%C3%A7eklenebilir%20Mikroservis%20Mimarileri%3A%20Node.js%2C%20Vercel%20ve%20OWASP%20Odakl%C4%B1%20Yakla%C5%9F%C4%B1m&category=Rehberler" width="240" alt="Sunucusuz Ortamlarda Güvenli ve Ölçeklenebilir Mikroservis Mimarileri: Node.js, Vercel ve OWASP Odaklı Yaklaşım"/></a></td>
     <td valign="top" width="580">
       <img src="https://img.shields.io/badge/Rehberler-3b82f6?style=flat-square&labelColor=0a0a0b" alt="Rehberler"/> <sub>3 Ağu 2026</sub><br/><br/>
-      <a href="https://www.muhammedkoca.com.tr/blog/node-js-prisma-ve-yapay-zeka-ile-yuksek-performansli-arama-motoru-mimarileri"><b>Node.js, Prisma ve Yapay Zeka ile Yüksek Performanslı Arama Motoru Mimarileri</b></a><br/><br/>
-      <sub>Veri yığınları arasında doğru ve hızlı arama yapmak, modern uygulamaların en kritik gereksinimlerinden biridir. Bu makalede, klasik BM25…</sub>
+      <a href="https://www.muhammedkoca.com.tr/blog/sunucusuz-ortamlarda-guvenli-ve-olceklenebilir-mikroservis-mimarileri-node-js-ve"><b>Sunucusuz Ortamlarda Güvenli ve Ölçeklenebilir Mikroservis Mimarileri: Node.js, Vercel ve OWASP Odaklı Yaklaşım</b></a><br/><br/>
+      <sub>Kurumsal dünyada kan ter içinde edindiğim tecrübelerle sabit: modern uygulamaların kalbinde yatan sunucusuz mikroservisler, doğru mimariyle ele…</sub>
+    </td>
+  </tr>
+  <tr><td colspan="2"><img src="assets/divider.svg" alt="" width="100%"/></td></tr>
+  <tr>
+    <td width="260"><a href="https://www.muhammedkoca.com.tr/blog/muhendislik-zihniyetiyle-yasam-optimizasyonu-sistem-tasarimi-ve-esneklik"><img src="https://www.muhammedkoca.com.tr/api/og/cover.svg?title=M%C3%BChendislik%20Zihniyetiyle%20Ya%C5%9Fam%20Optimizasyonu%3A%20Sistem%20Tasar%C4%B1m%C4%B1%20ve%20Esneklik&category=Ya%C5%9Fam" width="240" alt="Mühendislik Zihniyetiyle Yaşam Optimizasyonu: Sistem Tasarımı ve Esneklik"/></a></td>
+    <td valign="top" width="580">
+      <img src="https://img.shields.io/badge/Yaşam-3b82f6?style=flat-square&labelColor=0a0a0b" alt="Yaşam"/> <sub>3 Ağu 2026</sub><br/><br/>
+      <a href="https://www.muhammedkoca.com.tr/blog/muhendislik-zihniyetiyle-yasam-optimizasyonu-sistem-tasarimi-ve-esneklik"><b>Mühendislik Zihniyetiyle Yaşam Optimizasyonu: Sistem Tasarımı ve Esneklik</b></a><br/><br/>
+      <sub>Bir Principal Engineer olarak, karmaşık dağıtık sistemleri nasıl tasarlıyor, ölçekliyor ve kriz anlarında ayağa kaldırıyorsak, aynı ilkeleri kendi…</sub>
     </td>
   </tr>
 </table>
