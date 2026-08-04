@@ -155,29 +155,29 @@
 <!-- BLOG-CARDS:START -->
 <table>
   <tr>
-    <td width="260"><a href="https://www.muhammedkoca.com.tr/blog/internet-hizinizi-test-etme-ve-adim-adim-iyilestirme-rehberi"><img src="https://www.muhammedkoca.com.tr/api/og/cover.svg?title=%C4%B0nternet%20H%C4%B1z%C4%B1n%C4%B1z%C4%B1%20Test%20Etme%20ve%20Ad%C4%B1m%20Ad%C4%B1m%20%C4%B0yile%C5%9Ftirme%20Rehberi&category=Rehberler" width="240" alt="İnternet Hızınızı Test Etme ve Adım Adım İyileştirme Rehberi"/></a></td>
+    <td width="260"><a href="https://www.muhammedkoca.com.tr/blog/surekli-ogrenme-bilisimde-guncel-kalmanin-yollari"><img src="https://www.muhammedkoca.com.tr/api/og/cover.svg?title=S%C3%BCrekli%20%C3%96%C4%9Frenme%3A%20Bili%C5%9Fimde%20G%C3%BCncel%20Kalman%C4%B1n%20Yollar%C4%B1&category=Ya%C5%9Fam" width="240" alt="Sürekli Öğrenme: Bilişimde Güncel Kalmanın Yolları"/></a></td>
     <td valign="top" width="580">
-      <img src="https://img.shields.io/badge/Rehberler-3b82f6?style=flat-square&labelColor=0a0a0b" alt="Rehberler"/> <sub>4 Ağu 2026</sub><br/><br/>
-      <a href="https://www.muhammedkoca.com.tr/blog/internet-hizinizi-test-etme-ve-adim-adim-iyilestirme-rehberi"><b>İnternet Hızınızı Test Etme ve Adım Adım İyileştirme Rehberi</b></a><br/><br/>
-      <sub>İnternet hızınız yavaş mı? Bu rehberde, internet hızınızı doğru şekilde test etmeyi ve sık karşılaşılan sorunları basit adımlarla çözmeyi…</sub>
+      <img src="https://img.shields.io/badge/Yaşam-3b82f6?style=flat-square&labelColor=0a0a0b" alt="Yaşam"/> <sub>4 Ağu 2026</sub><br/><br/>
+      <a href="https://www.muhammedkoca.com.tr/blog/surekli-ogrenme-bilisimde-guncel-kalmanin-yollari"><b>Sürekli Öğrenme: Bilişimde Güncel Kalmanın Yolları</b></a><br/><br/>
+      <sub>Bilişimde güncel kalmak için sürekli öğrenmenin önemi, basit çözümler ve sık yapılan hatalar hakkında pratik ipuçları.</sub>
     </td>
   </tr>
   <tr><td colspan="2"><img src="assets/divider.svg" alt="" width="100%"/></td></tr>
   <tr>
-    <td width="260"><a href="https://www.muhammedkoca.com.tr/blog/teknik-destek-ten-uzmanliga-bilisim-kariyerinde-nasil-yukselirsin"><img src="https://www.muhammedkoca.com.tr/api/og/cover.svg?title=Teknik%20Destek" width="240" alt="Teknik Destek&#x27;ten Uzmanlığa: Bilişim Kariyerinde Nasıl Yükselirsin?"/></a></td>
+    <td width="260"><a href="https://www.muhammedkoca.com.tr/blog/verileriniz-guvende-mi-3-2-1-yedekleme-kuraliyla-felaketlere-karsi-kalkan-olustu"><img src="https://www.muhammedkoca.com.tr/api/og/cover.svg?title=Verileriniz%20G%C3%BCvende%20mi%3F%203-2-1%20Yedekleme%20Kural%C4%B1yla%20Felaketlere%20Kar%C5%9F%C4%B1%20Kalkan%20Olu%C5%9Fturun&category=Rehberler" width="240" alt="Verileriniz Güvende mi? 3-2-1 Yedekleme Kuralıyla Felaketlere Karşı Kalkan Oluşturun"/></a></td>
     <td valign="top" width="580">
-      <img src="https://img.shields.io/badge/Kariyer-3b82f6?style=flat-square&labelColor=0a0a0b" alt="Kariyer"/> <sub>4 Ağu 2026</sub><br/><br/>
-      <a href="https://www.muhammedkoca.com.tr/blog/teknik-destek-ten-uzmanliga-bilisim-kariyerinde-nasil-yukselirsin"><b>Teknik Destek&#x27;ten Uzmanlığa: Bilişim Kariyerinde Nasıl Yükselirsin?</b></a><br/><br/>
-      <sub>Bilişim dünyasında teknik destekle başlayan bir kariyer yolculuğu, doğru adımlarla ve sürekli gelişimle nasıl üst düzey bir uzmanlığa dönüşür? Bu…</sub>
+      <img src="https://img.shields.io/badge/Rehberler-3b82f6?style=flat-square&labelColor=0a0a0b" alt="Rehberler"/> <sub>4 Ağu 2026</sub><br/><br/>
+      <a href="https://www.muhammedkoca.com.tr/blog/verileriniz-guvende-mi-3-2-1-yedekleme-kuraliyla-felaketlere-karsi-kalkan-olustu"><b>Verileriniz Güvende mi? 3-2-1 Yedekleme Kuralıyla Felaketlere Karşı Kalkan Oluşturun</b></a><br/><br/>
+      <sub>Verileriniz, dijital dünyadaki en değerli varlığınızdır. Peki, ani bir kayıp durumunda ne yapacağınızı hiç düşündünüz mü? Bu rehberde, 3-2-1…</sub>
     </td>
   </tr>
   <tr><td colspan="2"><img src="assets/divider.svg" alt="" width="100%"/></td></tr>
   <tr>
-    <td width="260"><a href="https://www.muhammedkoca.com.tr/blog/windows-ta-ag-sorunlarini-giderme-adim-adim-kontrol-listesi-hangisi-ne-zaman"><img src="https://www.muhammedkoca.com.tr/api/og/cover.svg?title=Windows" width="240" alt="Windows&#x27;ta Ağ Sorunlarını Giderme: Adım Adım Kontrol Listesi (Hangisi Ne Zaman?)"/></a></td>
+    <td width="260"><a href="https://www.muhammedkoca.com.tr/blog/internet-hiziniz-neden-dusuk-speedtest-sonuclarini-dogru-anlama-ve-cozum-yollari"><img src="https://www.muhammedkoca.com.tr/api/og/cover.svg?title=%C4%B0nternet%20H%C4%B1z%C4%B1n%C4%B1z%20Neden%20D%C3%BC%C5%9F%C3%BCk%3F%20Speedtest%20Sonu%C3%A7lar%C4%B1n%C4%B1%20Do%C4%9Fru%20Anlama%20ve%20%C3%87%C3%B6z%C3%BCm%20Yollar%C4%B1&category=Rehberler" width="240" alt="İnternet Hızınız Neden Düşük? Speedtest Sonuçlarını Doğru Anlama ve Çözüm Yolları"/></a></td>
     <td valign="top" width="580">
       <img src="https://img.shields.io/badge/Rehberler-3b82f6?style=flat-square&labelColor=0a0a0b" alt="Rehberler"/> <sub>4 Ağu 2026</sub><br/><br/>
-      <a href="https://www.muhammedkoca.com.tr/blog/windows-ta-ag-sorunlarini-giderme-adim-adim-kontrol-listesi-hangisi-ne-zaman"><b>Windows&#x27;ta Ağ Sorunlarını Giderme: Adım Adım Kontrol Listesi (Hangisi Ne Zaman?)</b></a><br/><br/>
-      <sub>Windows bilgisayarınızda internete bağlanamıyor musunuz? Bu rehber, ağ sorunlarını adım adım tespit etmenizi ve çözmenizi sağlayacak pratik bir…</sub>
+      <a href="https://www.muhammedkoca.com.tr/blog/internet-hiziniz-neden-dusuk-speedtest-sonuclarini-dogru-anlama-ve-cozum-yollari"><b>İnternet Hızınız Neden Düşük? Speedtest Sonuçlarını Doğru Anlama ve Çözüm Yolları</b></a><br/><br/>
+      <sub>İnternet hızınızın yavaş olduğunu düşünüyorsanız, sadece bir hız testi yapmak yeterli değil. Bu rehberde, internet hızınızı doğru bir şekilde nasıl…</sub>
     </td>
   </tr>
 </table>
