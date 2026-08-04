@@ -155,29 +155,29 @@
 <!-- BLOG-CARDS:START -->
 <table>
   <tr>
-    <td width="260"><a href="https://www.muhammedkoca.com.tr/blog/kidemli-muhendislerin-kritik-rolu-mimari-liderlik-sistem-resilience-ve-teknik-bo"><img src="https://www.muhammedkoca.com.tr/api/og/cover.svg?title=K%C4%B1demli%20M%C3%BChendislerin%20Kritik%20Rol%C3%BC%3A%20Mimari%20Liderlik%2C%20Sistem%20Resilience%20ve%20Teknik%20Bor%C3%A7%20Y%C3%B6netimi&category=Kariyer" width="240" alt="Kıdemli Mühendislerin Kritik Rolü: Mimari Liderlik, Sistem Resilience ve Teknik Borç Yönetimi"/></a></td>
+    <td width="260"><a href="https://www.muhammedkoca.com.tr/blog/bluetooth-surumleri-ve-menzil-cihazlariniz-arasinda-kablosuz-baglanti-nasil-cali"><img src="https://www.muhammedkoca.com.tr/api/og/cover.svg?title=Bluetooth%20S%C3%BCr%C3%BCmleri%20ve%20Menzil%3A%20Cihazlar%C4%B1n%C4%B1z%20Aras%C4%B1nda%20Kablosuz%20Ba%C4%9Flant%C4%B1%20Nas%C4%B1l%20%C3%87al%C4%B1%C5%9F%C4%B1yor%3F&category=Teknoloji" width="240" alt="Bluetooth Sürümleri ve Menzil: Cihazlarınız Arasında Kablosuz Bağlantı Nasıl Çalışıyor?"/></a></td>
     <td valign="top" width="580">
-      <img src="https://img.shields.io/badge/Kariyer-3b82f6?style=flat-square&labelColor=0a0a0b" alt="Kariyer"/> <sub>3 Ağu 2026</sub><br/><br/>
-      <a href="https://www.muhammedkoca.com.tr/blog/kidemli-muhendislerin-kritik-rolu-mimari-liderlik-sistem-resilience-ve-teknik-bo"><b>Kıdemli Mühendislerin Kritik Rolü: Mimari Liderlik, Sistem Resilience ve Teknik Borç Yönetimi</b></a><br/><br/>
-      <sub>Prodüksiyon sistemlerinde sıklıkla karşılaşılan krizlerin temelinde yatan mimari zafiyetleri ve teknik borç birikimini anlamak, kıdemli mühendislerin…</sub>
+      <img src="https://img.shields.io/badge/Teknoloji-3b82f6?style=flat-square&labelColor=0a0a0b" alt="Teknoloji"/> <sub>4 Ağu 2026</sub><br/><br/>
+      <a href="https://www.muhammedkoca.com.tr/blog/bluetooth-surumleri-ve-menzil-cihazlariniz-arasinda-kablosuz-baglanti-nasil-cali"><b>Bluetooth Sürümleri ve Menzil: Cihazlarınız Arasında Kablosuz Bağlantı Nasıl Çalışıyor?</b></a><br/><br/>
+      <sub>Bluetooth teknolojisi, kulaklık, fare, klavye gibi cihazlarımızı kablosuz olarak bağlamamızı sağlıyor. Peki Bluetooth sürümleri arasındaki farklar…</sub>
     </td>
   </tr>
   <tr><td colspan="2"><img src="assets/divider.svg" alt="" width="100%"/></td></tr>
   <tr>
-    <td width="260"><a href="https://www.muhammedkoca.com.tr/blog/sunucusuz-ortamlarda-guvenli-ve-olceklenebilir-mikroservis-mimarileri-node-js-ve"><img src="https://www.muhammedkoca.com.tr/api/og/cover.svg?title=Sunucusuz%20Ortamlarda%20G%C3%BCvenli%20ve%20%C3%96l%C3%A7eklenebilir%20Mikroservis%20Mimarileri%3A%20Node.js%2C%20Vercel%20ve%20OWASP%20Odakl%C4%B1%20Yakla%C5%9F%C4%B1m&category=Rehberler" width="240" alt="Sunucusuz Ortamlarda Güvenli ve Ölçeklenebilir Mikroservis Mimarileri: Node.js, Vercel ve OWASP Odaklı Yaklaşım"/></a></td>
+    <td width="260"><a href="https://www.muhammedkoca.com.tr/blog/ev-sunucusu-home-server-kurulumu-adim-adim-kendi-sunucunuzu-olusturun"><img src="https://www.muhammedkoca.com.tr/api/og/cover.svg?title=Ev%20Sunucusu%20(Home%20Server)%20Kurulumu%3A%20Ad%C4%B1m%20Ad%C4%B1m%20Kendi%20Sunucunuzu%20Olu%C5%9Fturun&category=Rehberler" width="240" alt="Ev Sunucusu (Home Server) Kurulumu: Adım Adım Kendi Sunucunuzu Oluşturun"/></a></td>
     <td valign="top" width="580">
-      <img src="https://img.shields.io/badge/Rehberler-3b82f6?style=flat-square&labelColor=0a0a0b" alt="Rehberler"/> <sub>3 Ağu 2026</sub><br/><br/>
-      <a href="https://www.muhammedkoca.com.tr/blog/sunucusuz-ortamlarda-guvenli-ve-olceklenebilir-mikroservis-mimarileri-node-js-ve"><b>Sunucusuz Ortamlarda Güvenli ve Ölçeklenebilir Mikroservis Mimarileri: Node.js, Vercel ve OWASP Odaklı Yaklaşım</b></a><br/><br/>
-      <sub>Kurumsal dünyada kan ter içinde edindiğim tecrübelerle sabit: modern uygulamaların kalbinde yatan sunucusuz mikroservisler, doğru mimariyle ele…</sub>
+      <img src="https://img.shields.io/badge/Rehberler-3b82f6?style=flat-square&labelColor=0a0a0b" alt="Rehberler"/> <sub>4 Ağu 2026</sub><br/><br/>
+      <a href="https://www.muhammedkoca.com.tr/blog/ev-sunucusu-home-server-kurulumu-adim-adim-kendi-sunucunuzu-olusturun"><b>Ev Sunucusu (Home Server) Kurulumu: Adım Adım Kendi Sunucunuzu Oluşturun</b></a><br/><br/>
+      <sub>Ev sunucusu kurarak verilerinizi merkezi bir yerde saklayabilir, medya dosyalarınızı paylaşabilir ve hatta kendi bulut hizmetinizi…</sub>
     </td>
   </tr>
   <tr><td colspan="2"><img src="assets/divider.svg" alt="" width="100%"/></td></tr>
   <tr>
-    <td width="260"><a href="https://www.muhammedkoca.com.tr/blog/muhendislik-zihniyetiyle-yasam-optimizasyonu-sistem-tasarimi-ve-esneklik"><img src="https://www.muhammedkoca.com.tr/api/og/cover.svg?title=M%C3%BChendislik%20Zihniyetiyle%20Ya%C5%9Fam%20Optimizasyonu%3A%20Sistem%20Tasar%C4%B1m%C4%B1%20ve%20Esneklik&category=Ya%C5%9Fam" width="240" alt="Mühendislik Zihniyetiyle Yaşam Optimizasyonu: Sistem Tasarımı ve Esneklik"/></a></td>
+    <td width="260"><a href="https://www.muhammedkoca.com.tr/blog/usb-c-ve-thunderbolt-hangisi-ne-ise-yarar-hangisini-secmeli"><img src="https://www.muhammedkoca.com.tr/api/og/cover.svg?title=USB-C%20ve%20Thunderbolt%3A%20Hangisi%20Ne%20%C4%B0%C5%9Fe%20Yarar%2C%20Hangisini%20Se%C3%A7meli%3F&category=Teknoloji" width="240" alt="USB-C ve Thunderbolt: Hangisi Ne İşe Yarar, Hangisini Seçmeli?"/></a></td>
     <td valign="top" width="580">
-      <img src="https://img.shields.io/badge/Yaşam-3b82f6?style=flat-square&labelColor=0a0a0b" alt="Yaşam"/> <sub>3 Ağu 2026</sub><br/><br/>
-      <a href="https://www.muhammedkoca.com.tr/blog/muhendislik-zihniyetiyle-yasam-optimizasyonu-sistem-tasarimi-ve-esneklik"><b>Mühendislik Zihniyetiyle Yaşam Optimizasyonu: Sistem Tasarımı ve Esneklik</b></a><br/><br/>
-      <sub>Bir Principal Engineer olarak, karmaşık dağıtık sistemleri nasıl tasarlıyor, ölçekliyor ve kriz anlarında ayağa kaldırıyorsak, aynı ilkeleri kendi…</sub>
+      <img src="https://img.shields.io/badge/Teknoloji-3b82f6?style=flat-square&labelColor=0a0a0b" alt="Teknoloji"/> <sub>4 Ağu 2026</sub><br/><br/>
+      <a href="https://www.muhammedkoca.com.tr/blog/usb-c-ve-thunderbolt-hangisi-ne-ise-yarar-hangisini-secmeli"><b>USB-C ve Thunderbolt: Hangisi Ne İşe Yarar, Hangisini Seçmeli?</b></a><br/><br/>
+      <sub>USB-C, Thunderbolt, USB 3.2, USB4... Kablolar ve portlar arasında kaybolmak çok kolay. Bu rehberde, en yaygın iki bağlantı standardını…</sub>
     </td>
   </tr>
 </table>
