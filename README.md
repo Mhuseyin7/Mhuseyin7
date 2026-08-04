@@ -155,29 +155,29 @@
 <!-- BLOG-CARDS:START -->
 <table>
   <tr>
-    <td width="260"><a href="https://www.muhammedkoca.com.tr/blog/bulut-depolama-guvenli-mi-ozel-mi-hangisini-secmeli"><img src="https://www.muhammedkoca.com.tr/api/og/cover.svg?title=Bulut%20Depolama%3A%20G%C3%BCvenli%20mi%2C%20%C3%96zel%20mi%3F%20Hangisini%20Se%C3%A7meli%3F&category=Teknoloji" width="240" alt="Bulut Depolama: Güvenli mi, Özel mi? Hangisini Seçmeli?"/></a></td>
-    <td valign="top" width="580">
-      <img src="https://img.shields.io/badge/Teknoloji-3b82f6?style=flat-square&labelColor=0a0a0b" alt="Teknoloji"/> <sub>4 Ağu 2026</sub><br/><br/>
-      <a href="https://www.muhammedkoca.com.tr/blog/bulut-depolama-guvenli-mi-ozel-mi-hangisini-secmeli"><b>Bulut Depolama: Güvenli mi, Özel mi? Hangisini Seçmeli?</b></a><br/><br/>
-      <sub>Bulut depolama hizmetleri hayatımızı kolaylaştırıyor, ama güvenlik ve gizlilik konusunda endişeleriniz mi var? Hangi bulut hizmetinin sizin için…</sub>
-    </td>
-  </tr>
-  <tr><td colspan="2"><img src="assets/divider.svg" alt="" width="100%"/></td></tr>
-  <tr>
-    <td width="260"><a href="https://www.muhammedkoca.com.tr/blog/kablosuz-aginizin-menzilini-artirmanin-pratik-yollari-mesh-ve-extender-rehberi"><img src="https://www.muhammedkoca.com.tr/api/og/cover.svg?title=Kablosuz%20A%C4%9F%C4%B1n%C4%B1z%C4%B1n%20Menzilini%20Art%C4%B1rman%C4%B1n%20Pratik%20Yollar%C4%B1%3A%20Mesh%20ve%20Extender%20Rehberi&category=Rehberler" width="240" alt="Kablosuz Ağınızın Menzilini Artırmanın Pratik Yolları: Mesh ve Extender Rehberi"/></a></td>
+    <td width="260"><a href="https://www.muhammedkoca.com.tr/blog/internet-hizinizi-test-etme-ve-adim-adim-iyilestirme-rehberi"><img src="https://www.muhammedkoca.com.tr/api/og/cover.svg?title=%C4%B0nternet%20H%C4%B1z%C4%B1n%C4%B1z%C4%B1%20Test%20Etme%20ve%20Ad%C4%B1m%20Ad%C4%B1m%20%C4%B0yile%C5%9Ftirme%20Rehberi&category=Rehberler" width="240" alt="İnternet Hızınızı Test Etme ve Adım Adım İyileştirme Rehberi"/></a></td>
     <td valign="top" width="580">
       <img src="https://img.shields.io/badge/Rehberler-3b82f6?style=flat-square&labelColor=0a0a0b" alt="Rehberler"/> <sub>4 Ağu 2026</sub><br/><br/>
-      <a href="https://www.muhammedkoca.com.tr/blog/kablosuz-aginizin-menzilini-artirmanin-pratik-yollari-mesh-ve-extender-rehberi"><b>Kablosuz Ağınızın Menzilini Artırmanın Pratik Yolları: Mesh ve Extender Rehberi</b></a><br/><br/>
-      <sub>Evde veya ofiste zayıf Wi-Fi sinyaliyle uğraşmak sinir bozucu olabilir. Bu rehberde, kablosuz ağ menzilini artırmanın iki etkili yolu olan Mesh…</sub>
+      <a href="https://www.muhammedkoca.com.tr/blog/internet-hizinizi-test-etme-ve-adim-adim-iyilestirme-rehberi"><b>İnternet Hızınızı Test Etme ve Adım Adım İyileştirme Rehberi</b></a><br/><br/>
+      <sub>İnternet hızınız yavaş mı? Bu rehberde, internet hızınızı doğru şekilde test etmeyi ve sık karşılaşılan sorunları basit adımlarla çözmeyi…</sub>
     </td>
   </tr>
   <tr><td colspan="2"><img src="assets/divider.svg" alt="" width="100%"/></td></tr>
   <tr>
-    <td width="260"><a href="https://www.muhammedkoca.com.tr/blog/modem-ve-router-farki-hangisi-ne-ise-yariyor-basit-rehber"><img src="https://www.muhammedkoca.com.tr/api/og/cover.svg?title=Modem%20ve%20Router%20Fark%C4%B1%3A%20Hangisi%20Ne%20%C4%B0%C5%9Fe%20Yar%C4%B1yor%3F%20Basit%20Rehber&category=Teknoloji" width="240" alt="Modem ve Router Farkı: Hangisi Ne İşe Yarıyor? Basit Rehber"/></a></td>
+    <td width="260"><a href="https://www.muhammedkoca.com.tr/blog/teknik-destek-ten-uzmanliga-bilisim-kariyerinde-nasil-yukselirsin"><img src="https://www.muhammedkoca.com.tr/api/og/cover.svg?title=Teknik%20Destek" width="240" alt="Teknik Destek&#x27;ten Uzmanlığa: Bilişim Kariyerinde Nasıl Yükselirsin?"/></a></td>
     <td valign="top" width="580">
-      <img src="https://img.shields.io/badge/Teknoloji-3b82f6?style=flat-square&labelColor=0a0a0b" alt="Teknoloji"/> <sub>4 Ağu 2026</sub><br/><br/>
-      <a href="https://www.muhammedkoca.com.tr/blog/modem-ve-router-farki-hangisi-ne-ise-yariyor-basit-rehber"><b>Modem ve Router Farkı: Hangisi Ne İşe Yarıyor? Basit Rehber</b></a><br/><br/>
-      <sub>Evdeki internet bağlantısının nasıl çalıştığını merak ediyor musunuz? Modem ve router arasındaki farkı anlamak, bağlantı sorunlarını çözmenize ve…</sub>
+      <img src="https://img.shields.io/badge/Kariyer-3b82f6?style=flat-square&labelColor=0a0a0b" alt="Kariyer"/> <sub>4 Ağu 2026</sub><br/><br/>
+      <a href="https://www.muhammedkoca.com.tr/blog/teknik-destek-ten-uzmanliga-bilisim-kariyerinde-nasil-yukselirsin"><b>Teknik Destek&#x27;ten Uzmanlığa: Bilişim Kariyerinde Nasıl Yükselirsin?</b></a><br/><br/>
+      <sub>Bilişim dünyasında teknik destekle başlayan bir kariyer yolculuğu, doğru adımlarla ve sürekli gelişimle nasıl üst düzey bir uzmanlığa dönüşür? Bu…</sub>
+    </td>
+  </tr>
+  <tr><td colspan="2"><img src="assets/divider.svg" alt="" width="100%"/></td></tr>
+  <tr>
+    <td width="260"><a href="https://www.muhammedkoca.com.tr/blog/windows-ta-ag-sorunlarini-giderme-adim-adim-kontrol-listesi-hangisi-ne-zaman"><img src="https://www.muhammedkoca.com.tr/api/og/cover.svg?title=Windows" width="240" alt="Windows&#x27;ta Ağ Sorunlarını Giderme: Adım Adım Kontrol Listesi (Hangisi Ne Zaman?)"/></a></td>
+    <td valign="top" width="580">
+      <img src="https://img.shields.io/badge/Rehberler-3b82f6?style=flat-square&labelColor=0a0a0b" alt="Rehberler"/> <sub>4 Ağu 2026</sub><br/><br/>
+      <a href="https://www.muhammedkoca.com.tr/blog/windows-ta-ag-sorunlarini-giderme-adim-adim-kontrol-listesi-hangisi-ne-zaman"><b>Windows&#x27;ta Ağ Sorunlarını Giderme: Adım Adım Kontrol Listesi (Hangisi Ne Zaman?)</b></a><br/><br/>
+      <sub>Windows bilgisayarınızda internete bağlanamıyor musunuz? Bu rehber, ağ sorunlarını adım adım tespit etmenizi ve çözmenizi sağlayacak pratik bir…</sub>
     </td>
   </tr>
 </table>
