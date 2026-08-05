@@ -155,29 +155,29 @@
 <!-- BLOG-CARDS:START -->
 <table>
   <tr>
-    <td width="260"><a href="https://www.muhammedkoca.com.tr/blog/surekli-ogrenme-bilisimde-guncel-kalmanin-yollari"><img src="https://www.muhammedkoca.com.tr/api/og/cover.svg?title=S%C3%BCrekli%20%C3%96%C4%9Frenme%3A%20Bili%C5%9Fimde%20G%C3%BCncel%20Kalman%C4%B1n%20Yollar%C4%B1&category=Ya%C5%9Fam" width="240" alt="Sürekli Öğrenme: Bilişimde Güncel Kalmanın Yolları"/></a></td>
+    <td width="260"><a href="https://www.muhammedkoca.com.tr/blog/evdeki-eski-bilgisayarinizi-sunucu-yapmak-statik-ip-mi-dinamik-ip-ve-port-yonlen"><img src="https://www.muhammedkoca.com.tr/api/og/cover.svg?title=Evdeki%20Eski%20Bilgisayar%C4%B1n%C4%B1z%C4%B1%20Sunucu%20Yapmak%3A%20Statik%20IP%20mi%2C%20Dinamik%20IP%20ve%20Port%20Y%C3%B6nlendirme%20mi%3F&category=Genel" width="240" alt="Evdeki Eski Bilgisayarınızı Sunucu Yapmak: Statik IP mi, Dinamik IP ve Port Yönlendirme mi?"/></a></td>
     <td valign="top" width="580">
-      <img src="https://img.shields.io/badge/Yaşam-3b82f6?style=flat-square&labelColor=0a0a0b" alt="Yaşam"/> <sub>4 Ağu 2026</sub><br/><br/>
-      <a href="https://www.muhammedkoca.com.tr/blog/surekli-ogrenme-bilisimde-guncel-kalmanin-yollari"><b>Sürekli Öğrenme: Bilişimde Güncel Kalmanın Yolları</b></a><br/><br/>
-      <sub>Bilişimde güncel kalmak için sürekli öğrenmenin önemi, basit çözümler ve sık yapılan hatalar hakkında pratik ipuçları.</sub>
+      <img src="https://img.shields.io/badge/Rehberler-3b82f6?style=flat-square&labelColor=0a0a0b" alt="Rehberler"/> <sub>5 Ağu 2026</sub><br/><br/>
+      <a href="https://www.muhammedkoca.com.tr/blog/evdeki-eski-bilgisayarinizi-sunucu-yapmak-statik-ip-mi-dinamik-ip-ve-port-yonlen"><b>Evdeki Eski Bilgisayarınızı Sunucu Yapmak: Statik IP mi, Dinamik IP ve Port Yönlendirme mi?</b></a><br/><br/>
+      <sub>Evdeki eski bilgisayarınızı veya bir Raspberry Pi gibi uygun maliyetli bir cihazı kendi kişisel sunucunuza dönüştürmek mi istiyorsunuz? Bu rehberde…</sub>
     </td>
   </tr>
   <tr><td colspan="2"><img src="assets/divider.svg" alt="" width="100%"/></td></tr>
   <tr>
-    <td width="260"><a href="https://www.muhammedkoca.com.tr/blog/verileriniz-guvende-mi-3-2-1-yedekleme-kuraliyla-felaketlere-karsi-kalkan-olustu"><img src="https://www.muhammedkoca.com.tr/api/og/cover.svg?title=Verileriniz%20G%C3%BCvende%20mi%3F%203-2-1%20Yedekleme%20Kural%C4%B1yla%20Felaketlere%20Kar%C5%9F%C4%B1%20Kalkan%20Olu%C5%9Fturun&category=Rehberler" width="240" alt="Verileriniz Güvende mi? 3-2-1 Yedekleme Kuralıyla Felaketlere Karşı Kalkan Oluşturun"/></a></td>
+    <td width="260"><a href="https://www.muhammedkoca.com.tr/blog/dijital-duzen-dosya-ve-cihazlarinizi-derli-toplu-tutmak"><img src="https://www.muhammedkoca.com.tr/api/og/cover.svg?title=Dijital%20D%C3%BCzen%3A%20Dosya%20ve%20Cihazlar%C4%B1n%C4%B1z%C4%B1%20Derli%20Toplu%20Tutmak&category=Ya%C5%9Fam" width="240" alt="Dijital Düzen: Dosya ve Cihazlarınızı Derli Toplu Tutmak"/></a></td>
     <td valign="top" width="580">
-      <img src="https://img.shields.io/badge/Rehberler-3b82f6?style=flat-square&labelColor=0a0a0b" alt="Rehberler"/> <sub>4 Ağu 2026</sub><br/><br/>
-      <a href="https://www.muhammedkoca.com.tr/blog/verileriniz-guvende-mi-3-2-1-yedekleme-kuraliyla-felaketlere-karsi-kalkan-olustu"><b>Verileriniz Güvende mi? 3-2-1 Yedekleme Kuralıyla Felaketlere Karşı Kalkan Oluşturun</b></a><br/><br/>
-      <sub>Verileriniz, dijital dünyadaki en değerli varlığınızdır. Peki, ani bir kayıp durumunda ne yapacağınızı hiç düşündünüz mü? Bu rehberde, 3-2-1…</sub>
+      <img src="https://img.shields.io/badge/Yaşam-3b82f6?style=flat-square&labelColor=0a0a0b" alt="Yaşam"/> <sub>5 Ağu 2026</sub><br/><br/>
+      <a href="https://www.muhammedkoca.com.tr/blog/dijital-duzen-dosya-ve-cihazlarinizi-derli-toplu-tutmak"><b>Dijital Düzen: Dosya ve Cihazlarınızı Derli Toplu Tutmak</b></a><br/><br/>
+      <sub>Dijital düzen, günlük hayatımızda verimliliği ve dengeyi sağlamak için önemlidir. Bu yazı, dosya ve cihazlarınızı derli toplu tutmanın temel…</sub>
     </td>
   </tr>
   <tr><td colspan="2"><img src="assets/divider.svg" alt="" width="100%"/></td></tr>
   <tr>
-    <td width="260"><a href="https://www.muhammedkoca.com.tr/blog/internet-hiziniz-neden-dusuk-speedtest-sonuclarini-dogru-anlama-ve-cozum-yollari"><img src="https://www.muhammedkoca.com.tr/api/og/cover.svg?title=%C4%B0nternet%20H%C4%B1z%C4%B1n%C4%B1z%20Neden%20D%C3%BC%C5%9F%C3%BCk%3F%20Speedtest%20Sonu%C3%A7lar%C4%B1n%C4%B1%20Do%C4%9Fru%20Anlama%20ve%20%C3%87%C3%B6z%C3%BCm%20Yollar%C4%B1&category=Rehberler" width="240" alt="İnternet Hızınız Neden Düşük? Speedtest Sonuçlarını Doğru Anlama ve Çözüm Yolları"/></a></td>
+    <td width="260"><a href="https://www.muhammedkoca.com.tr/blog/siber-guvenlik-kariyerine-baslarken-ilk-adimlar-ve-dogru-yol-haritasi"><img src="https://www.muhammedkoca.com.tr/api/og/cover.svg?title=Siber%20G%C3%BCvenlik%20Kariyerine%20Ba%C5%9Flarken%3A%20%C4%B0lk%20Ad%C4%B1mlar%20ve%20Do%C4%9Fru%20Yol%20Haritas%C4%B1&category=Kariyer" width="240" alt="Siber Güvenlik Kariyerine Başlarken: İlk Adımlar ve Doğru Yol Haritası"/></a></td>
     <td valign="top" width="580">
-      <img src="https://img.shields.io/badge/Rehberler-3b82f6?style=flat-square&labelColor=0a0a0b" alt="Rehberler"/> <sub>4 Ağu 2026</sub><br/><br/>
-      <a href="https://www.muhammedkoca.com.tr/blog/internet-hiziniz-neden-dusuk-speedtest-sonuclarini-dogru-anlama-ve-cozum-yollari"><b>İnternet Hızınız Neden Düşük? Speedtest Sonuçlarını Doğru Anlama ve Çözüm Yolları</b></a><br/><br/>
-      <sub>İnternet hızınızın yavaş olduğunu düşünüyorsanız, sadece bir hız testi yapmak yeterli değil. Bu rehberde, internet hızınızı doğru bir şekilde nasıl…</sub>
+      <img src="https://img.shields.io/badge/Kariyer-3b82f6?style=flat-square&labelColor=0a0a0b" alt="Kariyer"/> <sub>5 Ağu 2026</sub><br/><br/>
+      <a href="https://www.muhammedkoca.com.tr/blog/siber-guvenlik-kariyerine-baslarken-ilk-adimlar-ve-dogru-yol-haritasi"><b>Siber Güvenlik Kariyerine Başlarken: İlk Adımlar ve Doğru Yol Haritası</b></a><br/><br/>
+      <sub>Siber güvenlik, teknoloji dünyasının en hızlı büyüyen ve en kritik alanlarından biri. Peki bu alanda kariyer yapmak isteyenler nereden başlamalı?…</sub>
     </td>
   </tr>
 </table>
