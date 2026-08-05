@@ -155,29 +155,29 @@
 <!-- BLOG-CARDS:START -->
 <table>
   <tr>
-    <td width="260"><a href="https://www.muhammedkoca.com.tr/blog/linux-kurulumu-korkulu-ruyaniz-olmasin-adim-adim-ilk-sunucunuzu-hazirlayin"><img src="https://www.muhammedkoca.com.tr/api/og/cover.svg?title=Linux%20Kurulumu%20Korkulu%20R%C3%BCyan%C4%B1z%20Olmas%C4%B1n%3A%20Ad%C4%B1m%20Ad%C4%B1m%20%C4%B0lk%20Sunucunuzu%20Haz%C4%B1rlay%C4%B1n&category=Rehberler" width="240" alt="Linux Kurulumu Korkulu Rüyanız Olmasın: Adım Adım İlk Sunucunuzu Hazırlayın"/></a></td>
+    <td width="260"><a href="https://www.muhammedkoca.com.tr/blog/eski-bilgisayarinizi-home-server-a-donusturun-yenisini-almak-sart-degil-rehberi"><img src="https://www.muhammedkoca.com.tr/api/og/cover.svg?title=Eski%20Bilgisayar%C4%B1n%C4%B1z%C4%B1%20Home%20Server%E2%80%99a%20D%C3%B6n%C3%BC%C5%9Ft%C3%BCr%C3%BCn%3A%20%22Yenisini%20Almak%20%C5%9Eart%20De%C4%9Fil%22%20Rehberi&category=Rehberler" width="240" alt="Eski Bilgisayarınızı Home Server’a Dönüştürün: &quot;Yenisini Almak Şart Değil&quot; Rehberi"/></a></td>
     <td valign="top" width="580">
       <img src="https://img.shields.io/badge/Rehberler-3b82f6?style=flat-square&labelColor=0a0a0b" alt="Rehberler"/> <sub>5 Ağu 2026</sub><br/><br/>
-      <a href="https://www.muhammedkoca.com.tr/blog/linux-kurulumu-korkulu-ruyaniz-olmasin-adim-adim-ilk-sunucunuzu-hazirlayin"><b>Linux Kurulumu Korkulu Rüyanız Olmasın: Adım Adım İlk Sunucunuzu Hazırlayın</b></a><br/><br/>
-      <sub>Linux sunucu kurmak gözünüzü korkutuyor olabilir ama aslında doğru adımlarla herkesin yapabileceği bir süreçtir. Bu rehberde, sıfırdan ilk Linux…</sub>
+      <a href="https://www.muhammedkoca.com.tr/blog/eski-bilgisayarinizi-home-server-a-donusturun-yenisini-almak-sart-degil-rehberi"><b>Eski Bilgisayarınızı Home Server’a Dönüştürün: &quot;Yenisini Almak Şart Değil&quot; Rehberi</b></a><br/><br/>
+      <sub>Eski bilgisayarınızı çöpe atmak yerine, evinizde dosya depolama, medya sunucusu veya yedekleme merkezi olarak kullanabilirsiniz. Bu rehber, adım adım…</sub>
     </td>
   </tr>
   <tr><td colspan="2"><img src="assets/divider.svg" alt="" width="100%"/></td></tr>
   <tr>
-    <td width="260"><a href="https://www.muhammedkoca.com.tr/blog/modem-ayarlari-rehberi-ev-ve-is-aginizi-adim-adim-kurulum-ve-guvenlige-hazirlayi"><img src="https://www.muhammedkoca.com.tr/api/og/cover.svg?title=Modem%20Ayarlar%C4%B1%20Rehberi%3A%20Ev%20ve%20%C4%B0%C5%9F%20A%C4%9F%C4%B1n%C4%B1z%C4%B1%20Ad%C4%B1m%20Ad%C4%B1m%20Kurulum%20ve%20G%C3%BCvenli%C4%9Fe%20Haz%C4%B1rlay%C4%B1n&category=Rehberler" width="240" alt="Modem Ayarları Rehberi: Ev ve İş Ağınızı Adım Adım Kurulum ve Güvenliğe Hazırlayın"/></a></td>
+    <td width="260"><a href="https://www.muhammedkoca.com.tr/blog/eski-bilgisayarinizi-ev-sunucusuna-donusturmenin-4-kolay-adimi"><img src="https://www.muhammedkoca.com.tr/api/og/cover.svg?title=Eski%20Bilgisayar%C4%B1n%C4%B1z%C4%B1%20Ev%20Sunucusuna%20D%C3%B6n%C3%BC%C5%9Ft%C3%BCrmenin%204%20Kolay%20Ad%C4%B1m%C4%B1&category=Rehberler" width="240" alt="Eski Bilgisayarınızı Ev Sunucusuna Dönüştürmenin 4 Kolay Adımı"/></a></td>
     <td valign="top" width="580">
       <img src="https://img.shields.io/badge/Rehberler-3b82f6?style=flat-square&labelColor=0a0a0b" alt="Rehberler"/> <sub>5 Ağu 2026</sub><br/><br/>
-      <a href="https://www.muhammedkoca.com.tr/blog/modem-ayarlari-rehberi-ev-ve-is-aginizi-adim-adim-kurulum-ve-guvenlige-hazirlayi"><b>Modem Ayarları Rehberi: Ev ve İş Ağınızı Adım Adım Kurulum ve Güvenliğe Hazırlayın</b></a><br/><br/>
-      <sub>İnternet dünyasının kapılarını aralayan modem ve router&#x27;lar, bağlantınızın hızı, güvenliği ve kararlılığı için kritik öneme sahiptir. Bu rehberde…</sub>
+      <a href="https://www.muhammedkoca.com.tr/blog/eski-bilgisayarinizi-ev-sunucusuna-donusturmenin-4-kolay-adimi"><b>Eski Bilgisayarınızı Ev Sunucusuna Dönüştürmenin 4 Kolay Adımı</b></a><br/><br/>
+      <sub>Eski bilgisayarınızı çöpe atmak yerine, ona ikinci bir hayat vererek evinizde dosya depolama, medya sunucusu veya yedekleme merkezi olarak…</sub>
     </td>
   </tr>
   <tr><td colspan="2"><img src="assets/divider.svg" alt="" width="100%"/></td></tr>
   <tr>
-    <td width="260"><a href="https://www.muhammedkoca.com.tr/blog/ag-uzmani-olmak-icin-5-pratik-yol-nereden-baslamali-hangi-sartlar-gerekli"><img src="https://www.muhammedkoca.com.tr/api/og/cover.svg?title=A%C4%9F%20Uzman%C4%B1%20Olmak%20%C4%B0%C3%A7in%205%20Pratik%20Yol%3A%20Nereden%20Ba%C5%9Flamal%C4%B1%2C%20Hangi%20%C5%9Eartlar%20Gerekli%3F&category=Kariyer" width="240" alt="Ağ Uzmanı Olmak İçin 5 Pratik Yol: Nereden Başlamalı, Hangi Şartlar Gerekli?"/></a></td>
+    <td width="260"><a href="https://www.muhammedkoca.com.tr/blog/uzaktan-it-calismasi-ofis-yok-disiplin-var-hangi-araclar-gercekten-ise-yariyor"><img src="https://www.muhammedkoca.com.tr/api/og/cover.svg?title=Uzaktan%20IT%20%C3%87al%C4%B1%C5%9Fmas%C4%B1%3A%20Ofis%20Yok%2C%20Disiplin%20Var%20-%20Hangi%20Ara%C3%A7lar%20Ger%C3%A7ekten%20%C4%B0%C5%9Fe%20Yar%C4%B1yor%3F&category=Kariyer" width="240" alt="Uzaktan IT Çalışması: Ofis Yok, Disiplin Var - Hangi Araçlar Gerçekten İşe Yarıyor?"/></a></td>
     <td valign="top" width="580">
       <img src="https://img.shields.io/badge/Kariyer-3b82f6?style=flat-square&labelColor=0a0a0b" alt="Kariyer"/> <sub>5 Ağu 2026</sub><br/><br/>
-      <a href="https://www.muhammedkoca.com.tr/blog/ag-uzmani-olmak-icin-5-pratik-yol-nereden-baslamali-hangi-sartlar-gerekli"><b>Ağ Uzmanı Olmak İçin 5 Pratik Yol: Nereden Başlamalı, Hangi Şartlar Gerekli?</b></a><br/><br/>
-      <sub>Ağ uzmanlığı, bilişim sektörünün en kritik ve talep gören alanlarından biri. Peki bu alanda kariyer yapmak isteyenler nereden başlamalı, hangi…</sub>
+      <a href="https://www.muhammedkoca.com.tr/blog/uzaktan-it-calismasi-ofis-yok-disiplin-var-hangi-araclar-gercekten-ise-yariyor"><b>Uzaktan IT Çalışması: Ofis Yok, Disiplin Var - Hangi Araçlar Gerçekten İşe Yarıyor?</b></a><br/><br/>
+      <sub>Uzaktan çalışmanın ofisten farkı sadece mekan değil, disiplin ve iletişim. Hangi araçlar verimliliği artırır, hangileri zaman kaybı? Güvenlik ve…</sub>
     </td>
   </tr>
 </table>
