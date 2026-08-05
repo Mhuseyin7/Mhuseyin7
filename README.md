@@ -155,29 +155,29 @@
 <!-- BLOG-CARDS:START -->
 <table>
   <tr>
-    <td width="260"><a href="https://www.muhammedkoca.com.tr/blog/evdeki-eski-bilgisayarinizi-sunucu-yapmak-statik-ip-mi-dinamik-ip-ve-port-yonlen"><img src="https://www.muhammedkoca.com.tr/api/og/cover.svg?title=Evdeki%20Eski%20Bilgisayar%C4%B1n%C4%B1z%C4%B1%20Sunucu%20Yapmak%3A%20Statik%20IP%20mi%2C%20Dinamik%20IP%20ve%20Port%20Y%C3%B6nlendirme%20mi%3F&category=Genel" width="240" alt="Evdeki Eski Bilgisayarınızı Sunucu Yapmak: Statik IP mi, Dinamik IP ve Port Yönlendirme mi?"/></a></td>
+    <td width="260"><a href="https://www.muhammedkoca.com.tr/blog/linux-kurulumu-korkulu-ruyaniz-olmasin-adim-adim-ilk-sunucunuzu-hazirlayin"><img src="https://www.muhammedkoca.com.tr/api/og/cover.svg?title=Linux%20Kurulumu%20Korkulu%20R%C3%BCyan%C4%B1z%20Olmas%C4%B1n%3A%20Ad%C4%B1m%20Ad%C4%B1m%20%C4%B0lk%20Sunucunuzu%20Haz%C4%B1rlay%C4%B1n&category=Rehberler" width="240" alt="Linux Kurulumu Korkulu Rüyanız Olmasın: Adım Adım İlk Sunucunuzu Hazırlayın"/></a></td>
     <td valign="top" width="580">
       <img src="https://img.shields.io/badge/Rehberler-3b82f6?style=flat-square&labelColor=0a0a0b" alt="Rehberler"/> <sub>5 Ağu 2026</sub><br/><br/>
-      <a href="https://www.muhammedkoca.com.tr/blog/evdeki-eski-bilgisayarinizi-sunucu-yapmak-statik-ip-mi-dinamik-ip-ve-port-yonlen"><b>Evdeki Eski Bilgisayarınızı Sunucu Yapmak: Statik IP mi, Dinamik IP ve Port Yönlendirme mi?</b></a><br/><br/>
-      <sub>Evdeki eski bilgisayarınızı veya bir Raspberry Pi gibi uygun maliyetli bir cihazı kendi kişisel sunucunuza dönüştürmek mi istiyorsunuz? Bu rehberde…</sub>
+      <a href="https://www.muhammedkoca.com.tr/blog/linux-kurulumu-korkulu-ruyaniz-olmasin-adim-adim-ilk-sunucunuzu-hazirlayin"><b>Linux Kurulumu Korkulu Rüyanız Olmasın: Adım Adım İlk Sunucunuzu Hazırlayın</b></a><br/><br/>
+      <sub>Linux sunucu kurmak gözünüzü korkutuyor olabilir ama aslında doğru adımlarla herkesin yapabileceği bir süreçtir. Bu rehberde, sıfırdan ilk Linux…</sub>
     </td>
   </tr>
   <tr><td colspan="2"><img src="assets/divider.svg" alt="" width="100%"/></td></tr>
   <tr>
-    <td width="260"><a href="https://www.muhammedkoca.com.tr/blog/dijital-duzen-dosya-ve-cihazlarinizi-derli-toplu-tutmak"><img src="https://www.muhammedkoca.com.tr/api/og/cover.svg?title=Dijital%20D%C3%BCzen%3A%20Dosya%20ve%20Cihazlar%C4%B1n%C4%B1z%C4%B1%20Derli%20Toplu%20Tutmak&category=Ya%C5%9Fam" width="240" alt="Dijital Düzen: Dosya ve Cihazlarınızı Derli Toplu Tutmak"/></a></td>
+    <td width="260"><a href="https://www.muhammedkoca.com.tr/blog/modem-ayarlari-rehberi-ev-ve-is-aginizi-adim-adim-kurulum-ve-guvenlige-hazirlayi"><img src="https://www.muhammedkoca.com.tr/api/og/cover.svg?title=Modem%20Ayarlar%C4%B1%20Rehberi%3A%20Ev%20ve%20%C4%B0%C5%9F%20A%C4%9F%C4%B1n%C4%B1z%C4%B1%20Ad%C4%B1m%20Ad%C4%B1m%20Kurulum%20ve%20G%C3%BCvenli%C4%9Fe%20Haz%C4%B1rlay%C4%B1n&category=Rehberler" width="240" alt="Modem Ayarları Rehberi: Ev ve İş Ağınızı Adım Adım Kurulum ve Güvenliğe Hazırlayın"/></a></td>
     <td valign="top" width="580">
-      <img src="https://img.shields.io/badge/Yaşam-3b82f6?style=flat-square&labelColor=0a0a0b" alt="Yaşam"/> <sub>5 Ağu 2026</sub><br/><br/>
-      <a href="https://www.muhammedkoca.com.tr/blog/dijital-duzen-dosya-ve-cihazlarinizi-derli-toplu-tutmak"><b>Dijital Düzen: Dosya ve Cihazlarınızı Derli Toplu Tutmak</b></a><br/><br/>
-      <sub>Dijital düzen, günlük hayatımızda verimliliği ve dengeyi sağlamak için önemlidir. Bu yazı, dosya ve cihazlarınızı derli toplu tutmanın temel…</sub>
+      <img src="https://img.shields.io/badge/Rehberler-3b82f6?style=flat-square&labelColor=0a0a0b" alt="Rehberler"/> <sub>5 Ağu 2026</sub><br/><br/>
+      <a href="https://www.muhammedkoca.com.tr/blog/modem-ayarlari-rehberi-ev-ve-is-aginizi-adim-adim-kurulum-ve-guvenlige-hazirlayi"><b>Modem Ayarları Rehberi: Ev ve İş Ağınızı Adım Adım Kurulum ve Güvenliğe Hazırlayın</b></a><br/><br/>
+      <sub>İnternet dünyasının kapılarını aralayan modem ve router&#x27;lar, bağlantınızın hızı, güvenliği ve kararlılığı için kritik öneme sahiptir. Bu rehberde…</sub>
     </td>
   </tr>
   <tr><td colspan="2"><img src="assets/divider.svg" alt="" width="100%"/></td></tr>
   <tr>
-    <td width="260"><a href="https://www.muhammedkoca.com.tr/blog/siber-guvenlik-kariyerine-baslarken-ilk-adimlar-ve-dogru-yol-haritasi"><img src="https://www.muhammedkoca.com.tr/api/og/cover.svg?title=Siber%20G%C3%BCvenlik%20Kariyerine%20Ba%C5%9Flarken%3A%20%C4%B0lk%20Ad%C4%B1mlar%20ve%20Do%C4%9Fru%20Yol%20Haritas%C4%B1&category=Kariyer" width="240" alt="Siber Güvenlik Kariyerine Başlarken: İlk Adımlar ve Doğru Yol Haritası"/></a></td>
+    <td width="260"><a href="https://www.muhammedkoca.com.tr/blog/ag-uzmani-olmak-icin-5-pratik-yol-nereden-baslamali-hangi-sartlar-gerekli"><img src="https://www.muhammedkoca.com.tr/api/og/cover.svg?title=A%C4%9F%20Uzman%C4%B1%20Olmak%20%C4%B0%C3%A7in%205%20Pratik%20Yol%3A%20Nereden%20Ba%C5%9Flamal%C4%B1%2C%20Hangi%20%C5%9Eartlar%20Gerekli%3F&category=Kariyer" width="240" alt="Ağ Uzmanı Olmak İçin 5 Pratik Yol: Nereden Başlamalı, Hangi Şartlar Gerekli?"/></a></td>
     <td valign="top" width="580">
       <img src="https://img.shields.io/badge/Kariyer-3b82f6?style=flat-square&labelColor=0a0a0b" alt="Kariyer"/> <sub>5 Ağu 2026</sub><br/><br/>
-      <a href="https://www.muhammedkoca.com.tr/blog/siber-guvenlik-kariyerine-baslarken-ilk-adimlar-ve-dogru-yol-haritasi"><b>Siber Güvenlik Kariyerine Başlarken: İlk Adımlar ve Doğru Yol Haritası</b></a><br/><br/>
-      <sub>Siber güvenlik, teknoloji dünyasının en hızlı büyüyen ve en kritik alanlarından biri. Peki bu alanda kariyer yapmak isteyenler nereden başlamalı?…</sub>
+      <a href="https://www.muhammedkoca.com.tr/blog/ag-uzmani-olmak-icin-5-pratik-yol-nereden-baslamali-hangi-sartlar-gerekli"><b>Ağ Uzmanı Olmak İçin 5 Pratik Yol: Nereden Başlamalı, Hangi Şartlar Gerekli?</b></a><br/><br/>
+      <sub>Ağ uzmanlığı, bilişim sektörünün en kritik ve talep gören alanlarından biri. Peki bu alanda kariyer yapmak isteyenler nereden başlamalı, hangi…</sub>
     </td>
   </tr>
 </table>
