@@ -155,29 +155,29 @@
 <!-- BLOG-CARDS:START -->
 <table>
   <tr>
-    <td width="260"><a href="https://www.muhammedkoca.com.tr/blog/eski-bilgisayarinizi-home-server-a-donusturun-yenisini-almak-sart-degil-rehberi"><img src="https://www.muhammedkoca.com.tr/api/og/cover.svg?title=Eski%20Bilgisayar%C4%B1n%C4%B1z%C4%B1%20Home%20Server%E2%80%99a%20D%C3%B6n%C3%BC%C5%9Ft%C3%BCr%C3%BCn%3A%20%22Yenisini%20Almak%20%C5%9Eart%20De%C4%9Fil%22%20Rehberi&category=Rehberler" width="240" alt="Eski Bilgisayarınızı Home Server’a Dönüştürün: &quot;Yenisini Almak Şart Değil&quot; Rehberi"/></a></td>
+    <td width="260"><a href="https://www.muhammedkoca.com.tr/blog/dagitik-sistemlerde-performans-darbogazlarini-tespit-etmek-ve-cozmek-node-js-pri"><img src="https://www.muhammedkoca.com.tr/api/og/cover.svg?title=Da%C4%9F%C4%B1t%C4%B1k%20Sistemlerde%20Performans%20Darbo%C4%9Fazlar%C4%B1n%C4%B1%20Tespit%20Etmek%20ve%20%C3%87%C3%B6zmek%3A%20Node.js%2C%20Prisma%20ve%20Mikroservislerde%20%C4%B0leri%20D%C3%BCzey%20Optimizasyon%20Stratejileri&category=Mimari" width="240" alt="Dağıtık Sistemlerde Performans Darboğazlarını Tespit Etmek ve Çözmek: Node.js, Prisma ve Mikroservislerde İleri Düzey Optimizasyon Stratejileri"/></a></td>
     <td valign="top" width="580">
-      <img src="https://img.shields.io/badge/Rehberler-3b82f6?style=flat-square&labelColor=0a0a0b" alt="Rehberler"/> <sub>5 Ağu 2026</sub><br/><br/>
-      <a href="https://www.muhammedkoca.com.tr/blog/eski-bilgisayarinizi-home-server-a-donusturun-yenisini-almak-sart-degil-rehberi"><b>Eski Bilgisayarınızı Home Server’a Dönüştürün: &quot;Yenisini Almak Şart Değil&quot; Rehberi</b></a><br/><br/>
-      <sub>Eski bilgisayarınızı çöpe atmak yerine, evinizde dosya depolama, medya sunucusu veya yedekleme merkezi olarak kullanabilirsiniz. Bu rehber, adım adım…</sub>
+      <img src="https://img.shields.io/badge/Mimari-fb923c?style=flat-square" alt="Mimari"/> <sub>29 Tem 2026</sub><br/><br/>
+      <a href="https://www.muhammedkoca.com.tr/blog/dagitik-sistemlerde-performans-darbogazlarini-tespit-etmek-ve-cozmek-node-js-pri"><b>Dağıtık Sistemlerde Performans Darboğazlarını Tespit Etmek ve Çözmek: Node.js, Prisma ve Mikroservislerde İleri Düzey Optimizasyon Stratejileri</b></a><br/><br/>
+      <sub>Dağıtık sistemlerde performans darboğazları, çoğu zaman görünmez bir düşman gibi sisteminizi yavaş yavaş çökertir. Bu makalede, Node.js ve Prisma…</sub>
     </td>
   </tr>
   <tr><td colspan="2"><img src="assets/divider.svg" alt="" width="100%"/></td></tr>
   <tr>
-    <td width="260"><a href="https://www.muhammedkoca.com.tr/blog/eski-bilgisayarinizi-ev-sunucusuna-donusturmenin-4-kolay-adimi"><img src="https://www.muhammedkoca.com.tr/api/og/cover.svg?title=Eski%20Bilgisayar%C4%B1n%C4%B1z%C4%B1%20Ev%20Sunucusuna%20D%C3%B6n%C3%BC%C5%9Ft%C3%BCrmenin%204%20Kolay%20Ad%C4%B1m%C4%B1&category=Rehberler" width="240" alt="Eski Bilgisayarınızı Ev Sunucusuna Dönüştürmenin 4 Kolay Adımı"/></a></td>
+    <td width="260"><a href="https://www.muhammedkoca.com.tr/blog/dagitik-sistemlerde-kritik-veri-tutarliligi-node-js-ve-prisma-ile-saga-pattern-u-2"><img src="https://www.muhammedkoca.com.tr/api/og/cover.svg?title=Da%C4%9F%C4%B1t%C4%B1k%20Sistemlerde%20Kritik%20Veri%20Tutarl%C4%B1l%C4%B1%C4%9F%C4%B1%3A%20Node.js%20ve%20Prisma%20ile%20Saga%20Pattern%20Uygulamas%C4%B1%20ve%20Prod%C3%BCksiyon%20Felaketlerinden%20Dersler&category=Mimari" width="240" alt="Dağıtık Sistemlerde Kritik Veri Tutarlılığı: Node.js ve Prisma ile Saga Pattern Uygulaması ve Prodüksiyon Felaketlerinden Dersler"/></a></td>
     <td valign="top" width="580">
-      <img src="https://img.shields.io/badge/Rehberler-3b82f6?style=flat-square&labelColor=0a0a0b" alt="Rehberler"/> <sub>5 Ağu 2026</sub><br/><br/>
-      <a href="https://www.muhammedkoca.com.tr/blog/eski-bilgisayarinizi-ev-sunucusuna-donusturmenin-4-kolay-adimi"><b>Eski Bilgisayarınızı Ev Sunucusuna Dönüştürmenin 4 Kolay Adımı</b></a><br/><br/>
-      <sub>Eski bilgisayarınızı çöpe atmak yerine, ona ikinci bir hayat vererek evinizde dosya depolama, medya sunucusu veya yedekleme merkezi olarak…</sub>
+      <img src="https://img.shields.io/badge/Mimari-fb923c?style=flat-square" alt="Mimari"/> <sub>29 Tem 2026</sub><br/><br/>
+      <a href="https://www.muhammedkoca.com.tr/blog/dagitik-sistemlerde-kritik-veri-tutarliligi-node-js-ve-prisma-ile-saga-pattern-u-2"><b>Dağıtık Sistemlerde Kritik Veri Tutarlılığı: Node.js ve Prisma ile Saga Pattern Uygulaması ve Prodüksiyon Felaketlerinden Dersler</b></a><br/><br/>
+      <sub>Dağıtık sistemlerde ACID işlemleri sağlamak, veritabanı sınırlarını aşan iş akışlarında tutarlılığı korumak kritik bir zorluktur. Bu makalede, Saga…</sub>
     </td>
   </tr>
   <tr><td colspan="2"><img src="assets/divider.svg" alt="" width="100%"/></td></tr>
   <tr>
-    <td width="260"><a href="https://www.muhammedkoca.com.tr/blog/uzaktan-it-calismasi-ofis-yok-disiplin-var-hangi-araclar-gercekten-ise-yariyor"><img src="https://www.muhammedkoca.com.tr/api/og/cover.svg?title=Uzaktan%20IT%20%C3%87al%C4%B1%C5%9Fmas%C4%B1%3A%20Ofis%20Yok%2C%20Disiplin%20Var%20-%20Hangi%20Ara%C3%A7lar%20Ger%C3%A7ekten%20%C4%B0%C5%9Fe%20Yar%C4%B1yor%3F&category=Kariyer" width="240" alt="Uzaktan IT Çalışması: Ofis Yok, Disiplin Var - Hangi Araçlar Gerçekten İşe Yarıyor?"/></a></td>
+    <td width="260"><a href="https://www.muhammedkoca.com.tr/blog/yuksek-performansli-muhendislik-zihni-24-saatlik-uretkenlik-dongusunu-yeniden-ta"><img src="https://www.muhammedkoca.com.tr/api/og/cover.svg?title=Y%C3%BCksek%20Performansl%C4%B1%20M%C3%BChendislik%20Zihni%3A%2024%20Saatlik%20%C3%9Cretkenlik%20D%C3%B6ng%C3%BCs%C3%BCn%C3%BC%20Yeniden%20Tasarlamak&category=Ya%C5%9Fam" width="240" alt="Yüksek Performanslı Mühendislik Zihni: 24 Saatlik Üretkenlik Döngüsünü Yeniden Tasarlamak"/></a></td>
     <td valign="top" width="580">
-      <img src="https://img.shields.io/badge/Kariyer-3b82f6?style=flat-square&labelColor=0a0a0b" alt="Kariyer"/> <sub>5 Ağu 2026</sub><br/><br/>
-      <a href="https://www.muhammedkoca.com.tr/blog/uzaktan-it-calismasi-ofis-yok-disiplin-var-hangi-araclar-gercekten-ise-yariyor"><b>Uzaktan IT Çalışması: Ofis Yok, Disiplin Var - Hangi Araçlar Gerçekten İşe Yarıyor?</b></a><br/><br/>
-      <sub>Uzaktan çalışmanın ofisten farkı sadece mekan değil, disiplin ve iletişim. Hangi araçlar verimliliği artırır, hangileri zaman kaybı? Güvenlik ve…</sub>
+      <img src="https://img.shields.io/badge/Yaşam-fb923c?style=flat-square" alt="Yaşam"/> <sub>29 Tem 2026</sub><br/><br/>
+      <a href="https://www.muhammedkoca.com.tr/blog/yuksek-performansli-muhendislik-zihni-24-saatlik-uretkenlik-dongusunu-yeniden-ta"><b>Yüksek Performanslı Mühendislik Zihni: 24 Saatlik Üretkenlik Döngüsünü Yeniden Tasarlamak</b></a><br/><br/>
+      <sub>15 yıllık üretim sistemleri mimarisinde edindiğim tecrübeler, mühendislik verimliliğinin kod yazmaktan ibaret olmadığını gösterdi. Gerçek yüksek…</sub>
     </td>
   </tr>
 </table>
