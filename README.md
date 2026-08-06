@@ -155,29 +155,29 @@
 <!-- BLOG-CARDS:START -->
 <table>
   <tr>
-    <td width="260"><a href="https://www.muhammedkoca.com.tr/blog/ev-ofis-aginizi-bastan-sona-kurun-router-switch-ve-guvenlik-duvari-ile-guvenli-b"><img src="https://www.muhammedkoca.com.tr/api/og/cover.svg?title=Ev%2FOfis%20A%C4%9F%C4%B1n%C4%B1z%C4%B1%20Ba%C5%9Ftan%20Sona%20Kurun%3A%20Router%2C%20Switch%20ve%20G%C3%BCvenlik%20Duvar%C4%B1%20ile%20G%C3%BCvenli%20Ba%C4%9Flant%C4%B1%20Rehberi&category=Rehberler" width="240" alt="Ev/Ofis Ağınızı Baştan Sona Kurun: Router, Switch ve Güvenlik Duvarı ile Güvenli Bağlantı Rehberi"/></a></td>
+    <td width="260"><a href="https://www.muhammedkoca.com.tr/blog/sifirdan-bir-linux-sunucusu-kurulumu-icin-nereden-baslamaliyim"><img src="https://www.muhammedkoca.com.tr/api/og/cover.svg?title=S%C4%B1f%C4%B1rdan%20Bir%20Linux%20Sunucusu%20Kurulumu%20%C4%B0%C3%A7in%20Nereden%20Ba%C5%9Flamal%C4%B1y%C4%B1m%3F&category=Genel" width="240" alt="Sıfırdan Bir Linux Sunucusu Kurulumu İçin Nereden Başlamalıyım?"/></a></td>
     <td valign="top" width="580">
       <img src="https://img.shields.io/badge/Rehberler-3b82f6?style=flat-square&labelColor=0a0a0b" alt="Rehberler"/> <sub>6 Ağu 2026</sub><br/><br/>
-      <a href="https://www.muhammedkoca.com.tr/blog/ev-ofis-aginizi-bastan-sona-kurun-router-switch-ve-guvenlik-duvari-ile-guvenli-b"><b>Ev/Ofis Ağınızı Baştan Sona Kurun: Router, Switch ve Güvenlik Duvarı ile Güvenli Bağlantı Rehberi</b></a><br/><br/>
-      <sub>Evde veya ofiste internete güvenle bağlanmak, cihazların birbiriyle sorunsuz iletişim kurmasını sağlamak artık çok kolay. Bu rehberde, bir ağı…</sub>
+      <a href="https://www.muhammedkoca.com.tr/blog/sifirdan-bir-linux-sunucusu-kurulumu-icin-nereden-baslamaliyim"><b>Sıfırdan Bir Linux Sunucusu Kurulumu İçin Nereden Başlamalıyım?</b></a><br/><br/>
+      <sub>Evde veya küçük ofisinizde kendi Linux sunucunuzu kurmayı mı düşünüyorsunuz? Bu rehber, size adım adım, baştan sona nasıl bir sunucu kuracağınızı…</sub>
     </td>
   </tr>
   <tr><td colspan="2"><img src="assets/divider.svg" alt="" width="100%"/></td></tr>
   <tr>
-    <td width="260"><a href="https://www.muhammedkoca.com.tr/blog/linux-sunucunuzu-sifirdan-kurmak-5-adimda-ilk-sunucunuzu-hazirlayin"><img src="https://www.muhammedkoca.com.tr/api/og/cover.svg?title=Linux%20Sunucunuzu%20S%C4%B1f%C4%B1rdan%20Kurmak%3A%205%20Ad%C4%B1mda%20%C4%B0lk%20Sunucunuzu%20Haz%C4%B1rlay%C4%B1n&category=Rehberler" width="240" alt="Linux Sunucunuzu Sıfırdan Kurmak: 5 Adımda İlk Sunucunuzu Hazırlayın"/></a></td>
+    <td width="260"><a href="https://www.muhammedkoca.com.tr/blog/ev-sunucusu-home-server-kurulumu-adim-adim"><img src="https://www.muhammedkoca.com.tr/api/og/cover.svg?title=Ev%20Sunucusu%20(Home%20Server)%20Kurulumu%3A%20Ad%C4%B1m%20Ad%C4%B1m&category=Rehberler" width="240" alt="Ev Sunucusu (Home Server) Kurulumu: Adım Adım"/></a></td>
     <td valign="top" width="580">
-      <img src="https://img.shields.io/badge/Rehberler-3b82f6?style=flat-square&labelColor=0a0a0b" alt="Rehberler"/> <sub>5 Ağu 2026</sub><br/><br/>
-      <a href="https://www.muhammedkoca.com.tr/blog/linux-sunucunuzu-sifirdan-kurmak-5-adimda-ilk-sunucunuzu-hazirlayin"><b>Linux Sunucunuzu Sıfırdan Kurmak: 5 Adımda İlk Sunucunuzu Hazırlayın</b></a><br/><br/>
-      <sub>Linux sunucunuzu sıfırdan kurmak, hem öğrenme hem de güvenli bir altyapı oluşturma açısından kritik bir adımdır. Bu rehberde, adım adım Linux…</sub>
+      <img src="https://img.shields.io/badge/Rehberler-3b82f6?style=flat-square&labelColor=0a0a0b" alt="Rehberler"/> <sub>6 Ağu 2026</sub><br/><br/>
+      <a href="https://www.muhammedkoca.com.tr/blog/ev-sunucusu-home-server-kurulumu-adim-adim"><b>Ev Sunucusu (Home Server) Kurulumu: Adım Adım</b></a><br/><br/>
+      <sub>Ev sunucusu kurulumu için adım adım rehber. Sunucu kurulumu ve yapılandırması hakkında detaylı bilgi.</sub>
     </td>
   </tr>
   <tr><td colspan="2"><img src="assets/divider.svg" alt="" width="100%"/></td></tr>
   <tr>
-    <td width="260"><a href="https://www.muhammedkoca.com.tr/blog/ev-ofis-agi-kurarken-bilmeniz-gereken-7-pratik-ipucu-ve-sorun-cozumu"><img src="https://www.muhammedkoca.com.tr/api/og/cover.svg?title=Ev%2FOfis%20A%C4%9F%C4%B1%20Kurarken%20Bilmeniz%20Gereken%207%20Pratik%20%C4%B0pucu%20ve%20Sorun%20%C3%87%C3%B6z%C3%BCm%C3%BC&category=Rehberler" width="240" alt="Ev/Ofis Ağı Kurarken Bilmeniz Gereken 7 Pratik İpucu ve Sorun Çözümü"/></a></td>
+    <td width="260"><a href="https://www.muhammedkoca.com.tr/blog/hayatinizi-kolaylastiracak-5-adimda-parola-yoneticisi-kurulumu-ve-guvenli-kullan"><img src="https://www.muhammedkoca.com.tr/api/og/cover.svg?title=Hayat%C4%B1n%C4%B1z%C4%B1%20Kolayla%C5%9Ft%C4%B1racak%205%20Ad%C4%B1mda%20Parola%20Y%C3%B6neticisi%20Kurulumu%20ve%20G%C3%BCvenli%20Kullan%C4%B1m%20Rehberi&category=Rehberler" width="240" alt="Hayatınızı Kolaylaştıracak 5 Adımda Parola Yöneticisi Kurulumu ve Güvenli Kullanım Rehberi"/></a></td>
     <td valign="top" width="580">
-      <img src="https://img.shields.io/badge/Rehberler-3b82f6?style=flat-square&labelColor=0a0a0b" alt="Rehberler"/> <sub>5 Ağu 2026</sub><br/><br/>
-      <a href="https://www.muhammedkoca.com.tr/blog/ev-ofis-agi-kurarken-bilmeniz-gereken-7-pratik-ipucu-ve-sorun-cozumu"><b>Ev/Ofis Ağı Kurarken Bilmeniz Gereken 7 Pratik İpucu ve Sorun Çözümü</b></a><br/><br/>
-      <sub>Ev veya ofis ağınızı kurarken karşılaşabileceğiniz yaygın sorunlara pratik çözümler. Router, switch ve güvenlik duvarı ayarlarını doğru yaparak…</sub>
+      <img src="https://img.shields.io/badge/Rehberler-3b82f6?style=flat-square&labelColor=0a0a0b" alt="Rehberler"/> <sub>6 Ağu 2026</sub><br/><br/>
+      <a href="https://www.muhammedkoca.com.tr/blog/hayatinizi-kolaylastiracak-5-adimda-parola-yoneticisi-kurulumu-ve-guvenli-kullan"><b>Hayatınızı Kolaylaştıracak 5 Adımda Parola Yöneticisi Kurulumu ve Güvenli Kullanım Rehberi</b></a><br/><br/>
+      <sub>Unutkanlık derdine son! Bu rehberle, tüm şifrelerinizi güvenle saklayacak, karmaşık parolalar oluşturacak ve tek bir Ana Parola ile tüm dijital…</sub>
     </td>
   </tr>
 </table>
