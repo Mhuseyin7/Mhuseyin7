@@ -155,29 +155,29 @@
 <!-- BLOG-CARDS:START -->
 <table>
   <tr>
-    <td width="260"><a href="https://www.muhammedkoca.com.tr/blog/sifirdan-bir-linux-sunucusu-kurulumu-icin-nereden-baslamaliyim"><img src="https://www.muhammedkoca.com.tr/api/og/cover.svg?title=S%C4%B1f%C4%B1rdan%20Bir%20Linux%20Sunucusu%20Kurulumu%20%C4%B0%C3%A7in%20Nereden%20Ba%C5%9Flamal%C4%B1y%C4%B1m%3F&category=Genel" width="240" alt="Sıfırdan Bir Linux Sunucusu Kurulumu İçin Nereden Başlamalıyım?"/></a></td>
+    <td width="260"><a href="https://www.muhammedkoca.com.tr/blog/eski-bilgisayari-guclu-bir-linux-sunucusuna-donusturun-adim-adim-kurulum-rehberi"><img src="https://www.muhammedkoca.com.tr/api/og/cover.svg?title=Eski%20Bilgisayar%C4%B1%20G%C3%BC%C3%A7l%C3%BC%20Bir%20Linux%20Sunucusuna%20D%C3%B6n%C3%BC%C5%9Ft%C3%BCr%C3%BCn%3A%20Ad%C4%B1m%20Ad%C4%B1m%20Kurulum%20Rehberi&category=Rehberler" width="240" alt="Eski Bilgisayarı Güçlü Bir Linux Sunucusuna Dönüştürün: Adım Adım Kurulum Rehberi"/></a></td>
     <td valign="top" width="580">
-      <img src="https://img.shields.io/badge/Rehberler-3b82f6?style=flat-square&labelColor=0a0a0b" alt="Rehberler"/> <sub>6 Ağu 2026</sub><br/><br/>
-      <a href="https://www.muhammedkoca.com.tr/blog/sifirdan-bir-linux-sunucusu-kurulumu-icin-nereden-baslamaliyim"><b>Sıfırdan Bir Linux Sunucusu Kurulumu İçin Nereden Başlamalıyım?</b></a><br/><br/>
-      <sub>Evde veya küçük ofisinizde kendi Linux sunucunuzu kurmayı mı düşünüyorsunuz? Bu rehber, size adım adım, baştan sona nasıl bir sunucu kuracağınızı…</sub>
+      <img src="https://img.shields.io/badge/Rehberler-3b82f6?style=flat-square&labelColor=0a0a0b" alt="Rehberler"/> <sub>7 Ağu 2026</sub><br/><br/>
+      <a href="https://www.muhammedkoca.com.tr/blog/eski-bilgisayari-guclu-bir-linux-sunucusuna-donusturun-adim-adim-kurulum-rehberi"><b>Eski Bilgisayarı Güçlü Bir Linux Sunucusuna Dönüştürün: Adım Adım Kurulum Rehberi</b></a><br/><br/>
+      <sub>Eski veya ucuz bir bilgisayarı nasıl güçlü bir Linux sunucusuna dönüştürebileceğinizi öğrenin. Sıfırdan kurulum, temel yapılandırma ve yaygın…</sub>
     </td>
   </tr>
   <tr><td colspan="2"><img src="assets/divider.svg" alt="" width="100%"/></td></tr>
   <tr>
-    <td width="260"><a href="https://www.muhammedkoca.com.tr/blog/ev-sunucusu-home-server-kurulumu-adim-adim"><img src="https://www.muhammedkoca.com.tr/api/og/cover.svg?title=Ev%20Sunucusu%20(Home%20Server)%20Kurulumu%3A%20Ad%C4%B1m%20Ad%C4%B1m&category=Rehberler" width="240" alt="Ev Sunucusu (Home Server) Kurulumu: Adım Adım"/></a></td>
+    <td width="260"><a href="https://www.muhammedkoca.com.tr/blog/5g-ve-4g-arasindaki-farklar-mobil-internetin-gelecegi"><img src="https://www.muhammedkoca.com.tr/api/og/cover.svg?title=5G%20ve%204G%20Aras%C4%B1ndaki%20Farklar%3A%20Mobil%20%C4%B0nternetin%20Gelece%C4%9Fi&category=Teknoloji" width="240" alt="5G ve 4G Arasındaki Farklar: Mobil İnternetin Geleceği"/></a></td>
     <td valign="top" width="580">
-      <img src="https://img.shields.io/badge/Rehberler-3b82f6?style=flat-square&labelColor=0a0a0b" alt="Rehberler"/> <sub>6 Ağu 2026</sub><br/><br/>
-      <a href="https://www.muhammedkoca.com.tr/blog/ev-sunucusu-home-server-kurulumu-adim-adim"><b>Ev Sunucusu (Home Server) Kurulumu: Adım Adım</b></a><br/><br/>
-      <sub>Ev sunucusu kurulumu için adım adım rehber. Sunucu kurulumu ve yapılandırması hakkında detaylı bilgi.</sub>
+      <img src="https://img.shields.io/badge/Teknoloji-3b82f6?style=flat-square&labelColor=0a0a0b" alt="Teknoloji"/> <sub>7 Ağu 2026</sub><br/><br/>
+      <a href="https://www.muhammedkoca.com.tr/blog/5g-ve-4g-arasindaki-farklar-mobil-internetin-gelecegi"><b>5G ve 4G Arasındaki Farklar: Mobil İnternetin Geleceği</b></a><br/><br/>
+      <sub>5G ve 4G arasındaki farkları öğrenin ve mobil internetin geleceğini keşfedin. Hangi teknoloji daha hızlı ve güvenli?</sub>
     </td>
   </tr>
   <tr><td colspan="2"><img src="assets/divider.svg" alt="" width="100%"/></td></tr>
   <tr>
-    <td width="260"><a href="https://www.muhammedkoca.com.tr/blog/hayatinizi-kolaylastiracak-5-adimda-parola-yoneticisi-kurulumu-ve-guvenli-kullan"><img src="https://www.muhammedkoca.com.tr/api/og/cover.svg?title=Hayat%C4%B1n%C4%B1z%C4%B1%20Kolayla%C5%9Ft%C4%B1racak%205%20Ad%C4%B1mda%20Parola%20Y%C3%B6neticisi%20Kurulumu%20ve%20G%C3%BCvenli%20Kullan%C4%B1m%20Rehberi&category=Rehberler" width="240" alt="Hayatınızı Kolaylaştıracak 5 Adımda Parola Yöneticisi Kurulumu ve Güvenli Kullanım Rehberi"/></a></td>
+    <td width="260"><a href="https://www.muhammedkoca.com.tr/blog/bluetooth-surumleri-ve-menzil-cihazlar-nasil-konusur"><img src="https://www.muhammedkoca.com.tr/api/og/cover.svg?title=Bluetooth%20S%C3%BCr%C3%BCmleri%20ve%20Menzil%3A%20Cihazlar%20Nas%C4%B1l%20Konu%C5%9Fur%3F&category=Teknoloji" width="240" alt="Bluetooth Sürümleri ve Menzil: Cihazlar Nasıl Konuşur?"/></a></td>
     <td valign="top" width="580">
-      <img src="https://img.shields.io/badge/Rehberler-3b82f6?style=flat-square&labelColor=0a0a0b" alt="Rehberler"/> <sub>6 Ağu 2026</sub><br/><br/>
-      <a href="https://www.muhammedkoca.com.tr/blog/hayatinizi-kolaylastiracak-5-adimda-parola-yoneticisi-kurulumu-ve-guvenli-kullan"><b>Hayatınızı Kolaylaştıracak 5 Adımda Parola Yöneticisi Kurulumu ve Güvenli Kullanım Rehberi</b></a><br/><br/>
-      <sub>Unutkanlık derdine son! Bu rehberle, tüm şifrelerinizi güvenle saklayacak, karmaşık parolalar oluşturacak ve tek bir Ana Parola ile tüm dijital…</sub>
+      <img src="https://img.shields.io/badge/Teknoloji-3b82f6?style=flat-square&labelColor=0a0a0b" alt="Teknoloji"/> <sub>7 Ağu 2026</sub><br/><br/>
+      <a href="https://www.muhammedkoca.com.tr/blog/bluetooth-surumleri-ve-menzil-cihazlar-nasil-konusur"><b>Bluetooth Sürümleri ve Menzil: Cihazlar Nasıl Konuşur?</b></a><br/><br/>
+      <sub>Bluetooth teknolojisini ve farklı sürümlerinin menzil özelliklerini keşfedin. Cihazlar nasıl birbirleriyle iletişim kuruyor ve bu teknoloji günlük…</sub>
     </td>
   </tr>
 </table>
