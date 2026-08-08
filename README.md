@@ -155,29 +155,29 @@
 <!-- BLOG-CARDS:START -->
 <table>
   <tr>
-    <td width="260"><a href="https://www.muhammedkoca.com.tr/blog/eski-bilgisayari-guclu-bir-linux-sunucusuna-donusturun-adim-adim-kurulum-rehberi"><img src="https://www.muhammedkoca.com.tr/api/og/cover.svg?title=Eski%20Bilgisayar%C4%B1%20G%C3%BC%C3%A7l%C3%BC%20Bir%20Linux%20Sunucusuna%20D%C3%B6n%C3%BC%C5%9Ft%C3%BCr%C3%BCn%3A%20Ad%C4%B1m%20Ad%C4%B1m%20Kurulum%20Rehberi&category=Rehberler" width="240" alt="Eski Bilgisayarı Güçlü Bir Linux Sunucusuna Dönüştürün: Adım Adım Kurulum Rehberi"/></a></td>
+    <td width="260"><a href="https://www.muhammedkoca.com.tr/blog/modem-ve-router-farki-ev-internetinizin-beyni-ve-yonlendiricisi-nedir"><img src="https://www.muhammedkoca.com.tr/api/og/cover.svg?title=Modem%20ve%20Router%20Fark%C4%B1%3A%20Ev%20%C4%B0nternetinizin%20Beyni%20ve%20Y%C3%B6nlendiricisi%20Nedir%3F&category=Teknoloji" width="240" alt="Modem ve Router Farkı: Ev İnternetinizin Beyni ve Yönlendiricisi Nedir?"/></a></td>
     <td valign="top" width="580">
-      <img src="https://img.shields.io/badge/Rehberler-3b82f6?style=flat-square&labelColor=0a0a0b" alt="Rehberler"/> <sub>7 Ağu 2026</sub><br/><br/>
-      <a href="https://www.muhammedkoca.com.tr/blog/eski-bilgisayari-guclu-bir-linux-sunucusuna-donusturun-adim-adim-kurulum-rehberi"><b>Eski Bilgisayarı Güçlü Bir Linux Sunucusuna Dönüştürün: Adım Adım Kurulum Rehberi</b></a><br/><br/>
-      <sub>Eski veya ucuz bir bilgisayarı nasıl güçlü bir Linux sunucusuna dönüştürebileceğinizi öğrenin. Sıfırdan kurulum, temel yapılandırma ve yaygın…</sub>
+      <img src="https://img.shields.io/badge/Teknoloji-3b82f6?style=flat-square&labelColor=0a0a0b" alt="Teknoloji"/> <sub>8 Ağu 2026</sub><br/><br/>
+      <a href="https://www.muhammedkoca.com.tr/blog/modem-ve-router-farki-ev-internetinizin-beyni-ve-yonlendiricisi-nedir"><b>Modem ve Router Farkı: Ev İnternetinizin Beyni ve Yönlendiricisi Nedir?</b></a><br/><br/>
+      <sub>İnternet bağlantımızın temel taşları olan modem ve router terimleri sıkça karıştırılır. Peki, bu iki cihaz tam olarak ne işe yarar ve aralarındaki…</sub>
     </td>
   </tr>
   <tr><td colspan="2"><img src="assets/divider.svg" alt="" width="100%"/></td></tr>
   <tr>
-    <td width="260"><a href="https://www.muhammedkoca.com.tr/blog/5g-ve-4g-arasindaki-farklar-mobil-internetin-gelecegi"><img src="https://www.muhammedkoca.com.tr/api/og/cover.svg?title=5G%20ve%204G%20Aras%C4%B1ndaki%20Farklar%3A%20Mobil%20%C4%B0nternetin%20Gelece%C4%9Fi&category=Teknoloji" width="240" alt="5G ve 4G Arasındaki Farklar: Mobil İnternetin Geleceği"/></a></td>
+    <td width="260"><a href="https://www.muhammedkoca.com.tr/blog/bilgisayariniz-yavasladi-mi-adim-adim-guvenli-ve-etkili-hizlandirma-rehberi"><img src="https://www.muhammedkoca.com.tr/api/og/cover.svg?title=Bilgisayar%C4%B1n%C4%B1z%20Yava%C5%9Flad%C4%B1%20m%C4%B1%3F%20Ad%C4%B1m%20Ad%C4%B1m%20G%C3%BCvenli%20ve%20Etkili%20H%C4%B1zland%C4%B1rma%20Rehberi&category=Rehberler" width="240" alt="Bilgisayarınız Yavaşladı mı? Adım Adım Güvenli ve Etkili Hızlandırma Rehberi"/></a></td>
     <td valign="top" width="580">
-      <img src="https://img.shields.io/badge/Teknoloji-3b82f6?style=flat-square&labelColor=0a0a0b" alt="Teknoloji"/> <sub>7 Ağu 2026</sub><br/><br/>
-      <a href="https://www.muhammedkoca.com.tr/blog/5g-ve-4g-arasindaki-farklar-mobil-internetin-gelecegi"><b>5G ve 4G Arasındaki Farklar: Mobil İnternetin Geleceği</b></a><br/><br/>
-      <sub>5G ve 4G arasındaki farkları öğrenin ve mobil internetin geleceğini keşfedin. Hangi teknoloji daha hızlı ve güvenli?</sub>
+      <img src="https://img.shields.io/badge/Rehberler-3b82f6?style=flat-square&labelColor=0a0a0b" alt="Rehberler"/> <sub>8 Ağu 2026</sub><br/><br/>
+      <a href="https://www.muhammedkoca.com.tr/blog/bilgisayariniz-yavasladi-mi-adim-adim-guvenli-ve-etkili-hizlandirma-rehberi"><b>Bilgisayarınız Yavaşladı mı? Adım Adım Güvenli ve Etkili Hızlandırma Rehberi</b></a><br/><br/>
+      <sub>Bilgisayarınızın performansı düşmeye başladıysa endişelenmeyin, yalnız değilsiniz. Bu rehberde, sisteminizi güvenli bir şekilde nasıl…</sub>
     </td>
   </tr>
   <tr><td colspan="2"><img src="assets/divider.svg" alt="" width="100%"/></td></tr>
   <tr>
-    <td width="260"><a href="https://www.muhammedkoca.com.tr/blog/bluetooth-surumleri-ve-menzil-cihazlar-nasil-konusur"><img src="https://www.muhammedkoca.com.tr/api/og/cover.svg?title=Bluetooth%20S%C3%BCr%C3%BCmleri%20ve%20Menzil%3A%20Cihazlar%20Nas%C4%B1l%20Konu%C5%9Fur%3F&category=Teknoloji" width="240" alt="Bluetooth Sürümleri ve Menzil: Cihazlar Nasıl Konuşur?"/></a></td>
+    <td width="260"><a href="https://www.muhammedkoca.com.tr/blog/ilk-linux-sunucunuzu-kendi-basina-kurmak-adim-adim-guvenli-ve-saglam-bir-baslang"><img src="https://www.muhammedkoca.com.tr/api/og/cover.svg?title=%C4%B0lk%20Linux%20Sunucunuzu%20Kendi%20Ba%C5%9F%C4%B1na%20Kurmak%3A%20Ad%C4%B1m%20Ad%C4%B1m%20G%C3%BCvenli%20ve%20Sa%C4%9Flam%20Bir%20Ba%C5%9Flang%C4%B1%C3%A7&category=Rehberler" width="240" alt="İlk Linux Sunucunuzu Kendi Başına Kurmak: Adım Adım Güvenli ve Sağlam Bir Başlangıç"/></a></td>
     <td valign="top" width="580">
-      <img src="https://img.shields.io/badge/Teknoloji-3b82f6?style=flat-square&labelColor=0a0a0b" alt="Teknoloji"/> <sub>7 Ağu 2026</sub><br/><br/>
-      <a href="https://www.muhammedkoca.com.tr/blog/bluetooth-surumleri-ve-menzil-cihazlar-nasil-konusur"><b>Bluetooth Sürümleri ve Menzil: Cihazlar Nasıl Konuşur?</b></a><br/><br/>
-      <sub>Bluetooth teknolojisini ve farklı sürümlerinin menzil özelliklerini keşfedin. Cihazlar nasıl birbirleriyle iletişim kuruyor ve bu teknoloji günlük…</sub>
+      <img src="https://img.shields.io/badge/Rehberler-3b82f6?style=flat-square&labelColor=0a0a0b" alt="Rehberler"/> <sub>8 Ağu 2026</sub><br/><br/>
+      <a href="https://www.muhammedkoca.com.tr/blog/ilk-linux-sunucunuzu-kendi-basina-kurmak-adim-adim-guvenli-ve-saglam-bir-baslang"><b>İlk Linux Sunucunuzu Kendi Başına Kurmak: Adım Adım Güvenli ve Sağlam Bir Başlangıç</b></a><br/><br/>
+      <sub>Kendi Linux sunucunuzu kurmak karmaşık görünse de aslında doğru adımlarla kolayca yapabilirsiniz. Bu rehberde, sıfırdan ilk sunucunuzu güvenli ve…</sub>
     </td>
   </tr>
 </table>
