@@ -155,6 +155,15 @@
 <!-- BLOG-CARDS:START -->
 <table>
   <tr>
+    <td width="260"><a href="https://www.muhammedkoca.com.tr/blog/bilgisayariniz-yavasladiysa-eski-donanimi-hizlandirmanin-5-adimi"><img src="https://www.muhammedkoca.com.tr/api/og/cover.svg?title=Bilgisayar%C4%B1n%C4%B1z%20Yava%C5%9Flad%C4%B1ysa%3A%20Eski%20Donan%C4%B1m%C4%B1%20H%C4%B1zland%C4%B1rman%C4%B1n%205%20Ad%C4%B1m%C4%B1&category=Rehberler" width="240" alt="Bilgisayarınız Yavaşladıysa: Eski Donanımı Hızlandırmanın 5 Adımı"/></a></td>
+    <td valign="top" width="580">
+      <img src="https://img.shields.io/badge/Rehberler-3b82f6?style=flat-square&labelColor=0a0a0b" alt="Rehberler"/> <sub>9 Ağu 2026</sub><br/><br/>
+      <a href="https://www.muhammedkoca.com.tr/blog/bilgisayariniz-yavasladiysa-eski-donanimi-hizlandirmanin-5-adimi"><b>Bilgisayarınız Yavaşladıysa: Eski Donanımı Hızlandırmanın 5 Adımı</b></a><br/><br/>
+      <sub>Bilgisayarınız eskisi gibi hızlı çalışmıyor mu? Bu rehberde, eski veya uygun fiyatlı donanımlarınızla bile bilgisayarınızı nasıl daha performanslı…</sub>
+    </td>
+  </tr>
+  <tr><td colspan="2"><img src="assets/divider.svg" alt="" width="100%"/></td></tr>
+  <tr>
     <td width="260"><a href="https://www.muhammedkoca.com.tr/blog/veri-kaybi-kabusu-yasamayin-3-2-1-kurali-ile-guvenli-yedekleme-rehberi"><img src="https://www.muhammedkoca.com.tr/api/og/cover.svg?title=Veri%20Kayb%C4%B1%20Kabusu%20Ya%C5%9Famay%C4%B1n%3A%203-2-1%20Kural%C4%B1%20ile%20G%C3%BCvenli%20Yedekleme%20Rehberi&category=Rehberler" width="240" alt="Veri Kaybı Kabusu Yaşamayın: 3-2-1 Kuralı ile Güvenli Yedekleme Rehberi"/></a></td>
     <td valign="top" width="580">
       <img src="https://img.shields.io/badge/Rehberler-3b82f6?style=flat-square&labelColor=0a0a0b" alt="Rehberler"/> <sub>9 Ağu 2026</sub><br/><br/>
@@ -169,15 +178,6 @@
       <img src="https://img.shields.io/badge/Rehberler-3b82f6?style=flat-square&labelColor=0a0a0b" alt="Rehberler"/> <sub>9 Ağu 2026</sub><br/><br/>
       <a href="https://www.muhammedkoca.com.tr/blog/bilgisayariniz-yavasladi-mi-7-adimda-hizlandirin-hangisi-sizin-icin-dogru"><b>Bilgisayarınız Yavaşladı mı? 7 Adımda Hızlandırın – Hangisi Sizin İçin Doğru?</b></a><br/><br/>
       <sub>Bilgisayarınız artık eskisi gibi hızlı çalışmıyor mu? Bu rehberde, yavaşlayan bir bilgisayarı adım adım hızlandırmanın en etkili yollarını iki farklı…</sub>
-    </td>
-  </tr>
-  <tr><td colspan="2"><img src="assets/divider.svg" alt="" width="100%"/></td></tr>
-  <tr>
-    <td width="260"><a href="https://www.muhammedkoca.com.tr/blog/modem-ve-router-farki-ev-internetinizin-beyni-ve-yonlendiricisi-nedir"><img src="https://www.muhammedkoca.com.tr/api/og/cover.svg?title=Modem%20ve%20Router%20Fark%C4%B1%3A%20Ev%20%C4%B0nternetinizin%20Beyni%20ve%20Y%C3%B6nlendiricisi%20Nedir%3F&category=Teknoloji" width="240" alt="Modem ve Router Farkı: Ev İnternetinizin Beyni ve Yönlendiricisi Nedir?"/></a></td>
-    <td valign="top" width="580">
-      <img src="https://img.shields.io/badge/Teknoloji-3b82f6?style=flat-square&labelColor=0a0a0b" alt="Teknoloji"/> <sub>8 Ağu 2026</sub><br/><br/>
-      <a href="https://www.muhammedkoca.com.tr/blog/modem-ve-router-farki-ev-internetinizin-beyni-ve-yonlendiricisi-nedir"><b>Modem ve Router Farkı: Ev İnternetinizin Beyni ve Yönlendiricisi Nedir?</b></a><br/><br/>
-      <sub>İnternet bağlantımızın temel taşları olan modem ve router terimleri sıkça karıştırılır. Peki, bu iki cihaz tam olarak ne işe yarar ve aralarındaki…</sub>
     </td>
   </tr>
 </table>
