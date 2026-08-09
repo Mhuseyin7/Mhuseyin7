@@ -155,29 +155,29 @@
 <!-- BLOG-CARDS:START -->
 <table>
   <tr>
+    <td width="260"><a href="https://www.muhammedkoca.com.tr/blog/veri-kaybi-kabusu-yasamayin-3-2-1-kurali-ile-guvenli-yedekleme-rehberi"><img src="https://www.muhammedkoca.com.tr/api/og/cover.svg?title=Veri%20Kayb%C4%B1%20Kabusu%20Ya%C5%9Famay%C4%B1n%3A%203-2-1%20Kural%C4%B1%20ile%20G%C3%BCvenli%20Yedekleme%20Rehberi&category=Rehberler" width="240" alt="Veri Kaybı Kabusu Yaşamayın: 3-2-1 Kuralı ile Güvenli Yedekleme Rehberi"/></a></td>
+    <td valign="top" width="580">
+      <img src="https://img.shields.io/badge/Rehberler-3b82f6?style=flat-square&labelColor=0a0a0b" alt="Rehberler"/> <sub>9 Ağu 2026</sub><br/><br/>
+      <a href="https://www.muhammedkoca.com.tr/blog/veri-kaybi-kabusu-yasamayin-3-2-1-kurali-ile-guvenli-yedekleme-rehberi"><b>Veri Kaybı Kabusu Yaşamayın: 3-2-1 Kuralı ile Güvenli Yedekleme Rehberi</b></a><br/><br/>
+      <sub>Verileriniz mi kıymetli? Hard disk arızaları, virüsler, yanlışlıkla silmeler... Dijital çağda veri kaybetmek en büyük kabuslardan biri. Bu rehberde…</sub>
+    </td>
+  </tr>
+  <tr><td colspan="2"><img src="assets/divider.svg" alt="" width="100%"/></td></tr>
+  <tr>
+    <td width="260"><a href="https://www.muhammedkoca.com.tr/blog/bilgisayariniz-yavasladi-mi-7-adimda-hizlandirin-hangisi-sizin-icin-dogru"><img src="https://www.muhammedkoca.com.tr/api/og/cover.svg?title=Bilgisayar%C4%B1n%C4%B1z%20Yava%C5%9Flad%C4%B1%20m%C4%B1%3F%207%20Ad%C4%B1mda%20H%C4%B1zland%C4%B1r%C4%B1n%20%E2%80%93%20Hangisi%20Sizin%20%C4%B0%C3%A7in%20Do%C4%9Fru%3F&category=Rehberler" width="240" alt="Bilgisayarınız Yavaşladı mı? 7 Adımda Hızlandırın – Hangisi Sizin İçin Doğru?"/></a></td>
+    <td valign="top" width="580">
+      <img src="https://img.shields.io/badge/Rehberler-3b82f6?style=flat-square&labelColor=0a0a0b" alt="Rehberler"/> <sub>9 Ağu 2026</sub><br/><br/>
+      <a href="https://www.muhammedkoca.com.tr/blog/bilgisayariniz-yavasladi-mi-7-adimda-hizlandirin-hangisi-sizin-icin-dogru"><b>Bilgisayarınız Yavaşladı mı? 7 Adımda Hızlandırın – Hangisi Sizin İçin Doğru?</b></a><br/><br/>
+      <sub>Bilgisayarınız artık eskisi gibi hızlı çalışmıyor mu? Bu rehberde, yavaşlayan bir bilgisayarı adım adım hızlandırmanın en etkili yollarını iki farklı…</sub>
+    </td>
+  </tr>
+  <tr><td colspan="2"><img src="assets/divider.svg" alt="" width="100%"/></td></tr>
+  <tr>
     <td width="260"><a href="https://www.muhammedkoca.com.tr/blog/modem-ve-router-farki-ev-internetinizin-beyni-ve-yonlendiricisi-nedir"><img src="https://www.muhammedkoca.com.tr/api/og/cover.svg?title=Modem%20ve%20Router%20Fark%C4%B1%3A%20Ev%20%C4%B0nternetinizin%20Beyni%20ve%20Y%C3%B6nlendiricisi%20Nedir%3F&category=Teknoloji" width="240" alt="Modem ve Router Farkı: Ev İnternetinizin Beyni ve Yönlendiricisi Nedir?"/></a></td>
     <td valign="top" width="580">
       <img src="https://img.shields.io/badge/Teknoloji-3b82f6?style=flat-square&labelColor=0a0a0b" alt="Teknoloji"/> <sub>8 Ağu 2026</sub><br/><br/>
       <a href="https://www.muhammedkoca.com.tr/blog/modem-ve-router-farki-ev-internetinizin-beyni-ve-yonlendiricisi-nedir"><b>Modem ve Router Farkı: Ev İnternetinizin Beyni ve Yönlendiricisi Nedir?</b></a><br/><br/>
       <sub>İnternet bağlantımızın temel taşları olan modem ve router terimleri sıkça karıştırılır. Peki, bu iki cihaz tam olarak ne işe yarar ve aralarındaki…</sub>
-    </td>
-  </tr>
-  <tr><td colspan="2"><img src="assets/divider.svg" alt="" width="100%"/></td></tr>
-  <tr>
-    <td width="260"><a href="https://www.muhammedkoca.com.tr/blog/bilgisayariniz-yavasladi-mi-adim-adim-guvenli-ve-etkili-hizlandirma-rehberi"><img src="https://www.muhammedkoca.com.tr/api/og/cover.svg?title=Bilgisayar%C4%B1n%C4%B1z%20Yava%C5%9Flad%C4%B1%20m%C4%B1%3F%20Ad%C4%B1m%20Ad%C4%B1m%20G%C3%BCvenli%20ve%20Etkili%20H%C4%B1zland%C4%B1rma%20Rehberi&category=Rehberler" width="240" alt="Bilgisayarınız Yavaşladı mı? Adım Adım Güvenli ve Etkili Hızlandırma Rehberi"/></a></td>
-    <td valign="top" width="580">
-      <img src="https://img.shields.io/badge/Rehberler-3b82f6?style=flat-square&labelColor=0a0a0b" alt="Rehberler"/> <sub>8 Ağu 2026</sub><br/><br/>
-      <a href="https://www.muhammedkoca.com.tr/blog/bilgisayariniz-yavasladi-mi-adim-adim-guvenli-ve-etkili-hizlandirma-rehberi"><b>Bilgisayarınız Yavaşladı mı? Adım Adım Güvenli ve Etkili Hızlandırma Rehberi</b></a><br/><br/>
-      <sub>Bilgisayarınızın performansı düşmeye başladıysa endişelenmeyin, yalnız değilsiniz. Bu rehberde, sisteminizi güvenli bir şekilde nasıl…</sub>
-    </td>
-  </tr>
-  <tr><td colspan="2"><img src="assets/divider.svg" alt="" width="100%"/></td></tr>
-  <tr>
-    <td width="260"><a href="https://www.muhammedkoca.com.tr/blog/ilk-linux-sunucunuzu-kendi-basina-kurmak-adim-adim-guvenli-ve-saglam-bir-baslang"><img src="https://www.muhammedkoca.com.tr/api/og/cover.svg?title=%C4%B0lk%20Linux%20Sunucunuzu%20Kendi%20Ba%C5%9F%C4%B1na%20Kurmak%3A%20Ad%C4%B1m%20Ad%C4%B1m%20G%C3%BCvenli%20ve%20Sa%C4%9Flam%20Bir%20Ba%C5%9Flang%C4%B1%C3%A7&category=Rehberler" width="240" alt="İlk Linux Sunucunuzu Kendi Başına Kurmak: Adım Adım Güvenli ve Sağlam Bir Başlangıç"/></a></td>
-    <td valign="top" width="580">
-      <img src="https://img.shields.io/badge/Rehberler-3b82f6?style=flat-square&labelColor=0a0a0b" alt="Rehberler"/> <sub>8 Ağu 2026</sub><br/><br/>
-      <a href="https://www.muhammedkoca.com.tr/blog/ilk-linux-sunucunuzu-kendi-basina-kurmak-adim-adim-guvenli-ve-saglam-bir-baslang"><b>İlk Linux Sunucunuzu Kendi Başına Kurmak: Adım Adım Güvenli ve Sağlam Bir Başlangıç</b></a><br/><br/>
-      <sub>Kendi Linux sunucunuzu kurmak karmaşık görünse de aslında doğru adımlarla kolayca yapabilirsiniz. Bu rehberde, sıfırdan ilk sunucunuzu güvenli ve…</sub>
     </td>
   </tr>
 </table>
