@@ -155,29 +155,29 @@
 <!-- BLOG-CARDS:START -->
 <table>
   <tr>
-    <td width="260"><a href="https://www.muhammedkoca.com.tr/blog/islemci-cpu-nasil-calisir-cekirdek-thread-ve-onbellek"><img src="https://www.muhammedkoca.com.tr/api/og/cover.svg?title=%C4%B0%C5%9Flemci%20(CPU)%20Nas%C4%B1l%20%C3%87al%C4%B1%C5%9F%C4%B1r%3F%20%C3%87ekirdek%2C%20Thread%20ve%20%C3%96nbellek&category=Teknoloji" width="240" alt="İşlemci (CPU) Nasıl Çalışır? Çekirdek, Thread ve Önbellek"/></a></td>
+    <td width="260"><a href="https://www.muhammedkoca.com.tr/blog/bilgisayariniz-yavasladiysa-hizlandirmak-icin-nereden-baslamaliyim"><img src="https://www.muhammedkoca.com.tr/api/og/cover.svg?title=Bilgisayar%C4%B1n%C4%B1z%20Yava%C5%9Flad%C4%B1ysa%3A%20H%C4%B1zland%C4%B1rmak%20%C4%B0%C3%A7in%20Nereden%20Ba%C5%9Flamal%C4%B1y%C4%B1m%3F&category=Rehberler" width="240" alt="Bilgisayarınız Yavaşladıysa: Hızlandırmak İçin Nereden Başlamalıyım?"/></a></td>
+    <td valign="top" width="580">
+      <img src="https://img.shields.io/badge/Rehberler-3b82f6?style=flat-square&labelColor=0a0a0b" alt="Rehberler"/> <sub>10 Ağu 2026</sub><br/><br/>
+      <a href="https://www.muhammedkoca.com.tr/blog/bilgisayariniz-yavasladiysa-hizlandirmak-icin-nereden-baslamaliyim"><b>Bilgisayarınız Yavaşladıysa: Hızlandırmak İçin Nereden Başlamalıyım?</b></a><br/><br/>
+      <sub>Bilgisayarınızın performansı düşmeye başladıysa ve işlerinizi aksatıyorsa doğru yerdesiniz. Bu rehberde, yavaşlayan bir bilgisayarı adım adım nasıl…</sub>
+    </td>
+  </tr>
+  <tr><td colspan="2"><img src="assets/divider.svg" alt="" width="100%"/></td></tr>
+  <tr>
+    <td width="260"><a href="https://www.muhammedkoca.com.tr/blog/yapay-zeka-gunluk-hayatta-telefon-ve-bilgisayarlarda-ai"><img src="https://www.muhammedkoca.com.tr/api/og/cover.svg?title=Yapay%20Zeka%20G%C3%BCnl%C3%BCk%20Hayatta%3A%20Telefon%20ve%20Bilgisayarlarda%20AI&category=Teknoloji" width="240" alt="Yapay Zeka Günlük Hayatta: Telefon ve Bilgisayarlarda AI"/></a></td>
     <td valign="top" width="580">
       <img src="https://img.shields.io/badge/Teknoloji-3b82f6?style=flat-square&labelColor=0a0a0b" alt="Teknoloji"/> <sub>10 Ağu 2026</sub><br/><br/>
-      <a href="https://www.muhammedkoca.com.tr/blog/islemci-cpu-nasil-calisir-cekirdek-thread-ve-onbellek"><b>İşlemci (CPU) Nasıl Çalışır? Çekirdek, Thread ve Önbellek</b></a><br/><br/>
-      <sub>İşlemci, bilgisayarın beyni olarak görev yapar. Çekirdek, thread ve önbellek kavramlarını öğrenerek işlemcinin nasıl çalıştığını keşfedin.</sub>
+      <a href="https://www.muhammedkoca.com.tr/blog/yapay-zeka-gunluk-hayatta-telefon-ve-bilgisayarlarda-ai"><b>Yapay Zeka Günlük Hayatta: Telefon ve Bilgisayarlarda AI</b></a><br/><br/>
+      <sub>Yapay zeka, günlük hayatımızda telefon ve bilgisayarlarda nasıl çalışır? Güvenlik ve gizlilik temelini herkes için açıklayalım.</sub>
     </td>
   </tr>
   <tr><td colspan="2"><img src="assets/divider.svg" alt="" width="100%"/></td></tr>
   <tr>
-    <td width="260"><a href="https://www.muhammedkoca.com.tr/blog/bilgisayariniz-yavasladiysa-aninda-cozumler-mi-temiz-kurulum-mu"><img src="https://www.muhammedkoca.com.tr/api/og/cover.svg?title=Bilgisayar%C4%B1n%C4%B1z%20Yava%C5%9Flad%C4%B1ysa%3A%20An%C4%B1nda%20%C3%87%C3%B6z%C3%BCmler%20mi%2C%20Temiz%20Kurulum%20mu%3F&category=Rehberler" width="240" alt="Bilgisayarınız Yavaşladıysa: Anında Çözümler mi, Temiz Kurulum mu?"/></a></td>
+    <td width="260"><a href="https://www.muhammedkoca.com.tr/blog/bilgisayar-yavasladiysa-7-pratik-adim-ile-hizlandirin"><img src="https://www.muhammedkoca.com.tr/api/og/cover.svg?title=Bilgisayar%20Yava%C5%9Flad%C4%B1ysa%3A%207%20Pratik%20Ad%C4%B1m%20ile%20H%C4%B1zland%C4%B1r%C4%B1n&category=Rehberler" width="240" alt="Bilgisayar Yavaşladıysa: 7 Pratik Adım ile Hızlandırın"/></a></td>
     <td valign="top" width="580">
       <img src="https://img.shields.io/badge/Rehberler-3b82f6?style=flat-square&labelColor=0a0a0b" alt="Rehberler"/> <sub>10 Ağu 2026</sub><br/><br/>
-      <a href="https://www.muhammedkoca.com.tr/blog/bilgisayariniz-yavasladiysa-aninda-cozumler-mi-temiz-kurulum-mu"><b>Bilgisayarınız Yavaşladıysa: Anında Çözümler mi, Temiz Kurulum mu?</b></a><br/><br/>
-      <sub>Bilgisayarınızın performansı düştüğünde ve her şey yavaşladığında ne yapacağınızı mı merak ediyorsunuz? Bu rehber, anlık çözümlerden köklü…</sub>
-    </td>
-  </tr>
-  <tr><td colspan="2"><img src="assets/divider.svg" alt="" width="100%"/></td></tr>
-  <tr>
-    <td width="260"><a href="https://www.muhammedkoca.com.tr/blog/sifirdan-ilk-linux-sunucunuzu-kurmak-adim-adim-nereden-baslamali"><img src="https://www.muhammedkoca.com.tr/api/og/cover.svg?title=S%C4%B1f%C4%B1rdan%20%C4%B0lk%20Linux%20Sunucunuzu%20Kurmak%3A%20Ad%C4%B1m%20Ad%C4%B1m%20Nereden%20Ba%C5%9Flamal%C4%B1%3F&category=Rehberler" width="240" alt="Sıfırdan İlk Linux Sunucunuzu Kurmak: Adım Adım Nereden Başlamalı?"/></a></td>
-    <td valign="top" width="580">
-      <img src="https://img.shields.io/badge/Rehberler-3b82f6?style=flat-square&labelColor=0a0a0b" alt="Rehberler"/> <sub>10 Ağu 2026</sub><br/><br/>
-      <a href="https://www.muhammedkoca.com.tr/blog/sifirdan-ilk-linux-sunucunuzu-kurmak-adim-adim-nereden-baslamali"><b>Sıfırdan İlk Linux Sunucunuzu Kurmak: Adım Adım Nereden Başlamalı?</b></a><br/><br/>
-      <sub>Kendi Linux sunucunuzu kurmak kulağa karmaşık gelse de, doğru adımlarla oldukça basit bir süreçtir. Bu rehberde, bir Linux sunucusunun neden önemli…</sub>
+      <a href="https://www.muhammedkoca.com.tr/blog/bilgisayar-yavasladiysa-7-pratik-adim-ile-hizlandirin"><b>Bilgisayar Yavaşladıysa: 7 Pratik Adım ile Hızlandırın</b></a><br/><br/>
+      <sub>Bilgisayarınız yavaşladıysa, performansını artırmak için adım adım rehber. Hızınızı tăngştırmak için neler yapabilirsiniz, öğrenin.</sub>
     </td>
   </tr>
 </table>
