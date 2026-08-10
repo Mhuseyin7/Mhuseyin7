@@ -155,29 +155,29 @@
 <!-- BLOG-CARDS:START -->
 <table>
   <tr>
-    <td width="260"><a href="https://www.muhammedkoca.com.tr/blog/bilgisayariniz-yavasladiysa-eski-donanimi-hizlandirmanin-5-adimi"><img src="https://www.muhammedkoca.com.tr/api/og/cover.svg?title=Bilgisayar%C4%B1n%C4%B1z%20Yava%C5%9Flad%C4%B1ysa%3A%20Eski%20Donan%C4%B1m%C4%B1%20H%C4%B1zland%C4%B1rman%C4%B1n%205%20Ad%C4%B1m%C4%B1&category=Rehberler" width="240" alt="Bilgisayarınız Yavaşladıysa: Eski Donanımı Hızlandırmanın 5 Adımı"/></a></td>
+    <td width="260"><a href="https://www.muhammedkoca.com.tr/blog/islemci-cpu-nasil-calisir-cekirdek-thread-ve-onbellek"><img src="https://www.muhammedkoca.com.tr/api/og/cover.svg?title=%C4%B0%C5%9Flemci%20(CPU)%20Nas%C4%B1l%20%C3%87al%C4%B1%C5%9F%C4%B1r%3F%20%C3%87ekirdek%2C%20Thread%20ve%20%C3%96nbellek&category=Teknoloji" width="240" alt="İşlemci (CPU) Nasıl Çalışır? Çekirdek, Thread ve Önbellek"/></a></td>
     <td valign="top" width="580">
-      <img src="https://img.shields.io/badge/Rehberler-3b82f6?style=flat-square&labelColor=0a0a0b" alt="Rehberler"/> <sub>9 Ağu 2026</sub><br/><br/>
-      <a href="https://www.muhammedkoca.com.tr/blog/bilgisayariniz-yavasladiysa-eski-donanimi-hizlandirmanin-5-adimi"><b>Bilgisayarınız Yavaşladıysa: Eski Donanımı Hızlandırmanın 5 Adımı</b></a><br/><br/>
-      <sub>Bilgisayarınız eskisi gibi hızlı çalışmıyor mu? Bu rehberde, eski veya uygun fiyatlı donanımlarınızla bile bilgisayarınızı nasıl daha performanslı…</sub>
+      <img src="https://img.shields.io/badge/Teknoloji-3b82f6?style=flat-square&labelColor=0a0a0b" alt="Teknoloji"/> <sub>10 Ağu 2026</sub><br/><br/>
+      <a href="https://www.muhammedkoca.com.tr/blog/islemci-cpu-nasil-calisir-cekirdek-thread-ve-onbellek"><b>İşlemci (CPU) Nasıl Çalışır? Çekirdek, Thread ve Önbellek</b></a><br/><br/>
+      <sub>İşlemci, bilgisayarın beyni olarak görev yapar. Çekirdek, thread ve önbellek kavramlarını öğrenerek işlemcinin nasıl çalıştığını keşfedin.</sub>
     </td>
   </tr>
   <tr><td colspan="2"><img src="assets/divider.svg" alt="" width="100%"/></td></tr>
   <tr>
-    <td width="260"><a href="https://www.muhammedkoca.com.tr/blog/veri-kaybi-kabusu-yasamayin-3-2-1-kurali-ile-guvenli-yedekleme-rehberi"><img src="https://www.muhammedkoca.com.tr/api/og/cover.svg?title=Veri%20Kayb%C4%B1%20Kabusu%20Ya%C5%9Famay%C4%B1n%3A%203-2-1%20Kural%C4%B1%20ile%20G%C3%BCvenli%20Yedekleme%20Rehberi&category=Rehberler" width="240" alt="Veri Kaybı Kabusu Yaşamayın: 3-2-1 Kuralı ile Güvenli Yedekleme Rehberi"/></a></td>
+    <td width="260"><a href="https://www.muhammedkoca.com.tr/blog/bilgisayariniz-yavasladiysa-aninda-cozumler-mi-temiz-kurulum-mu"><img src="https://www.muhammedkoca.com.tr/api/og/cover.svg?title=Bilgisayar%C4%B1n%C4%B1z%20Yava%C5%9Flad%C4%B1ysa%3A%20An%C4%B1nda%20%C3%87%C3%B6z%C3%BCmler%20mi%2C%20Temiz%20Kurulum%20mu%3F&category=Rehberler" width="240" alt="Bilgisayarınız Yavaşladıysa: Anında Çözümler mi, Temiz Kurulum mu?"/></a></td>
     <td valign="top" width="580">
-      <img src="https://img.shields.io/badge/Rehberler-3b82f6?style=flat-square&labelColor=0a0a0b" alt="Rehberler"/> <sub>9 Ağu 2026</sub><br/><br/>
-      <a href="https://www.muhammedkoca.com.tr/blog/veri-kaybi-kabusu-yasamayin-3-2-1-kurali-ile-guvenli-yedekleme-rehberi"><b>Veri Kaybı Kabusu Yaşamayın: 3-2-1 Kuralı ile Güvenli Yedekleme Rehberi</b></a><br/><br/>
-      <sub>Verileriniz mi kıymetli? Hard disk arızaları, virüsler, yanlışlıkla silmeler... Dijital çağda veri kaybetmek en büyük kabuslardan biri. Bu rehberde…</sub>
+      <img src="https://img.shields.io/badge/Rehberler-3b82f6?style=flat-square&labelColor=0a0a0b" alt="Rehberler"/> <sub>10 Ağu 2026</sub><br/><br/>
+      <a href="https://www.muhammedkoca.com.tr/blog/bilgisayariniz-yavasladiysa-aninda-cozumler-mi-temiz-kurulum-mu"><b>Bilgisayarınız Yavaşladıysa: Anında Çözümler mi, Temiz Kurulum mu?</b></a><br/><br/>
+      <sub>Bilgisayarınızın performansı düştüğünde ve her şey yavaşladığında ne yapacağınızı mı merak ediyorsunuz? Bu rehber, anlık çözümlerden köklü…</sub>
     </td>
   </tr>
   <tr><td colspan="2"><img src="assets/divider.svg" alt="" width="100%"/></td></tr>
   <tr>
-    <td width="260"><a href="https://www.muhammedkoca.com.tr/blog/bilgisayariniz-yavasladi-mi-7-adimda-hizlandirin-hangisi-sizin-icin-dogru"><img src="https://www.muhammedkoca.com.tr/api/og/cover.svg?title=Bilgisayar%C4%B1n%C4%B1z%20Yava%C5%9Flad%C4%B1%20m%C4%B1%3F%207%20Ad%C4%B1mda%20H%C4%B1zland%C4%B1r%C4%B1n%20%E2%80%93%20Hangisi%20Sizin%20%C4%B0%C3%A7in%20Do%C4%9Fru%3F&category=Rehberler" width="240" alt="Bilgisayarınız Yavaşladı mı? 7 Adımda Hızlandırın – Hangisi Sizin İçin Doğru?"/></a></td>
+    <td width="260"><a href="https://www.muhammedkoca.com.tr/blog/sifirdan-ilk-linux-sunucunuzu-kurmak-adim-adim-nereden-baslamali"><img src="https://www.muhammedkoca.com.tr/api/og/cover.svg?title=S%C4%B1f%C4%B1rdan%20%C4%B0lk%20Linux%20Sunucunuzu%20Kurmak%3A%20Ad%C4%B1m%20Ad%C4%B1m%20Nereden%20Ba%C5%9Flamal%C4%B1%3F&category=Rehberler" width="240" alt="Sıfırdan İlk Linux Sunucunuzu Kurmak: Adım Adım Nereden Başlamalı?"/></a></td>
     <td valign="top" width="580">
-      <img src="https://img.shields.io/badge/Rehberler-3b82f6?style=flat-square&labelColor=0a0a0b" alt="Rehberler"/> <sub>9 Ağu 2026</sub><br/><br/>
-      <a href="https://www.muhammedkoca.com.tr/blog/bilgisayariniz-yavasladi-mi-7-adimda-hizlandirin-hangisi-sizin-icin-dogru"><b>Bilgisayarınız Yavaşladı mı? 7 Adımda Hızlandırın – Hangisi Sizin İçin Doğru?</b></a><br/><br/>
-      <sub>Bilgisayarınız artık eskisi gibi hızlı çalışmıyor mu? Bu rehberde, yavaşlayan bir bilgisayarı adım adım hızlandırmanın en etkili yollarını iki farklı…</sub>
+      <img src="https://img.shields.io/badge/Rehberler-3b82f6?style=flat-square&labelColor=0a0a0b" alt="Rehberler"/> <sub>10 Ağu 2026</sub><br/><br/>
+      <a href="https://www.muhammedkoca.com.tr/blog/sifirdan-ilk-linux-sunucunuzu-kurmak-adim-adim-nereden-baslamali"><b>Sıfırdan İlk Linux Sunucunuzu Kurmak: Adım Adım Nereden Başlamalı?</b></a><br/><br/>
+      <sub>Kendi Linux sunucunuzu kurmak kulağa karmaşık gelse de, doğru adımlarla oldukça basit bir süreçtir. Bu rehberde, bir Linux sunucusunun neden önemli…</sub>
     </td>
   </tr>
 </table>
