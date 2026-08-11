@@ -155,6 +155,15 @@
 <!-- BLOG-CARDS:START -->
 <table>
   <tr>
+    <td width="260"><a href="https://www.muhammedkoca.com.tr/blog/3-pratik-adim-eski-donanimi-nas-ile-yeniden-kullanma"><img src="https://www.muhammedkoca.com.tr/api/og/cover.svg?title=3%20Pratik%20Ad%C4%B1m%3A%20Eski%20Donan%C4%B1m%C4%B1%20NAS%20ile%20Yeniden%20Kullanma&category=Teknoloji" width="240" alt="3 Pratik Adım: Eski Donanımı NAS ile Yeniden Kullanma"/></a></td>
+    <td valign="top" width="580">
+      <img src="https://img.shields.io/badge/Teknoloji-3b82f6?style=flat-square&labelColor=0a0a0b" alt="Teknoloji"/> <sub>11 Ağu 2026</sub><br/><br/>
+      <a href="https://www.muhammedkoca.com.tr/blog/3-pratik-adim-eski-donanimi-nas-ile-yeniden-kullanma"><b>3 Pratik Adım: Eski Donanımı NAS ile Yeniden Kullanma</b></a><br/><br/>
+      <sub>Eski bilgisayarları veya donanımıNAS (Network Attached Storage) olarak kullanmak, depolama sorunlarına pratik bir çözüm sunar. İşte NAS nedir ve…</sub>
+    </td>
+  </tr>
+  <tr><td colspan="2"><img src="assets/divider.svg" alt="" width="100%"/></td></tr>
+  <tr>
     <td width="260"><a href="https://www.muhammedkoca.com.tr/blog/nas-nedir-evdeki-tum-cihazlariniz-icin-guvenli-ve-akilli-depolama-cozumu"><img src="https://www.muhammedkoca.com.tr/api/og/cover.svg?title=NAS%20Nedir%3F%20Evdeki%20T%C3%BCm%20Cihazlar%C4%B1n%C4%B1z%20%C4%B0%C3%A7in%20G%C3%BCvenli%20ve%20Ak%C4%B1ll%C4%B1%20Depolama%20%C3%87%C3%B6z%C3%BCm%C3%BC&category=Teknoloji" width="240" alt="NAS Nedir? Evdeki Tüm Cihazlarınız İçin Güvenli ve Akıllı Depolama Çözümü"/></a></td>
     <td valign="top" width="580">
       <img src="https://img.shields.io/badge/Teknoloji-3b82f6?style=flat-square&labelColor=0a0a0b" alt="Teknoloji"/> <sub>10 Ağu 2026</sub><br/><br/>
@@ -169,15 +178,6 @@
       <img src="https://img.shields.io/badge/Rehberler-3b82f6?style=flat-square&labelColor=0a0a0b" alt="Rehberler"/> <sub>10 Ağu 2026</sub><br/><br/>
       <a href="https://www.muhammedkoca.com.tr/blog/bilgisayariniz-yavasladi-diye-uzulmeyin-iste-gercek-nedenleri-ve-hizlandirma-reh"><b>Bilgisayarınız Yavaşladı Diye Üzülmeyin: İşte Gerçek Nedenleri ve Hızlandırma Rehberi</b></a><br/><br/>
       <sub>Bilgisayarınızın zamanla yavaşlaması yaygın bir durumdur, ancak çoğu zaman basit adımlarla eski hızına kavuşturabilirsiniz. Bu rehberde, bilgisayar…</sub>
-    </td>
-  </tr>
-  <tr><td colspan="2"><img src="assets/divider.svg" alt="" width="100%"/></td></tr>
-  <tr>
-    <td width="260"><a href="https://www.muhammedkoca.com.tr/blog/raid-seviyeleri-eski-bilgisayarlarla-veri-guvenligini-artirmanin-5-pratik-yolu"><img src="https://www.muhammedkoca.com.tr/api/og/cover.svg?title=RAID%20Seviyeleri%3A%20Eski%20Bilgisayarlarla%20Veri%20G%C3%BCvenli%C4%9Fini%20Art%C4%B1rman%C4%B1n%205%20Pratik%20Yolu&category=Teknoloji" width="240" alt="RAID Seviyeleri: Eski Bilgisayarlarla Veri Güvenliğini Artırmanın 5 Pratik Yolu"/></a></td>
-    <td valign="top" width="580">
-      <img src="https://img.shields.io/badge/Teknoloji-3b82f6?style=flat-square&labelColor=0a0a0b" alt="Teknoloji"/> <sub>10 Ağu 2026</sub><br/><br/>
-      <a href="https://www.muhammedkoca.com.tr/blog/raid-seviyeleri-eski-bilgisayarlarla-veri-guvenligini-artirmanin-5-pratik-yolu"><b>RAID Seviyeleri: Eski Bilgisayarlarla Veri Güvenliğini Artırmanın 5 Pratik Yolu</b></a><br/><br/>
-      <sub>RAID nedir, hangi seviyeleri var ve eski donanımlarla nasıl daha güvenli bir depolama sistemi kurabilirsiniz? Performans ve veri güvenliği dengesini…</sub>
     </td>
   </tr>
 </table>
