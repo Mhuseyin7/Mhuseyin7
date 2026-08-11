@@ -155,6 +155,15 @@
 <!-- BLOG-CARDS:START -->
 <table>
   <tr>
+    <td width="260"><a href="https://www.muhammedkoca.com.tr/blog/vpn-nedir-nasil-calisir-gizlilik-icin-ne-zaman-gerekir"><img src="https://www.muhammedkoca.com.tr/api/og/cover.svg?title=VPN%20Nedir%2C%20Nas%C4%B1l%20%C3%87al%C4%B1%C5%9F%C4%B1r%3F%20Gizlilik%20%C4%B0%C3%A7in%20Ne%20Zaman%20Gerekir%3F&category=Teknoloji" width="240" alt="VPN Nedir, Nasıl Çalışır? Gizlilik İçin Ne Zaman Gerekir?"/></a></td>
+    <td valign="top" width="580">
+      <img src="https://img.shields.io/badge/Teknoloji-3b82f6?style=flat-square&labelColor=0a0a0b" alt="Teknoloji"/> <sub>11 Ağu 2026</sub><br/><br/>
+      <a href="https://www.muhammedkoca.com.tr/blog/vpn-nedir-nasil-calisir-gizlilik-icin-ne-zaman-gerekir"><b>VPN Nedir, Nasıl Çalışır? Gizlilik İçin Ne Zaman Gerekir?</b></a><br/><br/>
+      <sub>VPN, sanal özel ağların kısaltmasıdır. İnternet trafiğinizi şifreleyerek kimlik avı saldırılarından korur. Gizlilik için ne zaman gerektiğini öğrenin.</sub>
+    </td>
+  </tr>
+  <tr><td colspan="2"><img src="assets/divider.svg" alt="" width="100%"/></td></tr>
+  <tr>
     <td width="260"><a href="https://www.muhammedkoca.com.tr/blog/3-pratik-adim-eski-donanimi-nas-ile-yeniden-kullanma"><img src="https://www.muhammedkoca.com.tr/api/og/cover.svg?title=3%20Pratik%20Ad%C4%B1m%3A%20Eski%20Donan%C4%B1m%C4%B1%20NAS%20ile%20Yeniden%20Kullanma&category=Teknoloji" width="240" alt="3 Pratik Adım: Eski Donanımı NAS ile Yeniden Kullanma"/></a></td>
     <td valign="top" width="580">
       <img src="https://img.shields.io/badge/Teknoloji-3b82f6?style=flat-square&labelColor=0a0a0b" alt="Teknoloji"/> <sub>11 Ağu 2026</sub><br/><br/>
@@ -169,15 +178,6 @@
       <img src="https://img.shields.io/badge/Teknoloji-3b82f6?style=flat-square&labelColor=0a0a0b" alt="Teknoloji"/> <sub>10 Ağu 2026</sub><br/><br/>
       <a href="https://www.muhammedkoca.com.tr/blog/nas-nedir-evdeki-tum-cihazlariniz-icin-guvenli-ve-akilli-depolama-cozumu"><b>NAS Nedir? Evdeki Tüm Cihazlarınız İçin Güvenli ve Akıllı Depolama Çözümü</b></a><br/><br/>
       <sub>NAS (Ağ Depolama Sistemi), evinizdeki tüm cihazların verilerini tek bir merkezde güvenli ve erişilebilir şekilde saklamanızı sağlar. Peki NAS nedir…</sub>
-    </td>
-  </tr>
-  <tr><td colspan="2"><img src="assets/divider.svg" alt="" width="100%"/></td></tr>
-  <tr>
-    <td width="260"><a href="https://www.muhammedkoca.com.tr/blog/bilgisayariniz-yavasladi-diye-uzulmeyin-iste-gercek-nedenleri-ve-hizlandirma-reh"><img src="https://www.muhammedkoca.com.tr/api/og/cover.svg?title=Bilgisayar%C4%B1n%C4%B1z%20Yava%C5%9Flad%C4%B1%20Diye%20%C3%9Cz%C3%BClmeyin%3A%20%C4%B0%C5%9Fte%20Ger%C3%A7ek%20Nedenleri%20ve%20H%C4%B1zland%C4%B1rma%20Rehberi&category=Rehberler" width="240" alt="Bilgisayarınız Yavaşladı Diye Üzülmeyin: İşte Gerçek Nedenleri ve Hızlandırma Rehberi"/></a></td>
-    <td valign="top" width="580">
-      <img src="https://img.shields.io/badge/Rehberler-3b82f6?style=flat-square&labelColor=0a0a0b" alt="Rehberler"/> <sub>10 Ağu 2026</sub><br/><br/>
-      <a href="https://www.muhammedkoca.com.tr/blog/bilgisayariniz-yavasladi-diye-uzulmeyin-iste-gercek-nedenleri-ve-hizlandirma-reh"><b>Bilgisayarınız Yavaşladı Diye Üzülmeyin: İşte Gerçek Nedenleri ve Hızlandırma Rehberi</b></a><br/><br/>
-      <sub>Bilgisayarınızın zamanla yavaşlaması yaygın bir durumdur, ancak çoğu zaman basit adımlarla eski hızına kavuşturabilirsiniz. Bu rehberde, bilgisayar…</sub>
     </td>
   </tr>
 </table>
