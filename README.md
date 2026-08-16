@@ -155,6 +155,15 @@
 <!-- BLOG-CARDS:START -->
 <table>
   <tr>
+    <td width="260"><a href="https://www.muhammedkoca.com.tr/blog/wi-fi-6-ve-wi-fi-7-hangisi-sizin-icin-dogru-hiz-kapasite-ve-gelecege-hazirlik-re"><img src="https://www.muhammedkoca.com.tr/api/og/cover.svg?title=Wi-Fi%206%20ve%20Wi-Fi%207%3A%20Hangisi%20Sizin%20%C4%B0%C3%A7in%20Do%C4%9Fru%3F%20H%C4%B1z%2C%20Kapasite%20ve%20Gelece%C4%9Fe%20Haz%C4%B1rl%C4%B1k%20Rehberi&category=Teknoloji" width="240" alt="Wi-Fi 6 ve Wi-Fi 7: Hangisi Sizin İçin Doğru? Hız, Kapasite ve Geleceğe Hazırlık Rehberi"/></a></td>
+    <td valign="top" width="580">
+      <img src="https://img.shields.io/badge/Teknoloji-3b82f6?style=flat-square&labelColor=0a0a0b" alt="Teknoloji"/> <sub>16 Ağu 2026</sub><br/><br/>
+      <a href="https://www.muhammedkoca.com.tr/blog/wi-fi-6-ve-wi-fi-7-hangisi-sizin-icin-dogru-hiz-kapasite-ve-gelecege-hazirlik-re"><b>Wi-Fi 6 ve Wi-Fi 7: Hangisi Sizin İçin Doğru? Hız, Kapasite ve Geleceğe Hazırlık Rehberi</b></a><br/><br/>
+      <sub>Wi-Fi 6 ve Wi-Fi 7 arasındaki farkları, hangi durumlarda hangisini seçmeniz gerektiğini ve yeni nesil kablosuz ağların günlük hayatta size nasıl…</sub>
+    </td>
+  </tr>
+  <tr><td colspan="2"><img src="assets/divider.svg" alt="" width="100%"/></td></tr>
+  <tr>
     <td width="260"><a href="https://www.muhammedkoca.com.tr/blog/internet-hiziniz-yavas-mi-test-edin-ve-adim-adim-hizlandirin"><img src="https://www.muhammedkoca.com.tr/api/og/cover.svg?title=%C4%B0nternet%20H%C4%B1z%C4%B1n%C4%B1z%20Yava%C5%9F%20m%C4%B1%3F%20Test%20Edin%20ve%20Ad%C4%B1m%20Ad%C4%B1m%20H%C4%B1zland%C4%B1r%C4%B1n&category=Rehberler" width="240" alt="İnternet Hızınız Yavaş mı? Test Edin ve Adım Adım Hızlandırın"/></a></td>
     <td valign="top" width="580">
       <img src="https://img.shields.io/badge/Rehberler-3b82f6?style=flat-square&labelColor=0a0a0b" alt="Rehberler"/> <sub>15 Ağu 2026</sub><br/><br/>
@@ -169,15 +178,6 @@
       <img src="https://img.shields.io/badge/Teknoloji-3b82f6?style=flat-square&labelColor=0a0a0b" alt="Teknoloji"/> <sub>15 Ağu 2026</sub><br/><br/>
       <a href="https://www.muhammedkoca.com.tr/blog/wi-fi-6-ve-wi-fi-7-hangisini-secmeli-neden-onemli"><b>Wi-Fi 6 ve Wi-Fi 7: Hangisini Seçmeli, Neden Önemli?</b></a><br/><br/>
       <sub>Evde veya ofiste kablosuz ağınız yavaş mı çalışıyor? Wi-Fi 6 ve Wi-Fi 7, daha hızlı ve daha güvenilir internet vaat ediyor. Peki hangisini seçmeli…</sub>
-    </td>
-  </tr>
-  <tr><td colspan="2"><img src="assets/divider.svg" alt="" width="100%"/></td></tr>
-  <tr>
-    <td width="260"><a href="https://www.muhammedkoca.com.tr/blog/wi-fi-6-ve-wi-fi-7-evdeki-kablosuz-aginizi-nasil-hizlandirir-ve-sikintilarinizi-"><img src="https://www.muhammedkoca.com.tr/api/og/cover.svg?title=Wi-Fi%206%20ve%20Wi-Fi%207%3A%20Evdeki%20Kablosuz%20A%C4%9F%C4%B1n%C4%B1z%C4%B1%20Nas%C4%B1l%20H%C4%B1zland%C4%B1r%C4%B1r%20ve%20S%C4%B1k%C4%B1nt%C4%B1lar%C4%B1n%C4%B1z%C4%B1%20%C3%87%C3%B6zer%3F&category=Teknoloji" width="240" alt="Wi-Fi 6 ve Wi-Fi 7: Evdeki Kablosuz Ağınızı Nasıl Hızlandırır ve Sıkıntılarınızı Çözer?"/></a></td>
-    <td valign="top" width="580">
-      <img src="https://img.shields.io/badge/Teknoloji-3b82f6?style=flat-square&labelColor=0a0a0b" alt="Teknoloji"/> <sub>15 Ağu 2026</sub><br/><br/>
-      <a href="https://www.muhammedkoca.com.tr/blog/wi-fi-6-ve-wi-fi-7-evdeki-kablosuz-aginizi-nasil-hizlandirir-ve-sikintilarinizi-"><b>Wi-Fi 6 ve Wi-Fi 7: Evdeki Kablosuz Ağınızı Nasıl Hızlandırır ve Sıkıntılarınızı Çözer?</b></a><br/><br/>
-      <sub>Wi-Fi 6 ve Wi-Fi 7, kablosuz ağ teknolojilerindeki en yeni standartlar. Bu yazıda, bu teknolojilerin getirdiği yenilikleri, ev veya ofis ortamlarında…</sub>
     </td>
   </tr>
 </table>
