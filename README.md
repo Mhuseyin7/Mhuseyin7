@@ -155,29 +155,29 @@
 <!-- BLOG-CARDS:START -->
 <table>
   <tr>
-    <td width="260"><a href="https://www.muhammedkoca.com.tr/blog/wi-fi-6-ve-wi-fi-7-hangisi-sizin-icin-dogru-hiz-kapasite-ve-gelecege-hazirlik-re"><img src="https://www.muhammedkoca.com.tr/api/og/cover.svg?title=Wi-Fi%206%20ve%20Wi-Fi%207%3A%20Hangisi%20Sizin%20%C4%B0%C3%A7in%20Do%C4%9Fru%3F%20H%C4%B1z%2C%20Kapasite%20ve%20Gelece%C4%9Fe%20Haz%C4%B1rl%C4%B1k%20Rehberi&category=Teknoloji" width="240" alt="Wi-Fi 6 ve Wi-Fi 7: Hangisi Sizin İçin Doğru? Hız, Kapasite ve Geleceğe Hazırlık Rehberi"/></a></td>
+    <td width="260"><a href="https://www.muhammedkoca.com.tr/blog/wi-fi-6-ve-wi-fi-7-eski-cihazlarla-yeni-hizlara-ulasmak-mumkun-mu"><img src="https://www.muhammedkoca.com.tr/api/og/cover.svg?title=Wi-Fi%206%20ve%20Wi-Fi%207%3A%20Eski%20Cihazlarla%20Yeni%20H%C4%B1zlara%20Ula%C5%9Fmak%20M%C3%BCmk%C3%BCn%20m%C3%BC%3F&category=Teknoloji" width="240" alt="Wi-Fi 6 ve Wi-Fi 7: Eski Cihazlarla Yeni Hızlara Ulaşmak Mümkün mü?"/></a></td>
     <td valign="top" width="580">
-      <img src="https://img.shields.io/badge/Teknoloji-3b82f6?style=flat-square&labelColor=0a0a0b" alt="Teknoloji"/> <sub>16 Ağu 2026</sub><br/><br/>
-      <a href="https://www.muhammedkoca.com.tr/blog/wi-fi-6-ve-wi-fi-7-hangisi-sizin-icin-dogru-hiz-kapasite-ve-gelecege-hazirlik-re"><b>Wi-Fi 6 ve Wi-Fi 7: Hangisi Sizin İçin Doğru? Hız, Kapasite ve Geleceğe Hazırlık Rehberi</b></a><br/><br/>
-      <sub>Wi-Fi 6 ve Wi-Fi 7 arasındaki farkları, hangi durumlarda hangisini seçmeniz gerektiğini ve yeni nesil kablosuz ağların günlük hayatta size nasıl…</sub>
+      <img src="https://img.shields.io/badge/Teknoloji-3b82f6?style=flat-square&labelColor=0a0a0b" alt="Teknoloji"/> <sub>17 Ağu 2026</sub><br/><br/>
+      <a href="https://www.muhammedkoca.com.tr/blog/wi-fi-6-ve-wi-fi-7-eski-cihazlarla-yeni-hizlara-ulasmak-mumkun-mu"><b>Wi-Fi 6 ve Wi-Fi 7: Eski Cihazlarla Yeni Hızlara Ulaşmak Mümkün mü?</b></a><br/><br/>
+      <sub>Wi-Fi 6 ve Wi-Fi 7, kablosuz ağlarda devrim yaratan yeni standartlar. Peki eski veya ucuz cihazlarla bu teknolojilerden nasıl faydalanabilirsiniz? Bu…</sub>
     </td>
   </tr>
   <tr><td colspan="2"><img src="assets/divider.svg" alt="" width="100%"/></td></tr>
   <tr>
-    <td width="260"><a href="https://www.muhammedkoca.com.tr/blog/internet-hiziniz-yavas-mi-test-edin-ve-adim-adim-hizlandirin"><img src="https://www.muhammedkoca.com.tr/api/og/cover.svg?title=%C4%B0nternet%20H%C4%B1z%C4%B1n%C4%B1z%20Yava%C5%9F%20m%C4%B1%3F%20Test%20Edin%20ve%20Ad%C4%B1m%20Ad%C4%B1m%20H%C4%B1zland%C4%B1r%C4%B1n&category=Rehberler" width="240" alt="İnternet Hızınız Yavaş mı? Test Edin ve Adım Adım Hızlandırın"/></a></td>
+    <td width="260"><a href="https://www.muhammedkoca.com.tr/blog/internet-hiziniz-gercekten-yavas-mi-yoksa-siz-mi-aldatiliyorsunuz-hiz-testi-ve-i"><img src="https://www.muhammedkoca.com.tr/api/og/cover.svg?title=%C4%B0nternet%20H%C4%B1z%C4%B1n%C4%B1z%20Ger%C3%A7ekten%20Yava%C5%9F%20m%C4%B1%2C%20Yoksa%20Siz%20mi%20Aldat%C4%B1l%C4%B1yorsunuz%3F%20H%C4%B1z%20Testi%20ve%20%C4%B0yile%C5%9Ftirme%20Rehberi&category=Rehberler" width="240" alt="İnternet Hızınız Gerçekten Yavaş mı, Yoksa Siz mi Aldatılıyorsunuz? Hız Testi ve İyileştirme Rehberi"/></a></td>
     <td valign="top" width="580">
-      <img src="https://img.shields.io/badge/Rehberler-3b82f6?style=flat-square&labelColor=0a0a0b" alt="Rehberler"/> <sub>15 Ağu 2026</sub><br/><br/>
-      <a href="https://www.muhammedkoca.com.tr/blog/internet-hiziniz-yavas-mi-test-edin-ve-adim-adim-hizlandirin"><b>İnternet Hızınız Yavaş mı? Test Edin ve Adım Adım Hızlandırın</b></a><br/><br/>
-      <sub>İnternet hızınızı doğru şekilde test etmeyi ve evdeki yavaşlamaların nedenlerini bulmayı öğrenin. Pratik adımlarla internet hızınızı nasıl…</sub>
+      <img src="https://img.shields.io/badge/Rehberler-3b82f6?style=flat-square&labelColor=0a0a0b" alt="Rehberler"/> <sub>17 Ağu 2026</sub><br/><br/>
+      <a href="https://www.muhammedkoca.com.tr/blog/internet-hiziniz-gercekten-yavas-mi-yoksa-siz-mi-aldatiliyorsunuz-hiz-testi-ve-i"><b>İnternet Hızınız Gerçekten Yavaş mı, Yoksa Siz mi Aldatılıyorsunuz? Hız Testi ve İyileştirme Rehberi</b></a><br/><br/>
+      <sub>İnternet hızınızı doğru şekilde test etmeyi ve evdeki yavaşlığın gerçek nedenlerini öğrenin. Güvenliğinizi riske atmadan, basit adımlarla hızınızı…</sub>
     </td>
   </tr>
   <tr><td colspan="2"><img src="assets/divider.svg" alt="" width="100%"/></td></tr>
   <tr>
-    <td width="260"><a href="https://www.muhammedkoca.com.tr/blog/wi-fi-6-ve-wi-fi-7-hangisini-secmeli-neden-onemli"><img src="https://www.muhammedkoca.com.tr/api/og/cover.svg?title=Wi-Fi%206%20ve%20Wi-Fi%207%3A%20Hangisini%20Se%C3%A7meli%2C%20Neden%20%C3%96nemli%3F&category=Teknoloji" width="240" alt="Wi-Fi 6 ve Wi-Fi 7: Hangisini Seçmeli, Neden Önemli?"/></a></td>
+    <td width="260"><a href="https://www.muhammedkoca.com.tr/blog/ram-nedir-ne-kadari-yeterli-bilgisayarinizin-bellegini-dogru-anlamak"><img src="https://www.muhammedkoca.com.tr/api/og/cover.svg?title=RAM%20Nedir%3F%20Ne%20Kadar%C4%B1%20Yeterli%3F%20Bilgisayar%C4%B1n%C4%B1z%C4%B1n%20Belle%C4%9Fini%20Do%C4%9Fru%20Anlamak&category=Teknoloji" width="240" alt="RAM Nedir? Ne Kadarı Yeterli? Bilgisayarınızın Belleğini Doğru Anlamak"/></a></td>
     <td valign="top" width="580">
-      <img src="https://img.shields.io/badge/Teknoloji-3b82f6?style=flat-square&labelColor=0a0a0b" alt="Teknoloji"/> <sub>15 Ağu 2026</sub><br/><br/>
-      <a href="https://www.muhammedkoca.com.tr/blog/wi-fi-6-ve-wi-fi-7-hangisini-secmeli-neden-onemli"><b>Wi-Fi 6 ve Wi-Fi 7: Hangisini Seçmeli, Neden Önemli?</b></a><br/><br/>
-      <sub>Evde veya ofiste kablosuz ağınız yavaş mı çalışıyor? Wi-Fi 6 ve Wi-Fi 7, daha hızlı ve daha güvenilir internet vaat ediyor. Peki hangisini seçmeli…</sub>
+      <img src="https://img.shields.io/badge/Teknoloji-3b82f6?style=flat-square&labelColor=0a0a0b" alt="Teknoloji"/> <sub>17 Ağu 2026</sub><br/><br/>
+      <a href="https://www.muhammedkoca.com.tr/blog/ram-nedir-ne-kadari-yeterli-bilgisayarinizin-bellegini-dogru-anlamak"><b>RAM Nedir? Ne Kadarı Yeterli? Bilgisayarınızın Belleğini Doğru Anlamak</b></a><br/><br/>
+      <sub>RAM, bilgisayarınızın hızını doğrudan etkileyen en önemli parçalardan biri. Peki RAM nedir, nasıl çalışır ve ne kadarına ihtiyacınız var? Bu yazıda…</sub>
     </td>
   </tr>
 </table>
