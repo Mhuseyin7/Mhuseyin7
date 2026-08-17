@@ -155,6 +155,15 @@
 <!-- BLOG-CARDS:START -->
 <table>
   <tr>
+    <td width="260"><a href="https://www.muhammedkoca.com.tr/blog/ram-nedir-ne-kadari-gercekten-yeterli-bilgisayariniz-icin-dogru-bellek-secimi-re"><img src="https://www.muhammedkoca.com.tr/api/og/cover.svg?title=RAM%20Nedir%2C%20Ne%20Kadar%C4%B1%20Ger%C3%A7ekten%20Yeterli%3F%20Bilgisayar%C4%B1n%C4%B1z%20%C4%B0%C3%A7in%20Do%C4%9Fru%20Bellek%20Se%C3%A7imi%20Rehberi&category=Teknoloji" width="240" alt="RAM Nedir, Ne Kadarı Gerçekten Yeterli? Bilgisayarınız İçin Doğru Bellek Seçimi Rehberi"/></a></td>
+    <td valign="top" width="580">
+      <img src="https://img.shields.io/badge/Teknoloji-3b82f6?style=flat-square&labelColor=0a0a0b" alt="Teknoloji"/> <sub>17 Ağu 2026</sub><br/><br/>
+      <a href="https://www.muhammedkoca.com.tr/blog/ram-nedir-ne-kadari-gercekten-yeterli-bilgisayariniz-icin-dogru-bellek-secimi-re"><b>RAM Nedir, Ne Kadarı Gerçekten Yeterli? Bilgisayarınız İçin Doğru Bellek Seçimi Rehberi</b></a><br/><br/>
+      <sub>RAM, bilgisayarınızın hızını ve performansını doğrudan etkileyen kritik bir bileşen. Peki, ne kadar RAM&#x27;e ihtiyacınız var? Bu rehberde, RAM&#x27;in ne…</sub>
+    </td>
+  </tr>
+  <tr><td colspan="2"><img src="assets/divider.svg" alt="" width="100%"/></td></tr>
+  <tr>
     <td width="260"><a href="https://www.muhammedkoca.com.tr/blog/wi-fi-6-ve-wi-fi-7-eski-cihazlarla-yeni-hizlara-ulasmak-mumkun-mu"><img src="https://www.muhammedkoca.com.tr/api/og/cover.svg?title=Wi-Fi%206%20ve%20Wi-Fi%207%3A%20Eski%20Cihazlarla%20Yeni%20H%C4%B1zlara%20Ula%C5%9Fmak%20M%C3%BCmk%C3%BCn%20m%C3%BC%3F&category=Teknoloji" width="240" alt="Wi-Fi 6 ve Wi-Fi 7: Eski Cihazlarla Yeni Hızlara Ulaşmak Mümkün mü?"/></a></td>
     <td valign="top" width="580">
       <img src="https://img.shields.io/badge/Teknoloji-3b82f6?style=flat-square&labelColor=0a0a0b" alt="Teknoloji"/> <sub>17 Ağu 2026</sub><br/><br/>
@@ -169,15 +178,6 @@
       <img src="https://img.shields.io/badge/Rehberler-3b82f6?style=flat-square&labelColor=0a0a0b" alt="Rehberler"/> <sub>17 Ağu 2026</sub><br/><br/>
       <a href="https://www.muhammedkoca.com.tr/blog/internet-hiziniz-gercekten-yavas-mi-yoksa-siz-mi-aldatiliyorsunuz-hiz-testi-ve-i"><b>İnternet Hızınız Gerçekten Yavaş mı, Yoksa Siz mi Aldatılıyorsunuz? Hız Testi ve İyileştirme Rehberi</b></a><br/><br/>
       <sub>İnternet hızınızı doğru şekilde test etmeyi ve evdeki yavaşlığın gerçek nedenlerini öğrenin. Güvenliğinizi riske atmadan, basit adımlarla hızınızı…</sub>
-    </td>
-  </tr>
-  <tr><td colspan="2"><img src="assets/divider.svg" alt="" width="100%"/></td></tr>
-  <tr>
-    <td width="260"><a href="https://www.muhammedkoca.com.tr/blog/ram-nedir-ne-kadari-yeterli-bilgisayarinizin-bellegini-dogru-anlamak"><img src="https://www.muhammedkoca.com.tr/api/og/cover.svg?title=RAM%20Nedir%3F%20Ne%20Kadar%C4%B1%20Yeterli%3F%20Bilgisayar%C4%B1n%C4%B1z%C4%B1n%20Belle%C4%9Fini%20Do%C4%9Fru%20Anlamak&category=Teknoloji" width="240" alt="RAM Nedir? Ne Kadarı Yeterli? Bilgisayarınızın Belleğini Doğru Anlamak"/></a></td>
-    <td valign="top" width="580">
-      <img src="https://img.shields.io/badge/Teknoloji-3b82f6?style=flat-square&labelColor=0a0a0b" alt="Teknoloji"/> <sub>17 Ağu 2026</sub><br/><br/>
-      <a href="https://www.muhammedkoca.com.tr/blog/ram-nedir-ne-kadari-yeterli-bilgisayarinizin-bellegini-dogru-anlamak"><b>RAM Nedir? Ne Kadarı Yeterli? Bilgisayarınızın Belleğini Doğru Anlamak</b></a><br/><br/>
-      <sub>RAM, bilgisayarınızın hızını doğrudan etkileyen en önemli parçalardan biri. Peki RAM nedir, nasıl çalışır ve ne kadarına ihtiyacınız var? Bu yazıda…</sub>
     </td>
   </tr>
 </table>
