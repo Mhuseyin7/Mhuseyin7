@@ -155,29 +155,29 @@
 <!-- BLOG-CARDS:START -->
 <table>
   <tr>
+    <td width="260"><a href="https://www.muhammedkoca.com.tr/blog/wi-fi-6-ve-wi-fi-7-kablosuz-aglarda-hiz-degil-guvenlik-ve-gizlilik-kazaniyoruz"><img src="https://www.muhammedkoca.com.tr/api/og/cover.svg?title=Wi-Fi%206%20ve%20Wi-Fi%207%3A%20Kablosuz%20A%C4%9Flarda%20H%C4%B1z%20De%C4%9Fil%2C%20G%C3%BCvenlik%20ve%20Gizlilik%20Kazan%C4%B1yoruz&category=Teknoloji" width="240" alt="Wi-Fi 6 ve Wi-Fi 7: Kablosuz Ağlarda Hız Değil, Güvenlik ve Gizlilik Kazanıyoruz"/></a></td>
+    <td valign="top" width="580">
+      <img src="https://img.shields.io/badge/Teknoloji-3b82f6?style=flat-square&labelColor=0a0a0b" alt="Teknoloji"/> <sub>18 Ağu 2026</sub><br/><br/>
+      <a href="https://www.muhammedkoca.com.tr/blog/wi-fi-6-ve-wi-fi-7-kablosuz-aglarda-hiz-degil-guvenlik-ve-gizlilik-kazaniyoruz"><b>Wi-Fi 6 ve Wi-Fi 7: Kablosuz Ağlarda Hız Değil, Güvenlik ve Gizlilik Kazanıyoruz</b></a><br/><br/>
+      <sub>Wi-Fi 6 ve Wi-Fi 7, sadece daha hızlı internet vaat etmiyor; aynı zamanda kablosuz ağlarda güvenlik ve gizliliği de kökten değiştiriyor. Peki bu yeni…</sub>
+    </td>
+  </tr>
+  <tr><td colspan="2"><img src="assets/divider.svg" alt="" width="100%"/></td></tr>
+  <tr>
+    <td width="260"><a href="https://www.muhammedkoca.com.tr/blog/ssd-ve-hdd-arasindaki-5-kritik-fark-hangi-depolama-birimini-secmelisiniz"><img src="https://www.muhammedkoca.com.tr/api/og/cover.svg?title=SSD%20ve%20HDD%20Aras%C4%B1ndaki%205%20Kritik%20Fark%3A%20Hangi%20Depolama%20Birimini%20Se%C3%A7melisiniz%3F&category=Teknoloji" width="240" alt="SSD ve HDD Arasındaki 5 Kritik Fark: Hangi Depolama Birimini Seçmelisiniz?"/></a></td>
+    <td valign="top" width="580">
+      <img src="https://img.shields.io/badge/Teknoloji-3b82f6?style=flat-square&labelColor=0a0a0b" alt="Teknoloji"/> <sub>18 Ağu 2026</sub><br/><br/>
+      <a href="https://www.muhammedkoca.com.tr/blog/ssd-ve-hdd-arasindaki-5-kritik-fark-hangi-depolama-birimini-secmelisiniz"><b>SSD ve HDD Arasındaki 5 Kritik Fark: Hangi Depolama Birimini Seçmelisiniz?</b></a><br/><br/>
+      <sub>SSD ve HDD arasındaki temel farkları, hız, ömür ve maliyet açısından karşılaştırıyoruz. Hangi depolama biriminin ihtiyaçlarınıza uygun olduğunu…</sub>
+    </td>
+  </tr>
+  <tr><td colspan="2"><img src="assets/divider.svg" alt="" width="100%"/></td></tr>
+  <tr>
     <td width="260"><a href="https://www.muhammedkoca.com.tr/blog/ram-nedir-ne-kadari-gercekten-yeterli-bilgisayariniz-icin-dogru-bellek-secimi-re"><img src="https://www.muhammedkoca.com.tr/api/og/cover.svg?title=RAM%20Nedir%2C%20Ne%20Kadar%C4%B1%20Ger%C3%A7ekten%20Yeterli%3F%20Bilgisayar%C4%B1n%C4%B1z%20%C4%B0%C3%A7in%20Do%C4%9Fru%20Bellek%20Se%C3%A7imi%20Rehberi&category=Teknoloji" width="240" alt="RAM Nedir, Ne Kadarı Gerçekten Yeterli? Bilgisayarınız İçin Doğru Bellek Seçimi Rehberi"/></a></td>
     <td valign="top" width="580">
       <img src="https://img.shields.io/badge/Teknoloji-3b82f6?style=flat-square&labelColor=0a0a0b" alt="Teknoloji"/> <sub>17 Ağu 2026</sub><br/><br/>
       <a href="https://www.muhammedkoca.com.tr/blog/ram-nedir-ne-kadari-gercekten-yeterli-bilgisayariniz-icin-dogru-bellek-secimi-re"><b>RAM Nedir, Ne Kadarı Gerçekten Yeterli? Bilgisayarınız İçin Doğru Bellek Seçimi Rehberi</b></a><br/><br/>
       <sub>RAM, bilgisayarınızın hızını ve performansını doğrudan etkileyen kritik bir bileşen. Peki, ne kadar RAM&#x27;e ihtiyacınız var? Bu rehberde, RAM&#x27;in ne…</sub>
-    </td>
-  </tr>
-  <tr><td colspan="2"><img src="assets/divider.svg" alt="" width="100%"/></td></tr>
-  <tr>
-    <td width="260"><a href="https://www.muhammedkoca.com.tr/blog/wi-fi-6-ve-wi-fi-7-eski-cihazlarla-yeni-hizlara-ulasmak-mumkun-mu"><img src="https://www.muhammedkoca.com.tr/api/og/cover.svg?title=Wi-Fi%206%20ve%20Wi-Fi%207%3A%20Eski%20Cihazlarla%20Yeni%20H%C4%B1zlara%20Ula%C5%9Fmak%20M%C3%BCmk%C3%BCn%20m%C3%BC%3F&category=Teknoloji" width="240" alt="Wi-Fi 6 ve Wi-Fi 7: Eski Cihazlarla Yeni Hızlara Ulaşmak Mümkün mü?"/></a></td>
-    <td valign="top" width="580">
-      <img src="https://img.shields.io/badge/Teknoloji-3b82f6?style=flat-square&labelColor=0a0a0b" alt="Teknoloji"/> <sub>17 Ağu 2026</sub><br/><br/>
-      <a href="https://www.muhammedkoca.com.tr/blog/wi-fi-6-ve-wi-fi-7-eski-cihazlarla-yeni-hizlara-ulasmak-mumkun-mu"><b>Wi-Fi 6 ve Wi-Fi 7: Eski Cihazlarla Yeni Hızlara Ulaşmak Mümkün mü?</b></a><br/><br/>
-      <sub>Wi-Fi 6 ve Wi-Fi 7, kablosuz ağlarda devrim yaratan yeni standartlar. Peki eski veya ucuz cihazlarla bu teknolojilerden nasıl faydalanabilirsiniz? Bu…</sub>
-    </td>
-  </tr>
-  <tr><td colspan="2"><img src="assets/divider.svg" alt="" width="100%"/></td></tr>
-  <tr>
-    <td width="260"><a href="https://www.muhammedkoca.com.tr/blog/internet-hiziniz-gercekten-yavas-mi-yoksa-siz-mi-aldatiliyorsunuz-hiz-testi-ve-i"><img src="https://www.muhammedkoca.com.tr/api/og/cover.svg?title=%C4%B0nternet%20H%C4%B1z%C4%B1n%C4%B1z%20Ger%C3%A7ekten%20Yava%C5%9F%20m%C4%B1%2C%20Yoksa%20Siz%20mi%20Aldat%C4%B1l%C4%B1yorsunuz%3F%20H%C4%B1z%20Testi%20ve%20%C4%B0yile%C5%9Ftirme%20Rehberi&category=Rehberler" width="240" alt="İnternet Hızınız Gerçekten Yavaş mı, Yoksa Siz mi Aldatılıyorsunuz? Hız Testi ve İyileştirme Rehberi"/></a></td>
-    <td valign="top" width="580">
-      <img src="https://img.shields.io/badge/Rehberler-3b82f6?style=flat-square&labelColor=0a0a0b" alt="Rehberler"/> <sub>17 Ağu 2026</sub><br/><br/>
-      <a href="https://www.muhammedkoca.com.tr/blog/internet-hiziniz-gercekten-yavas-mi-yoksa-siz-mi-aldatiliyorsunuz-hiz-testi-ve-i"><b>İnternet Hızınız Gerçekten Yavaş mı, Yoksa Siz mi Aldatılıyorsunuz? Hız Testi ve İyileştirme Rehberi</b></a><br/><br/>
-      <sub>İnternet hızınızı doğru şekilde test etmeyi ve evdeki yavaşlığın gerçek nedenlerini öğrenin. Güvenliğinizi riske atmadan, basit adımlarla hızınızı…</sub>
     </td>
   </tr>
 </table>
