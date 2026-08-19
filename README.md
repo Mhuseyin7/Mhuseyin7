@@ -155,29 +155,29 @@
 <!-- BLOG-CARDS:START -->
 <table>
   <tr>
+    <td width="260"><a href="https://www.muhammedkoca.com.tr/blog/wi-fi-6-ve-wi-fi-7-eski-router-inizla-bile-daha-hizli-ve-kararli-internet-nasil-"><img src="https://www.muhammedkoca.com.tr/api/og/cover.svg?title=Wi-Fi%206%20ve%20Wi-Fi%207%3A%20Eski%20Router%E2%80%99%C4%B1n%C4%B1zla%20Bile%20Daha%20H%C4%B1zl%C4%B1%20ve%20Kararl%C4%B1%20%C4%B0nternet%20Nas%C4%B1l%20Elde%20Edilir%3F&category=Teknoloji" width="240" alt="Wi-Fi 6 ve Wi-Fi 7: Eski Router’ınızla Bile Daha Hızlı ve Kararlı İnternet Nasıl Elde Edilir?"/></a></td>
+    <td valign="top" width="580">
+      <img src="https://img.shields.io/badge/Teknoloji-3b82f6?style=flat-square&labelColor=0a0a0b" alt="Teknoloji"/> <sub>19 Ağu 2026</sub><br/><br/>
+      <a href="https://www.muhammedkoca.com.tr/blog/wi-fi-6-ve-wi-fi-7-eski-router-inizla-bile-daha-hizli-ve-kararli-internet-nasil-"><b>Wi-Fi 6 ve Wi-Fi 7: Eski Router’ınızla Bile Daha Hızlı ve Kararlı İnternet Nasıl Elde Edilir?</b></a><br/><br/>
+      <sub>Wi-Fi 6 ve Wi-Fi 7, kablosuz ağlarda devrim yaratan teknolojiler. Peki eski veya ucuz bir router ile bile bu yeniliklerden nasıl faydalanabilirsiniz?…</sub>
+    </td>
+  </tr>
+  <tr><td colspan="2"><img src="assets/divider.svg" alt="" width="100%"/></td></tr>
+  <tr>
+    <td width="260"><a href="https://www.muhammedkoca.com.tr/blog/internet-hizinizi-olcmek-ve-hizlandirmak-icin-6-pratik-adim"><img src="https://www.muhammedkoca.com.tr/api/og/cover.svg?title=%C4%B0nternet%20H%C4%B1z%C4%B1n%C4%B1z%C4%B1%20%C3%96l%C3%A7mek%20ve%20H%C4%B1zland%C4%B1rmak%20%C4%B0%C3%A7in%206%20Pratik%20Ad%C4%B1m&category=Rehberler" width="240" alt="İnternet Hızınızı Ölçmek ve Hızlandırmak İçin 6 Pratik Adım"/></a></td>
+    <td valign="top" width="580">
+      <img src="https://img.shields.io/badge/Rehberler-3b82f6?style=flat-square&labelColor=0a0a0b" alt="Rehberler"/> <sub>19 Ağu 2026</sub><br/><br/>
+      <a href="https://www.muhammedkoca.com.tr/blog/internet-hizinizi-olcmek-ve-hizlandirmak-icin-6-pratik-adim"><b>İnternet Hızınızı Ölçmek ve Hızlandırmak İçin 6 Pratik Adım</b></a><br/><br/>
+      <sub>İnternet hızınızı doğru şekilde test etmeyi ve evdeki yavaşlamaların nedenlerini bulmayı öğrenin. Bu rehberle, basit ayarlar ve pratik ipuçlarıyla…</sub>
+    </td>
+  </tr>
+  <tr><td colspan="2"><img src="assets/divider.svg" alt="" width="100%"/></td></tr>
+  <tr>
     <td width="260"><a href="https://www.muhammedkoca.com.tr/blog/ev-sunucusu-kurulumu-eski-bilgisayarinizi-guclendirin-6-adimda-tam-rehber"><img src="https://www.muhammedkoca.com.tr/api/og/cover.svg?title=Ev%20Sunucusu%20Kurulumu%3A%20Eski%20Bilgisayar%C4%B1n%C4%B1z%C4%B1%20G%C3%BC%C3%A7lendirin%20%E2%80%93%206%20Ad%C4%B1mda%20Tam%20Rehber&category=Rehberler" width="240" alt="Ev Sunucusu Kurulumu: Eski Bilgisayarınızı Güçlendirin – 6 Adımda Tam Rehber"/></a></td>
     <td valign="top" width="580">
       <img src="https://img.shields.io/badge/Rehberler-3b82f6?style=flat-square&labelColor=0a0a0b" alt="Rehberler"/> <sub>18 Ağu 2026</sub><br/><br/>
       <a href="https://www.muhammedkoca.com.tr/blog/ev-sunucusu-kurulumu-eski-bilgisayarinizi-guclendirin-6-adimda-tam-rehber"><b>Ev Sunucusu Kurulumu: Eski Bilgisayarınızı Güçlendirin – 6 Adımda Tam Rehber</b></a><br/><br/>
       <sub>Eski bir bilgisayarınız mı var? Onu güvenli ve işlevsel bir ev sunucusuna dönüştürün. Bu rehberle adım adım kurulumu, temel güvenlik ayarlarını ve…</sub>
-    </td>
-  </tr>
-  <tr><td colspan="2"><img src="assets/divider.svg" alt="" width="100%"/></td></tr>
-  <tr>
-    <td width="260"><a href="https://www.muhammedkoca.com.tr/blog/wi-fi-6-ve-wi-fi-7-kablosuz-aglarda-hiz-degil-guvenlik-ve-gizlilik-kazaniyoruz"><img src="https://www.muhammedkoca.com.tr/api/og/cover.svg?title=Wi-Fi%206%20ve%20Wi-Fi%207%3A%20Kablosuz%20A%C4%9Flarda%20H%C4%B1z%20De%C4%9Fil%2C%20G%C3%BCvenlik%20ve%20Gizlilik%20Kazan%C4%B1yoruz&category=Teknoloji" width="240" alt="Wi-Fi 6 ve Wi-Fi 7: Kablosuz Ağlarda Hız Değil, Güvenlik ve Gizlilik Kazanıyoruz"/></a></td>
-    <td valign="top" width="580">
-      <img src="https://img.shields.io/badge/Teknoloji-3b82f6?style=flat-square&labelColor=0a0a0b" alt="Teknoloji"/> <sub>18 Ağu 2026</sub><br/><br/>
-      <a href="https://www.muhammedkoca.com.tr/blog/wi-fi-6-ve-wi-fi-7-kablosuz-aglarda-hiz-degil-guvenlik-ve-gizlilik-kazaniyoruz"><b>Wi-Fi 6 ve Wi-Fi 7: Kablosuz Ağlarda Hız Değil, Güvenlik ve Gizlilik Kazanıyoruz</b></a><br/><br/>
-      <sub>Wi-Fi 6 ve Wi-Fi 7, sadece daha hızlı internet vaat etmiyor; aynı zamanda kablosuz ağlarda güvenlik ve gizliliği de kökten değiştiriyor. Peki bu yeni…</sub>
-    </td>
-  </tr>
-  <tr><td colspan="2"><img src="assets/divider.svg" alt="" width="100%"/></td></tr>
-  <tr>
-    <td width="260"><a href="https://www.muhammedkoca.com.tr/blog/ssd-ve-hdd-arasindaki-5-kritik-fark-hangi-depolama-birimini-secmelisiniz"><img src="https://www.muhammedkoca.com.tr/api/og/cover.svg?title=SSD%20ve%20HDD%20Aras%C4%B1ndaki%205%20Kritik%20Fark%3A%20Hangi%20Depolama%20Birimini%20Se%C3%A7melisiniz%3F&category=Teknoloji" width="240" alt="SSD ve HDD Arasındaki 5 Kritik Fark: Hangi Depolama Birimini Seçmelisiniz?"/></a></td>
-    <td valign="top" width="580">
-      <img src="https://img.shields.io/badge/Teknoloji-3b82f6?style=flat-square&labelColor=0a0a0b" alt="Teknoloji"/> <sub>18 Ağu 2026</sub><br/><br/>
-      <a href="https://www.muhammedkoca.com.tr/blog/ssd-ve-hdd-arasindaki-5-kritik-fark-hangi-depolama-birimini-secmelisiniz"><b>SSD ve HDD Arasındaki 5 Kritik Fark: Hangi Depolama Birimini Seçmelisiniz?</b></a><br/><br/>
-      <sub>SSD ve HDD arasındaki temel farkları, hız, ömür ve maliyet açısından karşılaştırıyoruz. Hangi depolama biriminin ihtiyaçlarınıza uygun olduğunu…</sub>
     </td>
   </tr>
 </table>
