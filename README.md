@@ -155,6 +155,15 @@
 <!-- BLOG-CARDS:START -->
 <table>
   <tr>
+    <td width="260"><a href="https://www.muhammedkoca.com.tr/blog/ev-sunucusu-kurulumu-3-pratik-yol-ve-hangisini-secmeli"><img src="https://www.muhammedkoca.com.tr/api/og/cover.svg?title=Ev%20Sunucusu%20Kurulumu%3A%203%20Pratik%20Yol%20ve%20Hangisini%20Se%C3%A7meli%3F&category=Rehberler" width="240" alt="Ev Sunucusu Kurulumu: 3 Pratik Yol ve Hangisini Seçmeli?"/></a></td>
+    <td valign="top" width="580">
+      <img src="https://img.shields.io/badge/Rehberler-3b82f6?style=flat-square&labelColor=0a0a0b" alt="Rehberler"/> <sub>19 Ağu 2026</sub><br/><br/>
+      <a href="https://www.muhammedkoca.com.tr/blog/ev-sunucusu-kurulumu-3-pratik-yol-ve-hangisini-secmeli"><b>Ev Sunucusu Kurulumu: 3 Pratik Yol ve Hangisini Seçmeli?</b></a><br/><br/>
+      <sub>Evde kendi sunucunuzu kurmak istiyor ama nereden başlayacağınızı bilmiyor musunuz? Bu rehberde, üç farklı ev sunucusu kurulum yöntemini adım adım…</sub>
+    </td>
+  </tr>
+  <tr><td colspan="2"><img src="assets/divider.svg" alt="" width="100%"/></td></tr>
+  <tr>
     <td width="260"><a href="https://www.muhammedkoca.com.tr/blog/wi-fi-6-ve-wi-fi-7-eski-router-inizla-bile-daha-hizli-ve-kararli-internet-nasil-"><img src="https://www.muhammedkoca.com.tr/api/og/cover.svg?title=Wi-Fi%206%20ve%20Wi-Fi%207%3A%20Eski%20Router%E2%80%99%C4%B1n%C4%B1zla%20Bile%20Daha%20H%C4%B1zl%C4%B1%20ve%20Kararl%C4%B1%20%C4%B0nternet%20Nas%C4%B1l%20Elde%20Edilir%3F&category=Teknoloji" width="240" alt="Wi-Fi 6 ve Wi-Fi 7: Eski Router’ınızla Bile Daha Hızlı ve Kararlı İnternet Nasıl Elde Edilir?"/></a></td>
     <td valign="top" width="580">
       <img src="https://img.shields.io/badge/Teknoloji-3b82f6?style=flat-square&labelColor=0a0a0b" alt="Teknoloji"/> <sub>19 Ağu 2026</sub><br/><br/>
@@ -169,15 +178,6 @@
       <img src="https://img.shields.io/badge/Rehberler-3b82f6?style=flat-square&labelColor=0a0a0b" alt="Rehberler"/> <sub>19 Ağu 2026</sub><br/><br/>
       <a href="https://www.muhammedkoca.com.tr/blog/internet-hizinizi-olcmek-ve-hizlandirmak-icin-6-pratik-adim"><b>İnternet Hızınızı Ölçmek ve Hızlandırmak İçin 6 Pratik Adım</b></a><br/><br/>
       <sub>İnternet hızınızı doğru şekilde test etmeyi ve evdeki yavaşlamaların nedenlerini bulmayı öğrenin. Bu rehberle, basit ayarlar ve pratik ipuçlarıyla…</sub>
-    </td>
-  </tr>
-  <tr><td colspan="2"><img src="assets/divider.svg" alt="" width="100%"/></td></tr>
-  <tr>
-    <td width="260"><a href="https://www.muhammedkoca.com.tr/blog/ev-sunucusu-kurulumu-eski-bilgisayarinizi-guclendirin-6-adimda-tam-rehber"><img src="https://www.muhammedkoca.com.tr/api/og/cover.svg?title=Ev%20Sunucusu%20Kurulumu%3A%20Eski%20Bilgisayar%C4%B1n%C4%B1z%C4%B1%20G%C3%BC%C3%A7lendirin%20%E2%80%93%206%20Ad%C4%B1mda%20Tam%20Rehber&category=Rehberler" width="240" alt="Ev Sunucusu Kurulumu: Eski Bilgisayarınızı Güçlendirin – 6 Adımda Tam Rehber"/></a></td>
-    <td valign="top" width="580">
-      <img src="https://img.shields.io/badge/Rehberler-3b82f6?style=flat-square&labelColor=0a0a0b" alt="Rehberler"/> <sub>18 Ağu 2026</sub><br/><br/>
-      <a href="https://www.muhammedkoca.com.tr/blog/ev-sunucusu-kurulumu-eski-bilgisayarinizi-guclendirin-6-adimda-tam-rehber"><b>Ev Sunucusu Kurulumu: Eski Bilgisayarınızı Güçlendirin – 6 Adımda Tam Rehber</b></a><br/><br/>
-      <sub>Eski bir bilgisayarınız mı var? Onu güvenli ve işlevsel bir ev sunucusuna dönüştürün. Bu rehberle adım adım kurulumu, temel güvenlik ayarlarını ve…</sub>
     </td>
   </tr>
 </table>
