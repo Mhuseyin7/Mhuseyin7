@@ -164,20 +164,20 @@
   </tr>
   <tr><td colspan="2"><img src="assets/divider.svg" alt="" width="100%"/></td></tr>
   <tr>
-    <td width="260"><a href="https://www.muhammedkoca.com.tr/blog/wi-fi-6-ve-wi-fi-7-eski-router-inizla-bile-daha-hizli-ve-kararli-internet-nasil-"><img src="https://www.muhammedkoca.com.tr/api/og/cover.svg?title=Wi-Fi%206%20ve%20Wi-Fi%207%3A%20Eski%20Router%E2%80%99%C4%B1n%C4%B1zla%20Bile%20Daha%20H%C4%B1zl%C4%B1%20ve%20Kararl%C4%B1%20%C4%B0nternet%20Nas%C4%B1l%20Elde%20Edilir%3F&category=Teknoloji" width="240" alt="Wi-Fi 6 ve Wi-Fi 7: Eski Router’ınızla Bile Daha Hızlı ve Kararlı İnternet Nasıl Elde Edilir?"/></a></td>
+    <td width="260"><a href="https://www.muhammedkoca.com.tr/blog/wi-fi-6-ve-wi-fi-7-hangisini-secmeli-neden-onemli"><img src="https://www.muhammedkoca.com.tr/api/og/cover.svg?title=Wi-Fi%206%20ve%20Wi-Fi%207%3A%20Hangisini%20Se%C3%A7meli%2C%20Neden%20%C3%96nemli%3F&category=Teknoloji" width="240" alt="Wi-Fi 6 ve Wi-Fi 7: Hangisini Seçmeli, Neden Önemli?"/></a></td>
     <td valign="top" width="580">
-      <img src="https://img.shields.io/badge/Teknoloji-3b82f6?style=flat-square&labelColor=0a0a0b" alt="Teknoloji"/> <sub>19 Ağu 2026</sub><br/><br/>
-      <a href="https://www.muhammedkoca.com.tr/blog/wi-fi-6-ve-wi-fi-7-eski-router-inizla-bile-daha-hizli-ve-kararli-internet-nasil-"><b>Wi-Fi 6 ve Wi-Fi 7: Eski Router’ınızla Bile Daha Hızlı ve Kararlı İnternet Nasıl Elde Edilir?</b></a><br/><br/>
-      <sub>Wi-Fi 6 ve Wi-Fi 7, kablosuz ağlarda devrim yaratan teknolojiler. Peki eski veya ucuz bir router ile bile bu yeniliklerden nasıl faydalanabilirsiniz?…</sub>
+      <img src="https://img.shields.io/badge/Teknoloji-3b82f6?style=flat-square&labelColor=0a0a0b" alt="Teknoloji"/> <sub>15 Ağu 2026</sub><br/><br/>
+      <a href="https://www.muhammedkoca.com.tr/blog/wi-fi-6-ve-wi-fi-7-hangisini-secmeli-neden-onemli"><b>Wi-Fi 6 ve Wi-Fi 7: Hangisini Seçmeli, Neden Önemli?</b></a><br/><br/>
+      <sub>Evde veya ofiste kablosuz ağınız yavaş mı çalışıyor? Wi-Fi 6 ve Wi-Fi 7, daha hızlı ve daha güvenilir internet vaat ediyor. Peki hangisini seçmeli…</sub>
     </td>
   </tr>
   <tr><td colspan="2"><img src="assets/divider.svg" alt="" width="100%"/></td></tr>
   <tr>
-    <td width="260"><a href="https://www.muhammedkoca.com.tr/blog/internet-hizinizi-olcmek-ve-hizlandirmak-icin-6-pratik-adim"><img src="https://www.muhammedkoca.com.tr/api/og/cover.svg?title=%C4%B0nternet%20H%C4%B1z%C4%B1n%C4%B1z%C4%B1%20%C3%96l%C3%A7mek%20ve%20H%C4%B1zland%C4%B1rmak%20%C4%B0%C3%A7in%206%20Pratik%20Ad%C4%B1m&category=Rehberler" width="240" alt="İnternet Hızınızı Ölçmek ve Hızlandırmak İçin 6 Pratik Adım"/></a></td>
+    <td width="260"><a href="https://www.muhammedkoca.com.tr/blog/vpn-nedir-nasil-calisir-gizlilik-icin-ne-zaman-gerekir"><img src="https://www.muhammedkoca.com.tr/api/og/cover.svg?title=VPN%20Nedir%2C%20Nas%C4%B1l%20%C3%87al%C4%B1%C5%9F%C4%B1r%3F%20Gizlilik%20%C4%B0%C3%A7in%20Ne%20Zaman%20Gerekir%3F&category=Teknoloji" width="240" alt="VPN Nedir, Nasıl Çalışır? Gizlilik İçin Ne Zaman Gerekir?"/></a></td>
     <td valign="top" width="580">
-      <img src="https://img.shields.io/badge/Rehberler-3b82f6?style=flat-square&labelColor=0a0a0b" alt="Rehberler"/> <sub>19 Ağu 2026</sub><br/><br/>
-      <a href="https://www.muhammedkoca.com.tr/blog/internet-hizinizi-olcmek-ve-hizlandirmak-icin-6-pratik-adim"><b>İnternet Hızınızı Ölçmek ve Hızlandırmak İçin 6 Pratik Adım</b></a><br/><br/>
-      <sub>İnternet hızınızı doğru şekilde test etmeyi ve evdeki yavaşlamaların nedenlerini bulmayı öğrenin. Bu rehberle, basit ayarlar ve pratik ipuçlarıyla…</sub>
+      <img src="https://img.shields.io/badge/Teknoloji-3b82f6?style=flat-square&labelColor=0a0a0b" alt="Teknoloji"/> <sub>11 Ağu 2026</sub><br/><br/>
+      <a href="https://www.muhammedkoca.com.tr/blog/vpn-nedir-nasil-calisir-gizlilik-icin-ne-zaman-gerekir"><b>VPN Nedir, Nasıl Çalışır? Gizlilik İçin Ne Zaman Gerekir?</b></a><br/><br/>
+      <sub>VPN, sanal özel ağların kısaltmasıdır. İnternet trafiğinizi şifreleyerek kimlik avı saldırılarından korur. Gizlilik için ne zaman gerektiğini öğrenin.</sub>
     </td>
   </tr>
 </table>
