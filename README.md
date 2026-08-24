@@ -155,29 +155,29 @@
 <!-- BLOG-CARDS:START -->
 <table>
   <tr>
-    <td width="260"><a href="https://www.muhammedkoca.com.tr/blog/bilgisayariniz-neden-yavasladi-donanim-ve-yazilimin-gizli-savasini-anlamak-ve-ad"><img src="https://www.muhammedkoca.com.tr/api/og/cover.svg?title=Bilgisayar%C4%B1n%C4%B1z%20Neden%20Yava%C5%9Flad%C4%B1%3F%20Donan%C4%B1m%20ve%20Yaz%C4%B1l%C4%B1m%C4%B1n%20Gizli%20Sava%C5%9F%C4%B1n%C4%B1%20Anlamak%20ve%20Ad%C4%B1m%20Ad%C4%B1m%20%C3%87%C3%B6zmek&category=Rehberler" width="240" alt="Bilgisayarınız Neden Yavaşladı? Donanım ve Yazılımın Gizli Savaşını Anlamak ve Adım Adım Çözmek"/></a></td>
+    <td width="260"><a href="https://www.muhammedkoca.com.tr/blog/ekran-basindan-kalkarken-ve-otururken-dogru-bilinen-yanlislar-ve-gercek-rituelle"><img src="https://www.muhammedkoca.com.tr/api/og/cover.svg?title=Ekran%20Ba%C5%9F%C4%B1ndan%20Kalkarken%20ve%20Otururken%3A%20Do%C4%9Fru%20Bilinen%20Yanl%C4%B1%C5%9Flar%20ve%20Ger%C3%A7ek%20Rit%C3%BCeller&category=Ya%C5%9Fam" width="240" alt="Ekran Başından Kalkarken ve Otururken: Doğru Bilinen Yanlışlar ve Gerçek Ritüeller"/></a></td>
     <td valign="top" width="580">
-      <img src="https://img.shields.io/badge/Rehberler-3b82f6?style=flat-square&labelColor=0a0a0b" alt="Rehberler"/> <sub>24 Ağu 2026</sub><br/><br/>
-      <a href="https://www.muhammedkoca.com.tr/blog/bilgisayariniz-neden-yavasladi-donanim-ve-yazilimin-gizli-savasini-anlamak-ve-ad"><b>Bilgisayarınız Neden Yavaşladı? Donanım ve Yazılımın Gizli Savaşını Anlamak ve Adım Adım Çözmek</b></a><br/><br/>
-      <sub>Bilgisayarınızın yavaşlamasının ardında donanım ve yazılımın gizli bir savaşı yatıyor. Bu rehberde, hangi sorunun ne zaman donanımdan, ne zaman…</sub>
+      <img src="https://img.shields.io/badge/Yaşam-3b82f6?style=flat-square&labelColor=0a0a0b" alt="Yaşam"/> <sub>24 Ağu 2026</sub><br/><br/>
+      <a href="https://www.muhammedkoca.com.tr/blog/ekran-basindan-kalkarken-ve-otururken-dogru-bilinen-yanlislar-ve-gercek-rituelle"><b>Ekran Başından Kalkarken ve Otururken: Doğru Bilinen Yanlışlar ve Gerçek Ritüeller</b></a><br/><br/>
+      <sub>Ekran öncesi ve sonrası geçişlerde yaptığımız yaygın hataları fark ederek, teknolojiyle daha sağlıklı bir ilişki kurmanın yollarını keşfedin…</sub>
     </td>
   </tr>
   <tr><td colspan="2"><img src="assets/divider.svg" alt="" width="100%"/></td></tr>
   <tr>
-    <td width="260"><a href="https://www.muhammedkoca.com.tr/blog/ram-secerken-gozden-kacan-3-kritik-detay-bellek-hizi-kanal-sayisi-ve-uyumluluk"><img src="https://www.muhammedkoca.com.tr/api/og/cover.svg?title=RAM%20Se%C3%A7erken%20G%C3%B6zden%20Ka%C3%A7an%203%20Kritik%20Detay%3A%20Bellek%20H%C4%B1z%C4%B1%2C%20Kanal%20Say%C4%B1s%C4%B1%20ve%20Uyumluluk&category=Teknoloji" width="240" alt="RAM Seçerken Gözden Kaçan 3 Kritik Detay: Bellek Hızı, Kanal Sayısı ve Uyumluluk"/></a></td>
+    <td width="260"><a href="https://www.muhammedkoca.com.tr/blog/acik-kaynak-projelere-katkiya-baslamadan-once-kendinize-sormaniz-gereken-7-kriti"><img src="https://www.muhammedkoca.com.tr/api/og/cover.svg?title=A%C3%A7%C4%B1k%20Kaynak%20Projelere%20Katk%C4%B1ya%20Ba%C5%9Flamadan%20%C3%96nce%20Kendinize%20Sorman%C4%B1z%20Gereken%207%20Kritik%20Soru&category=Kariyer" width="240" alt="Açık Kaynak Projelere Katkıya Başlamadan Önce Kendinize Sormanız Gereken 7 Kritik Soru"/></a></td>
     <td valign="top" width="580">
-      <img src="https://img.shields.io/badge/Teknoloji-3b82f6?style=flat-square&labelColor=0a0a0b" alt="Teknoloji"/> <sub>24 Ağu 2026</sub><br/><br/>
-      <a href="https://www.muhammedkoca.com.tr/blog/ram-secerken-gozden-kacan-3-kritik-detay-bellek-hizi-kanal-sayisi-ve-uyumluluk"><b>RAM Seçerken Gözden Kaçan 3 Kritik Detay: Bellek Hızı, Kanal Sayısı ve Uyumluluk</b></a><br/><br/>
-      <sub>Bilgisayarınızın belleğini yükseltirken sadece kapasiteye odaklanmak yeterli değil. RAM hızı, çift kanal desteği ve anakart uyumluluğu gibi detaylar…</sub>
+      <img src="https://img.shields.io/badge/Kariyer-3b82f6?style=flat-square&labelColor=0a0a0b" alt="Kariyer"/> <sub>24 Ağu 2026</sub><br/><br/>
+      <a href="https://www.muhammedkoca.com.tr/blog/acik-kaynak-projelere-katkiya-baslamadan-once-kendinize-sormaniz-gereken-7-kriti"><b>Açık Kaynak Projelere Katkıya Başlamadan Önce Kendinize Sormanız Gereken 7 Kritik Soru</b></a><br/><br/>
+      <sub>Açık kaynak projelere katkı vermek, bilişim kariyerinizde önemli bir adım olabilir. Ancak bu süreçte doğru hazırlık yapmadan atılacak adımlar, hem…</sub>
     </td>
   </tr>
   <tr><td colspan="2"><img src="assets/divider.svg" alt="" width="100%"/></td></tr>
   <tr>
-    <td width="260"><a href="https://www.muhammedkoca.com.tr/blog/eski-bilgisayarinizi-hizlandirmak-icin-donanim-yukseltmeden-once-deneyeceginiz-5"><img src="https://www.muhammedkoca.com.tr/api/og/cover.svg?title=Eski%20Bilgisayar%C4%B1n%C4%B1z%C4%B1%20H%C4%B1zland%C4%B1rmak%20%C4%B0%C3%A7in%20Donan%C4%B1m%20Y%C3%BCkseltmeden%20%C3%96nce%20Deneyece%C4%9Finiz%205%20Kritik%20Ad%C4%B1m&category=Rehberler" width="240" alt="Eski Bilgisayarınızı Hızlandırmak İçin Donanım Yükseltmeden Önce Deneyeceğiniz 5 Kritik Adım"/></a></td>
+    <td width="260"><a href="https://www.muhammedkoca.com.tr/blog/ekran-basindan-kalkarken-ve-otururken-dijital-denge-icin-neden-rituellere-ihtiya"><img src="https://www.muhammedkoca.com.tr/api/og/cover.svg?title=Ekran%20Ba%C5%9F%C4%B1ndan%20Kalkarken%20ve%20Otururken%3A%20Dijital%20Denge%20%C4%B0%C3%A7in%20Neden%20Rit%C3%BCellere%20%C4%B0htiyac%C4%B1m%C4%B1z%20Var%3F&category=Ya%C5%9Fam" width="240" alt="Ekran Başından Kalkarken ve Otururken: Dijital Denge İçin Neden Ritüellere İhtiyacımız Var?"/></a></td>
     <td valign="top" width="580">
-      <img src="https://img.shields.io/badge/Rehberler-3b82f6?style=flat-square&labelColor=0a0a0b" alt="Rehberler"/> <sub>24 Ağu 2026</sub><br/><br/>
-      <a href="https://www.muhammedkoca.com.tr/blog/eski-bilgisayarinizi-hizlandirmak-icin-donanim-yukseltmeden-once-deneyeceginiz-5"><b>Eski Bilgisayarınızı Hızlandırmak İçin Donanım Yükseltmeden Önce Deneyeceğiniz 5 Kritik Adım</b></a><br/><br/>
-      <sub>Bilgisayarınız yavaşladı diye hemen yeni donanım almak veya format atmak zorunda değilsin. Öncelikle yazılım ve sistem ayarlarınızı optimize ederek…</sub>
+      <img src="https://img.shields.io/badge/Yaşam-3b82f6?style=flat-square&labelColor=0a0a0b" alt="Yaşam"/> <sub>24 Ağu 2026</sub><br/><br/>
+      <a href="https://www.muhammedkoca.com.tr/blog/ekran-basindan-kalkarken-ve-otururken-dijital-denge-icin-neden-rituellere-ihtiya"><b>Ekran Başından Kalkarken ve Otururken: Dijital Denge İçin Neden Ritüellere İhtiyacımız Var?</b></a><br/><br/>
+      <sub>Ekran başında geçirdiğimiz zaman arttıkça, zihnimiz ve bedenimiz arasındaki bağlantıyı kaybetme riskiyle karşı karşıyayız. Ekran öncesi ve sonrası…</sub>
     </td>
   </tr>
 </table>
