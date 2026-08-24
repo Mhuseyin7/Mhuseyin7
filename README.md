@@ -155,29 +155,29 @@
 <!-- BLOG-CARDS:START -->
 <table>
   <tr>
-    <td width="260"><a href="https://www.muhammedkoca.com.tr/blog/ev-sunucusu-kurulumu-3-pratik-yol-ve-hangisini-secmeli"><img src="https://www.muhammedkoca.com.tr/api/og/cover.svg?title=Ev%20Sunucusu%20Kurulumu%3A%203%20Pratik%20Yol%20ve%20Hangisini%20Se%C3%A7meli%3F&category=Rehberler" width="240" alt="Ev Sunucusu Kurulumu: 3 Pratik Yol ve Hangisini Seçmeli?"/></a></td>
+    <td width="260"><a href="https://www.muhammedkoca.com.tr/blog/bilgisayariniz-neden-yavasladi-donanim-ve-yazilimin-gizli-savasini-anlamak-ve-ad"><img src="https://www.muhammedkoca.com.tr/api/og/cover.svg?title=Bilgisayar%C4%B1n%C4%B1z%20Neden%20Yava%C5%9Flad%C4%B1%3F%20Donan%C4%B1m%20ve%20Yaz%C4%B1l%C4%B1m%C4%B1n%20Gizli%20Sava%C5%9F%C4%B1n%C4%B1%20Anlamak%20ve%20Ad%C4%B1m%20Ad%C4%B1m%20%C3%87%C3%B6zmek&category=Rehberler" width="240" alt="Bilgisayarınız Neden Yavaşladı? Donanım ve Yazılımın Gizli Savaşını Anlamak ve Adım Adım Çözmek"/></a></td>
     <td valign="top" width="580">
-      <img src="https://img.shields.io/badge/Rehberler-3b82f6?style=flat-square&labelColor=0a0a0b" alt="Rehberler"/> <sub>19 Ağu 2026</sub><br/><br/>
-      <a href="https://www.muhammedkoca.com.tr/blog/ev-sunucusu-kurulumu-3-pratik-yol-ve-hangisini-secmeli"><b>Ev Sunucusu Kurulumu: 3 Pratik Yol ve Hangisini Seçmeli?</b></a><br/><br/>
-      <sub>Evde kendi sunucunuzu kurmak istiyor ama nereden başlayacağınızı bilmiyor musunuz? Bu rehberde, üç farklı ev sunucusu kurulum yöntemini adım adım…</sub>
+      <img src="https://img.shields.io/badge/Rehberler-3b82f6?style=flat-square&labelColor=0a0a0b" alt="Rehberler"/> <sub>24 Ağu 2026</sub><br/><br/>
+      <a href="https://www.muhammedkoca.com.tr/blog/bilgisayariniz-neden-yavasladi-donanim-ve-yazilimin-gizli-savasini-anlamak-ve-ad"><b>Bilgisayarınız Neden Yavaşladı? Donanım ve Yazılımın Gizli Savaşını Anlamak ve Adım Adım Çözmek</b></a><br/><br/>
+      <sub>Bilgisayarınızın yavaşlamasının ardında donanım ve yazılımın gizli bir savaşı yatıyor. Bu rehberde, hangi sorunun ne zaman donanımdan, ne zaman…</sub>
     </td>
   </tr>
   <tr><td colspan="2"><img src="assets/divider.svg" alt="" width="100%"/></td></tr>
   <tr>
-    <td width="260"><a href="https://www.muhammedkoca.com.tr/blog/wi-fi-6-ve-wi-fi-7-hangisini-secmeli-neden-onemli"><img src="https://www.muhammedkoca.com.tr/api/og/cover.svg?title=Wi-Fi%206%20ve%20Wi-Fi%207%3A%20Hangisini%20Se%C3%A7meli%2C%20Neden%20%C3%96nemli%3F&category=Teknoloji" width="240" alt="Wi-Fi 6 ve Wi-Fi 7: Hangisini Seçmeli, Neden Önemli?"/></a></td>
+    <td width="260"><a href="https://www.muhammedkoca.com.tr/blog/ram-secerken-gozden-kacan-3-kritik-detay-bellek-hizi-kanal-sayisi-ve-uyumluluk"><img src="https://www.muhammedkoca.com.tr/api/og/cover.svg?title=RAM%20Se%C3%A7erken%20G%C3%B6zden%20Ka%C3%A7an%203%20Kritik%20Detay%3A%20Bellek%20H%C4%B1z%C4%B1%2C%20Kanal%20Say%C4%B1s%C4%B1%20ve%20Uyumluluk&category=Teknoloji" width="240" alt="RAM Seçerken Gözden Kaçan 3 Kritik Detay: Bellek Hızı, Kanal Sayısı ve Uyumluluk"/></a></td>
     <td valign="top" width="580">
-      <img src="https://img.shields.io/badge/Teknoloji-3b82f6?style=flat-square&labelColor=0a0a0b" alt="Teknoloji"/> <sub>15 Ağu 2026</sub><br/><br/>
-      <a href="https://www.muhammedkoca.com.tr/blog/wi-fi-6-ve-wi-fi-7-hangisini-secmeli-neden-onemli"><b>Wi-Fi 6 ve Wi-Fi 7: Hangisini Seçmeli, Neden Önemli?</b></a><br/><br/>
-      <sub>Evde veya ofiste kablosuz ağınız yavaş mı çalışıyor? Wi-Fi 6 ve Wi-Fi 7, daha hızlı ve daha güvenilir internet vaat ediyor. Peki hangisini seçmeli…</sub>
+      <img src="https://img.shields.io/badge/Teknoloji-3b82f6?style=flat-square&labelColor=0a0a0b" alt="Teknoloji"/> <sub>24 Ağu 2026</sub><br/><br/>
+      <a href="https://www.muhammedkoca.com.tr/blog/ram-secerken-gozden-kacan-3-kritik-detay-bellek-hizi-kanal-sayisi-ve-uyumluluk"><b>RAM Seçerken Gözden Kaçan 3 Kritik Detay: Bellek Hızı, Kanal Sayısı ve Uyumluluk</b></a><br/><br/>
+      <sub>Bilgisayarınızın belleğini yükseltirken sadece kapasiteye odaklanmak yeterli değil. RAM hızı, çift kanal desteği ve anakart uyumluluğu gibi detaylar…</sub>
     </td>
   </tr>
   <tr><td colspan="2"><img src="assets/divider.svg" alt="" width="100%"/></td></tr>
   <tr>
-    <td width="260"><a href="https://www.muhammedkoca.com.tr/blog/vpn-nedir-nasil-calisir-gizlilik-icin-ne-zaman-gerekir"><img src="https://www.muhammedkoca.com.tr/api/og/cover.svg?title=VPN%20Nedir%2C%20Nas%C4%B1l%20%C3%87al%C4%B1%C5%9F%C4%B1r%3F%20Gizlilik%20%C4%B0%C3%A7in%20Ne%20Zaman%20Gerekir%3F&category=Teknoloji" width="240" alt="VPN Nedir, Nasıl Çalışır? Gizlilik İçin Ne Zaman Gerekir?"/></a></td>
+    <td width="260"><a href="https://www.muhammedkoca.com.tr/blog/eski-bilgisayarinizi-hizlandirmak-icin-donanim-yukseltmeden-once-deneyeceginiz-5"><img src="https://www.muhammedkoca.com.tr/api/og/cover.svg?title=Eski%20Bilgisayar%C4%B1n%C4%B1z%C4%B1%20H%C4%B1zland%C4%B1rmak%20%C4%B0%C3%A7in%20Donan%C4%B1m%20Y%C3%BCkseltmeden%20%C3%96nce%20Deneyece%C4%9Finiz%205%20Kritik%20Ad%C4%B1m&category=Rehberler" width="240" alt="Eski Bilgisayarınızı Hızlandırmak İçin Donanım Yükseltmeden Önce Deneyeceğiniz 5 Kritik Adım"/></a></td>
     <td valign="top" width="580">
-      <img src="https://img.shields.io/badge/Teknoloji-3b82f6?style=flat-square&labelColor=0a0a0b" alt="Teknoloji"/> <sub>11 Ağu 2026</sub><br/><br/>
-      <a href="https://www.muhammedkoca.com.tr/blog/vpn-nedir-nasil-calisir-gizlilik-icin-ne-zaman-gerekir"><b>VPN Nedir, Nasıl Çalışır? Gizlilik İçin Ne Zaman Gerekir?</b></a><br/><br/>
-      <sub>VPN, sanal özel ağların kısaltmasıdır. İnternet trafiğinizi şifreleyerek kimlik avı saldırılarından korur. Gizlilik için ne zaman gerektiğini öğrenin.</sub>
+      <img src="https://img.shields.io/badge/Rehberler-3b82f6?style=flat-square&labelColor=0a0a0b" alt="Rehberler"/> <sub>24 Ağu 2026</sub><br/><br/>
+      <a href="https://www.muhammedkoca.com.tr/blog/eski-bilgisayarinizi-hizlandirmak-icin-donanim-yukseltmeden-once-deneyeceginiz-5"><b>Eski Bilgisayarınızı Hızlandırmak İçin Donanım Yükseltmeden Önce Deneyeceğiniz 5 Kritik Adım</b></a><br/><br/>
+      <sub>Bilgisayarınız yavaşladı diye hemen yeni donanım almak veya format atmak zorunda değilsin. Öncelikle yazılım ve sistem ayarlarınızı optimize ederek…</sub>
     </td>
   </tr>
 </table>
