@@ -25,11 +25,11 @@
   <!-- right stat block -->
   <g font-family="'JetBrains Mono', Consolas, monospace">
     <text x="848" y="76" text-anchor="end" font-size="10.5" fill="#52525a" letter-spacing="2">POSTS</text>
-    <text x="848" y="98" text-anchor="end" font-size="22" font-weight="600" fill="#f4f4f5" letter-spacing="-0.4">1250+</text>
+    <text x="848" y="98" text-anchor="end" font-size="22" font-weight="600" fill="#f4f4f5" letter-spacing="-0.4">1001+</text>
 
     <line x1="720" y1="112" x2="848" y2="112" stroke="#1c1c20" stroke-width="1"/>
 
     <text x="848" y="132" text-anchor="end" font-size="10.5" fill="#52525a" letter-spacing="2">WORDS</text>
-    <text x="848" y="154" text-anchor="end" font-size="22" font-weight="600" fill="#f4f4f5" letter-spacing="-0.4">1.5M+</text>
+    <text x="848" y="154" text-anchor="end" font-size="22" font-weight="600" fill="#f4f4f5" letter-spacing="-0.4">1.1M+</text>
   </g>
 </svg>

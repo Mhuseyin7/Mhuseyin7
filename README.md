@@ -3,7 +3,7 @@
      · blog kartları  (blog-posts.yml, 6 saatte bir)
      · proje kartları (projects.yml,   6 saatte bir — muhammedkoca.com.tr/projeler)
      · GitHub kartları (stats-cache.yml, günlük)
-     · yılan (snake.yml, günlük)
+     · katkı trafiği (snake.yml, günlük)
   🎨 Header / divider / footer / terminal görselleri: assets/ klasöründeki el yapımı
   animasyonlu SVG'ler — harici servis yok.
   📖 Kurulum: KURULUM-REHBERI.md
@@ -16,7 +16,7 @@
 
 <br/><br/>
 
-[![typing](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=17&duration=2600&pause=900&color=3B82F6&center=true&vCenter=true&random=false&width=700&height=44&lines=%24+.%2Fsystem+--heal+%E2%86%92+self-healing%3A+ACTIVE;%C3%96ng%C3%B6r+%E2%86%92+Kurtar+%E2%86%92+G%C3%BC%C3%A7lendir;Fault-tolerant+%C2%B7+Chaos+Engineering+%C2%B7+Observability;1250%2B+yaz%C4%B1+%C2%B7+1.5M%2B+kelime+%C2%B7+muhammedkoca.com.tr)](https://www.muhammedkoca.com.tr)
+[![typing](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=17&duration=2600&pause=900&color=3B82F6&center=true&vCenter=true&random=false&width=700&height=44&lines=%24+.%2Fsystem+--heal+%E2%86%92+self-healing%3A+ACTIVE;%C3%96ng%C3%B6r+%E2%86%92+Kurtar+%E2%86%92+G%C3%BC%C3%A7lendir;Fault-tolerant+%C2%B7+Chaos+Engineering+%C2%B7+Observability;1001%2B+yaz%C4%B1+%C2%B7+1.1M%2B+kelime+%C2%B7+muhammedkoca.com.tr)](https://www.muhammedkoca.com.tr)
 
 <a href="https://www.muhammedkoca.com.tr/"><img alt="Blog" src="https://img.shields.io/badge/Blog-muhammedkoca.com.tr-3b82f6?style=flat-square&logo=astro&logoColor=white&labelColor=0a0a0b"></a>&nbsp;
 <a href="https://www.linkedin.com/in/muhammed-h%C3%BCseyin-koca-221a853b9/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Muhammed%20Koca-3b82f6?style=flat-square&logo=linkedin&logoColor=white&labelColor=0a0a0b"></a>&nbsp;
@@ -187,13 +187,13 @@
 
 <img src="assets/divider.svg" alt="" width="100%"/>
 
-## 🐍 Contribution Snake
+## 🚘 Contribution Traffic
 
-<!-- Yılan: snake.yml çalıştıktan sonra görünür. Renkler mor-cyan özel palet. -->
+<!-- Araba: snake.yml çalıştıktan sonra görünür. Açık/koyu tema uyumludur. -->
 <div align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Mhuseyin7/Mhuseyin7/output/snake-dark.svg">
-    <img alt="contribution snake" src="https://raw.githubusercontent.com/Mhuseyin7/Mhuseyin7/output/snake.svg">
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Mhuseyin7/Mhuseyin7/output/contribution-car-dark.svg">
+    <img alt="Katkıların arasında makas atan araba" src="https://raw.githubusercontent.com/Mhuseyin7/Mhuseyin7/output/contribution-car.svg" width="100%">
   </picture>
 </div>
 
