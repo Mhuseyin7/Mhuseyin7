@@ -155,29 +155,29 @@
 <!-- BLOG-CARDS:START -->
 <table>
   <tr>
-    <td width="260"><a href="https://www.muhammedkoca.com.tr/blog/ekran-basindan-kalkarken-ve-otururken-dogru-bilinen-yanlislar-ve-gercek-rituelle"><img src="https://www.muhammedkoca.com.tr/api/og/cover.svg?title=Ekran%20Ba%C5%9F%C4%B1ndan%20Kalkarken%20ve%20Otururken%3A%20Do%C4%9Fru%20Bilinen%20Yanl%C4%B1%C5%9Flar%20ve%20Ger%C3%A7ek%20Rit%C3%BCeller&category=Ya%C5%9Fam" width="240" alt="Ekran Başından Kalkarken ve Otururken: Doğru Bilinen Yanlışlar ve Gerçek Ritüeller"/></a></td>
+    <td width="260"><a href="https://www.muhammedkoca.com.tr/blog/bilisimde-linkedin-profili-yoneticilerin-ve-isverenlerin-gozunde-nasil-gorunmeli"><img src="https://www.muhammedkoca.com.tr/api/og/cover.svg?title=Bili%C5%9Fimde%20LinkedIn%20Profili%3A%20Y%C3%B6neticilerin%20ve%20%C4%B0%C5%9Fverenlerin%20G%C3%B6z%C3%BCnde%20Nas%C4%B1l%20G%C3%B6r%C3%BCnmelisiniz%3F&category=Kariyer" width="240" alt="Bilişimde LinkedIn Profili: Yöneticilerin ve İşverenlerin Gözünde Nasıl Görünmelisiniz?"/></a></td>
     <td valign="top" width="580">
-      <img src="https://img.shields.io/badge/Yaşam-3b82f6?style=flat-square&labelColor=0a0a0b" alt="Yaşam"/> <sub>24 Ağu 2026</sub><br/><br/>
-      <a href="https://www.muhammedkoca.com.tr/blog/ekran-basindan-kalkarken-ve-otururken-dogru-bilinen-yanlislar-ve-gercek-rituelle"><b>Ekran Başından Kalkarken ve Otururken: Doğru Bilinen Yanlışlar ve Gerçek Ritüeller</b></a><br/><br/>
-      <sub>Ekran öncesi ve sonrası geçişlerde yaptığımız yaygın hataları fark ederek, teknolojiyle daha sağlıklı bir ilişki kurmanın yollarını keşfedin…</sub>
+      <img src="https://img.shields.io/badge/Kariyer-3b82f6?style=flat-square&labelColor=0a0a0b" alt="Kariyer"/> <sub>25 Ağu 2026</sub><br/><br/>
+      <a href="https://www.muhammedkoca.com.tr/blog/bilisimde-linkedin-profili-yoneticilerin-ve-isverenlerin-gozunde-nasil-gorunmeli"><b>Bilişimde LinkedIn Profili: Yöneticilerin ve İşverenlerin Gözünde Nasıl Görünmelisiniz?</b></a><br/><br/>
+      <sub>LinkedIn profili, bilişim sektöründe görünürlüğünüzü artırmanın en etkili yollarından biri. Peki yöneticiler ve işverenler sizden ne bekliyor? Bu…</sub>
     </td>
   </tr>
   <tr><td colspan="2"><img src="assets/divider.svg" alt="" width="100%"/></td></tr>
   <tr>
-    <td width="260"><a href="https://www.muhammedkoca.com.tr/blog/acik-kaynak-projelere-katkiya-baslamadan-once-kendinize-sormaniz-gereken-7-kriti"><img src="https://www.muhammedkoca.com.tr/api/og/cover.svg?title=A%C3%A7%C4%B1k%20Kaynak%20Projelere%20Katk%C4%B1ya%20Ba%C5%9Flamadan%20%C3%96nce%20Kendinize%20Sorman%C4%B1z%20Gereken%207%20Kritik%20Soru&category=Kariyer" width="240" alt="Açık Kaynak Projelere Katkıya Başlamadan Önce Kendinize Sormanız Gereken 7 Kritik Soru"/></a></td>
+    <td width="260"><a href="https://www.muhammedkoca.com.tr/blog/wi-fi-kanalinizi-dogru-secerek-paraziti-azaltmak-adim-adim-baslangic-rehberi"><img src="https://www.muhammedkoca.com.tr/api/og/cover.svg?title=Wi-Fi%20Kanal%C4%B1n%C4%B1z%C4%B1%20Do%C4%9Fru%20Se%C3%A7erek%20Paraziti%20Azaltmak%3A%20Ad%C4%B1m%20Ad%C4%B1m%20Ba%C5%9Flang%C4%B1%C3%A7%20Rehberi&category=Rehberler" width="240" alt="Wi-Fi Kanalınızı Doğru Seçerek Paraziti Azaltmak: Adım Adım Başlangıç Rehberi"/></a></td>
     <td valign="top" width="580">
-      <img src="https://img.shields.io/badge/Kariyer-3b82f6?style=flat-square&labelColor=0a0a0b" alt="Kariyer"/> <sub>24 Ağu 2026</sub><br/><br/>
-      <a href="https://www.muhammedkoca.com.tr/blog/acik-kaynak-projelere-katkiya-baslamadan-once-kendinize-sormaniz-gereken-7-kriti"><b>Açık Kaynak Projelere Katkıya Başlamadan Önce Kendinize Sormanız Gereken 7 Kritik Soru</b></a><br/><br/>
-      <sub>Açık kaynak projelere katkı vermek, bilişim kariyerinizde önemli bir adım olabilir. Ancak bu süreçte doğru hazırlık yapmadan atılacak adımlar, hem…</sub>
+      <img src="https://img.shields.io/badge/Rehberler-3b82f6?style=flat-square&labelColor=0a0a0b" alt="Rehberler"/> <sub>25 Ağu 2026</sub><br/><br/>
+      <a href="https://www.muhammedkoca.com.tr/blog/wi-fi-kanalinizi-dogru-secerek-paraziti-azaltmak-adim-adim-baslangic-rehberi"><b>Wi-Fi Kanalınızı Doğru Seçerek Paraziti Azaltmak: Adım Adım Başlangıç Rehberi</b></a><br/><br/>
+      <sub>Wi-Fi sinyalinizdeki parazit ve yavaşlamaların temel nedenlerinden biri yanlış kanal seçimidir. Bu rehberde, ev veya ofisinizdeki Wi-Fi performansını…</sub>
     </td>
   </tr>
   <tr><td colspan="2"><img src="assets/divider.svg" alt="" width="100%"/></td></tr>
   <tr>
-    <td width="260"><a href="https://www.muhammedkoca.com.tr/blog/ekran-basindan-kalkarken-ve-otururken-dijital-denge-icin-neden-rituellere-ihtiya"><img src="https://www.muhammedkoca.com.tr/api/og/cover.svg?title=Ekran%20Ba%C5%9F%C4%B1ndan%20Kalkarken%20ve%20Otururken%3A%20Dijital%20Denge%20%C4%B0%C3%A7in%20Neden%20Rit%C3%BCellere%20%C4%B0htiyac%C4%B1m%C4%B1z%20Var%3F&category=Ya%C5%9Fam" width="240" alt="Ekran Başından Kalkarken ve Otururken: Dijital Denge İçin Neden Ritüellere İhtiyacımız Var?"/></a></td>
+    <td width="260"><a href="https://www.muhammedkoca.com.tr/blog/yerel-aginizdaki-cihazlari-kesfetme-ve-kolayca-isimlendirme-adim-adim-rehber"><img src="https://www.muhammedkoca.com.tr/api/og/cover.svg?title=Yerel%20A%C4%9F%C4%B1n%C4%B1zdaki%20Cihazlar%C4%B1%20Ke%C5%9Ffetme%20ve%20Kolayca%20%C4%B0simlendirme%3A%20Ad%C4%B1m%20Ad%C4%B1m%20Rehber&category=Genel" width="240" alt="Yerel Ağınızdaki Cihazları Keşfetme ve Kolayca İsimlendirme: Adım Adım Rehber"/></a></td>
     <td valign="top" width="580">
-      <img src="https://img.shields.io/badge/Yaşam-3b82f6?style=flat-square&labelColor=0a0a0b" alt="Yaşam"/> <sub>24 Ağu 2026</sub><br/><br/>
-      <a href="https://www.muhammedkoca.com.tr/blog/ekran-basindan-kalkarken-ve-otururken-dijital-denge-icin-neden-rituellere-ihtiya"><b>Ekran Başından Kalkarken ve Otururken: Dijital Denge İçin Neden Ritüellere İhtiyacımız Var?</b></a><br/><br/>
-      <sub>Ekran başında geçirdiğimiz zaman arttıkça, zihnimiz ve bedenimiz arasındaki bağlantıyı kaybetme riskiyle karşı karşıyayız. Ekran öncesi ve sonrası…</sub>
+      <img src="https://img.shields.io/badge/Rehberler-3b82f6?style=flat-square&labelColor=0a0a0b" alt="Rehberler"/> <sub>25 Ağu 2026</sub><br/><br/>
+      <a href="https://www.muhammedkoca.com.tr/blog/yerel-aginizdaki-cihazlari-kesfetme-ve-kolayca-isimlendirme-adim-adim-rehber"><b>Yerel Ağınızdaki Cihazları Keşfetme ve Kolayca İsimlendirme: Adım Adım Rehber</b></a><br/><br/>
+      <sub>Ev veya ofis ağınızda hangi cihazların bağlı olduğunu merak mı ediyorsunuz? Bu rehberle, ağınızdaki tüm cihazları nasıl bulacağınızı, tanıyacağınızı…</sub>
     </td>
   </tr>
 </table>
