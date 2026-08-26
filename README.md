@@ -155,29 +155,29 @@
 <!-- BLOG-CARDS:START -->
 <table>
   <tr>
-    <td width="260"><a href="https://www.muhammedkoca.com.tr/blog/bilisimde-linkedin-profili-yoneticilerin-ve-isverenlerin-gozunde-nasil-gorunmeli"><img src="https://www.muhammedkoca.com.tr/api/og/cover.svg?title=Bili%C5%9Fimde%20LinkedIn%20Profili%3A%20Y%C3%B6neticilerin%20ve%20%C4%B0%C5%9Fverenlerin%20G%C3%B6z%C3%BCnde%20Nas%C4%B1l%20G%C3%B6r%C3%BCnmelisiniz%3F&category=Kariyer" width="240" alt="Bilişimde LinkedIn Profili: Yöneticilerin ve İşverenlerin Gözünde Nasıl Görünmelisiniz?"/></a></td>
+    <td width="260"><a href="https://www.muhammedkoca.com.tr/blog/dijital-fotograf-arsivinizi-duzenleyin-nereden-baslamali-neden-onemli"><img src="https://www.muhammedkoca.com.tr/api/og/cover.svg?title=Dijital%20Foto%C4%9Fraf%20Ar%C5%9Fivinizi%20D%C3%BCzenleyin%3A%20Nereden%20Ba%C5%9Flamal%C4%B1%2C%20Neden%20%C3%96nemli%3F&category=Ya%C5%9Fam" width="240" alt="Dijital Fotoğraf Arşivinizi Düzenleyin: Nereden Başlamalı, Neden Önemli?"/></a></td>
     <td valign="top" width="580">
-      <img src="https://img.shields.io/badge/Kariyer-3b82f6?style=flat-square&labelColor=0a0a0b" alt="Kariyer"/> <sub>25 Ağu 2026</sub><br/><br/>
-      <a href="https://www.muhammedkoca.com.tr/blog/bilisimde-linkedin-profili-yoneticilerin-ve-isverenlerin-gozunde-nasil-gorunmeli"><b>Bilişimde LinkedIn Profili: Yöneticilerin ve İşverenlerin Gözünde Nasıl Görünmelisiniz?</b></a><br/><br/>
-      <sub>LinkedIn profili, bilişim sektöründe görünürlüğünüzü artırmanın en etkili yollarından biri. Peki yöneticiler ve işverenler sizden ne bekliyor? Bu…</sub>
+      <img src="https://img.shields.io/badge/Yaşam-3b82f6?style=flat-square&labelColor=0a0a0b" alt="Yaşam"/> <sub>26 Ağu 2026</sub><br/><br/>
+      <a href="https://www.muhammedkoca.com.tr/blog/dijital-fotograf-arsivinizi-duzenleyin-nereden-baslamali-neden-onemli"><b>Dijital Fotoğraf Arşivinizi Düzenleyin: Nereden Başlamalı, Neden Önemli?</b></a><br/><br/>
+      <sub>Telefonlarımız, bilgisayarlarımız ve bulut servislerimiz fotoğraf dolu. Ancak bu dijital karmaşa içinde kaybolan anılar, dolan depolama alanları ve…</sub>
     </td>
   </tr>
   <tr><td colspan="2"><img src="assets/divider.svg" alt="" width="100%"/></td></tr>
   <tr>
-    <td width="260"><a href="https://www.muhammedkoca.com.tr/blog/wi-fi-kanalinizi-dogru-secerek-paraziti-azaltmak-adim-adim-baslangic-rehberi"><img src="https://www.muhammedkoca.com.tr/api/og/cover.svg?title=Wi-Fi%20Kanal%C4%B1n%C4%B1z%C4%B1%20Do%C4%9Fru%20Se%C3%A7erek%20Paraziti%20Azaltmak%3A%20Ad%C4%B1m%20Ad%C4%B1m%20Ba%C5%9Flang%C4%B1%C3%A7%20Rehberi&category=Rehberler" width="240" alt="Wi-Fi Kanalınızı Doğru Seçerek Paraziti Azaltmak: Adım Adım Başlangıç Rehberi"/></a></td>
+    <td width="260"><a href="https://www.muhammedkoca.com.tr/blog/sosyal-medyada-dengeyi-kurmanin-7-basit-ve-etkili-yolu"><img src="https://www.muhammedkoca.com.tr/api/og/cover.svg?title=Sosyal%20Medyada%20Dengeyi%20Kurman%C4%B1n%207%20Basit%20ve%20Etkili%20Yolu&category=Ya%C5%9Fam" width="240" alt="Sosyal Medyada Dengeyi Kurmanın 7 Basit ve Etkili Yolu"/></a></td>
     <td valign="top" width="580">
-      <img src="https://img.shields.io/badge/Rehberler-3b82f6?style=flat-square&labelColor=0a0a0b" alt="Rehberler"/> <sub>25 Ağu 2026</sub><br/><br/>
-      <a href="https://www.muhammedkoca.com.tr/blog/wi-fi-kanalinizi-dogru-secerek-paraziti-azaltmak-adim-adim-baslangic-rehberi"><b>Wi-Fi Kanalınızı Doğru Seçerek Paraziti Azaltmak: Adım Adım Başlangıç Rehberi</b></a><br/><br/>
-      <sub>Wi-Fi sinyalinizdeki parazit ve yavaşlamaların temel nedenlerinden biri yanlış kanal seçimidir. Bu rehberde, ev veya ofisinizdeki Wi-Fi performansını…</sub>
+      <img src="https://img.shields.io/badge/Yaşam-3b82f6?style=flat-square&labelColor=0a0a0b" alt="Yaşam"/> <sub>26 Ağu 2026</sub><br/><br/>
+      <a href="https://www.muhammedkoca.com.tr/blog/sosyal-medyada-dengeyi-kurmanin-7-basit-ve-etkili-yolu"><b>Sosyal Medyada Dengeyi Kurmanın 7 Basit ve Etkili Yolu</b></a><br/><br/>
+      <sub>Sosyal medya hayatımızın vazgeçilmez bir parçası haline geldi, ancak kontrolsüz kullanımı hem zamanımızı hem de zihinsel sağlığımızı olumsuz…</sub>
     </td>
   </tr>
   <tr><td colspan="2"><img src="assets/divider.svg" alt="" width="100%"/></td></tr>
   <tr>
-    <td width="260"><a href="https://www.muhammedkoca.com.tr/blog/yerel-aginizdaki-cihazlari-kesfetme-ve-kolayca-isimlendirme-adim-adim-rehber"><img src="https://www.muhammedkoca.com.tr/api/og/cover.svg?title=Yerel%20A%C4%9F%C4%B1n%C4%B1zdaki%20Cihazlar%C4%B1%20Ke%C5%9Ffetme%20ve%20Kolayca%20%C4%B0simlendirme%3A%20Ad%C4%B1m%20Ad%C4%B1m%20Rehber&category=Genel" width="240" alt="Yerel Ağınızdaki Cihazları Keşfetme ve Kolayca İsimlendirme: Adım Adım Rehber"/></a></td>
+    <td width="260"><a href="https://www.muhammedkoca.com.tr/blog/bilisimde-mentorluk-ilk-adimi-atmak-isteyenler-icin-pratik-rehber"><img src="https://www.muhammedkoca.com.tr/api/og/cover.svg?title=Bili%C5%9Fimde%20Mentorluk%3A%20%C4%B0lk%20Ad%C4%B1m%C4%B1%20Atmak%20%C4%B0steyenler%20%C4%B0%C3%A7in%20Pratik%20Rehber&category=Kariyer" width="240" alt="Bilişimde Mentorluk: İlk Adımı Atmak İsteyenler İçin Pratik Rehber"/></a></td>
     <td valign="top" width="580">
-      <img src="https://img.shields.io/badge/Rehberler-3b82f6?style=flat-square&labelColor=0a0a0b" alt="Rehberler"/> <sub>25 Ağu 2026</sub><br/><br/>
-      <a href="https://www.muhammedkoca.com.tr/blog/yerel-aginizdaki-cihazlari-kesfetme-ve-kolayca-isimlendirme-adim-adim-rehber"><b>Yerel Ağınızdaki Cihazları Keşfetme ve Kolayca İsimlendirme: Adım Adım Rehber</b></a><br/><br/>
-      <sub>Ev veya ofis ağınızda hangi cihazların bağlı olduğunu merak mı ediyorsunuz? Bu rehberle, ağınızdaki tüm cihazları nasıl bulacağınızı, tanıyacağınızı…</sub>
+      <img src="https://img.shields.io/badge/Kariyer-3b82f6?style=flat-square&labelColor=0a0a0b" alt="Kariyer"/> <sub>26 Ağu 2026</sub><br/><br/>
+      <a href="https://www.muhammedkoca.com.tr/blog/bilisimde-mentorluk-ilk-adimi-atmak-isteyenler-icin-pratik-rehber"><b>Bilişimde Mentorluk: İlk Adımı Atmak İsteyenler İçin Pratik Rehber</b></a><br/><br/>
+      <sub>Bilişim sektöründe mentor bulmak veya mentor olmak, kariyerinizi hızlandırabilir. Bu rehber, mentorluk ilişkisinin nasıl başlayacağını, nelere dikkat…</sub>
     </td>
   </tr>
 </table>
