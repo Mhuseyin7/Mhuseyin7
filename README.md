@@ -155,29 +155,29 @@
 <!-- BLOG-CARDS:START -->
 <table>
   <tr>
-    <td width="260"><a href="https://www.muhammedkoca.com.tr/blog/dijital-fotograf-arsivinizi-duzenleyin-nereden-baslamali-neden-onemli"><img src="https://www.muhammedkoca.com.tr/api/og/cover.svg?title=Dijital%20Foto%C4%9Fraf%20Ar%C5%9Fivinizi%20D%C3%BCzenleyin%3A%20Nereden%20Ba%C5%9Flamal%C4%B1%2C%20Neden%20%C3%96nemli%3F&category=Ya%C5%9Fam" width="240" alt="Dijital Fotoğraf Arşivinizi Düzenleyin: Nereden Başlamalı, Neden Önemli?"/></a></td>
+    <td width="260"><a href="https://www.muhammedkoca.com.tr/blog/akilli-ev-cihazlariyla-gunluk-rutinlerinizi-nasil-kolaylastirabilirsiniz"><img src="https://www.muhammedkoca.com.tr/api/og/cover.svg?title=Ak%C4%B1ll%C4%B1%20Ev%20Cihazlar%C4%B1yla%20G%C3%BCnl%C3%BCk%20Rutinlerinizi%20Nas%C4%B1l%20Kolayla%C5%9Ft%C4%B1rabilirsiniz%3F&category=Ya%C5%9Fam" width="240" alt="Akıllı Ev Cihazlarıyla Günlük Rutinlerinizi Nasıl Kolaylaştırabilirsiniz?"/></a></td>
     <td valign="top" width="580">
-      <img src="https://img.shields.io/badge/Yaşam-3b82f6?style=flat-square&labelColor=0a0a0b" alt="Yaşam"/> <sub>26 Ağu 2026</sub><br/><br/>
-      <a href="https://www.muhammedkoca.com.tr/blog/dijital-fotograf-arsivinizi-duzenleyin-nereden-baslamali-neden-onemli"><b>Dijital Fotoğraf Arşivinizi Düzenleyin: Nereden Başlamalı, Neden Önemli?</b></a><br/><br/>
-      <sub>Telefonlarımız, bilgisayarlarımız ve bulut servislerimiz fotoğraf dolu. Ancak bu dijital karmaşa içinde kaybolan anılar, dolan depolama alanları ve…</sub>
+      <img src="https://img.shields.io/badge/Yaşam-3b82f6?style=flat-square&labelColor=0a0a0b" alt="Yaşam"/> <sub>27 Ağu 2026</sub><br/><br/>
+      <a href="https://www.muhammedkoca.com.tr/blog/akilli-ev-cihazlariyla-gunluk-rutinlerinizi-nasil-kolaylastirabilirsiniz"><b>Akıllı Ev Cihazlarıyla Günlük Rutinlerinizi Nasıl Kolaylaştırabilirsiniz?</b></a><br/><br/>
+      <sub>Akıllı ev teknolojileri, günlük hayatımızda farkında olmadan harcadığımız zamanı ve enerjiyi tasarruf etmemizi sağlıyor. Bu yazıda, akıllı cihazlarla…</sub>
     </td>
   </tr>
   <tr><td colspan="2"><img src="assets/divider.svg" alt="" width="100%"/></td></tr>
   <tr>
-    <td width="260"><a href="https://www.muhammedkoca.com.tr/blog/sosyal-medyada-dengeyi-kurmanin-7-basit-ve-etkili-yolu"><img src="https://www.muhammedkoca.com.tr/api/og/cover.svg?title=Sosyal%20Medyada%20Dengeyi%20Kurman%C4%B1n%207%20Basit%20ve%20Etkili%20Yolu&category=Ya%C5%9Fam" width="240" alt="Sosyal Medyada Dengeyi Kurmanın 7 Basit ve Etkili Yolu"/></a></td>
+    <td width="260"><a href="https://www.muhammedkoca.com.tr/blog/bilisimde-ilk-ise-girerken-kendinize-sormaniz-gereken-7-kritik-soru"><img src="https://www.muhammedkoca.com.tr/api/og/cover.svg?title=Bili%C5%9Fimde%20%C4%B0lk%20%C4%B0%C5%9Fe%20Girerken%20Kendinize%20Sorman%C4%B1z%20Gereken%207%20Kritik%20Soru&category=Kariyer" width="240" alt="Bilişimde İlk İşe Girerken Kendinize Sormanız Gereken 7 Kritik Soru"/></a></td>
     <td valign="top" width="580">
-      <img src="https://img.shields.io/badge/Yaşam-3b82f6?style=flat-square&labelColor=0a0a0b" alt="Yaşam"/> <sub>26 Ağu 2026</sub><br/><br/>
-      <a href="https://www.muhammedkoca.com.tr/blog/sosyal-medyada-dengeyi-kurmanin-7-basit-ve-etkili-yolu"><b>Sosyal Medyada Dengeyi Kurmanın 7 Basit ve Etkili Yolu</b></a><br/><br/>
-      <sub>Sosyal medya hayatımızın vazgeçilmez bir parçası haline geldi, ancak kontrolsüz kullanımı hem zamanımızı hem de zihinsel sağlığımızı olumsuz…</sub>
+      <img src="https://img.shields.io/badge/Kariyer-3b82f6?style=flat-square&labelColor=0a0a0b" alt="Kariyer"/> <sub>27 Ağu 2026</sub><br/><br/>
+      <a href="https://www.muhammedkoca.com.tr/blog/bilisimde-ilk-ise-girerken-kendinize-sormaniz-gereken-7-kritik-soru"><b>Bilişimde İlk İşe Girerken Kendinize Sormanız Gereken 7 Kritik Soru</b></a><br/><br/>
+      <sub>Bilişim sektöründe ilk işe girmeden önce doğru hazırlık, kendinizi tanıma ve beklentileri netleştirme sürecinde kritik sorular sormanız gerekir. Bu…</sub>
     </td>
   </tr>
   <tr><td colspan="2"><img src="assets/divider.svg" alt="" width="100%"/></td></tr>
   <tr>
-    <td width="260"><a href="https://www.muhammedkoca.com.tr/blog/bilisimde-mentorluk-ilk-adimi-atmak-isteyenler-icin-pratik-rehber"><img src="https://www.muhammedkoca.com.tr/api/og/cover.svg?title=Bili%C5%9Fimde%20Mentorluk%3A%20%C4%B0lk%20Ad%C4%B1m%C4%B1%20Atmak%20%C4%B0steyenler%20%C4%B0%C3%A7in%20Pratik%20Rehber&category=Kariyer" width="240" alt="Bilişimde Mentorluk: İlk Adımı Atmak İsteyenler İçin Pratik Rehber"/></a></td>
+    <td width="260"><a href="https://www.muhammedkoca.com.tr/blog/bilisimde-ilk-ise-girerken-yoneticiler-sizden-neler-bekliyor"><img src="https://www.muhammedkoca.com.tr/api/og/cover.svg?title=Bili%C5%9Fimde%20%C4%B0lk%20%C4%B0%C5%9Fe%20Girerken%20Y%C3%B6neticiler%20Sizden%20Neler%20Bekliyor%3F&category=Kariyer" width="240" alt="Bilişimde İlk İşe Girerken Yöneticiler Sizden Neler Bekliyor?"/></a></td>
     <td valign="top" width="580">
-      <img src="https://img.shields.io/badge/Kariyer-3b82f6?style=flat-square&labelColor=0a0a0b" alt="Kariyer"/> <sub>26 Ağu 2026</sub><br/><br/>
-      <a href="https://www.muhammedkoca.com.tr/blog/bilisimde-mentorluk-ilk-adimi-atmak-isteyenler-icin-pratik-rehber"><b>Bilişimde Mentorluk: İlk Adımı Atmak İsteyenler İçin Pratik Rehber</b></a><br/><br/>
-      <sub>Bilişim sektöründe mentor bulmak veya mentor olmak, kariyerinizi hızlandırabilir. Bu rehber, mentorluk ilişkisinin nasıl başlayacağını, nelere dikkat…</sub>
+      <img src="https://img.shields.io/badge/Kariyer-3b82f6?style=flat-square&labelColor=0a0a0b" alt="Kariyer"/> <sub>27 Ağu 2026</sub><br/><br/>
+      <a href="https://www.muhammedkoca.com.tr/blog/bilisimde-ilk-ise-girerken-yoneticiler-sizden-neler-bekliyor"><b>Bilişimde İlk İşe Girerken Yöneticiler Sizden Neler Bekliyor?</b></a><br/><br/>
+      <sub>Bilişim sektöründe ilk işe girmek heyecan verici ama bir o kadar da kafa karıştırıcı olabilir. Peki, işverenler ve yöneticiler adaylarda nelere…</sub>
     </td>
   </tr>
 </table>
