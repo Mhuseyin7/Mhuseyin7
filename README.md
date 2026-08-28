@@ -155,29 +155,29 @@
 <!-- BLOG-CARDS:START -->
 <table>
   <tr>
+    <td width="260"><a href="https://www.muhammedkoca.com.tr/blog/bilisimde-ilk-isinizi-ararken-kimsenin-soylemedigi-5-gercek"><img src="https://www.muhammedkoca.com.tr/api/og/cover.svg?title=Bili%C5%9Fimde%20%C4%B0lk%20%C4%B0%C5%9Finizi%20Ararken%20Kimsenin%20S%C3%B6ylemedi%C4%9Fi%205%20Ger%C3%A7ek&category=Kariyer" width="240" alt="Bilişimde İlk İşinizi Ararken Kimsenin Söylemediği 5 Gerçek"/></a></td>
+    <td valign="top" width="580">
+      <img src="https://img.shields.io/badge/Kariyer-3b82f6?style=flat-square&labelColor=0a0a0b" alt="Kariyer"/> <sub>28 Ağu 2026</sub><br/><br/>
+      <a href="https://www.muhammedkoca.com.tr/blog/bilisimde-ilk-isinizi-ararken-kimsenin-soylemedigi-5-gercek"><b>Bilişimde İlk İşinizi Ararken Kimsenin Söylemediği 5 Gerçek</b></a><br/><br/>
+      <sub>Bilişim sektörüne adım atmak isteyenler veya ilk işini arayanlar için süreç genellikle beklentilerden farklı işler. Bu yazıda, kurumsal…</sub>
+    </td>
+  </tr>
+  <tr><td colspan="2"><img src="assets/divider.svg" alt="" width="100%"/></td></tr>
+  <tr>
+    <td width="260"><a href="https://www.muhammedkoca.com.tr/blog/ilk-bilisim-isinizde-yoneticilerin-sizden-beklentileri-nelerdir"><img src="https://www.muhammedkoca.com.tr/api/og/cover.svg?title=%C4%B0lk%20Bili%C5%9Fim%20%C4%B0%C5%9Finizde%20Y%C3%B6neticilerin%20Sizden%20Beklentileri%20Nelerdir%3F&category=Kariyer" width="240" alt="İlk Bilişim İşinizde Yöneticilerin Sizden Beklentileri Nelerdir?"/></a></td>
+    <td valign="top" width="580">
+      <img src="https://img.shields.io/badge/Kariyer-3b82f6?style=flat-square&labelColor=0a0a0b" alt="Kariyer"/> <sub>28 Ağu 2026</sub><br/><br/>
+      <a href="https://www.muhammedkoca.com.tr/blog/ilk-bilisim-isinizde-yoneticilerin-sizden-beklentileri-nelerdir"><b>İlk Bilişim İşinizde Yöneticilerin Sizden Beklentileri Nelerdir?</b></a><br/><br/>
+      <sub>Bilişim sektörüne yeni adım atarken veya ilk işinize başlarken, yöneticilerin sizden tam olarak ne beklediğini merak ediyor olabilirsiniz. Bu yazı…</sub>
+    </td>
+  </tr>
+  <tr><td colspan="2"><img src="assets/divider.svg" alt="" width="100%"/></td></tr>
+  <tr>
     <td width="260"><a href="https://www.muhammedkoca.com.tr/blog/akilli-ev-cihazlariyla-gunluk-rutinlerinizi-nasil-kolaylastirabilirsiniz"><img src="https://www.muhammedkoca.com.tr/api/og/cover.svg?title=Ak%C4%B1ll%C4%B1%20Ev%20Cihazlar%C4%B1yla%20G%C3%BCnl%C3%BCk%20Rutinlerinizi%20Nas%C4%B1l%20Kolayla%C5%9Ft%C4%B1rabilirsiniz%3F&category=Ya%C5%9Fam" width="240" alt="Akıllı Ev Cihazlarıyla Günlük Rutinlerinizi Nasıl Kolaylaştırabilirsiniz?"/></a></td>
     <td valign="top" width="580">
       <img src="https://img.shields.io/badge/Yaşam-3b82f6?style=flat-square&labelColor=0a0a0b" alt="Yaşam"/> <sub>27 Ağu 2026</sub><br/><br/>
       <a href="https://www.muhammedkoca.com.tr/blog/akilli-ev-cihazlariyla-gunluk-rutinlerinizi-nasil-kolaylastirabilirsiniz"><b>Akıllı Ev Cihazlarıyla Günlük Rutinlerinizi Nasıl Kolaylaştırabilirsiniz?</b></a><br/><br/>
       <sub>Akıllı ev teknolojileri, günlük hayatımızda farkında olmadan harcadığımız zamanı ve enerjiyi tasarruf etmemizi sağlıyor. Bu yazıda, akıllı cihazlarla…</sub>
-    </td>
-  </tr>
-  <tr><td colspan="2"><img src="assets/divider.svg" alt="" width="100%"/></td></tr>
-  <tr>
-    <td width="260"><a href="https://www.muhammedkoca.com.tr/blog/bilisimde-ilk-ise-girerken-kendinize-sormaniz-gereken-7-kritik-soru"><img src="https://www.muhammedkoca.com.tr/api/og/cover.svg?title=Bili%C5%9Fimde%20%C4%B0lk%20%C4%B0%C5%9Fe%20Girerken%20Kendinize%20Sorman%C4%B1z%20Gereken%207%20Kritik%20Soru&category=Kariyer" width="240" alt="Bilişimde İlk İşe Girerken Kendinize Sormanız Gereken 7 Kritik Soru"/></a></td>
-    <td valign="top" width="580">
-      <img src="https://img.shields.io/badge/Kariyer-3b82f6?style=flat-square&labelColor=0a0a0b" alt="Kariyer"/> <sub>27 Ağu 2026</sub><br/><br/>
-      <a href="https://www.muhammedkoca.com.tr/blog/bilisimde-ilk-ise-girerken-kendinize-sormaniz-gereken-7-kritik-soru"><b>Bilişimde İlk İşe Girerken Kendinize Sormanız Gereken 7 Kritik Soru</b></a><br/><br/>
-      <sub>Bilişim sektöründe ilk işe girmeden önce doğru hazırlık, kendinizi tanıma ve beklentileri netleştirme sürecinde kritik sorular sormanız gerekir. Bu…</sub>
-    </td>
-  </tr>
-  <tr><td colspan="2"><img src="assets/divider.svg" alt="" width="100%"/></td></tr>
-  <tr>
-    <td width="260"><a href="https://www.muhammedkoca.com.tr/blog/bilisimde-ilk-ise-girerken-yoneticiler-sizden-neler-bekliyor"><img src="https://www.muhammedkoca.com.tr/api/og/cover.svg?title=Bili%C5%9Fimde%20%C4%B0lk%20%C4%B0%C5%9Fe%20Girerken%20Y%C3%B6neticiler%20Sizden%20Neler%20Bekliyor%3F&category=Kariyer" width="240" alt="Bilişimde İlk İşe Girerken Yöneticiler Sizden Neler Bekliyor?"/></a></td>
-    <td valign="top" width="580">
-      <img src="https://img.shields.io/badge/Kariyer-3b82f6?style=flat-square&labelColor=0a0a0b" alt="Kariyer"/> <sub>27 Ağu 2026</sub><br/><br/>
-      <a href="https://www.muhammedkoca.com.tr/blog/bilisimde-ilk-ise-girerken-yoneticiler-sizden-neler-bekliyor"><b>Bilişimde İlk İşe Girerken Yöneticiler Sizden Neler Bekliyor?</b></a><br/><br/>
-      <sub>Bilişim sektöründe ilk işe girmek heyecan verici ama bir o kadar da kafa karıştırıcı olabilir. Peki, işverenler ve yöneticiler adaylarda nelere…</sub>
     </td>
   </tr>
 </table>
