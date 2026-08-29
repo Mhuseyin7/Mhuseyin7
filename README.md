@@ -155,6 +155,15 @@
 <!-- BLOG-CARDS:START -->
 <table>
   <tr>
+    <td width="260"><a href="https://www.muhammedkoca.com.tr/blog/tarayicinizda-is-ve-kisisel-profilleri-ayirma-adim-adim-basit-rehber"><img src="https://www.muhammedkoca.com.tr/api/og/cover.svg?title=Taray%C4%B1c%C4%B1n%C4%B1zda%20%C4%B0%C5%9F%20ve%20Ki%C5%9Fisel%20Profilleri%20Ay%C4%B1rma%3A%20Ad%C4%B1m%20Ad%C4%B1m%20Basit%20Rehber&category=Rehberler" width="240" alt="Tarayıcınızda İş ve Kişisel Profilleri Ayırma: Adım Adım Basit Rehber"/></a></td>
+    <td valign="top" width="580">
+      <img src="https://img.shields.io/badge/Rehberler-3b82f6?style=flat-square&labelColor=0a0a0b" alt="Rehberler"/> <sub>29 Ağu 2026</sub><br/><br/>
+      <a href="https://www.muhammedkoca.com.tr/blog/tarayicinizda-is-ve-kisisel-profilleri-ayirma-adim-adim-basit-rehber"><b>Tarayıcınızda İş ve Kişisel Profilleri Ayırma: Adım Adım Basit Rehber</b></a><br/><br/>
+      <sub>İnternet tarayıcınızda iş ve kişisel hayatınızı birbirine karıştırmak, hem odaklanmanızı dağıtır hem de gizlilik riskleri yaratabilir. Bu rehberde…</sub>
+    </td>
+  </tr>
+  <tr><td colspan="2"><img src="assets/divider.svg" alt="" width="100%"/></td></tr>
+  <tr>
     <td width="260"><a href="https://www.muhammedkoca.com.tr/blog/bilisimde-ilk-isinizi-ararken-kimsenin-soylemedigi-5-gercek"><img src="https://www.muhammedkoca.com.tr/api/og/cover.svg?title=Bili%C5%9Fimde%20%C4%B0lk%20%C4%B0%C5%9Finizi%20Ararken%20Kimsenin%20S%C3%B6ylemedi%C4%9Fi%205%20Ger%C3%A7ek&category=Kariyer" width="240" alt="Bilişimde İlk İşinizi Ararken Kimsenin Söylemediği 5 Gerçek"/></a></td>
     <td valign="top" width="580">
       <img src="https://img.shields.io/badge/Kariyer-3b82f6?style=flat-square&labelColor=0a0a0b" alt="Kariyer"/> <sub>28 Ağu 2026</sub><br/><br/>
@@ -169,15 +178,6 @@
       <img src="https://img.shields.io/badge/Kariyer-3b82f6?style=flat-square&labelColor=0a0a0b" alt="Kariyer"/> <sub>28 Ağu 2026</sub><br/><br/>
       <a href="https://www.muhammedkoca.com.tr/blog/ilk-bilisim-isinizde-yoneticilerin-sizden-beklentileri-nelerdir"><b>İlk Bilişim İşinizde Yöneticilerin Sizden Beklentileri Nelerdir?</b></a><br/><br/>
       <sub>Bilişim sektörüne yeni adım atarken veya ilk işinize başlarken, yöneticilerin sizden tam olarak ne beklediğini merak ediyor olabilirsiniz. Bu yazı…</sub>
-    </td>
-  </tr>
-  <tr><td colspan="2"><img src="assets/divider.svg" alt="" width="100%"/></td></tr>
-  <tr>
-    <td width="260"><a href="https://www.muhammedkoca.com.tr/blog/akilli-ev-cihazlariyla-gunluk-rutinlerinizi-nasil-kolaylastirabilirsiniz"><img src="https://www.muhammedkoca.com.tr/api/og/cover.svg?title=Ak%C4%B1ll%C4%B1%20Ev%20Cihazlar%C4%B1yla%20G%C3%BCnl%C3%BCk%20Rutinlerinizi%20Nas%C4%B1l%20Kolayla%C5%9Ft%C4%B1rabilirsiniz%3F&category=Ya%C5%9Fam" width="240" alt="Akıllı Ev Cihazlarıyla Günlük Rutinlerinizi Nasıl Kolaylaştırabilirsiniz?"/></a></td>
-    <td valign="top" width="580">
-      <img src="https://img.shields.io/badge/Yaşam-3b82f6?style=flat-square&labelColor=0a0a0b" alt="Yaşam"/> <sub>27 Ağu 2026</sub><br/><br/>
-      <a href="https://www.muhammedkoca.com.tr/blog/akilli-ev-cihazlariyla-gunluk-rutinlerinizi-nasil-kolaylastirabilirsiniz"><b>Akıllı Ev Cihazlarıyla Günlük Rutinlerinizi Nasıl Kolaylaştırabilirsiniz?</b></a><br/><br/>
-      <sub>Akıllı ev teknolojileri, günlük hayatımızda farkında olmadan harcadığımız zamanı ve enerjiyi tasarruf etmemizi sağlıyor. Bu yazıda, akıllı cihazlarla…</sub>
     </td>
   </tr>
 </table>
