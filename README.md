@@ -155,6 +155,15 @@
 <!-- BLOG-CARDS:START -->
 <table>
   <tr>
+    <td width="260"><a href="https://www.muhammedkoca.com.tr/blog/bilisimde-ilk-isinize-baslamadan-once-kendinize-hangi-kritik-sorulari-sormalisin"><img src="https://www.muhammedkoca.com.tr/api/og/cover.svg?title=Bili%C5%9Fimde%20%C4%B0lk%20%C4%B0%C5%9Finize%20Ba%C5%9Flamadan%20%C3%96nce%20Kendinize%20Hangi%20Kritik%20Sorular%C4%B1%20Sormal%C4%B1s%C4%B1n%C4%B1z%3F&category=Kariyer" width="240" alt="Bilişimde İlk İşinize Başlamadan Önce Kendinize Hangi Kritik Soruları Sormalısınız?"/></a></td>
+    <td valign="top" width="580">
+      <img src="https://img.shields.io/badge/Kariyer-3b82f6?style=flat-square&labelColor=0a0a0b" alt="Kariyer"/> <sub>30 Ağu 2026</sub><br/><br/>
+      <a href="https://www.muhammedkoca.com.tr/blog/bilisimde-ilk-isinize-baslamadan-once-kendinize-hangi-kritik-sorulari-sormalisin"><b>Bilişimde İlk İşinize Başlamadan Önce Kendinize Hangi Kritik Soruları Sormalısınız?</b></a><br/><br/>
+      <sub>Bilişim sektörüne adım atmak heyecan verici bir süreçtir, ancak doğru başlangıç için kendinize doğru soruları sormak hayati önem taşır. Bu yazıda…</sub>
+    </td>
+  </tr>
+  <tr><td colspan="2"><img src="assets/divider.svg" alt="" width="100%"/></td></tr>
+  <tr>
     <td width="260"><a href="https://www.muhammedkoca.com.tr/blog/tarayicinizda-is-ve-kisisel-profilleri-ayirma-adim-adim-basit-rehber"><img src="https://www.muhammedkoca.com.tr/api/og/cover.svg?title=Taray%C4%B1c%C4%B1n%C4%B1zda%20%C4%B0%C5%9F%20ve%20Ki%C5%9Fisel%20Profilleri%20Ay%C4%B1rma%3A%20Ad%C4%B1m%20Ad%C4%B1m%20Basit%20Rehber&category=Rehberler" width="240" alt="Tarayıcınızda İş ve Kişisel Profilleri Ayırma: Adım Adım Basit Rehber"/></a></td>
     <td valign="top" width="580">
       <img src="https://img.shields.io/badge/Rehberler-3b82f6?style=flat-square&labelColor=0a0a0b" alt="Rehberler"/> <sub>29 Ağu 2026</sub><br/><br/>
@@ -169,15 +178,6 @@
       <img src="https://img.shields.io/badge/Kariyer-3b82f6?style=flat-square&labelColor=0a0a0b" alt="Kariyer"/> <sub>28 Ağu 2026</sub><br/><br/>
       <a href="https://www.muhammedkoca.com.tr/blog/bilisimde-ilk-isinizi-ararken-kimsenin-soylemedigi-5-gercek"><b>Bilişimde İlk İşinizi Ararken Kimsenin Söylemediği 5 Gerçek</b></a><br/><br/>
       <sub>Bilişim sektörüne adım atmak isteyenler veya ilk işini arayanlar için süreç genellikle beklentilerden farklı işler. Bu yazıda, kurumsal…</sub>
-    </td>
-  </tr>
-  <tr><td colspan="2"><img src="assets/divider.svg" alt="" width="100%"/></td></tr>
-  <tr>
-    <td width="260"><a href="https://www.muhammedkoca.com.tr/blog/ilk-bilisim-isinizde-yoneticilerin-sizden-beklentileri-nelerdir"><img src="https://www.muhammedkoca.com.tr/api/og/cover.svg?title=%C4%B0lk%20Bili%C5%9Fim%20%C4%B0%C5%9Finizde%20Y%C3%B6neticilerin%20Sizden%20Beklentileri%20Nelerdir%3F&category=Kariyer" width="240" alt="İlk Bilişim İşinizde Yöneticilerin Sizden Beklentileri Nelerdir?"/></a></td>
-    <td valign="top" width="580">
-      <img src="https://img.shields.io/badge/Kariyer-3b82f6?style=flat-square&labelColor=0a0a0b" alt="Kariyer"/> <sub>28 Ağu 2026</sub><br/><br/>
-      <a href="https://www.muhammedkoca.com.tr/blog/ilk-bilisim-isinizde-yoneticilerin-sizden-beklentileri-nelerdir"><b>İlk Bilişim İşinizde Yöneticilerin Sizden Beklentileri Nelerdir?</b></a><br/><br/>
-      <sub>Bilişim sektörüne yeni adım atarken veya ilk işinize başlarken, yöneticilerin sizden tam olarak ne beklediğini merak ediyor olabilirsiniz. Bu yazı…</sub>
     </td>
   </tr>
 </table>
