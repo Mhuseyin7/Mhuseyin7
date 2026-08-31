@@ -155,6 +155,15 @@
 <!-- BLOG-CARDS:START -->
 <table>
   <tr>
+    <td width="260"><a href="https://www.muhammedkoca.com.tr/blog/5-adimda-bilgisayar-sicakligini-izleme-ve-toz-temizligi-rehberi"><img src="https://www.muhammedkoca.com.tr/api/og/cover.svg?title=5%20Ad%C4%B1mda%20Bilgisayar%20S%C4%B1cakl%C4%B1%C4%9F%C4%B1n%C4%B1%20%C4%B0zleme%20ve%20Toz%20Temizli%C4%9Fi%20Rehberi&category=Rehberler" width="240" alt="5 Adımda Bilgisayar Sıcaklığını İzleme ve Toz Temizliği Rehberi"/></a></td>
+    <td valign="top" width="580">
+      <img src="https://img.shields.io/badge/Rehberler-3b82f6?style=flat-square&labelColor=0a0a0b" alt="Rehberler"/> <sub>31 Ağu 2026</sub><br/><br/>
+      <a href="https://www.muhammedkoca.com.tr/blog/5-adimda-bilgisayar-sicakligini-izleme-ve-toz-temizligi-rehberi"><b>5 Adımda Bilgisayar Sıcaklığını İzleme ve Toz Temizliği Rehberi</b></a><br/><br/>
+      <sub>Bilgisayarınızın performansı düşüyor, beklenmedik şekilde kapanıyor veya fanları sürekli çok yüksek sesle mi çalışıyor? Bu sorunlar genellikle aşırı…</sub>
+    </td>
+  </tr>
+  <tr><td colspan="2"><img src="assets/divider.svg" alt="" width="100%"/></td></tr>
+  <tr>
     <td width="260"><a href="https://www.muhammedkoca.com.tr/blog/vlan-ile-ag-bolumleme-en-cok-merak-edilen-sorular-ve-pratik-cevaplar"><img src="https://www.muhammedkoca.com.tr/api/og/cover.svg?title=VLAN%20ile%20A%C4%9F%20B%C3%B6l%C3%BCmleme%3A%20En%20%C3%87ok%20Merak%20Edilen%20Sorular%20ve%20Pratik%20Cevaplar&category=Teknoloji" width="240" alt="VLAN ile Ağ Bölümleme: En Çok Merak Edilen Sorular ve Pratik Cevaplar"/></a></td>
     <td valign="top" width="580">
       <img src="https://img.shields.io/badge/Teknoloji-3b82f6?style=flat-square&labelColor=0a0a0b" alt="Teknoloji"/> <sub>30 Ağu 2026</sub><br/><br/>
@@ -169,15 +178,6 @@
       <img src="https://img.shields.io/badge/Yaşam-3b82f6?style=flat-square&labelColor=0a0a0b" alt="Yaşam"/> <sub>30 Ağu 2026</sub><br/><br/>
       <a href="https://www.muhammedkoca.com.tr/blog/ekran-oncesi-ve-sonrasi-ritueller-dijital-dengeniz-icin-1-haftalik-pratik-plan"><b>Ekran Öncesi ve Sonrası Ritüeller: Dijital Dengeniz İçin 1 Haftalık Pratik Plan</b></a><br/><br/>
       <sub>Dijital dünyanın yoğun temposunda ekran başında geçirdiğimiz süreler her geçen gün artıyor. Peki, bu geçişleri nasıl daha bilinçli ve sağlıklı hale…</sub>
-    </td>
-  </tr>
-  <tr><td colspan="2"><img src="assets/divider.svg" alt="" width="100%"/></td></tr>
-  <tr>
-    <td width="260"><a href="https://www.muhammedkoca.com.tr/blog/bilisimde-ilk-isinize-baslamadan-once-kendinize-hangi-kritik-sorulari-sormalisin"><img src="https://www.muhammedkoca.com.tr/api/og/cover.svg?title=Bili%C5%9Fimde%20%C4%B0lk%20%C4%B0%C5%9Finize%20Ba%C5%9Flamadan%20%C3%96nce%20Kendinize%20Hangi%20Kritik%20Sorular%C4%B1%20Sormal%C4%B1s%C4%B1n%C4%B1z%3F&category=Kariyer" width="240" alt="Bilişimde İlk İşinize Başlamadan Önce Kendinize Hangi Kritik Soruları Sormalısınız?"/></a></td>
-    <td valign="top" width="580">
-      <img src="https://img.shields.io/badge/Kariyer-3b82f6?style=flat-square&labelColor=0a0a0b" alt="Kariyer"/> <sub>30 Ağu 2026</sub><br/><br/>
-      <a href="https://www.muhammedkoca.com.tr/blog/bilisimde-ilk-isinize-baslamadan-once-kendinize-hangi-kritik-sorulari-sormalisin"><b>Bilişimde İlk İşinize Başlamadan Önce Kendinize Hangi Kritik Soruları Sormalısınız?</b></a><br/><br/>
-      <sub>Bilişim sektörüne adım atmak heyecan verici bir süreçtir, ancak doğru başlangıç için kendinize doğru soruları sormak hayati önem taşır. Bu yazıda…</sub>
     </td>
   </tr>
 </table>
