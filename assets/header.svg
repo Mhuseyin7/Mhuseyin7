@@ -1,8 +1,10 @@
 <svg width="880" height="200" viewBox="0 0 880 200" preserveAspectRatio="xMidYMid meet" fill="none" xmlns="http://www.w3.org/2000/svg">
   <rect x="0.5" y="0.5" width="879" height="199" rx="12" fill="#0a0a0b" stroke="#1c1c20" stroke-width="1"/>
 
-  <!-- left accent rail -->
-  <rect x="0" y="12" width="2" height="176" fill="#3b82f6"/>
+  <!-- left accent rail — subtle breathing -->
+  <rect x="0" y="12" width="2" height="176" fill="#3b82f6">
+    <animate attributeName="opacity" values="0.72;1;0.72" dur="4s" repeatCount="indefinite"/>
+  </rect>
 
   <!-- top meta -->
   <g font-family="'JetBrains Mono', Consolas, monospace" font-size="10.5">
