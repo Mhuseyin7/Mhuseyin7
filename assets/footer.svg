@@ -1,15 +1,60 @@
-<svg width="880" height="96" viewBox="0 0 880 96" preserveAspectRatio="xMidYMid meet" fill="none" xmlns="http://www.w3.org/2000/svg">
-  <rect x="0.5" y="0.5" width="879" height="95" rx="12" fill="#0a0a0b" stroke="#1c1c20" stroke-width="1"/>
+<svg width="880" height="120" viewBox="0 0 880 120" preserveAspectRatio="xMidYMid meet" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="ftShimmer" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0" stop-color="#f8fafc"/>
+      <stop offset="0.45" stop-color="#f8fafc"/>
+      <stop offset="0.5" stop-color="#93c5fd"/>
+      <stop offset="0.55" stop-color="#f8fafc"/>
+      <stop offset="1" stop-color="#f8fafc"/>
+      <animate attributeName="x1" values="-1;1" dur="7s" repeatCount="indefinite"/>
+      <animate attributeName="x2" values="0;2" dur="7s" repeatCount="indefinite"/>
+    </linearGradient>
+    <linearGradient id="ftRail" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0" stop-color="#60a5fa" stop-opacity="0"/>
+      <stop offset="0.5" stop-color="#93c5fd" stop-opacity="1"/>
+      <stop offset="1" stop-color="#60a5fa" stop-opacity="0"/>
+    </linearGradient>
+    <filter id="ftGlow" x="-50%" y="-50%" width="200%" height="200%">
+      <feGaussianBlur stdDeviation="1.4" result="b"/>
+      <feMerge><feMergeNode in="b"/><feMergeNode in="SourceGraphic"/></feMerge>
+    </filter>
+    <clipPath id="ftClip"><rect x="0.5" y="0.5" width="879" height="119" rx="12"/></clipPath>
+  </defs>
 
-  <!-- left accent rail -->
-  <rect x="0" y="12" width="2" height="72" fill="#3b82f6"/>
+  <rect x="0.5" y="0.5" width="879" height="119" rx="12" fill="#0f172a" stroke="#334155" stroke-width="1"/>
 
-  <!-- brand tagline -->
-  <text x="440" y="42" text-anchor="middle" font-family="'Inter', 'Segoe UI', Arial, sans-serif" font-size="18" font-weight="600" fill="#f4f4f5" letter-spacing="0.4">&#214;ng&#246;r &#8594; Kurtar &#8594; G&#252;&#231;lendir</text>
+  <g clip-path="url(#ftClip)">
+    <g fill="#60a5fa">
+      <circle cx="120" cy="80" r="1.2" opacity="0">
+        <animate attributeName="opacity" values="0;0.55;0" dur="8s" begin="0s" repeatCount="indefinite"/>
+        <animateTransform attributeName="transform" type="translate" values="0 20;0 -30" dur="8s" begin="0s" repeatCount="indefinite"/>
+      </circle>
+      <circle cx="760" cy="70" r="1.4" opacity="0">
+        <animate attributeName="opacity" values="0;0.6;0" dur="9s" begin="2s" repeatCount="indefinite"/>
+        <animateTransform attributeName="transform" type="translate" values="0 25;0 -35" dur="9s" begin="2s" repeatCount="indefinite"/>
+      </circle>
+      <circle cx="440" cy="100" r="1" opacity="0">
+        <animate attributeName="opacity" values="0;0.45;0" dur="7s" begin="4s" repeatCount="indefinite"/>
+        <animateTransform attributeName="transform" type="translate" values="0 15;0 -25" dur="7s" begin="4s" repeatCount="indefinite"/>
+      </circle>
+    </g>
+  </g>
 
-  <!-- URL row -->
-  <text x="440" y="68" text-anchor="middle" font-family="'JetBrains Mono', Consolas, monospace" font-size="12" fill="#a1a1aa" letter-spacing="0.8">muhammedkoca.com.tr</text>
+  <rect x="0" y="12" width="2" height="96" fill="#60a5fa" opacity="0.55"/>
+  <rect x="0" y="12" width="2" height="40" fill="url(#ftRail)" filter="url(#ftGlow)">
+    <animate attributeName="y" values="12;68;12" dur="5s" repeatCount="indefinite"/>
+  </rect>
 
-  <!-- bottom meta -->
-  <text x="440" y="86" text-anchor="middle" font-family="'JetBrains Mono', Consolas, monospace" font-size="10" fill="#52525a" letter-spacing="2.4">RESILIENT &#183; OBSERVABLE &#183; SELF-HEALING</text>
+  <text x="440" y="52" text-anchor="middle" font-family="'Inter', 'Segoe UI', Arial, sans-serif" font-size="20" font-weight="600" fill="url(#ftShimmer)" letter-spacing="0.4">&#214;ng&#246;r &#8594; Kurtar &#8594; G&#252;&#231;lendir</text>
+
+  <circle cx="270" cy="46" r="2.4" fill="#60a5fa" opacity="0.4">
+    <animate attributeName="opacity" values="0.3;0.9;0.3" dur="3s" repeatCount="indefinite"/>
+  </circle>
+  <circle cx="610" cy="46" r="2.4" fill="#60a5fa" opacity="0.4">
+    <animate attributeName="opacity" values="0.3;0.9;0.3" dur="3s" begin="1.5s" repeatCount="indefinite"/>
+  </circle>
+
+  <text x="440" y="82" text-anchor="middle" font-family="'JetBrains Mono', Consolas, monospace" font-size="12" fill="#cbd5e1" letter-spacing="0.8">muhammedkoca.com.tr</text>
+
+  <text x="440" y="104" text-anchor="middle" font-family="'JetBrains Mono', Consolas, monospace" font-size="10" fill="#94a3b8" letter-spacing="2.4">RESILIENT &#183; OBSERVABLE &#183; SELF-HEALING</text>
 </svg>
