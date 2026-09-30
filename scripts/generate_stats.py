@@ -30,11 +30,11 @@ OUT_DIR = sys.argv[1] if len(sys.argv) > 1 else "assets/cache"
 
 # ── "Enterprise Minimal" teması: tek aksan disiplini, hairline sınırlar ──
 # (Değişken adları geriye dönük uyum için korunur.)
-ACCENT = "#3b82f6"
+ACCENT = "#60a5fa"
 PURPLE, INDIGO, CYAN = ACCENT, ACCENT, ACCENT
-BG1, BG2 = "#0a0a0b", "#0a0a0b"
-BORDER = "#1c1c20"
-TEXT, TEXT_DIM, TEXT_META = "#f4f4f5", "#a1a1aa", "#52525a"
+BG1, BG2 = "#0f172a", "#0f172a"
+BORDER = "#334155"
+TEXT, TEXT_DIM, TEXT_META = "#f8fafc", "#cbd5e1", "#94a3b8"
 
 QUERY = """
 query($login: String!) {
@@ -196,7 +196,9 @@ def shell(w, h, body, title=""):
     )
     return f'''<svg width="{w}" height="{h}" viewBox="0 0 {w} {h}" preserveAspectRatio="xMidYMid meet" fill="none" xmlns="http://www.w3.org/2000/svg">
   <rect x="0.5" y="0.5" width="{w - 1}" height="{h - 1}" rx="12" fill="{BG1}" stroke="{BORDER}" stroke-width="1"/>
-  <rect x="0" y="12" width="2" height="{h - 24}" fill="{ACCENT}"/>
+  <rect x="0" y="12" width="2" height="{h - 24}" fill="{ACCENT}" opacity="0.6">
+    <animate attributeName="opacity" values="0.5;0.9;0.5" dur="4s" repeatCount="indefinite"/>
+  </rect>
   {corner}
   {body}
 </svg>'''
@@ -220,9 +222,13 @@ def overview_svg(s):
         col, row = i % 2, i // 2
         cx = col_w * col + col_w / 2
         cy = grid_top + row_h * row + row_h / 2
+        delay = 0.1 + i * 0.12
         items.append(f'''
-    <text x="{cx}" y="{cy - 2}" text-anchor="middle" font-family="{SANS}" font-size="28" font-weight="600" fill="{TEXT}" letter-spacing="-0.6">{xml_escape(value)}</text>
-    <text x="{cx}" y="{cy + 20}" text-anchor="middle" font-family="{MONO}" font-size="9.5" fill="{TEXT_META}" letter-spacing="0.24em">{xml_escape(label)}</text>''')
+    <g opacity="0">
+      <animate attributeName="opacity" from="0" to="1" dur="0.6s" begin="{delay:.2f}s" fill="freeze"/>
+      <text x="{cx}" y="{cy - 2}" text-anchor="middle" font-family="{SANS}" font-size="28" font-weight="600" fill="{TEXT}" letter-spacing="-0.6">{xml_escape(value)}</text>
+      <text x="{cx}" y="{cy + 20}" text-anchor="middle" font-family="{MONO}" font-size="9.5" fill="{TEXT_META}" letter-spacing="0.24em">{xml_escape(label)}</text>
+    </g>''')
     # inner grid lines
     items.append(f'<line x1="{col_w}" y1="{grid_top + 6}" x2="{col_w}" y2="{h - 20}" stroke="{BORDER}" stroke-width="1"/>')
     for r in range(1, 3):
@@ -235,23 +241,35 @@ def streak_svg(s):
     w, h = 420, 260
     active = s.get("active_days", 0)
     body = f'''
-  <text x="30" y="60" font-family="{MONO}" font-size="9.5" fill="{TEXT_META}" letter-spacing="0.24em">CURRENT STREAK</text>
-  <text x="30" y="108" font-family="{SANS}" font-size="52" font-weight="600" fill="{TEXT}" letter-spacing="-1.4">{s['current_streak']}</text>
-  <text x="30" y="128" font-family="{MONO}" font-size="10" fill="{TEXT_DIM}" letter-spacing="0.06em">days · active</text>
+  <g opacity="0">
+    <animate attributeName="opacity" from="0" to="1" dur="0.6s" begin="0.1s" fill="freeze"/>
+    <text x="30" y="60" font-family="{MONO}" font-size="9.5" fill="{TEXT_META}" letter-spacing="0.24em">CURRENT STREAK</text>
+    <text x="30" y="108" font-family="{SANS}" font-size="52" font-weight="600" fill="{TEXT}" letter-spacing="-1.4">{s['current_streak']}</text>
+    <text x="30" y="128" font-family="{MONO}" font-size="10" fill="{TEXT_DIM}" letter-spacing="0.06em">days · active</text>
+  </g>
 
   <line x1="{w/2}" y1="44" x2="{w/2}" y2="{h/2 + 14}" stroke="{BORDER}" stroke-width="1"/>
 
-  <text x="240" y="60" font-family="{MONO}" font-size="9.5" fill="{TEXT_META}" letter-spacing="0.24em">LONGEST STREAK</text>
-  <text x="240" y="108" font-family="{SANS}" font-size="52" font-weight="600" fill="{TEXT}" letter-spacing="-1.4">{s['longest_streak']}</text>
-  <text x="240" y="128" font-family="{MONO}" font-size="10" fill="{TEXT_DIM}" letter-spacing="0.06em">days · record</text>
+  <g opacity="0">
+    <animate attributeName="opacity" from="0" to="1" dur="0.6s" begin="0.25s" fill="freeze"/>
+    <text x="240" y="60" font-family="{MONO}" font-size="9.5" fill="{TEXT_META}" letter-spacing="0.24em">LONGEST STREAK</text>
+    <text x="240" y="108" font-family="{SANS}" font-size="52" font-weight="600" fill="{TEXT}" letter-spacing="-1.4">{s['longest_streak']}</text>
+    <text x="240" y="128" font-family="{MONO}" font-size="10" fill="{TEXT_DIM}" letter-spacing="0.06em">days · record</text>
+  </g>
 
   <line x1="24" y1="{h/2 + 22}" x2="{w - 24}" y2="{h/2 + 22}" stroke="{BORDER}" stroke-width="1"/>
 
-  <text x="30" y="{h/2 + 54}" font-family="{MONO}" font-size="9.5" fill="{TEXT_META}" letter-spacing="0.24em">REVIEWS / 1Y</text>
-  <text x="30" y="{h/2 + 92}" font-family="{SANS}" font-size="34" font-weight="600" fill="{TEXT}" letter-spacing="-0.8">{s['total_reviews']}</text>
+  <g opacity="0">
+    <animate attributeName="opacity" from="0" to="1" dur="0.6s" begin="0.4s" fill="freeze"/>
+    <text x="30" y="{h/2 + 54}" font-family="{MONO}" font-size="9.5" fill="{TEXT_META}" letter-spacing="0.24em">REVIEWS / 1Y</text>
+    <text x="30" y="{h/2 + 92}" font-family="{SANS}" font-size="34" font-weight="600" fill="{TEXT}" letter-spacing="-0.8">{s['total_reviews']}</text>
+  </g>
 
-  <text x="240" y="{h/2 + 54}" font-family="{MONO}" font-size="9.5" fill="{TEXT_META}" letter-spacing="0.24em">ACTIVE DAYS</text>
-  <text x="240" y="{h/2 + 92}" font-family="{SANS}" font-size="34" font-weight="600" fill="{TEXT}" letter-spacing="-0.8">{active}</text>
+  <g opacity="0">
+    <animate attributeName="opacity" from="0" to="1" dur="0.6s" begin="0.55s" fill="freeze"/>
+    <text x="240" y="{h/2 + 54}" font-family="{MONO}" font-size="9.5" fill="{TEXT_META}" letter-spacing="0.24em">ACTIVE DAYS</text>
+    <text x="240" y="{h/2 + 92}" font-family="{SANS}" font-size="34" font-weight="600" fill="{TEXT}" letter-spacing="-0.8">{active}</text>
+  </g>
 '''
     return shell(w, h, body, title="STREAK")
 
@@ -269,11 +287,17 @@ def langs_svg(s):
             y = top_pad + i * row_h
             bw = max(bar_max_w * pct, 4)
             safe_color = color if re.match(r"^#[0-9a-fA-F]{6}$", color or "") else ACCENT
+            delay = 0.1 + i * 0.1
             rows.append(f'''
-    <text x="24" y="{y + 12}" font-family="{SANS}" font-size="13" fill="{TEXT}">{xml_escape(name)}</text>
+    <g opacity="0">
+      <animate attributeName="opacity" from="0" to="1" dur="0.4s" begin="{delay:.2f}s" fill="freeze"/>
+      <text x="24" y="{y + 12}" font-family="{SANS}" font-size="13" fill="{TEXT}">{xml_escape(name)}</text>
+      <text x="{bar_x + bar_max_w + 14}" y="{y + 12}" font-family="{MONO}" font-size="11.5" fill="{TEXT_DIM}">{pct * 100:.1f}%</text>
+    </g>
     <rect x="{bar_x}" y="{y + 4}" width="{bar_max_w}" height="4" rx="2" fill="{BORDER}"/>
-    <rect x="{bar_x}" y="{y + 4}" width="{bw:.1f}" height="4" rx="2" fill="{safe_color}"/>
-    <text x="{bar_x + bar_max_w + 14}" y="{y + 12}" font-family="{MONO}" font-size="11.5" fill="{TEXT_DIM}">{pct * 100:.1f}%</text>''')
+    <rect x="{bar_x}" y="{y + 4}" width="0" height="4" rx="2" fill="{safe_color}">
+      <animate attributeName="width" from="0" to="{bw:.1f}" dur="0.9s" begin="{delay + 0.15:.2f}s" fill="freeze" calcMode="spline" keySplines="0.4 0 0.2 1" keyTimes="0;1"/>
+    </rect>''')
     else:
         rows.append(f'<text x="{w/2}" y="{h/2}" text-anchor="middle" fill="{TEXT_DIM}" font-family="{SANS}" font-size="13">No language data yet</text>')
     return shell(w, h, "\n".join(rows), title="LANGUAGES")
@@ -319,15 +343,18 @@ def activity_svg(s):
     pad_t = 68
     h = pad_t + grid_h + 60
 
-    # Cells
+    # Cells with wave fade-in (column-by-column left→right)
     rects = []
     for wi, wk in enumerate(weeks):
+        delay = 0.1 + wi * 0.025  # gentle column wave
         for di, count in enumerate(wk):
             x = pad_l + wi * (cell + gap)
             y = pad_t + di * (cell + gap)
             style = _heatmap_color(count, max_v)
             rects.append(
-                f'<rect x="{x}" y="{y}" width="{cell}" height="{cell}" rx="2.5" fill="{style}"/>'
+                f'<rect x="{x}" y="{y}" width="{cell}" height="{cell}" rx="2.5" fill="{style}" opacity="0">'
+                f'<animate attributeName="opacity" from="0" to="1" dur="0.5s" begin="{delay:.2f}s" fill="freeze"/>'
+                f'</rect>'
             )
     cells_svg = "\n  ".join(rects)
 
