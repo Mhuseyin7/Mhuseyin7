@@ -319,11 +319,12 @@ def _heatmap_color(count, max_v):
 
 def activity_svg(s):
     """GitHub-style contribution heatmap — 7 rows × N weeks grid.
-    Cells colored by daily contribution intensity."""
+    Cells colored by daily contribution intensity. An "MK" glyph overlay
+    is painted on top so the wall spells out the initials in bright blue
+    while the underlying real data stays readable in the empty cells."""
     cells = s.get("heatmap") or []
     max_v = s.get("heatmap_max") or 1
     active = s.get("active_days", 0)
-    # Bucket into weeks (Sunday-start).
     weeks = []
     week = []
     for i, (d, c) in enumerate(cells):
@@ -343,10 +344,10 @@ def activity_svg(s):
     pad_t = 68
     h = pad_t + grid_h + 60
 
-    # Cells with wave fade-in (column-by-column left→right)
+    # Cells with wave fade-in (column-by-column left→right).
     rects = []
     for wi, wk in enumerate(weeks):
-        delay = 0.1 + wi * 0.025  # gentle column wave
+        delay = 0.1 + wi * 0.025
         for di, count in enumerate(wk):
             x = pad_l + wi * (cell + gap)
             y = pad_t + di * (cell + gap)
@@ -357,6 +358,48 @@ def activity_svg(s):
                 f'</rect>'
             )
     cells_svg = "\n  ".join(rects)
+
+    # "MK" glyph overlay — commit-graph spells out the initials.
+    # Each pattern is 5 cols × 7 rows; a 2-col gap sits between them.
+    M_PATTERN = [
+        [1,0,0,0,1],
+        [1,1,0,1,1],
+        [1,0,1,0,1],
+        [1,0,0,0,1],
+        [1,0,0,0,1],
+        [1,0,0,0,1],
+        [1,0,0,0,1],
+    ]
+    K_PATTERN = [
+        [1,0,0,0,1],
+        [1,0,0,1,0],
+        [1,0,1,0,0],
+        [1,1,0,0,0],
+        [1,0,1,0,0],
+        [1,0,0,1,0],
+        [1,0,0,0,1],
+    ]
+    overlay = []
+    mk_width = 12  # 5 + 2 gap + 5
+    mk_start = max(0, (n_weeks - mk_width) // 2)
+    for ci, char_pattern in ((0, M_PATTERN), (7, K_PATTERN)):
+        for row_idx, row in enumerate(char_pattern):
+            for col_idx, val in enumerate(row):
+                if not val:
+                    continue
+                wcol = mk_start + ci + col_idx
+                if wcol >= n_weeks:
+                    continue
+                x = pad_l + wcol * (cell + gap)
+                y = pad_t + row_idx * (cell + gap)
+                delay = 1.2 + (ci + col_idx) * 0.06
+                overlay.append(
+                    f'<rect x="{x}" y="{y}" width="{cell}" height="{cell}" rx="2.5" fill="#93c5fd" opacity="0">'
+                    f'<animate attributeName="opacity" values="0;1;1" keyTimes="0;0.3;1" dur="0.7s" begin="{delay:.2f}s" fill="freeze"/>'
+                    f'<animate attributeName="opacity" values="0.85;1;0.85" dur="3s" begin="{delay + 0.8:.2f}s" repeatCount="indefinite"/>'
+                    f'</rect>'
+                )
+    mk_overlay_svg = "\n  ".join(overlay)
 
     # Day-of-week labels (Mon/Wed/Fri, GitHub style)
     dow_labels = ""
@@ -377,6 +420,7 @@ def activity_svg(s):
   <text x="{pad_l + grid_w}" y="42" text-anchor="end" font-family="{MONO}" font-size="10" fill="{TEXT_META}" letter-spacing="0.24em">{active} ACTIVE DAYS · MAX <tspan fill="{TEXT}" font-weight="600">{max_v}</tspan></text>
   {dow_labels}
   {cells_svg}
+  {mk_overlay_svg}
   {legend}
 '''
     return shell(w, h, body, title="ACTIVITY")
