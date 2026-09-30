@@ -50,6 +50,11 @@ query($login: String!) {
       }
     }
     contributionsCollection {
+      totalCommitContributions
+      totalPullRequestContributions
+      totalIssueContributions
+      totalPullRequestReviewContributions
+      restrictedContributionsCount
       contributionCalendar {
         totalContributions
         weeks { contributionDays { date contributionCount } }
@@ -100,7 +105,14 @@ def compute_stats(user: dict) -> dict:
             lang_size[name] = lang_size.get(name, 0) + edge["size"]
             lang_color[name] = edge["node"].get("color") or PURPLE
 
-    cal = user["contributionsCollection"]["contributionCalendar"]
+    contribs = user["contributionsCollection"]
+    total_commits = contribs["totalCommitContributions"]
+    total_prs = contribs["totalPullRequestContributions"]
+    total_issues = contribs["totalIssueContributions"]
+    total_reviews = contribs["totalPullRequestReviewContributions"]
+    total_restricted = contribs["restrictedContributionsCount"]
+
+    cal = contribs["contributionCalendar"]
     total_contribs = cal["totalContributions"]
     days = []
     for week in cal["weeks"]:
@@ -126,6 +138,7 @@ def compute_stats(user: dict) -> dict:
         else:
             break
 
+    # Weekly buckets (kept for backward compatibility)
     weekly, bucket = [], []
     for _, count in days:
         bucket.append(count)
@@ -141,14 +154,28 @@ def compute_stats(user: dict) -> dict:
     total_lang_size = sum(lang_size.values()) or 1
     top_langs = sorted(lang_size.items(), key=lambda kv: -kv[1])[:6]
 
+    # Daily heatmap grid: last N complete weeks aligned to Sunday-start (GitHub style)
+    HEATMAP_WEEKS = 26
+    heatmap_cells = days[-(HEATMAP_WEEKS * 7):] if len(days) >= HEATMAP_WEEKS * 7 else days
+    max_day = max((c for _, c in heatmap_cells), default=0) or 1
+    active_days = sum(1 for _, c in heatmap_cells if c > 0)
+
     return {
         "total_repos": total_repos,
         "total_stars": total_stars,
         "followers": followers,
         "total_contribs": total_contribs,
+        "total_commits": total_commits,
+        "total_prs": total_prs,
+        "total_issues": total_issues,
+        "total_reviews": total_reviews,
+        "total_restricted": total_restricted,
         "current_streak": current,
         "longest_streak": longest,
         "weekly": weekly,
+        "heatmap": heatmap_cells,
+        "heatmap_max": max_day,
+        "active_days": active_days,
         "top_langs": [(n, s / total_lang_size, lang_color.get(n, PURPLE)) for n, s in top_langs],
         "first_date": days[0][0] if days else "",
         "last_date": days[-1][0] if days else "",
@@ -176,39 +203,55 @@ def shell(w, h, body, title=""):
 
 
 def overview_svg(s):
-    w, h = 420, 200
+    w, h = 420, 260
     blocks = [
-        (str(s["total_contribs"]), "KATKI / 1Y"),
-        (str(s["total_repos"]), "REPOSITORY"),
-        (str(s["total_stars"]), "YILDIZ"),
-        (str(s["followers"]), "TAKİPÇİ"),
+        (str(s["total_contribs"]), "CONTRIBS / 1Y"),
+        (str(s["total_commits"]), "COMMITS / 1Y"),
+        (str(s["total_prs"]), "PULL REQUESTS"),
+        (str(s["total_issues"]), "ISSUES OPENED"),
+        (str(s["total_repos"]), "REPOSITORIES"),
+        (str(s["total_stars"]), "STARS"),
     ]
-    col_w, row_h = w / 2, (h - 40) / 2
+    col_w = w / 2
+    grid_top = 44
+    row_h = (h - grid_top - 20) / 3  # 3 rows
     items = []
     for i, (value, label) in enumerate(blocks):
         col, row = i % 2, i // 2
         cx = col_w * col + col_w / 2
-        cy = 40 + row_h * row
+        cy = grid_top + row_h * row + row_h / 2
         items.append(f'''
-    <text x="{cx}" y="{cy + 38}" text-anchor="middle" font-family="{SANS}" font-size="34" font-weight="600" fill="{TEXT}" letter-spacing="-0.8">{xml_escape(value)}</text>
-    <text x="{cx}" y="{cy + 62}" text-anchor="middle" font-family="{MONO}" font-size="10.5" fill="{TEXT_META}" letter-spacing="2.4">{xml_escape(label)}</text>''')
-    items.append(f'<line x1="{col_w}" y1="46" x2="{col_w}" y2="{h - 20}" stroke="{BORDER}" stroke-width="1"/>')
-    items.append(f'<line x1="24" y1="{40 + row_h}" x2="{w - 24}" y2="{40 + row_h}" stroke="{BORDER}" stroke-width="1"/>')
+    <text x="{cx}" y="{cy - 2}" text-anchor="middle" font-family="{SANS}" font-size="28" font-weight="600" fill="{TEXT}" letter-spacing="-0.6">{xml_escape(value)}</text>
+    <text x="{cx}" y="{cy + 20}" text-anchor="middle" font-family="{MONO}" font-size="9.5" fill="{TEXT_META}" letter-spacing="0.24em">{xml_escape(label)}</text>''')
+    # inner grid lines
+    items.append(f'<line x1="{col_w}" y1="{grid_top + 6}" x2="{col_w}" y2="{h - 20}" stroke="{BORDER}" stroke-width="1"/>')
+    for r in range(1, 3):
+        y = grid_top + row_h * r
+        items.append(f'<line x1="24" y1="{y}" x2="{w - 24}" y2="{y}" stroke="{BORDER}" stroke-width="1"/>')
     return shell(w, h, "\n".join(items), title="OVERVIEW")
 
 
 def streak_svg(s):
-    w, h = 420, 200
+    w, h = 420, 260
+    active = s.get("active_days", 0)
     body = f'''
-  <text x="70" y="72" font-family="{MONO}" font-size="10.5" fill="{TEXT_META}" letter-spacing="2.4">GÜNLÜK SERİ</text>
-  <text x="70" y="122" font-family="{SANS}" font-size="52" font-weight="600" fill="{TEXT}" letter-spacing="-1.4">{s['current_streak']}</text>
-  <text x="70" y="146" font-family="{MONO}" font-size="11" fill="{TEXT_DIM}" letter-spacing="1">gün · aktif</text>
+  <text x="30" y="60" font-family="{MONO}" font-size="9.5" fill="{TEXT_META}" letter-spacing="0.24em">CURRENT STREAK</text>
+  <text x="30" y="108" font-family="{SANS}" font-size="52" font-weight="600" fill="{TEXT}" letter-spacing="-1.4">{s['current_streak']}</text>
+  <text x="30" y="128" font-family="{MONO}" font-size="10" fill="{TEXT_DIM}" letter-spacing="0.06em">days · active</text>
 
-  <line x1="{w/2}" y1="46" x2="{w/2}" y2="{h - 20}" stroke="{BORDER}" stroke-width="1"/>
+  <line x1="{w/2}" y1="44" x2="{w/2}" y2="{h/2 + 14}" stroke="{BORDER}" stroke-width="1"/>
 
-  <text x="240" y="72" font-family="{MONO}" font-size="10.5" fill="{TEXT_META}" letter-spacing="2.4">EN UZUN SERİ</text>
-  <text x="240" y="122" font-family="{SANS}" font-size="52" font-weight="600" fill="{TEXT}" letter-spacing="-1.4">{s['longest_streak']}</text>
-  <text x="240" y="146" font-family="{MONO}" font-size="11" fill="{TEXT_DIM}" letter-spacing="1">gün · rekor</text>
+  <text x="240" y="60" font-family="{MONO}" font-size="9.5" fill="{TEXT_META}" letter-spacing="0.24em">LONGEST STREAK</text>
+  <text x="240" y="108" font-family="{SANS}" font-size="52" font-weight="600" fill="{TEXT}" letter-spacing="-1.4">{s['longest_streak']}</text>
+  <text x="240" y="128" font-family="{MONO}" font-size="10" fill="{TEXT_DIM}" letter-spacing="0.06em">days · record</text>
+
+  <line x1="24" y1="{h/2 + 22}" x2="{w - 24}" y2="{h/2 + 22}" stroke="{BORDER}" stroke-width="1"/>
+
+  <text x="30" y="{h/2 + 54}" font-family="{MONO}" font-size="9.5" fill="{TEXT_META}" letter-spacing="0.24em">REVIEWS / 1Y</text>
+  <text x="30" y="{h/2 + 92}" font-family="{SANS}" font-size="34" font-weight="600" fill="{TEXT}" letter-spacing="-0.8">{s['total_reviews']}</text>
+
+  <text x="240" y="{h/2 + 54}" font-family="{MONO}" font-size="9.5" fill="{TEXT_META}" letter-spacing="0.24em">ACTIVE DAYS</text>
+  <text x="240" y="{h/2 + 92}" font-family="{SANS}" font-size="34" font-weight="600" fill="{TEXT}" letter-spacing="-0.8">{active}</text>
 '''
     return shell(w, h, body, title="STREAK")
 
@@ -232,46 +275,82 @@ def langs_svg(s):
     <rect x="{bar_x}" y="{y + 4}" width="{bw:.1f}" height="4" rx="2" fill="{safe_color}"/>
     <text x="{bar_x + bar_max_w + 14}" y="{y + 12}" font-family="{MONO}" font-size="11.5" fill="{TEXT_DIM}">{pct * 100:.1f}%</text>''')
     else:
-        rows.append(f'<text x="{w/2}" y="{h/2}" text-anchor="middle" fill="{TEXT_DIM}" font-family="{SANS}" font-size="13">Henüz dil verisi yok</text>')
+        rows.append(f'<text x="{w/2}" y="{h/2}" text-anchor="middle" fill="{TEXT_DIM}" font-family="{SANS}" font-size="13">No language data yet</text>')
     return shell(w, h, "\n".join(rows), title="LANGUAGES")
 
 
-def smooth_path(points):
-    if not points:
-        return ""
-    d = f"M {points[0][0]:.1f},{points[0][1]:.1f} "
-    for i in range(1, len(points)):
-        x0, y0 = points[i - 1]
-        x1, y1 = points[i]
-        mx, my = (x0 + x1) / 2, (y0 + y1) / 2
-        d += f"Q {x0:.1f},{y0:.1f} {mx:.1f},{my:.1f} "
-    d += f"L {points[-1][0]:.1f},{points[-1][1]:.1f}"
-    return d
+def _heatmap_color(count, max_v):
+    """5-step opacity ramp on ACCENT — GitHub-style intensity bucketing."""
+    if count <= 0:
+        return f'{ACCENT}" fill-opacity="0.06'
+    q = count / max_v if max_v else 0
+    if q < 0.20:
+        return f'{ACCENT}" fill-opacity="0.25'
+    if q < 0.45:
+        return f'{ACCENT}" fill-opacity="0.45'
+    if q < 0.70:
+        return f'{ACCENT}" fill-opacity="0.70'
+    return f'{ACCENT}" fill-opacity="1'
 
 
 def activity_svg(s):
-    w, h = 880, 220
-    weekly = s["weekly"] or [0]
-    pad_l, pad_r, pad_t, pad_b = 40, 40, 60, 40
-    chart_w, chart_h = w - pad_l - pad_r, h - pad_t - pad_b
-    max_v = max(weekly) or 1
-    n = len(weekly)
-    step = chart_w / max(n - 1, 1)
-    points = [(pad_l + i * step, pad_t + chart_h - (v / max_v) * chart_h) for i, v in enumerate(weekly)]
-    line_path = smooth_path(points)
-    area_path = line_path + f" L {points[-1][0]:.1f},{pad_t + chart_h:.1f} L {points[0][0]:.1f},{pad_t + chart_h:.1f} Z"
-    avg = sum(weekly) / n if n else 0
+    """GitHub-style contribution heatmap — 7 rows × N weeks grid.
+    Cells colored by daily contribution intensity."""
+    cells = s.get("heatmap") or []
+    max_v = s.get("heatmap_max") or 1
+    active = s.get("active_days", 0)
+    # Bucket into weeks (Sunday-start).
+    weeks = []
+    week = []
+    for i, (d, c) in enumerate(cells):
+        week.append(c)
+        if len(week) == 7:
+            weeks.append(week)
+            week = []
+    if week:
+        weeks.append(week + [0] * (7 - len(week)))
 
-    grid = "\n".join(
-        f'<line x1="{pad_l}" y1="{pad_t + chart_h * f:.1f}" x2="{pad_l + chart_w}" y2="{pad_t + chart_h * f:.1f}" stroke="{BORDER}" stroke-width="1"/>'
-        for f in (0.0, 0.5, 1.0)
-    )
+    n_weeks = len(weeks) or 1
+    cell, gap = 12, 3
+    grid_w = n_weeks * (cell + gap) - gap
+    grid_h = 7 * (cell + gap) - gap
+    w = 880
+    pad_l = (w - grid_w) // 2
+    pad_t = 68
+    h = pad_t + grid_h + 60
+
+    # Cells
+    rects = []
+    for wi, wk in enumerate(weeks):
+        for di, count in enumerate(wk):
+            x = pad_l + wi * (cell + gap)
+            y = pad_t + di * (cell + gap)
+            style = _heatmap_color(count, max_v)
+            rects.append(
+                f'<rect x="{x}" y="{y}" width="{cell}" height="{cell}" rx="2.5" fill="{style}"/>'
+            )
+    cells_svg = "\n  ".join(rects)
+
+    # Day-of-week labels (Mon/Wed/Fri, GitHub style)
+    dow_labels = ""
+    for idx, name in [(1, "Mon"), (3, "Wed"), (5, "Fri")]:
+        y = pad_t + idx * (cell + gap) + cell - 2
+        dow_labels += f'<text x="{pad_l - 10}" y="{y}" text-anchor="end" font-family="{MONO}" font-size="9" fill="{TEXT_META}" letter-spacing="0.1em">{name}</text>\n  '
+
+    # Legend
+    legend_x = pad_l + grid_w - 130
+    legend_y = pad_t + grid_h + 26
+    legend = f'<text x="{legend_x - 8}" y="{legend_y + 9}" text-anchor="end" font-family="{MONO}" font-size="9" fill="{TEXT_META}" letter-spacing="0.12em">less</text>'
+    for i, op in enumerate([0.06, 0.25, 0.45, 0.70, 1.0]):
+        legend += f'<rect x="{legend_x + i * 15}" y="{legend_y}" width="11" height="11" rx="2" fill="{ACCENT}" fill-opacity="{op}"/>'
+    legend += f'<text x="{legend_x + 5 * 15 + 4}" y="{legend_y + 9}" font-family="{MONO}" font-size="9" fill="{TEXT_META}" letter-spacing="0.12em">more</text>'
+
     body = f'''
-  <text x="{pad_l}" y="42" font-family="{MONO}" font-size="10.5" fill="{TEXT_META}" letter-spacing="2.4">{xml_escape(s['first_date'])}  →  {xml_escape(s['last_date'])}</text>
-  <text x="{pad_l + chart_w}" y="42" text-anchor="end" font-family="{MONO}" font-size="10.5" fill="{TEXT_META}" letter-spacing="2.4">HAFTALIK ORT. <tspan fill="{TEXT}" font-weight="600">{avg:.1f}</tspan></text>
-  {grid}
-  <path d="{area_path}" fill="{ACCENT}" fill-opacity="0.08" stroke="none"/>
-  <path d="{line_path}" fill="none" stroke="{ACCENT}" stroke-width="1.6"/>
+  <text x="{pad_l}" y="42" font-family="{MONO}" font-size="10" fill="{TEXT_META}" letter-spacing="0.24em">{xml_escape(s['first_date'])}  →  {xml_escape(s['last_date'])}</text>
+  <text x="{pad_l + grid_w}" y="42" text-anchor="end" font-family="{MONO}" font-size="10" fill="{TEXT_META}" letter-spacing="0.24em">{active} ACTIVE DAYS · MAX <tspan fill="{TEXT}" font-weight="600">{max_v}</tspan></text>
+  {dow_labels}
+  {cells_svg}
+  {legend}
 '''
     return shell(w, h, body, title="ACTIVITY")
 
