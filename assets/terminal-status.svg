@@ -93,7 +93,7 @@
 
       <g opacity="0">
         <animate attributeName="opacity" from="0" to="1" dur="0.4s" begin="0.9s" fill="freeze"/>
-        <text x="70" y="148"><tspan fill="#cbd5e1">write   </tspan><tspan fill="#f8fafc">   g&#252;nl&#252;k AI destekli i&#231;erik hatt&#305; &#8212; muhammedkoca.com.tr</tspan></text>
+        <text x="70" y="148"><tspan fill="#cbd5e1">write   </tspan><tspan fill="#f8fafc">   daily AI-assisted content pipeline &#8212; muhammedkoca.com.tr</tspan></text>
       </g>
       <g opacity="0">
         <animate attributeName="opacity" from="0" to="1" dur="0.4s" begin="1.1s" fill="freeze"/>
