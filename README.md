@@ -19,7 +19,7 @@
 [![typing](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=17&duration=2600&pause=900&color=3B82F6&center=true&vCenter=true&random=false&width=700&height=44&lines=%24+.%2Fsystem+--heal+%E2%86%92+self-healing%3A+ACTIVE;%C3%96ng%C3%B6r+%E2%86%92+Kurtar+%E2%86%92+G%C3%BC%C3%A7lendir;Fault-tolerant+%C2%B7+Chaos+Engineering+%C2%B7+Observability;1001%2B+yaz%C4%B1+%C2%B7+1.1M%2B+kelime+%C2%B7+muhammedkoca.com.tr)](https://www.muhammedkoca.com.tr)
 
 <a href="https://www.muhammedkoca.com.tr/"><img alt="Blog" src="https://img.shields.io/badge/Blog-muhammedkoca.com.tr-3b82f6?style=flat-square&logo=astro&logoColor=white&labelColor=0a0a0b"></a>&nbsp;
-<a href="https://www.linkedin.com/in/muhammed-h%C3%BCseyin-koca-221a853b9/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Muhammed%20Koca-3b82f6?style=flat-square&logo=linkedin&logoColor=white&labelColor=0a0a0b"></a>&nbsp;
+<a href="https://www.linkedin.com/in/muhammedkocaa/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Muhammed%20Koca-3b82f6?style=flat-square&logo=linkedin&logoColor=white&labelColor=0a0a0b"></a>&nbsp;
 <a href="https://www.instagram.com/muhammedkoca.dev/"><img alt="Instagram" src="https://img.shields.io/badge/Instagram-%40muhammedkoca.dev-3b82f6?style=flat-square&logo=instagram&logoColor=white&labelColor=0a0a0b"></a>
 
 <a href="mailto:mhuseyinkoca9@gmail.com"><img alt="Mail" src="https://img.shields.io/badge/Mail-mhuseyinkoca9%40gmail.com-0a0a0b?style=flat-square&logo=gmail&logoColor=3b82f6"></a>
@@ -155,29 +155,29 @@
 <!-- BLOG-CARDS:START -->
 <table>
   <tr>
-    <td width="260"><a href="https://www.muhammedkoca.com.tr/blog/sabah-rutininde-teknoloji-kullanimi-basit-ama-etkili-aliskanliklar"><img src="https://www.muhammedkoca.com.tr/og-default.png" width="240" alt="Sabah Rutininde Teknoloji Kullanımı: Basit Ama Etkili Alışkanlıklar"/></a></td>
+    <td width="260"><a href="https://www.muhammedkoca.com.tr/blog/dagitik-sistemlerde-performans-darbogazlarini-tespit-etmek-ve-cozmek-node-js-pri"><img src="https://www.muhammedkoca.com.tr/api/og/cover.svg?title=Da%C4%9F%C4%B1t%C4%B1k%20Sistemlerde%20Performans%20Darbo%C4%9Fazlar%C4%B1n%C4%B1%20Tespit%20Etmek%20ve%20%C3%87%C3%B6zmek%3A%20Node.js%2C%20Prisma%20ve%20Mikroservislerde%20%C4%B0leri%20D%C3%BCzey%20Optimizasyon%20Stratejileri&category=Mimari" width="240" alt="Dağıtık Sistemlerde Performans Darboğazlarını Tespit Etmek ve Çözmek: Node.js, Prisma ve Mikroservislerde İleri Düzey Optimizasyon Stratejileri"/></a></td>
     <td valign="top" width="580">
-      <img src="https://img.shields.io/badge/Yaşam-3b82f6?style=flat-square&labelColor=0a0a0b" alt="Yaşam"/> <sub>2 Eyl 2026</sub><br/><br/>
-      <a href="https://www.muhammedkoca.com.tr/blog/sabah-rutininde-teknoloji-kullanimi-basit-ama-etkili-aliskanliklar"><b>Sabah Rutininde Teknoloji Kullanımı: Basit Ama Etkili Alışkanlıklar</b></a><br/><br/>
-      <sub>Güne enerjik başlamak, tüm gününüzü etkileyen kilit bir adımdır. Teknoloji bu rutinde hem harika bir yardımcı hem de büyük bir dikkat dağıtıcı…</sub>
+      <img src="https://img.shields.io/badge/Mimari-fb923c?style=flat-square" alt="Mimari"/> <sub>29 Tem 2026</sub><br/><br/>
+      <a href="https://www.muhammedkoca.com.tr/blog/dagitik-sistemlerde-performans-darbogazlarini-tespit-etmek-ve-cozmek-node-js-pri"><b>Dağıtık Sistemlerde Performans Darboğazlarını Tespit Etmek ve Çözmek: Node.js, Prisma ve Mikroservislerde İleri Düzey Optimizasyon Stratejileri</b></a><br/><br/>
+      <sub>Dağıtık sistemlerde performans darboğazları, çoğu zaman görünmez bir düşman gibi sisteminizi yavaş yavaş çökertir. Bu makalede, Node.js ve Prisma…</sub>
     </td>
   </tr>
   <tr><td colspan="2"><img src="assets/divider.svg" alt="" width="100%"/></td></tr>
   <tr>
-    <td width="260"><a href="https://www.muhammedkoca.com.tr/blog/5-adimda-bilgisayar-sicakligini-izleme-ve-toz-temizligi-rehberi"><img src="https://www.muhammedkoca.com.tr/og-default.png" width="240" alt="5 Adımda Bilgisayar Sıcaklığını İzleme ve Toz Temizliği Rehberi"/></a></td>
+    <td width="260"><a href="https://www.muhammedkoca.com.tr/blog/dagitik-sistemlerde-kritik-veri-tutarliligi-node-js-ve-prisma-ile-saga-pattern-u-2"><img src="https://www.muhammedkoca.com.tr/api/og/cover.svg?title=Da%C4%9F%C4%B1t%C4%B1k%20Sistemlerde%20Kritik%20Veri%20Tutarl%C4%B1l%C4%B1%C4%9F%C4%B1%3A%20Node.js%20ve%20Prisma%20ile%20Saga%20Pattern%20Uygulamas%C4%B1%20ve%20Prod%C3%BCksiyon%20Felaketlerinden%20Dersler&category=Mimari" width="240" alt="Dağıtık Sistemlerde Kritik Veri Tutarlılığı: Node.js ve Prisma ile Saga Pattern Uygulaması ve Prodüksiyon Felaketlerinden Dersler"/></a></td>
     <td valign="top" width="580">
-      <img src="https://img.shields.io/badge/Rehberler-3b82f6?style=flat-square&labelColor=0a0a0b" alt="Rehberler"/> <sub>31 Ağu 2026</sub><br/><br/>
-      <a href="https://www.muhammedkoca.com.tr/blog/5-adimda-bilgisayar-sicakligini-izleme-ve-toz-temizligi-rehberi"><b>5 Adımda Bilgisayar Sıcaklığını İzleme ve Toz Temizliği Rehberi</b></a><br/><br/>
-      <sub>Bilgisayarınızın performansı düşüyor, beklenmedik şekilde kapanıyor veya fanları sürekli çok yüksek sesle mi çalışıyor? Bu sorunlar genellikle aşırı…</sub>
+      <img src="https://img.shields.io/badge/Mimari-fb923c?style=flat-square" alt="Mimari"/> <sub>29 Tem 2026</sub><br/><br/>
+      <a href="https://www.muhammedkoca.com.tr/blog/dagitik-sistemlerde-kritik-veri-tutarliligi-node-js-ve-prisma-ile-saga-pattern-u-2"><b>Dağıtık Sistemlerde Kritik Veri Tutarlılığı: Node.js ve Prisma ile Saga Pattern Uygulaması ve Prodüksiyon Felaketlerinden Dersler</b></a><br/><br/>
+      <sub>Dağıtık sistemlerde ACID işlemleri sağlamak, veritabanı sınırlarını aşan iş akışlarında tutarlılığı korumak kritik bir zorluktur. Bu makalede, Saga…</sub>
     </td>
   </tr>
   <tr><td colspan="2"><img src="assets/divider.svg" alt="" width="100%"/></td></tr>
   <tr>
-    <td width="260"><a href="https://www.muhammedkoca.com.tr/blog/vlan-ile-ag-bolumleme-en-cok-merak-edilen-sorular-ve-pratik-cevaplar"><img src="https://www.muhammedkoca.com.tr/og-default.png" width="240" alt="VLAN ile Ağ Bölümleme: En Çok Merak Edilen Sorular ve Pratik Cevaplar"/></a></td>
+    <td width="260"><a href="https://www.muhammedkoca.com.tr/blog/yuksek-performansli-muhendislik-zihni-24-saatlik-uretkenlik-dongusunu-yeniden-ta"><img src="https://www.muhammedkoca.com.tr/api/og/cover.svg?title=Y%C3%BCksek%20Performansl%C4%B1%20M%C3%BChendislik%20Zihni%3A%2024%20Saatlik%20%C3%9Cretkenlik%20D%C3%B6ng%C3%BCs%C3%BCn%C3%BC%20Yeniden%20Tasarlamak&category=Ya%C5%9Fam" width="240" alt="Yüksek Performanslı Mühendislik Zihni: 24 Saatlik Üretkenlik Döngüsünü Yeniden Tasarlamak"/></a></td>
     <td valign="top" width="580">
-      <img src="https://img.shields.io/badge/Teknoloji-3b82f6?style=flat-square&labelColor=0a0a0b" alt="Teknoloji"/> <sub>30 Ağu 2026</sub><br/><br/>
-      <a href="https://www.muhammedkoca.com.tr/blog/vlan-ile-ag-bolumleme-en-cok-merak-edilen-sorular-ve-pratik-cevaplar"><b>VLAN ile Ağ Bölümleme: En Çok Merak Edilen Sorular ve Pratik Cevaplar</b></a><br/><br/>
-      <sub>Ağlarınızı daha güvenli, hızlı ve yönetilebilir hale getirmenin yollarından biri VLAN kullanmaktır. Bu yazımızda, Sanal Yerel Alan Ağları&#x27;nın (VLAN)…</sub>
+      <img src="https://img.shields.io/badge/Yaşam-fb923c?style=flat-square" alt="Yaşam"/> <sub>29 Tem 2026</sub><br/><br/>
+      <a href="https://www.muhammedkoca.com.tr/blog/yuksek-performansli-muhendislik-zihni-24-saatlik-uretkenlik-dongusunu-yeniden-ta"><b>Yüksek Performanslı Mühendislik Zihni: 24 Saatlik Üretkenlik Döngüsünü Yeniden Tasarlamak</b></a><br/><br/>
+      <sub>15 yıllık üretim sistemleri mimarisinde edindiğim tecrübeler, mühendislik verimliliğinin kod yazmaktan ibaret olmadığını gösterdi. Gerçek yüksek…</sub>
     </td>
   </tr>
 </table>
