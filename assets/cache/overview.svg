@@ -1,19 +1,46 @@
-<svg width="420" height="200" viewBox="0 0 420 200" preserveAspectRatio="xMidYMid meet" fill="none" xmlns="http://www.w3.org/2000/svg">
-  <rect x="0.5" y="0.5" width="419" height="199" rx="12" fill="#0a0a0b" stroke="#1c1c20" stroke-width="1"/>
-  <rect x="0" y="12" width="2" height="176" fill="#3b82f6"/>
-  <text x="400" y="26" text-anchor="end" font-family="'JetBrains Mono', Consolas, monospace" font-size="10.5" fill="#52525a" letter-spacing="2.4">OVERVIEW</text>
+<svg width="420" height="260" viewBox="0 0 420 260" preserveAspectRatio="xMidYMid meet" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <rect x="0.5" y="0.5" width="419" height="259" rx="12" fill="#0f172a" stroke="#334155" stroke-width="1"/>
+  <rect x="0" y="12" width="2" height="236" fill="#60a5fa" opacity="0.6">
+    <animate attributeName="opacity" values="0.5;0.9;0.5" dur="4s" repeatCount="indefinite"/>
+  </rect>
+  <text x="400" y="26" text-anchor="end" font-family="'JetBrains Mono', Consolas, monospace" font-size="10.5" fill="#94a3b8" letter-spacing="2.4">OVERVIEW</text>
   
-    <text x="105.0" y="78.0" text-anchor="middle" font-family="'Inter', 'Segoe UI', Arial, sans-serif" font-size="34" font-weight="600" fill="#f4f4f5" letter-spacing="-0.8">662</text>
-    <text x="105.0" y="102.0" text-anchor="middle" font-family="'JetBrains Mono', Consolas, monospace" font-size="10.5" fill="#52525a" letter-spacing="2.4">KATKI / 1Y</text>
+    <g opacity="0">
+      <animate attributeName="opacity" from="0" to="1" dur="0.6s" begin="0.10s" fill="freeze"/>
+      <text x="105.0" y="74.66666666666666" text-anchor="middle" font-family="'Inter', 'Segoe UI', Arial, sans-serif" font-size="28" font-weight="600" fill="#f8fafc" letter-spacing="-0.6">726</text>
+      <text x="105.0" y="96.66666666666666" text-anchor="middle" font-family="'JetBrains Mono', Consolas, monospace" font-size="9.5" fill="#94a3b8" letter-spacing="0.24em">CONTRIBS / 1Y</text>
+    </g>
 
-    <text x="315.0" y="78.0" text-anchor="middle" font-family="'Inter', 'Segoe UI', Arial, sans-serif" font-size="34" font-weight="600" fill="#f4f4f5" letter-spacing="-0.8">18</text>
-    <text x="315.0" y="102.0" text-anchor="middle" font-family="'JetBrains Mono', Consolas, monospace" font-size="10.5" fill="#52525a" letter-spacing="2.4">REPOSITORY</text>
+    <g opacity="0">
+      <animate attributeName="opacity" from="0" to="1" dur="0.6s" begin="0.22s" fill="freeze"/>
+      <text x="315.0" y="74.66666666666666" text-anchor="middle" font-family="'Inter', 'Segoe UI', Arial, sans-serif" font-size="28" font-weight="600" fill="#f8fafc" letter-spacing="-0.6">190</text>
+      <text x="315.0" y="96.66666666666666" text-anchor="middle" font-family="'JetBrains Mono', Consolas, monospace" font-size="9.5" fill="#94a3b8" letter-spacing="0.24em">COMMITS / 1Y</text>
+    </g>
 
-    <text x="105.0" y="158.0" text-anchor="middle" font-family="'Inter', 'Segoe UI', Arial, sans-serif" font-size="34" font-weight="600" fill="#f4f4f5" letter-spacing="-0.8">7</text>
-    <text x="105.0" y="182.0" text-anchor="middle" font-family="'JetBrains Mono', Consolas, monospace" font-size="10.5" fill="#52525a" letter-spacing="2.4">YILDIZ</text>
+    <g opacity="0">
+      <animate attributeName="opacity" from="0" to="1" dur="0.6s" begin="0.34s" fill="freeze"/>
+      <text x="105.0" y="140.0" text-anchor="middle" font-family="'Inter', 'Segoe UI', Arial, sans-serif" font-size="28" font-weight="600" fill="#f8fafc" letter-spacing="-0.6">2</text>
+      <text x="105.0" y="162.0" text-anchor="middle" font-family="'JetBrains Mono', Consolas, monospace" font-size="9.5" fill="#94a3b8" letter-spacing="0.24em">PULL REQUESTS</text>
+    </g>
 
-    <text x="315.0" y="158.0" text-anchor="middle" font-family="'Inter', 'Segoe UI', Arial, sans-serif" font-size="34" font-weight="600" fill="#f4f4f5" letter-spacing="-0.8">2</text>
-    <text x="315.0" y="182.0" text-anchor="middle" font-family="'JetBrains Mono', Consolas, monospace" font-size="10.5" fill="#52525a" letter-spacing="2.4">TAKİPÇİ</text>
-<line x1="210.0" y1="46" x2="210.0" y2="180" stroke="#1c1c20" stroke-width="1"/>
-<line x1="24" y1="120.0" x2="396" y2="120.0" stroke="#1c1c20" stroke-width="1"/>
+    <g opacity="0">
+      <animate attributeName="opacity" from="0" to="1" dur="0.6s" begin="0.46s" fill="freeze"/>
+      <text x="315.0" y="140.0" text-anchor="middle" font-family="'Inter', 'Segoe UI', Arial, sans-serif" font-size="28" font-weight="600" fill="#f8fafc" letter-spacing="-0.6">0</text>
+      <text x="315.0" y="162.0" text-anchor="middle" font-family="'JetBrains Mono', Consolas, monospace" font-size="9.5" fill="#94a3b8" letter-spacing="0.24em">ISSUES OPENED</text>
+    </g>
+
+    <g opacity="0">
+      <animate attributeName="opacity" from="0" to="1" dur="0.6s" begin="0.58s" fill="freeze"/>
+      <text x="105.0" y="205.33333333333331" text-anchor="middle" font-family="'Inter', 'Segoe UI', Arial, sans-serif" font-size="28" font-weight="600" fill="#f8fafc" letter-spacing="-0.6">25</text>
+      <text x="105.0" y="227.33333333333331" text-anchor="middle" font-family="'JetBrains Mono', Consolas, monospace" font-size="9.5" fill="#94a3b8" letter-spacing="0.24em">REPOSITORIES</text>
+    </g>
+
+    <g opacity="0">
+      <animate attributeName="opacity" from="0" to="1" dur="0.6s" begin="0.70s" fill="freeze"/>
+      <text x="315.0" y="205.33333333333331" text-anchor="middle" font-family="'Inter', 'Segoe UI', Arial, sans-serif" font-size="28" font-weight="600" fill="#f8fafc" letter-spacing="-0.6">7</text>
+      <text x="315.0" y="227.33333333333331" text-anchor="middle" font-family="'JetBrains Mono', Consolas, monospace" font-size="9.5" fill="#94a3b8" letter-spacing="0.24em">STARS</text>
+    </g>
+<line x1="210.0" y1="50" x2="210.0" y2="240" stroke="#334155" stroke-width="1"/>
+<line x1="24" y1="109.33333333333333" x2="396" y2="109.33333333333333" stroke="#334155" stroke-width="1"/>
+<line x1="24" y1="174.66666666666666" x2="396" y2="174.66666666666666" stroke="#334155" stroke-width="1"/>
 </svg>
