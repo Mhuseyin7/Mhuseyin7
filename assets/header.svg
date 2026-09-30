@@ -71,7 +71,7 @@
   <text x="32" y="140" font-family="'Inter', 'Segoe UI', Arial, sans-serif" font-size="15" fill="#cbd5e1">Full-Stack Architecture &#183; Self-hosted Apps</text>
 
   <!-- one-line spec -->
-  <text x="32" y="176" font-family="'JetBrains Mono', Consolas, monospace" font-size="12" fill="#94a3b8" letter-spacing="1.2">FAULT-TOLERANT &#183; SELF-HEALING &#183; OBSERVABILITY</text>
+  <text x="32" y="176" font-family="'JetBrains Mono', Consolas, monospace" font-size="11" fill="#94a3b8" letter-spacing="1.4">OPEN SOURCE &#183; AUTOMATION &#183; SELF-HOSTING &#183; AI SYSTEMS</text>
 
   <!-- right stat block with staggered fade-in on load -->
   <g font-family="'JetBrains Mono', Consolas, monospace">
