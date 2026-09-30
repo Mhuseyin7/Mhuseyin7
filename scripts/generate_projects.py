@@ -76,6 +76,8 @@ def parse_projects(html_text):
 
 
 def build_cell(p):
+    """Larger card: normal-size title + normal-weight description, tag chips as sub.
+    Reads far better than the previous double-<sub> compact style."""
     title = html_escape(p["title"])
     desc = html_escape(p["desc"])
     url = f"{SITE}/projeler/{p['slug']}"
@@ -84,8 +86,8 @@ def build_cell(p):
         tag_line = " · ".join(f"<code>{html_escape(t)}</code>" for t in p["tags"])
         tag_line = f'<br/><sub>{tag_line}</sub>'
     return (
-        f'      <sub>▸</sub> <b><a href="{url}">{title}</a></b><br/>\n'
-        f'      <sub>{desc}</sub>{tag_line}'
+        f'      <b>▸ <a href="{url}">{title}</a></b><br/>\n'
+        f'      {desc}{tag_line}'
     )
 
 
