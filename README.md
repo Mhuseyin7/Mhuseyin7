@@ -16,7 +16,7 @@
 
 <br/><br/>
 
-[![typing](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=32&duration=1800&pause=700&color=60A5FA&center=true&vCenter=true&random=false&width=520&height=64&lines=Build;Deploy;Observe)](https://www.muhammedkoca.com.tr)
+[![typing](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=17&duration=2600&pause=900&color=60A5FA&center=true&vCenter=true&random=false&width=720&height=44&lines=%24+.%2Fsystem+--heal+%E2%86%92+self-healing%3A+ACTIVE;Full-Stack+Architecture+%E2%80%A2+Self-hosted+Apps;Build+%C2%B7+Deploy+%C2%B7+Observe;1001%2B+posts+%C2%B7+1.1M%2B+words+%C2%B7+muhammedkoca.com.tr)](https://www.muhammedkoca.com.tr)
 
 <br/>
 
