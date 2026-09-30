@@ -1,7 +1,27 @@
-<svg width="880" height="10" viewBox="0 0 880 10" preserveAspectRatio="xMidYMid meet" fill="none" xmlns="http://www.w3.org/2000/svg">
-  <line x1="0" y1="5" x2="880" y2="5" stroke="#1c1c20" stroke-width="1"/>
+<svg width="880" height="14" viewBox="0 0 880 14" preserveAspectRatio="xMidYMid meet" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="dvTrail" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0" stop-color="#60a5fa" stop-opacity="0"/>
+      <stop offset="1" stop-color="#60a5fa" stop-opacity="0.55"/>
+    </linearGradient>
+    <filter id="dvGlow" x="-50%" y="-50%" width="200%" height="200%">
+      <feGaussianBlur stdDeviation="1.6" result="b"/>
+      <feMerge><feMergeNode in="b"/><feMergeNode in="SourceGraphic"/></feMerge>
+    </filter>
+  </defs>
+  <!-- base hairline -->
+  <line x1="0" y1="7" x2="880" y2="7" stroke="#334155" stroke-width="1"/>
+  <!-- soft glow line under diamond (static faint) -->
+  <line x1="0" y1="7" x2="880" y2="7" stroke="#60a5fa" stroke-width="1" stroke-opacity="0.06"/>
+
+  <!-- trail + diamond gliding left→right→left -->
   <g>
     <animateTransform attributeName="transform" type="translate" values="0 0; 872 0; 0 0" keyTimes="0;0.5;1" dur="7s" repeatCount="indefinite" calcMode="spline" keySplines="0.4 0 0.6 1; 0.4 0 0.6 1"/>
-    <rect x="0" y="2" width="8" height="6" rx="1" fill="#3b82f6"/>
+    <!-- trail rectangle behind diamond -->
+    <rect x="-70" y="6" width="70" height="2" fill="url(#dvTrail)" filter="url(#dvGlow)" opacity="0.8"/>
+    <!-- diamond core -->
+    <rect x="0" y="3" width="8" height="8" rx="1.2" fill="#93c5fd" filter="url(#dvGlow)">
+      <animate attributeName="fill" values="#93c5fd;#60a5fa;#93c5fd" dur="7s" repeatCount="indefinite"/>
+    </rect>
   </g>
 </svg>
