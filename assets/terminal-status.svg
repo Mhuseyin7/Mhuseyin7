@@ -27,18 +27,18 @@
   <g font-family="'JetBrains Mono', Consolas, monospace" font-size="13.5">
     <text x="70" y="70"><tspan fill="#3b82f6">$</tspan><tspan fill="#f4f4f5"> tail -f /var/log/muhammed-koca.log</tspan></text>
 
-    <text x="70" y="100"><tspan fill="#a1a1aa">build   </tspan><tspan fill="#f4f4f5">   MusclePull (AI SaaS)</tspan></text>
+    <text x="70" y="100"><tspan fill="#a1a1aa">build   </tspan><tspan fill="#f4f4f5">   MusclePull Updates</tspan></text>
     <rect x="360" y="90" width="360" height="6" rx="3" fill="#1c1c20"/>
     <rect x="360" y="90" width="288" height="6" rx="3" fill="#3b82f6"/>
     <text x="734" y="100" fill="#a1a1aa">80%</text>
 
-    <text x="70" y="124"><tspan fill="#a1a1aa">build   </tspan><tspan fill="#f4f4f5">   MhFW Optimizations</tspan></text>
+    <text x="70" y="124"><tspan fill="#a1a1aa">build   </tspan><tspan fill="#f4f4f5">   Linux Systems</tspan></text>
     <rect x="360" y="114" width="360" height="6" rx="3" fill="#1c1c20"/>
     <rect x="360" y="114" width="324" height="6" rx="3" fill="#3b82f6"/>
     <text x="734" y="124" fill="#a1a1aa">90%</text>
 
     <text x="70" y="148"><tspan fill="#a1a1aa">write   </tspan><tspan fill="#f4f4f5">   g&#252;nl&#252;k AI destekli i&#231;erik hatt&#305; &#8212; muhammedkoca.com.tr</tspan></text>
-    <text x="70" y="172"><tspan fill="#a1a1aa">goal    </tspan><tspan fill="#f4f4f5">   2026 &#8594; chaos engineering lab &#183; tam self-healing stack</tspan></text>
+    <text x="70" y="172"><tspan fill="#a1a1aa">goal    </tspan><tspan fill="#f4f4f5">   System Architect</tspan></text>
   </g>
 
   <!-- cursor -->
