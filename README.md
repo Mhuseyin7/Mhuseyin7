@@ -27,7 +27,7 @@
 
 <a href="mailto:mhuseyinkoca9@gmail.com"><img alt="Mail" src="https://img.shields.io/badge/Mail-mhuseyinkoca9%40gmail.com-0f172a?style=flat-square&logo=gmail&logoColor=60a5fa"></a>
 <a href="https://www.muhammedkoca.com.tr/rss.xml"><img alt="RSS" src="https://img.shields.io/badge/RSS-Feed-0f172a?style=flat-square&logo=rss&logoColor=60a5fa"></a>
-<img alt="profile views" src="https://komarev.com/ghpvc/?username=Mhuseyin7&label=Visits&color=60a5fa&style=flat-square">
+<img alt="profile views" src="https://hits.sh/github.com/Mhuseyin7.svg?label=Visits&color=60a5fa&style=flat-square">
 <img alt="followers" src="https://img.shields.io/github/followers/Mhuseyin7?style=flat-square&label=Followers&color=60a5fa&labelColor=0f172a">
 
 </div>
