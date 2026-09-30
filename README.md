@@ -1,22 +1,22 @@
 <!--
-  ⚙️ Otomatik güncellenen bölümler:
-     · blog kartları  (blog-posts.yml, 6 saatte bir)
-     · proje kartları (projects.yml,   6 saatte bir — muhammedkoca.com.tr/projeler)
-     · GitHub kartları (stats-cache.yml, günlük)
-     · katkı trafiği (snake.yml, günlük)
-  🎨 Header / divider / footer / terminal görselleri: assets/ klasöründeki el yapımı
-  animasyonlu SVG'ler — harici servis yok.
-  📖 Kurulum: KURULUM-REHBERI.md
+  ⚙️ Auto-updated sections:
+     · blog cards    (blog-posts.yml,   every 6h)
+     · project cards (projects.yml,     every 6h — muhammedkoca.com.tr/projeler)
+     · GitHub cards  (stats-cache.yml,  daily)
+     · contribution  (snake.yml,        daily)
+  🎨 Header / divider / footer / terminal / architecture visuals: hand-crafted
+     animated SVGs in assets/ — no external service.
+  📖 Setup notes: KURULUM-REHBERI.md
 -->
 
 <div align="center">
 
-<!-- ═══ El yapımı animasyonlu header — assets/header.svg ═══ -->
-<a href="https://www.muhammedkoca.com.tr"><img src="assets/header.svg" alt="Muhammed Koca — Full-Stack Architect" width="100%"/></a>
+<!-- ═══ Animated header — assets/header.svg ═══ -->
+<a href="https://www.muhammedkoca.com.tr"><img src="assets/header.svg" alt="Muhammed Koca — Full-Stack Architecture" width="100%"/></a>
 
 <br/><br/>
 
-[![typing](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=17&duration=2600&pause=900&color=3B82F6&center=true&vCenter=true&random=false&width=700&height=44&lines=%24+.%2Fsystem+--heal+%E2%86%92+self-healing%3A+ACTIVE;%C3%96ng%C3%B6r+%E2%86%92+Kurtar+%E2%86%92+G%C3%BC%C3%A7lendir;Fault-tolerant+%C2%B7+Chaos+Engineering+%C2%B7+Observability;1001%2B+yaz%C4%B1+%C2%B7+1.1M%2B+kelime+%C2%B7+muhammedkoca.com.tr)](https://www.muhammedkoca.com.tr)
+[![typing](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=17&duration=2600&pause=900&color=3B82F6&center=true&vCenter=true&random=false&width=720&height=44&lines=%24+.%2Fsystem+--heal+%E2%86%92+self-healing%3A+ACTIVE;Full-Stack+Architecture+%E2%80%A2+Self-hosted+Apps;Fault-tolerant+%C2%B7+Chaos+Engineering+%C2%B7+Observability;1001%2B+posts+%C2%B7+1.1M%2B+words+%C2%B7+muhammedkoca.com.tr)](https://www.muhammedkoca.com.tr)
 
 <a href="https://www.muhammedkoca.com.tr/"><img alt="Blog" src="https://img.shields.io/badge/Blog-muhammedkoca.com.tr-3b82f6?style=flat-square&logo=astro&logoColor=white&labelColor=0a0a0b"></a>&nbsp;
 <a href="https://www.linkedin.com/in/muhammedkocaa/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Muhammed%20Koca-3b82f6?style=flat-square&logo=linkedin&logoColor=white&labelColor=0a0a0b"></a>&nbsp;
@@ -24,7 +24,7 @@
 
 <a href="mailto:mhuseyinkoca9@gmail.com"><img alt="Mail" src="https://img.shields.io/badge/Mail-mhuseyinkoca9%40gmail.com-0a0a0b?style=flat-square&logo=gmail&logoColor=3b82f6"></a>
 <a href="https://www.muhammedkoca.com.tr/rss.xml"><img alt="RSS" src="https://img.shields.io/badge/RSS-Feed-0a0a0b?style=flat-square&logo=rss&logoColor=3b82f6"></a>
-<img alt="profile views" src="https://komarev.com/ghpvc/?username=Mhuseyin7&label=Ziyaret&color=3b82f6&style=flat-square">
+<img alt="profile views" src="https://komarev.com/ghpvc/?username=Mhuseyin7&label=Visits&color=3b82f6&style=flat-square">
 <img alt="followers" src="https://img.shields.io/github/followers/Mhuseyin7?style=flat-square&label=Followers&color=3b82f6&labelColor=0a0a0b">
 
 </div>
@@ -53,15 +53,26 @@
 
 <img src="https://skillicons.dev/icons?i=linux,docker,bash,git,github,vscode&theme=dark" alt="devops"/>
 
-<img alt="Bare-metal" src="https://img.shields.io/badge/Deploy-Bare--Metal%20%2B%20Self--Hosted-fb923c?style=flat-square&logo=linux&logoColor=white">
-<img alt="AI pipeline" src="https://img.shields.io/badge/AI%20Content%20Pipeline-Aktif-f43f5e?style=flat-square&logo=githubactions&logoColor=white">
-<img alt="Backup" src="https://img.shields.io/badge/Backup-3--2--1%20Otomasyon-facc15?style=flat-square">
+<br/>
+
+<img alt="Bare-metal" src="https://img.shields.io/badge/Deploy-Bare--Metal%20%2B%20Self--Hosted-3b82f6?style=flat-square&logo=linux&logoColor=white&labelColor=0a0a0b">
+<img alt="AI pipeline" src="https://img.shields.io/badge/AI%20Content%20Pipeline-Active-3b82f6?style=flat-square&logo=githubactions&logoColor=white&labelColor=0a0a0b">
+<img alt="Backup" src="https://img.shields.io/badge/Backup-3--2--1%20Automated-3b82f6?style=flat-square&labelColor=0a0a0b">
+<img alt="Observability" src="https://img.shields.io/badge/Observability-Logs%20%C2%B7%20Metrics%20%C2%B7%20Traces-3b82f6?style=flat-square&labelColor=0a0a0b">
 
 </div>
 
 <img src="assets/divider.svg" alt="" width="100%"/>
 
-## 🚀 Projeler
+## 🏗️ Architecture Map
+
+<img src="assets/architecture.svg" alt="Four-tier self-hosted architecture map with data-flow" width="100%"/>
+
+<div align="center"><sub>Four-tier stack (Edge → App → API → Data) sitting on a self-hosted bare-metal base, wrapped by a shared observability + self-heal loop.</sub></div>
+
+<img src="assets/divider.svg" alt="" width="100%"/>
+
+## 🚀 Projects
 
 <!-- Bu tablo scripts/generate_projects.py tarafından muhammedkoca.com.tr/projeler
      sayfasından üstten 10 proje kartı çekilerek üretilir. -->
@@ -120,11 +131,11 @@
 </table>
 <!-- PROJECTS:END -->
 
-<div align="center"><sub>Tam liste → <a href="https://www.muhammedkoca.com.tr/projeler">muhammedkoca.com.tr/projeler</a></sub></div>
+<div align="center"><sub>Full list → <a href="https://www.muhammedkoca.com.tr/projeler">muhammedkoca.com.tr/projeler</a></sub></div>
 
 <img src="assets/divider.svg" alt="" width="100%"/>
 
-## 📡 Canlı Durum
+## 📡 Live Status
 
 <img src="assets/terminal-status.svg" alt="tail -f muhammed-koca.log" width="100%"/>
 
@@ -132,32 +143,35 @@
 
 ## 📊 GitHub
 
-<!-- Bu 4 kart, DOĞRUDAN GitHub API'sinden (scripts/generate_stats.py) üretilir ve
-     assets/cache/ altına yazılır. Hiçbir dış render servisine (vercel.app, demolab.com)
-     bağımlı değildir — tek veri kaynağı GitHub'ın kendisi. -->
+<!-- Cards below are rendered DIRECTLY from GitHub's own GraphQL API by
+     scripts/generate_stats.py and written to assets/cache/. No external
+     render service (vercel.app, demolab.com…) — the only data source is
+     GitHub itself. Overview now shows: total contribs, commits, PRs, issues,
+     repos, stars. Streak card adds reviews + active days. Activity is a
+     real GitHub-style contribution heatmap. -->
 <table align="center">
   <tr>
-    <td align="center" width="50%"><img src="assets/cache/overview.svg" alt="genel bakış" width="100%"/></td>
-    <td align="center" width="50%"><img src="assets/cache/streak.svg" alt="streak" width="100%"/></td>
+    <td align="center" width="50%"><img src="assets/cache/overview.svg" alt="overview — contribs, commits, PRs, issues, repos, stars" width="100%"/></td>
+    <td align="center" width="50%"><img src="assets/cache/streak.svg" alt="streak — current, longest, reviews, active days" width="100%"/></td>
   </tr>
 </table>
 
-<p align="center"><img src="assets/cache/langs.svg" alt="en çok kullanılan diller" width="100%"/></p>
-<p align="center"><img src="assets/cache/activity.svg" alt="katkı aktivitesi" width="100%"/></p>
+<p align="center"><img src="assets/cache/langs.svg" alt="top languages" width="100%"/></p>
+<p align="center"><img src="assets/cache/activity.svg" alt="26-week contribution heatmap" width="100%"/></p>
 
 <img src="assets/divider.svg" alt="" width="100%"/>
 
-## ✍️ Son Yazılar
+## ✍️ Recent Writings
 
-<!-- Bu kartlar scripts/generate_blog_cards.py tarafından üretilir. Kapak görselleri
-     sitenin KENDİ og:image'inden alınır (muhammedkoca.com.tr/api/og/cover.svg) —
-     URL'yi biz kurmuyoruz, sitenin ürettiği meta etiketi doğrudan kopyalıyoruz. -->
+<!-- Rendered by scripts/generate_blog_cards.py from the site's RSS feed
+     (muhammedkoca.com.tr/rss.xml). Cover images come from the article's own
+     og:image meta tag — the URL is not hand-built. -->
 <!-- BLOG-CARDS:START -->
 <table>
   <tr>
     <td width="260"><a href="https://www.muhammedkoca.com.tr/blog/dagitik-sistemlerde-performans-darbogazlarini-tespit-etmek-ve-cozmek-node-js-pri"><img src="https://www.muhammedkoca.com.tr/api/og/cover.svg?title=Da%C4%9F%C4%B1t%C4%B1k%20Sistemlerde%20Performans%20Darbo%C4%9Fazlar%C4%B1n%C4%B1%20Tespit%20Etmek%20ve%20%C3%87%C3%B6zmek%3A%20Node.js%2C%20Prisma%20ve%20Mikroservislerde%20%C4%B0leri%20D%C3%BCzey%20Optimizasyon%20Stratejileri&category=Mimari" width="240" alt="Dağıtık Sistemlerde Performans Darboğazlarını Tespit Etmek ve Çözmek: Node.js, Prisma ve Mikroservislerde İleri Düzey Optimizasyon Stratejileri"/></a></td>
     <td valign="top" width="580">
-      <img src="https://img.shields.io/badge/Mimari-fb923c?style=flat-square" alt="Mimari"/> <sub>29 Tem 2026</sub><br/><br/>
+      <img src="https://img.shields.io/badge/Mimari-3b82f6?style=flat-square&labelColor=0a0a0b" alt="Mimari"/> <sub>29 Tem 2026</sub><br/><br/>
       <a href="https://www.muhammedkoca.com.tr/blog/dagitik-sistemlerde-performans-darbogazlarini-tespit-etmek-ve-cozmek-node-js-pri"><b>Dağıtık Sistemlerde Performans Darboğazlarını Tespit Etmek ve Çözmek: Node.js, Prisma ve Mikroservislerde İleri Düzey Optimizasyon Stratejileri</b></a><br/><br/>
       <sub>Dağıtık sistemlerde performans darboğazları, çoğu zaman görünmez bir düşman gibi sisteminizi yavaş yavaş çökertir. Bu makalede, Node.js ve Prisma…</sub>
     </td>
@@ -166,7 +180,7 @@
   <tr>
     <td width="260"><a href="https://www.muhammedkoca.com.tr/blog/dagitik-sistemlerde-kritik-veri-tutarliligi-node-js-ve-prisma-ile-saga-pattern-u-2"><img src="https://www.muhammedkoca.com.tr/api/og/cover.svg?title=Da%C4%9F%C4%B1t%C4%B1k%20Sistemlerde%20Kritik%20Veri%20Tutarl%C4%B1l%C4%B1%C4%9F%C4%B1%3A%20Node.js%20ve%20Prisma%20ile%20Saga%20Pattern%20Uygulamas%C4%B1%20ve%20Prod%C3%BCksiyon%20Felaketlerinden%20Dersler&category=Mimari" width="240" alt="Dağıtık Sistemlerde Kritik Veri Tutarlılığı: Node.js ve Prisma ile Saga Pattern Uygulaması ve Prodüksiyon Felaketlerinden Dersler"/></a></td>
     <td valign="top" width="580">
-      <img src="https://img.shields.io/badge/Mimari-fb923c?style=flat-square" alt="Mimari"/> <sub>29 Tem 2026</sub><br/><br/>
+      <img src="https://img.shields.io/badge/Mimari-3b82f6?style=flat-square&labelColor=0a0a0b" alt="Mimari"/> <sub>29 Tem 2026</sub><br/><br/>
       <a href="https://www.muhammedkoca.com.tr/blog/dagitik-sistemlerde-kritik-veri-tutarliligi-node-js-ve-prisma-ile-saga-pattern-u-2"><b>Dağıtık Sistemlerde Kritik Veri Tutarlılığı: Node.js ve Prisma ile Saga Pattern Uygulaması ve Prodüksiyon Felaketlerinden Dersler</b></a><br/><br/>
       <sub>Dağıtık sistemlerde ACID işlemleri sağlamak, veritabanı sınırlarını aşan iş akışlarında tutarlılığı korumak kritik bir zorluktur. Bu makalede, Saga…</sub>
     </td>
@@ -175,7 +189,7 @@
   <tr>
     <td width="260"><a href="https://www.muhammedkoca.com.tr/blog/yuksek-performansli-muhendislik-zihni-24-saatlik-uretkenlik-dongusunu-yeniden-ta"><img src="https://www.muhammedkoca.com.tr/api/og/cover.svg?title=Y%C3%BCksek%20Performansl%C4%B1%20M%C3%BChendislik%20Zihni%3A%2024%20Saatlik%20%C3%9Cretkenlik%20D%C3%B6ng%C3%BCs%C3%BCn%C3%BC%20Yeniden%20Tasarlamak&category=Ya%C5%9Fam" width="240" alt="Yüksek Performanslı Mühendislik Zihni: 24 Saatlik Üretkenlik Döngüsünü Yeniden Tasarlamak"/></a></td>
     <td valign="top" width="580">
-      <img src="https://img.shields.io/badge/Yaşam-fb923c?style=flat-square" alt="Yaşam"/> <sub>29 Tem 2026</sub><br/><br/>
+      <img src="https://img.shields.io/badge/Ya%C5%9Fam-3b82f6?style=flat-square&labelColor=0a0a0b" alt="Yaşam"/> <sub>29 Tem 2026</sub><br/><br/>
       <a href="https://www.muhammedkoca.com.tr/blog/yuksek-performansli-muhendislik-zihni-24-saatlik-uretkenlik-dongusunu-yeniden-ta"><b>Yüksek Performanslı Mühendislik Zihni: 24 Saatlik Üretkenlik Döngüsünü Yeniden Tasarlamak</b></a><br/><br/>
       <sub>15 yıllık üretim sistemleri mimarisinde edindiğim tecrübeler, mühendislik verimliliğinin kod yazmaktan ibaret olmadığını gösterdi. Gerçek yüksek…</sub>
     </td>
@@ -183,24 +197,95 @@
 </table>
 <!-- BLOG-CARDS:END -->
 
-<sub>📡 6 saatte bir <a href="https://www.muhammedkoca.com.tr/rss.xml">rss.xml</a> üzerinden otomatik güncellenir, kapak görselleri sitenin kendi og:image'inden gelir · tümü → <a href="https://www.muhammedkoca.com.tr/blog">/blog</a></sub>
+<sub>📡 Auto-refreshed every 6h from <a href="https://www.muhammedkoca.com.tr/rss.xml">rss.xml</a>; cover images pulled from each article's own og:image · full archive → <a href="https://www.muhammedkoca.com.tr/blog">/blog</a></sub>
+
+<img src="assets/divider.svg" alt="" width="100%"/>
+
+## 🎯 Now
+
+<table>
+  <tr>
+    <td width="33%" valign="top" align="center">
+      <sub><b>BUILDING</b></sub><br/><br/>
+      <b>MusclePull Updates</b><br/>
+      <sub>AI-assisted fitness &amp; nutrition SaaS · daily iterations</sub>
+    </td>
+    <td width="33%" valign="top" align="center">
+      <sub><b>OPERATING</b></sub><br/><br/>
+      <b>Linux Systems</b><br/>
+      <sub>bare-metal + self-hosted stack across the fleet</sub>
+    </td>
+    <td width="33%" valign="top" align="center">
+      <sub><b>WRITING</b></sub><br/><br/>
+      <b>Daily AI Content Pipeline</b><br/>
+      <sub>muhammedkoca.com.tr — 1001+ posts &amp; counting</sub>
+    </td>
+  </tr>
+</table>
+
+<img src="assets/divider.svg" alt="" width="100%"/>
+
+## 🗓️ Milestones
+
+<table>
+  <tr>
+    <td align="center" width="20%"><sub><b>2022</b></sub><br/><sub>first step</sub></td>
+    <td align="center" width="20%"><sub><b>2023</b></sub><br/><sub>foundation</sub></td>
+    <td align="center" width="20%"><sub><b>2024</b></sub><br/><sub>small projects</sub></td>
+    <td align="center" width="20%"><sub><b>2025</b></sub><br/><sub>full command</sub></td>
+    <td align="center" width="20%"><sub><b>2026</b></sub><br/><sub><b>System Architect</b></sub></td>
+  </tr>
+</table>
 
 <img src="assets/divider.svg" alt="" width="100%"/>
 
 ## 🚘 Contribution Traffic
 
-<!-- Araba: snake.yml çalıştıktan sonra görünür. Açık/koyu tema uyumludur. -->
+<!-- Car: shown after snake.yml runs. Light/dark theme aware. -->
 <div align="center">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Mhuseyin7/Mhuseyin7/output/contribution-car-dark.svg">
-    <img alt="Katkıların arasında makas atan araba" src="https://raw.githubusercontent.com/Mhuseyin7/Mhuseyin7/output/contribution-car.svg" width="100%">
+    <img alt="Car cutting through the contribution graph" src="https://raw.githubusercontent.com/Mhuseyin7/Mhuseyin7/output/contribution-car.svg" width="100%">
   </picture>
+</div>
+
+<img src="assets/divider.svg" alt="" width="100%"/>
+
+## 📮 Get in Touch
+
+<div align="center">
+
+<table>
+  <tr>
+    <td align="center" width="20%">
+      <a href="https://www.muhammedkoca.com.tr"><img src="https://img.shields.io/badge/-Blog-3b82f6?style=for-the-badge&logo=astro&logoColor=white&labelColor=0a0a0b" alt="Blog"/></a><br/>
+      <sub>muhammedkoca.com.tr</sub>
+    </td>
+    <td align="center" width="20%">
+      <a href="https://www.linkedin.com/in/muhammedkocaa/"><img src="https://img.shields.io/badge/-LinkedIn-3b82f6?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0a0a0b" alt="LinkedIn"/></a><br/>
+      <sub>Muhammed Koca</sub>
+    </td>
+    <td align="center" width="20%">
+      <a href="https://www.instagram.com/muhammedkoca.dev/"><img src="https://img.shields.io/badge/-Instagram-3b82f6?style=for-the-badge&logo=instagram&logoColor=white&labelColor=0a0a0b" alt="Instagram"/></a><br/>
+      <sub>@muhammedkoca.dev</sub>
+    </td>
+    <td align="center" width="20%">
+      <a href="mailto:mhuseyinkoca9@gmail.com"><img src="https://img.shields.io/badge/-Email-3b82f6?style=for-the-badge&logo=gmail&logoColor=white&labelColor=0a0a0b" alt="Email"/></a><br/>
+      <sub>mhuseyinkoca9@gmail.com</sub>
+    </td>
+    <td align="center" width="20%">
+      <a href="https://www.muhammedkoca.com.tr/rss.xml"><img src="https://img.shields.io/badge/-RSS-3b82f6?style=for-the-badge&logo=rss&logoColor=white&labelColor=0a0a0b" alt="RSS"/></a><br/>
+      <sub>rss.xml</sub>
+    </td>
+  </tr>
+</table>
+
 </div>
 
 <br/>
 
-<!-- ═══ El yapımı animasyonlu footer — assets/footer.svg ═══ -->
+<!-- ═══ Animated footer — assets/footer.svg ═══ -->
 <div align="center">
   <a href="https://www.muhammedkoca.com.tr"><img src="assets/footer.svg" alt="Öngör → Kurtar → Güçlendir — muhammedkoca.com.tr" width="100%"/></a>
-  <sub><i>Bu profil işine yaradıysa <a href="https://github.com/Mhuseyin7">takip et</a> — dirençli mimariler ve gerçek production senaryoları üzerine üretiyorum.</i></sub>
+  <sub><i>If this profile was useful to you, <a href="https://github.com/Mhuseyin7">follow along</a> — I build resilient architectures &amp; ship real production stories.</i></sub>
 </div>
