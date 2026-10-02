@@ -47,8 +47,11 @@ def truncate(text, n=140):
 def parse_projects(html_text):
     """article.projects-card blocklarını sırayla ayıklar; her karttan slug,
     başlık, kısa açıklama ve ilk birkaç tag'i çıkarır."""
+    # Allow extra attributes (e.g. data-tags="…") between the class attribute
+    # and the closing `>` — the site started emitting those in Oct 2026 and
+    # the stricter pattern below matched zero cards after that change.
     article_re = re.compile(
-        r'<article class="projects-card[^"]*">(.*?)</article>',
+        r'<article class="projects-card[^"]*"[^>]*>(.*?)</article>',
         re.DOTALL,
     )
     items = []
