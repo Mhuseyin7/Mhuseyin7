@@ -8,7 +8,7 @@
   <g opacity="0">
     <animate attributeName="opacity" from="0" to="1" dur="0.6s" begin="0.1s" fill="freeze"/>
     <text x="30" y="60" font-family="'JetBrains Mono', Consolas, monospace" font-size="9.5" fill="#94a3b8" letter-spacing="0.24em">CURRENT STREAK</text>
-    <text x="30" y="108" font-family="'Inter', 'Segoe UI', Arial, sans-serif" font-size="52" font-weight="600" fill="#f8fafc" letter-spacing="-1.4">1</text>
+    <text x="30" y="108" font-family="'Inter', 'Segoe UI', Arial, sans-serif" font-size="52" font-weight="600" fill="#f8fafc" letter-spacing="-1.4">2</text>
     <text x="30" y="128" font-family="'JetBrains Mono', Consolas, monospace" font-size="10" fill="#cbd5e1" letter-spacing="0.06em">days · active</text>
   </g>
 
@@ -32,7 +32,7 @@
   <g opacity="0">
     <animate attributeName="opacity" from="0" to="1" dur="0.6s" begin="0.55s" fill="freeze"/>
     <text x="240" y="184.0" font-family="'JetBrains Mono', Consolas, monospace" font-size="9.5" fill="#94a3b8" letter-spacing="0.24em">ACTIVE DAYS</text>
-    <text x="240" y="222.0" font-family="'Inter', 'Segoe UI', Arial, sans-serif" font-size="34" font-weight="600" fill="#f8fafc" letter-spacing="-0.8">81</text>
+    <text x="240" y="222.0" font-family="'Inter', 'Segoe UI', Arial, sans-serif" font-size="34" font-weight="600" fill="#f8fafc" letter-spacing="-0.8">82</text>
   </g>
 
 </svg>
