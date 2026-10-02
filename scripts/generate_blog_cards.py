@@ -65,6 +65,19 @@ def extract_meta(html_text, prop):
     return None
 
 
+def extract_cover_image(html_text):
+    """İlk <img class="cover-img" src="..."> etiketinin src değerini döndürür.
+    Sitenin og:image'i Ekim 2026'da generic placeholder'a (og-default.png)
+    döndürüldüğü için her yazının kendi kapak görseli artık yalnızca
+    cover-img sınıfından okunabiliyor."""
+    for tag in re.findall(r"<img\b[^>]*>", html_text, re.IGNORECASE):
+        if re.search(r'class=["\'][^"\']*\bcover-img\b[^"\']*["\']', tag, re.IGNORECASE):
+            m = re.search(r'src=["\']([^"\']*)["\']', tag, re.IGNORECASE)
+            if m:
+                return unescape(m.group(1))
+    return None
+
+
 def format_date(pub_date):
     m = re.match(r"\w+,\s*(\d{1,2})\s+(\w{3})\s+(\d{4})", pub_date)
     if m:
@@ -83,12 +96,15 @@ def build_cards(items):
     rows = []
     for it in items:
         page_html = fetch(it["link"])
-        cover = extract_meta(page_html, "og:image") or ""
+        # Prefer the per-post cover-img (dinamik SVG kapak), og:image artık
+        # sayfadan sayfaya değişmediği için (og-default.png) fallback olarak
+        # kalıyor. Hiçbiri yoksa hata ver — kart kapaksız gitmez.
+        cover = extract_cover_image(page_html) or extract_meta(page_html, "og:image") or ""
         category = extract_meta(page_html, "article:section") or ""
         if cover.startswith("/"):
             cover = SITE + cover
         if not cover:
-            raise RuntimeError(f"og:image bulunamadı: {it['link']}")
+            raise RuntimeError(f"kapak görseli bulunamadı: {it['link']}")
 
         title_safe = html_escape(it["title"])
         desc_safe = html_escape(truncate(it["desc"]))
