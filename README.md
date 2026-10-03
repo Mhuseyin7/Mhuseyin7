@@ -115,32 +115,32 @@
   </tr>
   <tr>
     <td width="50%" valign="top">
-      <b>▸ <a href="https://www.muhammedkoca.com.tr/projeler/mk-framework">Mk Framework</a></b><br/>
-      Python ve React mimarileri üzerine inşa edilmiş, full-stack web uygulaması geliştirme süreçlerini hızlandıran özel bir framework altyapısı…<br/><sub><code>Python</code> · <code>React</code> · <code>Full-Stack</code> · <code>Framework</code></sub>
-    </td>
-    <td width="50%" valign="top">
       <b>▸ <a href="https://www.muhammedkoca.com.tr/projeler/sry-production-tracking-system">SRY Production Tracking System</a></b><br/>
       İşletmeler için dinamik vardiya rotasyonu ve anlık randıman analizi sunan üretim ve performans yönetim sistemi. Excel entegrasyonuyla ham…<br/><sub><code>PHP</code> · <code>MySQL</code> · <code>JavaScript</code> · <code>Excel Integration</code></sub>
     </td>
-  </tr>
-  <tr>
     <td width="50%" valign="top">
       <b>▸ <a href="https://www.muhammedkoca.com.tr/projeler/mhengine-universal-design-to-code-platform">MhEngine — Universal Design-to-Code Platform</a></b><br/>
       Görsel sürükle-bırak tasarımları AST tabanlı derleyici motoruyla React, Vue, Svelte, Flutter ve PHP Blade kodlarına dönüştüren enterprise…<br/><sub><code>No-Code</code> · <code>Low-Code</code> · <code>Code Generator</code> · <code>Compiler</code></sub>
     </td>
+  </tr>
+  <tr>
     <td width="50%" valign="top">
       <b>▸ <a href="https://www.muhammedkoca.com.tr/projeler/planter-gercek-zamanli-gorev-yonetim-platformu-web-desktop">PlanTer - Gerçek Zamanlı Görev Yönetim Platformu (Web &amp; Desktop)</a></b><br/>
       Web ve masaüstü platformlarında eş zamanlı çalışan, gerçek zamanlı veri senkronizasyonlu görev ve verimlilik platformu. Offline-First…<br/><sub><code>Next.js</code> · <code>Electron</code> · <code>TypeScript</code> · <code>Node.js</code></sub>
     </td>
-  </tr>
-  <tr>
     <td width="50%" valign="top">
       <b>▸ <a href="https://www.muhammedkoca.com.tr/projeler/muhammed-koca-ai-destekli-blog-cms-platformu">Muhammed Koca — AI Destekli Blog &amp; CMS Platformu</a></b><br/>
       Astro SSR, TypeScript ve Prisma/PostgreSQL üzerine kurulu; çoklu-sağlayıcılı yapay zeka ile otomatik içerik üreten, uçtan uca kendim…<br/><sub><code>Astro</code> · <code>TypeScript</code> · <code>Prisma</code> · <code>PostgreSQL</code></sub>
     </td>
+  </tr>
+  <tr>
     <td width="50%" valign="top">
-      <b>▸ <a href="https://www.muhammedkoca.com.tr/projeler/python-full-stack-blog-messaging-system">Python Full-Stack Blog &amp; Messaging System</a></b><br/>
-      Python tabanlı modern bir mimariyle geliştirilmiş, içerik paylaşımı ve anlık iletişime odaklanan sosyal platform. WebSocket altyapısı ve…<br/><sub><code>Python</code> · <code>React</code> · <code>FastAPI</code> · <code>WebSockets</code></sub>
+      <b>▸ <a href="https://www.muhammedkoca.com.tr/projeler/silanur-nails">Sılanur Nails</a></b><br/>
+      Sılanur Nails için PHP ve MySQL altyapısıyla geliştirdiğim, randevu alma sistemi, çok dilli içerik yönetimi, hizmet/galeri yönetimi ve özel…<br/><sub><code>PHP 8</code> · <code>MySQL</code> · <code>PDO</code> · <code>Admin Panel</code></sub>
+    </td>
+    <td width="50%" valign="top">
+      <b>▸ <a href="https://www.muhammedkoca.com.tr/projeler/qrfitr-gelismis-ve-guvenli-qr-kod-platformu">QrFitr - Gelişmiş ve Güvenli QR Kod Platformu</a></b><br/>
+      Özel &quot;Cyber Tech&quot; tasarım sistemine sahip, güvenlik odaklı ve self-hosted dinamik QR kod üretme ve analitik platformu. Gelişmiş…<br/><sub><code>PHP</code> · <code>MySQL</code> · <code>TailwindCSS</code> · <code>Vanilla JS</code></sub>
     </td>
   </tr>
 </table>
