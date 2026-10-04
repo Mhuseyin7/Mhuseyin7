@@ -184,16 +184,7 @@
 <!-- BLOG-CARDS:START -->
 <table>
   <tr>
-    <td width="260"><a href="https://www.muhammedkoca.com.tr/blog/sabah-rutininde-teknoloji-kullanimi-basit-ama-etkili-aliskanliklar"><img src="https://www.muhammedkoca.com.tr/api/og/cover.svg?title=Sabah%20Rutininde%20Teknoloji%20Kullan%C4%B1m%C4%B1%3A%20Basit%20Ama%20Etkili%20Al%C4%B1%C5%9Fkanl%C4%B1klar&category=Ya%C5%9Fam&v=2" width="240" alt="Sabah Rutininde Teknoloji Kullanımı: Basit Ama Etkili Alışkanlıklar"/></a></td>
-    <td valign="top" width="580">
-      <img src="https://img.shields.io/badge/Yaşam-60a5fa?style=flat-square&labelColor=0f172a" alt="Yaşam"/> <sub>2 Eyl 2026</sub><br/><br/>
-      <a href="https://www.muhammedkoca.com.tr/blog/sabah-rutininde-teknoloji-kullanimi-basit-ama-etkili-aliskanliklar"><b>Sabah Rutininde Teknoloji Kullanımı: Basit Ama Etkili Alışkanlıklar</b></a><br/><br/>
-      <sub>Güne enerjik başlamak, tüm gününüzü etkileyen kilit bir adımdır. Teknoloji bu rutinde hem harika bir yardımcı hem de büyük bir dikkat dağıtıcı…</sub>
-    </td>
-  </tr>
-  <tr><td colspan="2"><img src="assets/divider.svg" alt="" width="100%"/></td></tr>
-  <tr>
-    <td width="260"><a href="https://www.muhammedkoca.com.tr/blog/5-adimda-bilgisayar-sicakligini-izleme-ve-toz-temizligi-rehberi"><img src="https://www.muhammedkoca.com.tr/api/og/cover.svg?title=5%20Ad%C4%B1mda%20Bilgisayar%20S%C4%B1cakl%C4%B1%C4%9F%C4%B1n%C4%B1%20%C4%B0zleme%20ve%20Toz%20Temizli%C4%9Fi%20Rehberi&category=Rehberler&v=2" width="240" alt="5 Adımda Bilgisayar Sıcaklığını İzleme ve Toz Temizliği Rehberi"/></a></td>
+    <td width="260"><a href="https://www.muhammedkoca.com.tr/blog/5-adimda-bilgisayar-sicakligini-izleme-ve-toz-temizligi-rehberi"><img src="https://www.muhammedkoca.com.tr/api/og/cover.svg?title=5+Ad%C4%B1mda+Bilgisayar+S%C4%B1cakl%C4%B1%C4%9F%C4%B1n%C4%B1+%C4%B0zleme+ve+Toz+Temizli%C4%9Fi+Rehberi&category=Rehberler&v=3" width="240" alt="5 Adımda Bilgisayar Sıcaklığını İzleme ve Toz Temizliği Rehberi"/></a></td>
     <td valign="top" width="580">
       <img src="https://img.shields.io/badge/Rehberler-60a5fa?style=flat-square&labelColor=0f172a" alt="Rehberler"/> <sub>31 Ağu 2026</sub><br/><br/>
       <a href="https://www.muhammedkoca.com.tr/blog/5-adimda-bilgisayar-sicakligini-izleme-ve-toz-temizligi-rehberi"><b>5 Adımda Bilgisayar Sıcaklığını İzleme ve Toz Temizliği Rehberi</b></a><br/><br/>
@@ -202,11 +193,20 @@
   </tr>
   <tr><td colspan="2"><img src="assets/divider.svg" alt="" width="100%"/></td></tr>
   <tr>
-    <td width="260"><a href="https://www.muhammedkoca.com.tr/blog/vlan-ile-ag-bolumleme-en-cok-merak-edilen-sorular-ve-pratik-cevaplar"><img src="https://www.muhammedkoca.com.tr/api/og/cover.svg?title=VLAN%20ile%20A%C4%9F%20B%C3%B6l%C3%BCmleme%3A%20En%20%C3%87ok%20Merak%20Edilen%20Sorular%20ve%20Pratik%20Cevaplar&category=Teknoloji&v=2" width="240" alt="VLAN ile Ağ Bölümleme: En Çok Merak Edilen Sorular ve Pratik Cevaplar"/></a></td>
+    <td width="260"><a href="https://www.muhammedkoca.com.tr/blog/vlan-ile-ag-bolumleme-en-cok-merak-edilen-sorular-ve-pratik-cevaplar"><img src="https://www.muhammedkoca.com.tr/api/og/cover.svg?title=VLAN+ile+A%C4%9F+B%C3%B6l%C3%BCmleme%3A+En+%C3%87ok+Merak+Edilen+Sorular+ve+Pratik+Cevaplar&category=Teknoloji&v=3" width="240" alt="VLAN ile Ağ Bölümleme: En Çok Merak Edilen Sorular ve Pratik Cevaplar"/></a></td>
     <td valign="top" width="580">
       <img src="https://img.shields.io/badge/Teknoloji-60a5fa?style=flat-square&labelColor=0f172a" alt="Teknoloji"/> <sub>30 Ağu 2026</sub><br/><br/>
       <a href="https://www.muhammedkoca.com.tr/blog/vlan-ile-ag-bolumleme-en-cok-merak-edilen-sorular-ve-pratik-cevaplar"><b>VLAN ile Ağ Bölümleme: En Çok Merak Edilen Sorular ve Pratik Cevaplar</b></a><br/><br/>
       <sub>Ağlarınızı daha güvenli, hızlı ve yönetilebilir hale getirmenin yollarından biri VLAN kullanmaktır. Bu yazımızda, Sanal Yerel Alan Ağları&#x27;nın (VLAN)…</sub>
+    </td>
+  </tr>
+  <tr><td colspan="2"><img src="assets/divider.svg" alt="" width="100%"/></td></tr>
+  <tr>
+    <td width="260"><a href="https://www.muhammedkoca.com.tr/blog/ekran-oncesi-ve-sonrasi-ritueller-dijital-dengeniz-icin-1-haftalik-pratik-plan"><img src="https://www.muhammedkoca.com.tr/api/og/cover.svg?title=Ekran+%C3%96ncesi+ve+Sonras%C4%B1+Rit%C3%BCeller%3A+Dijital+Dengeniz+%C4%B0%C3%A7in+1+Haftal%C4%B1k+Pratik+Plan&category=Ya%C5%9Fam&v=3" width="240" alt="Ekran Öncesi ve Sonrası Ritüeller: Dijital Dengeniz İçin 1 Haftalık Pratik Plan"/></a></td>
+    <td valign="top" width="580">
+      <img src="https://img.shields.io/badge/Yaşam-60a5fa?style=flat-square&labelColor=0f172a" alt="Yaşam"/> <sub>30 Ağu 2026</sub><br/><br/>
+      <a href="https://www.muhammedkoca.com.tr/blog/ekran-oncesi-ve-sonrasi-ritueller-dijital-dengeniz-icin-1-haftalik-pratik-plan"><b>Ekran Öncesi ve Sonrası Ritüeller: Dijital Dengeniz İçin 1 Haftalık Pratik Plan</b></a><br/><br/>
+      <sub>Dijital dünyanın yoğun temposunda ekran başında geçirdiğimiz süreler her geçen gün artıyor. Peki, bu geçişleri nasıl daha bilinçli ve sağlıklı hale…</sub>
     </td>
   </tr>
 </table>
