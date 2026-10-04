@@ -135,12 +135,12 @@
   </tr>
   <tr>
     <td width="50%" valign="top">
-      <b>▸ <a href="https://www.muhammedkoca.com.tr/projeler/silanur-nails">Sılanur Nails</a></b><br/>
-      Sılanur Nails için PHP ve MySQL altyapısıyla geliştirdiğim, randevu alma sistemi, çok dilli içerik yönetimi, hizmet/galeri yönetimi ve özel…<br/><sub><code>PHP 8</code> · <code>MySQL</code> · <code>PDO</code> · <code>Admin Panel</code></sub>
-    </td>
-    <td width="50%" valign="top">
       <b>▸ <a href="https://www.muhammedkoca.com.tr/projeler/qrfitr-gelismis-ve-guvenli-qr-kod-platformu">QrFitr - Gelişmiş ve Güvenli QR Kod Platformu</a></b><br/>
       Özel &quot;Cyber Tech&quot; tasarım sistemine sahip, güvenlik odaklı ve self-hosted dinamik QR kod üretme ve analitik platformu. Gelişmiş…<br/><sub><code>PHP</code> · <code>MySQL</code> · <code>TailwindCSS</code> · <code>Vanilla JS</code></sub>
+    </td>
+    <td width="50%" valign="top">
+      <b>▸ <a href="https://www.muhammedkoca.com.tr/projeler/silanur-nails">Sılanur Nails</a></b><br/>
+      Sılanur Nails için PHP ve MySQL altyapısıyla geliştirdiğim, randevu alma sistemi, çok dilli içerik yönetimi, hizmet/galeri yönetimi ve özel…<br/><sub><code>PHP 8</code> · <code>MySQL</code> · <code>PDO</code> · <code>Admin Panel</code></sub>
     </td>
   </tr>
 </table>
