@@ -184,29 +184,29 @@
 <!-- BLOG-CARDS:START -->
 <table>
   <tr>
-    <td width="260"><a href="https://www.muhammedkoca.com.tr/blog/5-adimda-bilgisayar-sicakligini-izleme-ve-toz-temizligi-rehberi"><img src="https://www.muhammedkoca.com.tr/api/og/cover.svg?title=5+Ad%C4%B1mda+Bilgisayar+S%C4%B1cakl%C4%B1%C4%9F%C4%B1n%C4%B1+%C4%B0zleme+ve+Toz+Temizli%C4%9Fi+Rehberi&category=Rehberler&v=3" width="240" alt="5 Adımda Bilgisayar Sıcaklığını İzleme ve Toz Temizliği Rehberi"/></a></td>
+    <td width="260"><a href="https://www.muhammedkoca.com.tr/blog/bilisimde-ilk-isinizde-az-soylenen-5-gercek"><img src="https://www.muhammedkoca.com.tr/api/og/cover.svg?title=Bili%C5%9Fimde+%C4%B0lk+%C4%B0%C5%9Finizde+Az+S%C3%B6ylenen+5+Ger%C3%A7ek&category=Kariyer&v=3" width="240" alt="Bilişimde İlk İşinizde Az Söylenen 5 Gerçek"/></a></td>
     <td valign="top" width="580">
-      <img src="https://img.shields.io/badge/Rehberler-60a5fa?style=flat-square&labelColor=0f172a" alt="Rehberler"/> <sub>31 Ağu 2026</sub><br/><br/>
-      <a href="https://www.muhammedkoca.com.tr/blog/5-adimda-bilgisayar-sicakligini-izleme-ve-toz-temizligi-rehberi"><b>5 Adımda Bilgisayar Sıcaklığını İzleme ve Toz Temizliği Rehberi</b></a><br/><br/>
-      <sub>Bilgisayarınızın performansı düşüyor, beklenmedik şekilde kapanıyor veya fanları sürekli çok yüksek sesle mi çalışıyor? Bu sorunlar genellikle aşırı…</sub>
+      <img src="https://img.shields.io/badge/Kariyer-60a5fa?style=flat-square&labelColor=0f172a" alt="Kariyer"/> <sub>4 Eki 2026</sub><br/><br/>
+      <a href="https://www.muhammedkoca.com.tr/blog/bilisimde-ilk-isinizde-az-soylenen-5-gercek"><b>Bilişimde İlk İşinizde Az Söylenen 5 Gerçek</b></a><br/><br/>
+      <sub>İlk IT pozisyonunuza adım atarken çoğu kişi sadece teknik yetkinliğe odaklanır. Ancak işe giriş sürecinde karşılaşacağınız gizli gerçekler…</sub>
     </td>
   </tr>
   <tr><td colspan="2"><img src="assets/divider.svg" alt="" width="100%"/></td></tr>
   <tr>
-    <td width="260"><a href="https://www.muhammedkoca.com.tr/blog/vlan-ile-ag-bolumleme-en-cok-merak-edilen-sorular-ve-pratik-cevaplar"><img src="https://www.muhammedkoca.com.tr/api/og/cover.svg?title=VLAN+ile+A%C4%9F+B%C3%B6l%C3%BCmleme%3A+En+%C3%87ok+Merak+Edilen+Sorular+ve+Pratik+Cevaplar&category=Teknoloji&v=3" width="240" alt="VLAN ile Ağ Bölümleme: En Çok Merak Edilen Sorular ve Pratik Cevaplar"/></a></td>
+    <td width="260"><a href="https://www.muhammedkoca.com.tr/blog/7-kritik-soru-bilisimde-ilk-isinize-baslamadan-once-kendinize-sormaniz-gerekenle"><img src="https://www.muhammedkoca.com.tr/api/og/cover.svg?title=7+Kritik+Soru%3A+Bili%C5%9Fimde+%C4%B0lk+%C4%B0%C5%9Finize+Ba%C5%9Flamadan+%C3%96nce+Kendinize+Sorman%C4%B1z+Gerekenler&category=Kariyer&v=3" width="240" alt="7 Kritik Soru: Bilişimde İlk İşinize Başlamadan Önce Kendinize Sormanız Gerekenler"/></a></td>
     <td valign="top" width="580">
-      <img src="https://img.shields.io/badge/Teknoloji-60a5fa?style=flat-square&labelColor=0f172a" alt="Teknoloji"/> <sub>30 Ağu 2026</sub><br/><br/>
-      <a href="https://www.muhammedkoca.com.tr/blog/vlan-ile-ag-bolumleme-en-cok-merak-edilen-sorular-ve-pratik-cevaplar"><b>VLAN ile Ağ Bölümleme: En Çok Merak Edilen Sorular ve Pratik Cevaplar</b></a><br/><br/>
-      <sub>Ağlarınızı daha güvenli, hızlı ve yönetilebilir hale getirmenin yollarından biri VLAN kullanmaktır. Bu yazımızda, Sanal Yerel Alan Ağları&#x27;nın (VLAN)…</sub>
+      <img src="https://img.shields.io/badge/Kariyer-60a5fa?style=flat-square&labelColor=0f172a" alt="Kariyer"/> <sub>4 Eki 2026</sub><br/><br/>
+      <a href="https://www.muhammedkoca.com.tr/blog/7-kritik-soru-bilisimde-ilk-isinize-baslamadan-once-kendinize-sormaniz-gerekenle"><b>7 Kritik Soru: Bilişimde İlk İşinize Başlamadan Önce Kendinize Sormanız Gerekenler</b></a><br/><br/>
+      <sub>İlk işinizde başarılı bir başlangıç yapabilmek için doğru soruları sormak şart. Bu rehber, yeni mezunların ve kariyer değiştiricilerin…</sub>
     </td>
   </tr>
   <tr><td colspan="2"><img src="assets/divider.svg" alt="" width="100%"/></td></tr>
   <tr>
-    <td width="260"><a href="https://www.muhammedkoca.com.tr/blog/ekran-oncesi-ve-sonrasi-ritueller-dijital-dengeniz-icin-1-haftalik-pratik-plan"><img src="https://www.muhammedkoca.com.tr/api/og/cover.svg?title=Ekran+%C3%96ncesi+ve+Sonras%C4%B1+Rit%C3%BCeller%3A+Dijital+Dengeniz+%C4%B0%C3%A7in+1+Haftal%C4%B1k+Pratik+Plan&category=Ya%C5%9Fam&v=3" width="240" alt="Ekran Öncesi ve Sonrası Ritüeller: Dijital Dengeniz İçin 1 Haftalık Pratik Plan"/></a></td>
+    <td width="260"><a href="https://www.muhammedkoca.com.tr/blog/yeni-baslayanlar-icin-bilisimde-ilk-isinizde-yoneticilerin-beklentileri-rehberi"><img src="https://www.muhammedkoca.com.tr/api/og/cover.svg?title=Yeni+Ba%C5%9Flayanlar+%C4%B0%C3%A7in+Bili%C5%9Fimde+%C4%B0lk+%C4%B0%C5%9Finizde+Y%C3%B6neticilerin+Beklentileri+Rehberi&category=Kariyer&v=3" width="240" alt="Yeni Başlayanlar İçin Bilişimde İlk İşinizde Yöneticilerin Beklentileri Rehberi"/></a></td>
     <td valign="top" width="580">
-      <img src="https://img.shields.io/badge/Yaşam-60a5fa?style=flat-square&labelColor=0f172a" alt="Yaşam"/> <sub>30 Ağu 2026</sub><br/><br/>
-      <a href="https://www.muhammedkoca.com.tr/blog/ekran-oncesi-ve-sonrasi-ritueller-dijital-dengeniz-icin-1-haftalik-pratik-plan"><b>Ekran Öncesi ve Sonrası Ritüeller: Dijital Dengeniz İçin 1 Haftalık Pratik Plan</b></a><br/><br/>
-      <sub>Dijital dünyanın yoğun temposunda ekran başında geçirdiğimiz süreler her geçen gün artıyor. Peki, bu geçişleri nasıl daha bilinçli ve sağlıklı hale…</sub>
+      <img src="https://img.shields.io/badge/Kariyer-60a5fa?style=flat-square&labelColor=0f172a" alt="Kariyer"/> <sub>4 Eki 2026</sub><br/><br/>
+      <a href="https://www.muhammedkoca.com.tr/blog/yeni-baslayanlar-icin-bilisimde-ilk-isinizde-yoneticilerin-beklentileri-rehberi"><b>Yeni Başlayanlar İçin Bilişimde İlk İşinizde Yöneticilerin Beklentileri Rehberi</b></a><br/><br/>
+      <sub>Bilişim sektöründe ilk işinizi alırken yöneticilerin sizden ne tür beceri ve tutumları beklediğini öğrenin. Bu rehber, işe giriş sürecinizde başarılı…</sub>
     </td>
   </tr>
 </table>
