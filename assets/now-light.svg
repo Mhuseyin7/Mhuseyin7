@@ -1,0 +1,86 @@
+<svg width="880" height="180" viewBox="0 0 880 180" preserveAspectRatio="xMidYMid meet" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <filter id="nowGlow" x="-100%" y="-100%" width="300%" height="300%">
+      <feGaussianBlur stdDeviation="2" result="b"/>
+      <feMerge><feMergeNode in="b"/><feMergeNode in="SourceGraphic"/></feMerge>
+    </filter>
+    <linearGradient id="nowRail" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0" stop-color="#2563eb" stop-opacity="0"/>
+      <stop offset="0.5" stop-color="#1d4ed8" stop-opacity="1"/>
+      <stop offset="1" stop-color="#2563eb" stop-opacity="0"/>
+    </linearGradient>
+    <clipPath id="nowClip"><rect x="0.5" y="0.5" width="879" height="179" rx="12"/></clipPath>
+  </defs>
+
+  <rect x="0.5" y="0.5" width="879" height="179" rx="12" fill="#f8fafc" stroke="#cbd5e1" stroke-width="1"/>
+
+  <g clip-path="url(#nowClip)">
+    <!-- Left accent rail with pulse -->
+    <rect x="0" y="12" width="2" height="156" fill="#2563eb" opacity="0.55"/>
+    <rect x="0" y="12" width="2" height="50" fill="url(#nowRail)" filter="url(#nowGlow)">
+      <animate attributeName="y" values="12;140;12" dur="5.5s" repeatCount="indefinite"/>
+    </rect>
+
+    <!-- Eyebrows -->
+    <text x="30" y="30" font-family="'JetBrains Mono', Consolas, monospace" font-size="10.5" fill="#475569" letter-spacing="0.28em">NOW / IN MOTION</text>
+    <text x="850" y="30" text-anchor="end" font-family="'JetBrains Mono', Consolas, monospace" font-size="10.5" fill="#64748b" letter-spacing="0.28em">
+      <animate attributeName="opacity" values="1;0.4;1" dur="2.4s" repeatCount="indefinite"/>
+      &#9679; LIVE
+    </text>
+    <line x1="30" y1="42" x2="850" y2="42" stroke="#cbd5e1" stroke-width="1"/>
+
+    <!-- 3 column layout -->
+    <!-- Col 1 -->
+    <g opacity="0">
+      <animate attributeName="opacity" from="0" to="1" dur="0.5s" begin="0.2s" fill="freeze"/>
+      <rect x="30" y="60" width="260" height="100" rx="8" fill="#eef2f7" stroke="#cbd5e1" stroke-width="1">
+        <animate attributeName="stroke" values="#cbd5e1;#2563eb;#cbd5e1" dur="6s" begin="0s" repeatCount="indefinite"/>
+      </rect>
+      <!-- Corner tag -->
+      <rect x="30" y="60" width="4" height="24" fill="#2563eb"/>
+      <text x="46" y="78" font-family="'JetBrains Mono', Consolas, monospace" font-size="9.5" fill="#64748b" letter-spacing="0.28em">BUILDING</text>
+      <!-- Title -->
+      <text x="46" y="112" font-family="'Inter', sans-serif" font-size="17" font-weight="700" fill="#0f172a" letter-spacing="-0.2">MusclePull Updates</text>
+      <!-- Subtitle -->
+      <text x="46" y="132" font-family="'Inter', sans-serif" font-size="11.5" fill="#475569">AI-assisted fitness &amp; nutrition SaaS</text>
+      <text x="46" y="148" font-family="'JetBrains Mono', Consolas, monospace" font-size="10" fill="#2563eb" letter-spacing="0.16em">daily iterations</text>
+    </g>
+
+    <!-- Col 2 -->
+    <g opacity="0">
+      <animate attributeName="opacity" from="0" to="1" dur="0.5s" begin="0.4s" fill="freeze"/>
+      <rect x="310" y="60" width="260" height="100" rx="8" fill="#eef2f7" stroke="#cbd5e1" stroke-width="1">
+        <animate attributeName="stroke" values="#cbd5e1;#2563eb;#cbd5e1" dur="6s" begin="2s" repeatCount="indefinite"/>
+      </rect>
+      <rect x="310" y="60" width="4" height="24" fill="#2563eb"/>
+      <text x="326" y="78" font-family="'JetBrains Mono', Consolas, monospace" font-size="9.5" fill="#64748b" letter-spacing="0.28em">OPERATING</text>
+      <text x="326" y="112" font-family="'Inter', sans-serif" font-size="17" font-weight="700" fill="#0f172a" letter-spacing="-0.2">Linux Systems</text>
+      <text x="326" y="132" font-family="'Inter', sans-serif" font-size="11.5" fill="#475569">bare-metal + self-hosted fleet</text>
+      <text x="326" y="148" font-family="'JetBrains Mono', Consolas, monospace" font-size="10" fill="#2563eb" letter-spacing="0.16em">24/7 uptime</text>
+    </g>
+
+    <!-- Col 3 -->
+    <g opacity="0">
+      <animate attributeName="opacity" from="0" to="1" dur="0.5s" begin="0.6s" fill="freeze"/>
+      <rect x="590" y="60" width="260" height="100" rx="8" fill="#eef2f7" stroke="#cbd5e1" stroke-width="1">
+        <animate attributeName="stroke" values="#cbd5e1;#2563eb;#cbd5e1" dur="6s" begin="4s" repeatCount="indefinite"/>
+      </rect>
+      <rect x="590" y="60" width="4" height="24" fill="#2563eb"/>
+      <text x="606" y="78" font-family="'JetBrains Mono', Consolas, monospace" font-size="9.5" fill="#64748b" letter-spacing="0.28em">WRITING</text>
+      <text x="606" y="112" font-family="'Inter', sans-serif" font-size="17" font-weight="700" fill="#0f172a" letter-spacing="-0.2">AI Content Pipeline</text>
+      <text x="606" y="132" font-family="'Inter', sans-serif" font-size="11.5" fill="#475569">1001+ posts &amp; counting</text>
+      <text x="606" y="148" font-family="'JetBrains Mono', Consolas, monospace" font-size="10" fill="#2563eb" letter-spacing="0.16em">muhammedkoca.com.tr</text>
+    </g>
+
+    <!-- Card status dots (top-right of each card) -->
+    <circle cx="278" cy="72" r="3" fill="#16a34a">
+      <animate attributeName="opacity" values="0.4;1;0.4" dur="1.8s" repeatCount="indefinite"/>
+    </circle>
+    <circle cx="558" cy="72" r="3" fill="#16a34a">
+      <animate attributeName="opacity" values="0.4;1;0.4" dur="1.8s" begin="0.6s" repeatCount="indefinite"/>
+    </circle>
+    <circle cx="838" cy="72" r="3" fill="#16a34a">
+      <animate attributeName="opacity" values="0.4;1;0.4" dur="1.8s" begin="1.2s" repeatCount="indefinite"/>
+    </circle>
+  </g>
+</svg>

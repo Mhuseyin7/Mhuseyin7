@@ -1,0 +1,198 @@
+<svg width="880" height="400" viewBox="0 0 880 400" preserveAspectRatio="xMidYMid meet" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <filter id="dotGlow" x="-100%" y="-100%" width="300%" height="300%">
+      <feGaussianBlur stdDeviation="2" result="b"/>
+      <feMerge><feMergeNode in="b"/><feMergeNode in="SourceGraphic"/></feMerge>
+    </filter>
+    <linearGradient id="tileGlow" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0" stop-color="#2563eb" stop-opacity="0"/>
+      <stop offset="0.5" stop-color="#2563eb" stop-opacity="0.3"/>
+      <stop offset="1" stop-color="#2563eb" stop-opacity="0"/>
+    </linearGradient>
+    <linearGradient id="railFlow" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0" stop-color="#2563eb" stop-opacity="0"/>
+      <stop offset="0.5" stop-color="#1d4ed8" stop-opacity="1"/>
+      <stop offset="1" stop-color="#2563eb" stop-opacity="0"/>
+    </linearGradient>
+  </defs>
+
+  <rect x="0.5" y="0.5" width="879" height="399" rx="12" fill="#f8fafc" stroke="#cbd5e1" stroke-width="1"/>
+
+  <!-- Left accent rail with traveling pulse -->
+  <rect x="0" y="12" width="2" height="376" fill="#2563eb" opacity="0.55"/>
+  <rect x="0" y="12" width="2" height="80" fill="url(#railFlow)" filter="url(#dotGlow)" transform="rotate(90 1 12)" opacity="0">
+    <animate attributeName="opacity" values="0;1;0" dur="6s" repeatCount="indefinite"/>
+  </rect>
+
+  <!-- Corner labels -->
+  <text x="30" y="30" font-family="'JetBrains Mono', Consolas, monospace" font-size="10.5" fill="#475569" letter-spacing="0.24em">ARCHITECTURE / STACK MAP</text>
+  <text x="850" y="30" text-anchor="end" font-family="'JetBrains Mono', Consolas, monospace" font-size="10.5" fill="#64748b" letter-spacing="0.24em">FOUR-TIER · SELF-HOSTED</text>
+  <line x1="30" y1="42" x2="850" y2="42" stroke="#cbd5e1" stroke-width="1"/>
+
+  <!-- Row labels -->
+  <g font-family="'JetBrains Mono', Consolas, monospace" font-size="10" fill="#64748b" letter-spacing="0.28em">
+    <text x="30" y="74">EDGE</text>
+    <text x="30" y="144">APP</text>
+    <text x="30" y="214">API · DOMAIN</text>
+    <text x="30" y="284">DATA · STATE</text>
+  </g>
+
+  <!-- Tiles: each tile has base fill + subtle border breathing -->
+  <g font-family="'Inter', sans-serif" font-size="12.5" font-weight="500">
+    <!-- EDGE -->
+    <g>
+      <rect x="130" y="60" width="210" height="34" rx="6" fill="#eef2f7" stroke="#cbd5e1" stroke-width="1">
+        <animate attributeName="stroke" values="#cbd5e1;#2563eb;#cbd5e1" dur="6s" begin="0s" repeatCount="indefinite"/>
+      </rect>
+      <text x="144" y="81" fill="#0f172a">Cloudflare Tunnel</text>
+      <circle cx="326" cy="77" r="3" fill="#2563eb">
+        <animate attributeName="opacity" values="0.4;1;0.4" dur="2.4s" repeatCount="indefinite"/>
+      </circle>
+    </g>
+    <g>
+      <rect x="360" y="60" width="210" height="34" rx="6" fill="#eef2f7" stroke="#cbd5e1" stroke-width="1">
+        <animate attributeName="stroke" values="#cbd5e1;#2563eb;#cbd5e1" dur="6s" begin="1s" repeatCount="indefinite"/>
+      </rect>
+      <text x="374" y="81" fill="#0f172a">Nginx / Reverse Proxy</text>
+      <circle cx="556" cy="77" r="3" fill="#2563eb">
+        <animate attributeName="opacity" values="0.4;1;0.4" dur="2.4s" begin="0.6s" repeatCount="indefinite"/>
+      </circle>
+    </g>
+    <g>
+      <rect x="590" y="60" width="210" height="34" rx="6" fill="#eef2f7" stroke="#cbd5e1" stroke-width="1">
+        <animate attributeName="stroke" values="#cbd5e1;#2563eb;#cbd5e1" dur="6s" begin="2s" repeatCount="indefinite"/>
+      </rect>
+      <text x="604" y="81" fill="#0f172a">CDN · Edge Cache</text>
+      <circle cx="786" cy="77" r="3" fill="#2563eb">
+        <animate attributeName="opacity" values="0.4;1;0.4" dur="2.4s" begin="1.2s" repeatCount="indefinite"/>
+      </circle>
+    </g>
+
+    <!-- APP -->
+    <g>
+      <rect x="130" y="130" width="210" height="34" rx="6" fill="#eef2f7" stroke="#cbd5e1" stroke-width="1">
+        <animate attributeName="stroke" values="#cbd5e1;#2563eb;#cbd5e1" dur="6s" begin="0.5s" repeatCount="indefinite"/>
+      </rect>
+      <text x="144" y="151" fill="#0f172a">Next.js · React</text>
+    </g>
+    <g>
+      <rect x="360" y="130" width="210" height="34" rx="6" fill="#eef2f7" stroke="#cbd5e1" stroke-width="1">
+        <animate attributeName="stroke" values="#cbd5e1;#2563eb;#cbd5e1" dur="6s" begin="1.5s" repeatCount="indefinite"/>
+      </rect>
+      <text x="374" y="151" fill="#0f172a">Astro (Blog · SSR)</text>
+    </g>
+    <g>
+      <rect x="590" y="130" width="210" height="34" rx="6" fill="#eef2f7" stroke="#cbd5e1" stroke-width="1">
+        <animate attributeName="stroke" values="#cbd5e1;#2563eb;#cbd5e1" dur="6s" begin="2.5s" repeatCount="indefinite"/>
+      </rect>
+      <text x="604" y="151" fill="#0f172a">Electron · Desktop</text>
+    </g>
+
+    <!-- API -->
+    <g>
+      <rect x="130" y="200" width="210" height="34" rx="6" fill="#eef2f7" stroke="#cbd5e1" stroke-width="1">
+        <animate attributeName="stroke" values="#cbd5e1;#2563eb;#cbd5e1" dur="6s" begin="1s" repeatCount="indefinite"/>
+      </rect>
+      <text x="144" y="221" fill="#0f172a">Node.js · FastAPI</text>
+    </g>
+    <g>
+      <rect x="360" y="200" width="210" height="34" rx="6" fill="#eef2f7" stroke="#cbd5e1" stroke-width="1">
+        <animate attributeName="stroke" values="#cbd5e1;#2563eb;#cbd5e1" dur="6s" begin="2s" repeatCount="indefinite"/>
+      </rect>
+      <text x="374" y="221" fill="#0f172a">Python · MhFW</text>
+    </g>
+    <g>
+      <rect x="590" y="200" width="210" height="34" rx="6" fill="#eef2f7" stroke="#cbd5e1" stroke-width="1">
+        <animate attributeName="stroke" values="#cbd5e1;#2563eb;#cbd5e1" dur="6s" begin="3s" repeatCount="indefinite"/>
+      </rect>
+      <text x="604" y="221" fill="#0f172a">WebSocket · SSE</text>
+    </g>
+
+    <!-- DATA -->
+    <g>
+      <rect x="130" y="270" width="210" height="34" rx="6" fill="#eef2f7" stroke="#cbd5e1" stroke-width="1">
+        <animate attributeName="stroke" values="#cbd5e1;#2563eb;#cbd5e1" dur="6s" begin="1.5s" repeatCount="indefinite"/>
+      </rect>
+      <text x="144" y="291" fill="#0f172a">PostgreSQL · Prisma</text>
+    </g>
+    <g>
+      <rect x="360" y="270" width="210" height="34" rx="6" fill="#eef2f7" stroke="#cbd5e1" stroke-width="1">
+        <animate attributeName="stroke" values="#cbd5e1;#2563eb;#cbd5e1" dur="6s" begin="2.5s" repeatCount="indefinite"/>
+      </rect>
+      <text x="374" y="291" fill="#0f172a">Redis · Cache</text>
+    </g>
+    <g>
+      <rect x="590" y="270" width="210" height="34" rx="6" fill="#eef2f7" stroke="#cbd5e1" stroke-width="1">
+        <animate attributeName="stroke" values="#cbd5e1;#2563eb;#cbd5e1" dur="6s" begin="3.5s" repeatCount="indefinite"/>
+      </rect>
+      <text x="604" y="291" fill="#0f172a">MySQL · Backup 3-2-1</text>
+    </g>
+  </g>
+
+  <!-- Column connectors -->
+  <g stroke="#cbd5e1" stroke-width="1">
+    <line x1="235" y1="94" x2="235" y2="130"/>
+    <line x1="235" y1="164" x2="235" y2="200"/>
+    <line x1="235" y1="234" x2="235" y2="270"/>
+    <line x1="465" y1="94" x2="465" y2="130"/>
+    <line x1="465" y1="164" x2="465" y2="200"/>
+    <line x1="465" y1="234" x2="465" y2="270"/>
+    <line x1="695" y1="94" x2="695" y2="130"/>
+    <line x1="695" y1="164" x2="695" y2="200"/>
+    <line x1="695" y1="234" x2="695" y2="270"/>
+  </g>
+
+  <!-- Data flow dots — bigger, glowing, staggered with trails -->
+  <g filter="url(#dotGlow)">
+    <!-- Column 1 -->
+    <circle r="2.6" fill="#1d4ed8">
+      <animate attributeName="cy" values="94;304" dur="5.5s" repeatCount="indefinite"/>
+      <animate attributeName="opacity" values="0;1;1;0" keyTimes="0;0.08;0.92;1" dur="5.5s" repeatCount="indefinite"/>
+      <animate attributeName="cx" values="235;235" dur="5.5s" repeatCount="indefinite"/>
+    </circle>
+    <!-- Trail after -->
+    <circle r="1.4" fill="#2563eb" opacity="0.5">
+      <animate attributeName="cy" values="80;290" dur="5.5s" repeatCount="indefinite"/>
+      <animate attributeName="opacity" values="0;0.6;0.6;0" keyTimes="0;0.08;0.92;1" dur="5.5s" repeatCount="indefinite"/>
+      <animate attributeName="cx" values="235;235" dur="5.5s" repeatCount="indefinite"/>
+    </circle>
+
+    <!-- Column 2 -->
+    <circle r="2.6" fill="#1d4ed8">
+      <animate attributeName="cy" values="94;304" dur="6.5s" begin="1.8s" repeatCount="indefinite"/>
+      <animate attributeName="opacity" values="0;1;1;0" keyTimes="0;0.08;0.92;1" dur="6.5s" begin="1.8s" repeatCount="indefinite"/>
+      <animate attributeName="cx" values="465;465" dur="6.5s" begin="1.8s" repeatCount="indefinite"/>
+    </circle>
+    <circle r="1.4" fill="#2563eb" opacity="0.5">
+      <animate attributeName="cy" values="80;290" dur="6.5s" begin="1.8s" repeatCount="indefinite"/>
+      <animate attributeName="opacity" values="0;0.6;0.6;0" keyTimes="0;0.08;0.92;1" dur="6.5s" begin="1.8s" repeatCount="indefinite"/>
+      <animate attributeName="cx" values="465;465" dur="6.5s" begin="1.8s" repeatCount="indefinite"/>
+    </circle>
+
+    <!-- Column 3 -->
+    <circle r="2.6" fill="#1d4ed8">
+      <animate attributeName="cy" values="94;304" dur="7.5s" begin="3.6s" repeatCount="indefinite"/>
+      <animate attributeName="opacity" values="0;1;1;0" keyTimes="0;0.08;0.92;1" dur="7.5s" begin="3.6s" repeatCount="indefinite"/>
+      <animate attributeName="cx" values="695;695" dur="7.5s" begin="3.6s" repeatCount="indefinite"/>
+    </circle>
+    <circle r="1.4" fill="#2563eb" opacity="0.5">
+      <animate attributeName="cy" values="80;290" dur="7.5s" begin="3.6s" repeatCount="indefinite"/>
+      <animate attributeName="opacity" values="0;0.6;0.6;0" keyTimes="0;0.08;0.92;1" dur="7.5s" begin="3.6s" repeatCount="indefinite"/>
+      <animate attributeName="cx" values="695;695" dur="7.5s" begin="3.6s" repeatCount="indefinite"/>
+    </circle>
+  </g>
+
+  <!-- Observability rail across bottom -->
+  <line x1="30" y1="340" x2="850" y2="340" stroke="#cbd5e1" stroke-width="1"/>
+  <g transform="translate(0 356)">
+    <text x="30" y="12" font-family="'JetBrains Mono', Consolas, monospace" font-size="10" fill="#2563eb" letter-spacing="0.28em">
+      <animate attributeName="opacity" values="0.7;1;0.7" dur="3s" repeatCount="indefinite"/>
+      OBSERVABILITY
+    </text>
+    <text x="440" y="12" text-anchor="middle" font-family="'JetBrains Mono', Consolas, monospace" font-size="10" fill="#475569" letter-spacing="0.24em">LOGS · METRICS · TRACES · SELF-HEAL LOOP</text>
+    <text x="850" y="12" text-anchor="end" font-family="'JetBrains Mono', Consolas, monospace" font-size="10" fill="#64748b" letter-spacing="0.28em">BARE-METAL · BURSA/TR</text>
+    <line x1="30" y1="24" x2="850" y2="24" stroke="#2563eb" stroke-width="1" stroke-dasharray="1 6" opacity="0.5">
+      <animate attributeName="stroke-dashoffset" values="0;-14" dur="4s" repeatCount="indefinite"/>
+    </line>
+  </g>
+</svg>
