@@ -1,0 +1,92 @@
+<svg width="880" height="200" viewBox="0 0 880 200" preserveAspectRatio="xMidYMid meet" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="nameShimmer" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0" stop-color="#0f172a"/>
+      <stop offset="0.45" stop-color="#0f172a"/>
+      <stop offset="0.5" stop-color="#1d4ed8"/>
+      <stop offset="0.55" stop-color="#0f172a"/>
+      <stop offset="1" stop-color="#0f172a"/>
+      <animate attributeName="x1" values="-1;1" dur="6s" repeatCount="indefinite"/>
+      <animate attributeName="x2" values="0;2" dur="6s" repeatCount="indefinite"/>
+    </linearGradient>
+    <linearGradient id="railPulse" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0" stop-color="#2563eb" stop-opacity="0"/>
+      <stop offset="0.5" stop-color="#1d4ed8" stop-opacity="1"/>
+      <stop offset="1" stop-color="#2563eb" stop-opacity="0"/>
+    </linearGradient>
+    <filter id="softGlow" x="-50%" y="-50%" width="200%" height="200%">
+      <feGaussianBlur stdDeviation="1.5" result="b"/>
+      <feMerge><feMergeNode in="b"/><feMergeNode in="SourceGraphic"/></feMerge>
+    </filter>
+    <clipPath id="hdrClip"><rect x="0.5" y="0.5" width="879" height="199" rx="12"/></clipPath>
+  </defs>
+
+  <rect x="0.5" y="0.5" width="879" height="199" rx="12" fill="#f8fafc" stroke="#cbd5e1" stroke-width="1"/>
+
+  <g clip-path="url(#hdrClip)">
+    <!-- ambient floating particles -->
+    <g fill="#2563eb">
+      <circle cx="180" cy="90" r="1.2" opacity="0">
+        <animate attributeName="opacity" values="0;0.6;0" dur="7s" begin="0s" repeatCount="indefinite"/>
+        <animateTransform attributeName="transform" type="translate" values="0 20; 0 -30" dur="7s" begin="0s" repeatCount="indefinite"/>
+      </circle>
+      <circle cx="380" cy="150" r="1" opacity="0">
+        <animate attributeName="opacity" values="0;0.5;0" dur="9s" begin="2s" repeatCount="indefinite"/>
+        <animateTransform attributeName="transform" type="translate" values="0 30; 0 -40" dur="9s" begin="2s" repeatCount="indefinite"/>
+      </circle>
+      <circle cx="560" cy="60" r="1.4" opacity="0">
+        <animate attributeName="opacity" values="0;0.55;0" dur="8s" begin="4s" repeatCount="indefinite"/>
+        <animateTransform attributeName="transform" type="translate" values="0 20; 0 -25" dur="8s" begin="4s" repeatCount="indefinite"/>
+      </circle>
+      <circle cx="640" cy="180" r="1" opacity="0">
+        <animate attributeName="opacity" values="0;0.45;0" dur="10s" begin="1s" repeatCount="indefinite"/>
+        <animateTransform attributeName="transform" type="translate" values="0 30; 0 -35" dur="10s" begin="1s" repeatCount="indefinite"/>
+      </circle>
+    </g>
+  </g>
+
+  <!-- left accent rail — base + traveling pulse -->
+  <rect x="0" y="12" width="2" height="176" fill="#2563eb" opacity="0.6">
+    <animate attributeName="opacity" values="0.5;0.85;0.5" dur="4s" repeatCount="indefinite"/>
+  </rect>
+  <rect x="0" y="12" width="2" height="60" fill="url(#railPulse)" filter="url(#softGlow)">
+    <animate attributeName="y" values="12;188;12" dur="5.5s" repeatCount="indefinite"/>
+  </rect>
+
+  <!-- top meta -->
+  <g font-family="'JetBrains Mono', Consolas, monospace" font-size="10.5">
+    <text x="32" y="32" fill="#475569" letter-spacing="2.4">MK &#8212; RESILIENT SYSTEMS</text>
+    <text x="848" y="32" text-anchor="end" fill="#475569" letter-spacing="2.4">BURSA &#183; TR</text>
+  </g>
+
+  <!-- name with shimmer gradient sweep -->
+  <text x="32" y="98" font-family="'Inter', 'Segoe UI', Arial, sans-serif" font-size="42" font-weight="700" fill="url(#nameShimmer)" letter-spacing="-0.8">Muhammed Koca</text>
+
+  <!-- single accent line -->
+  <rect x="32" y="112" width="32" height="2" fill="#2563eb">
+    <animate attributeName="width" values="32;48;32" dur="3.5s" repeatCount="indefinite"/>
+  </rect>
+
+  <!-- subtitle -->
+  <text x="32" y="140" font-family="'Inter', 'Segoe UI', Arial, sans-serif" font-size="15" fill="#475569">Full-Stack Architecture &#183; Self-hosted Apps</text>
+
+  <!-- one-line spec -->
+  <text x="32" y="176" font-family="'JetBrains Mono', Consolas, monospace" font-size="11" fill="#64748b" letter-spacing="1.4">OPEN SOURCE &#183; AUTOMATION &#183; SELF-HOSTING &#183; AI SYSTEMS</text>
+
+  <!-- right stat block with staggered fade-in on load -->
+  <g font-family="'JetBrains Mono', Consolas, monospace">
+    <g opacity="0">
+      <animate attributeName="opacity" from="0" to="1" dur="0.7s" begin="0.3s" fill="freeze"/>
+      <text x="848" y="76" text-anchor="end" font-size="10.5" fill="#64748b" letter-spacing="2">POSTS</text>
+      <text x="848" y="98" text-anchor="end" font-size="22" font-weight="600" fill="#0f172a" letter-spacing="-0.4">1001+</text>
+    </g>
+
+    <line x1="720" y1="112" x2="848" y2="112" stroke="#cbd5e1" stroke-width="1"/>
+
+    <g opacity="0">
+      <animate attributeName="opacity" from="0" to="1" dur="0.7s" begin="0.6s" fill="freeze"/>
+      <text x="848" y="132" text-anchor="end" font-size="10.5" fill="#64748b" letter-spacing="2">WORDS</text>
+      <text x="848" y="154" text-anchor="end" font-size="22" font-weight="600" fill="#0f172a" letter-spacing="-0.4">1.1M+</text>
+    </g>
+  </g>
+</svg>
