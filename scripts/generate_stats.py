@@ -429,12 +429,18 @@ def activity_svg(s):
 # ───────────────────────── orkestrasyon ─────────────────────────
 
 def build_all(stats):
-    return {
+    from theme_light import to_light, light_name
+
+    dark = {
         "overview.svg": overview_svg(stats),
         "streak.svg": streak_svg(stats),
         "langs.svg": langs_svg(stats),
         "activity.svg": activity_svg(stats),
     }
+    files = dict(dark)
+    for name, svg in dark.items():
+        files[light_name(name)] = to_light(svg)
+    return files
 
 
 def main():
