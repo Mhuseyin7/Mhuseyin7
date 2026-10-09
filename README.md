@@ -184,7 +184,7 @@
 <!-- BLOG-CARDS:START -->
 <table>
   <tr>
-    <td width="260"><a href="https://www.muhammedkoca.com.tr/blog/bilisimde-ilk-isinizde-az-soylenen-5-gercek"><img src="https://www.muhammedkoca.com.tr/api/og/cover.svg?title=Bili%C5%9Fimde+%C4%B0lk+%C4%B0%C5%9Finizde+Az+S%C3%B6ylenen+5+Ger%C3%A7ek&category=Kariyer&v=3" width="240" alt="Bilişimde İlk İşinizde Az Söylenen 5 Gerçek"/></a></td>
+    <td width="260"><a href="https://www.muhammedkoca.com.tr/blog/bilisimde-ilk-isinizde-az-soylenen-5-gercek"><img src="https://www.muhammedkoca.com.tr/api/og/cover.png?title=Bili%C5%9Fimde+%C4%B0lk+%C4%B0%C5%9Finizde+Az+S%C3%B6ylenen+5+Ger%C3%A7ek&category=Kariyer&v=4" width="240" alt="Bilişimde İlk İşinizde Az Söylenen 5 Gerçek"/></a></td>
     <td valign="top" width="580">
       <img src="https://img.shields.io/badge/Kariyer-60a5fa?style=flat-square&labelColor=0f172a" alt="Kariyer"/> <sub>4 Eki 2026</sub><br/><br/>
       <a href="https://www.muhammedkoca.com.tr/blog/bilisimde-ilk-isinizde-az-soylenen-5-gercek"><b>Bilişimde İlk İşinizde Az Söylenen 5 Gerçek</b></a><br/><br/>
@@ -193,7 +193,7 @@
   </tr>
   <tr><td colspan="2"><img src="assets/divider.svg" alt="" width="100%"/></td></tr>
   <tr>
-    <td width="260"><a href="https://www.muhammedkoca.com.tr/blog/7-kritik-soru-bilisimde-ilk-isinize-baslamadan-once-kendinize-sormaniz-gerekenle"><img src="https://www.muhammedkoca.com.tr/api/og/cover.svg?title=7+Kritik+Soru%3A+Bili%C5%9Fimde+%C4%B0lk+%C4%B0%C5%9Finize+Ba%C5%9Flamadan+%C3%96nce+Kendinize+Sorman%C4%B1z+Gerekenler&category=Kariyer&v=3" width="240" alt="7 Kritik Soru: Bilişimde İlk İşinize Başlamadan Önce Kendinize Sormanız Gerekenler"/></a></td>
+    <td width="260"><a href="https://www.muhammedkoca.com.tr/blog/7-kritik-soru-bilisimde-ilk-isinize-baslamadan-once-kendinize-sormaniz-gerekenle"><img src="https://www.muhammedkoca.com.tr/api/og/cover.png?title=7+Kritik+Soru%3A+Bili%C5%9Fimde+%C4%B0lk+%C4%B0%C5%9Finize+Ba%C5%9Flamadan+%C3%96nce+Kendinize+Sorman%C4%B1z+Gerekenler&category=Kariyer&v=4" width="240" alt="7 Kritik Soru: Bilişimde İlk İşinize Başlamadan Önce Kendinize Sormanız Gerekenler"/></a></td>
     <td valign="top" width="580">
       <img src="https://img.shields.io/badge/Kariyer-60a5fa?style=flat-square&labelColor=0f172a" alt="Kariyer"/> <sub>4 Eki 2026</sub><br/><br/>
       <a href="https://www.muhammedkoca.com.tr/blog/7-kritik-soru-bilisimde-ilk-isinize-baslamadan-once-kendinize-sormaniz-gerekenle"><b>7 Kritik Soru: Bilişimde İlk İşinize Başlamadan Önce Kendinize Sormanız Gerekenler</b></a><br/><br/>
@@ -202,7 +202,7 @@
   </tr>
   <tr><td colspan="2"><img src="assets/divider.svg" alt="" width="100%"/></td></tr>
   <tr>
-    <td width="260"><a href="https://www.muhammedkoca.com.tr/blog/yeni-baslayanlar-icin-bilisimde-ilk-isinizde-yoneticilerin-beklentileri-rehberi"><img src="https://www.muhammedkoca.com.tr/api/og/cover.svg?title=Yeni+Ba%C5%9Flayanlar+%C4%B0%C3%A7in+Bili%C5%9Fimde+%C4%B0lk+%C4%B0%C5%9Finizde+Y%C3%B6neticilerin+Beklentileri+Rehberi&category=Kariyer&v=3" width="240" alt="Yeni Başlayanlar İçin Bilişimde İlk İşinizde Yöneticilerin Beklentileri Rehberi"/></a></td>
+    <td width="260"><a href="https://www.muhammedkoca.com.tr/blog/yeni-baslayanlar-icin-bilisimde-ilk-isinizde-yoneticilerin-beklentileri-rehberi"><img src="https://www.muhammedkoca.com.tr/api/og/cover.png?title=Yeni+Ba%C5%9Flayanlar+%C4%B0%C3%A7in+Bili%C5%9Fimde+%C4%B0lk+%C4%B0%C5%9Finizde+Y%C3%B6neticilerin+Beklentileri+Rehberi&category=Kariyer&v=4" width="240" alt="Yeni Başlayanlar İçin Bilişimde İlk İşinizde Yöneticilerin Beklentileri Rehberi"/></a></td>
     <td valign="top" width="580">
       <img src="https://img.shields.io/badge/Kariyer-60a5fa?style=flat-square&labelColor=0f172a" alt="Kariyer"/> <sub>4 Eki 2026</sub><br/><br/>
       <a href="https://www.muhammedkoca.com.tr/blog/yeni-baslayanlar-icin-bilisimde-ilk-isinizde-yoneticilerin-beklentileri-rehberi"><b>Yeni Başlayanlar İçin Bilişimde İlk İşinizde Yöneticilerin Beklentileri Rehberi</b></a><br/><br/>
