@@ -99,14 +99,14 @@
       Kendi sunucumu tek panelden yönetmek için geliştirdiğim self-hosted homelab kontrol merkezi. Canlı donanım/Docker izleme, web terminal ve…<br/><sub><code>FastAPI</code> · <code>Next.js</code> · <code>Python</code> · <code>React</code></sub>
     </td>
     <td width="50%" valign="top">
-      <b>▸ <a href="https://www.muhammedkoca.com.tr/projeler/fastcom-next-js-16-multi-tenant-multi-vendor-e-commerce">FastCom — Next.js 16 Multi-Tenant &amp; Multi-Vendor E-Commerce</a></b><br/>
-      Next.js 16, React 19 ve TypeScript mimarisiyle geliştirilmiş, yüksek performanslı ve çok satıcılı (Multi-Vendor) E-Ticaret SaaS altyapısı…<br/><sub><code>Next.js 16</code> · <code>React 19</code> · <code>Prisma ORM</code> · <code>TypeScript</code></sub>
+      <b>▸ <a href="https://www.muhammedkoca.com.tr/projeler/musclepull-ai-destekli-fitness-beslenme-platformu">MusclePull - AI Destekli Fitness &amp; Beslenme Platformu</a></b><br/>
+      MusclePull - Uçtan Uca Yapay Zeka Destekli Kişisel Gelişim Platformu Antrenman, beslenme, su ve takviye takibini tek bir noktada toplayan…<br/><sub><code>Next.js</code> · <code>TypeScript</code> · <code>PostgreSQL</code> · <code>Prisma</code></sub>
     </td>
   </tr>
   <tr>
     <td width="50%" valign="top">
-      <b>▸ <a href="https://www.muhammedkoca.com.tr/projeler/musclepull-ai-destekli-fitness-beslenme-platformu">MusclePull - AI Destekli Fitness &amp; Beslenme Platformu</a></b><br/>
-      MusclePull - Uçtan Uca Yapay Zeka Destekli Kişisel Gelişim Platformu Antrenman, beslenme, su ve takviye takibini tek bir noktada toplayan…<br/><sub><code>Next.js</code> · <code>TypeScript</code> · <code>PostgreSQL</code> · <code>Prisma</code></sub>
+      <b>▸ <a href="https://www.muhammedkoca.com.tr/projeler/fastcom-next-js-16-multi-tenant-multi-vendor-e-commerce">FastCom — Next.js 16 Multi-Tenant &amp; Multi-Vendor E-Commerce</a></b><br/>
+      Next.js 16, React 19 ve TypeScript mimarisiyle geliştirilmiş, yüksek performanslı ve çok satıcılı (Multi-Vendor) E-Ticaret SaaS altyapısı…<br/><sub><code>Next.js 16</code> · <code>React 19</code> · <code>Prisma ORM</code> · <code>TypeScript</code></sub>
     </td>
     <td width="50%" valign="top">
       <b>▸ <a href="https://www.muhammedkoca.com.tr/projeler/mkmrp-acik-kaynak-erp">MkMrp — Açık Kaynak ERP</a></b><br/>
