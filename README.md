@@ -12,7 +12,7 @@
 <div align="center">
 
 <!-- ═══ Animated header — assets/header.svg ═══ -->
-<a href="https://www.muhammedkoca.com.tr"><img src="assets/header.svg" alt="Muhammed Koca — Full-Stack Architecture" width="100%"/></a>
+<a href="https://www.muhammedkoca.com.tr"><picture><source media="(prefers-color-scheme: light)" srcset="assets/header-light.svg"><img src="assets/header.svg" alt="Muhammed Koca — Full-Stack Architecture" width="100%"/></picture></a>
 
 <br/><br/>
 
@@ -36,7 +36,7 @@
 
 ## ⚡ whoami
 
-<img src="assets/terminal-whoami.svg" alt="whoami --full" width="100%"/>
+<picture><source media="(prefers-color-scheme: light)" srcset="assets/terminal-whoami-light.svg"><img src="assets/terminal-whoami.svg" alt="whoami --full" width="100%"/></picture>
 
 <img src="assets/divider.svg" alt="" width="100%"/>
 
@@ -69,7 +69,7 @@
 
 ## 🏗️ Architecture Map
 
-<img src="assets/architecture.svg" alt="Four-tier self-hosted architecture map with data-flow" width="100%"/>
+<picture><source media="(prefers-color-scheme: light)" srcset="assets/architecture-light.svg"><img src="assets/architecture.svg" alt="Four-tier self-hosted architecture map with data-flow" width="100%"/></picture>
 
 <div align="center"><sub>Four-tier stack (Edge → App → API → Data) sitting on a self-hosted bare-metal base, wrapped by a shared observability + self-heal loop.</sub></div>
 
@@ -77,13 +77,13 @@
 
 ## 🎯 Now
 
-<img src="assets/now.svg" alt="Now — building MusclePull Updates, operating Linux Systems, writing AI Content Pipeline" width="100%"/>
+<picture><source media="(prefers-color-scheme: light)" srcset="assets/now-light.svg"><img src="assets/now.svg" alt="Now — building MusclePull Updates, operating Linux Systems, writing AI Content Pipeline" width="100%"/></picture>
 
 <img src="assets/divider.svg" alt="" width="100%"/>
 
 ## 🗓️ Milestones
 
-<img src="assets/milestones.svg" alt="Milestones 2022 → 2026, System Architect" width="100%"/>
+<picture><source media="(prefers-color-scheme: light)" srcset="assets/milestones-light.svg"><img src="assets/milestones.svg" alt="Milestones 2022 → 2026, System Architect" width="100%"/></picture>
 
 <img src="assets/divider.svg" alt="" width="100%"/>
 
@@ -152,7 +152,7 @@
 
 ## 📡 Live Status
 
-<img src="assets/terminal-status.svg" alt="tail -f muhammed-koca.log" width="100%"/>
+<picture><source media="(prefers-color-scheme: light)" srcset="assets/terminal-status-light.svg"><img src="assets/terminal-status.svg" alt="tail -f muhammed-koca.log" width="100%"/></picture>
 
 <img src="assets/divider.svg" alt="" width="100%"/>
 
@@ -263,6 +263,6 @@
 
 <!-- ═══ Animated footer — assets/footer.svg ═══ -->
 <div align="center">
-  <a href="https://www.muhammedkoca.com.tr"><img src="assets/footer.svg" alt="Öngör → Kurtar → Güçlendir — muhammedkoca.com.tr" width="100%"/></a>
+  <a href="https://www.muhammedkoca.com.tr"><picture><source media="(prefers-color-scheme: light)" srcset="assets/footer-light.svg"><img src="assets/footer.svg" alt="Öngör → Kurtar → Güçlendir — muhammedkoca.com.tr" width="100%"/></picture></a>
   <sub><i>If this profile was useful to you, <a href="https://github.com/Mhuseyin7">follow along</a> — I build resilient architectures &amp; ship real production stories.</i></sub>
 </div>
