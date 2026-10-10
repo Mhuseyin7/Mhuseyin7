@@ -166,13 +166,13 @@
      real 26-week GitHub-style heatmap with an "MK" glyph overlay. -->
 <table align="center">
   <tr>
-    <td align="center" width="50%"><img src="assets/cache/overview.svg" alt="overview — contribs, commits, PRs, issues, repos, stars" width="100%"/></td>
-    <td align="center" width="50%"><img src="assets/cache/streak.svg" alt="streak — current, longest, reviews, active days" width="100%"/></td>
+    <td align="center" width="50%"><picture><source media="(prefers-color-scheme: light)" srcset="assets/cache/overview-light.svg"><img src="assets/cache/overview.svg" alt="overview — contribs, commits, PRs, issues, repos, stars" width="100%"/></picture></td>
+    <td align="center" width="50%"><picture><source media="(prefers-color-scheme: light)" srcset="assets/cache/streak-light.svg"><img src="assets/cache/streak.svg" alt="streak — current, longest, reviews, active days" width="100%"/></picture></td>
   </tr>
 </table>
 
-<p align="center"><img src="assets/cache/langs.svg" alt="top languages" width="100%"/></p>
-<p align="center"><img src="assets/cache/activity.svg" alt="26-week contribution heatmap with MK glyph overlay" width="100%"/></p>
+<p align="center"><picture><source media="(prefers-color-scheme: light)" srcset="assets/cache/langs-light.svg"><img src="assets/cache/langs.svg" alt="top languages" width="100%"/></picture></p>
+<p align="center"><picture><source media="(prefers-color-scheme: light)" srcset="assets/cache/activity-light.svg"><img src="assets/cache/activity.svg" alt="26-week contribution heatmap with MK glyph overlay" width="100%"/></picture></p>
 
 <img src="assets/divider.svg" alt="" width="100%"/>
 
