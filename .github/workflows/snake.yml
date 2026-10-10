@@ -1,5 +1,5 @@
-# 🚘 Contribution Traffic — katkıların arasında makas atan araba animasyonu üretir.
-# Çıktı: "output" branch'ine açık ve koyu tema SVG'leri yazılır.
+# Contribution Traffic: a top-down car drives through the contribution graph and
+# knocks aside the squares in its lane. Light and dark SVGs go to the "output" branch.
 
 name: Generate Contribution Car
 
