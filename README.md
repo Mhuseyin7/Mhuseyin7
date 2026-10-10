@@ -46,15 +46,15 @@
 
 **Frontend & Frameworks**
 
-<picture><source media="(prefers-color-scheme: light)" srcset="https://skillicons.dev/icons?i=nextjs,react,ts,astro,tailwind,electron&amp;theme=light"><img src="https://skillicons.dev/icons?i=nextjs,react,ts,astro,tailwind,electron&amp;theme=dark" alt="frontend"/></picture>
+<img src="https://skillicons.dev/icons?i=nextjs,react,ts,astro,tailwind,electron&theme=dark" alt="frontend"/>
 
 **Backend & Data**
 
-<picture><source media="(prefers-color-scheme: light)" srcset="https://skillicons.dev/icons?i=nodejs,py,php,postgres,mysql,redis,prisma,supabase&amp;theme=light"><img src="https://skillicons.dev/icons?i=nodejs,py,php,postgres,mysql,redis,prisma,supabase&amp;theme=dark" alt="backend"/></picture>
+<img src="https://skillicons.dev/icons?i=nodejs,py,php,postgres,mysql,redis,prisma,supabase&theme=dark" alt="backend"/>
 
 **DevOps & System**
 
-<picture><source media="(prefers-color-scheme: light)" srcset="https://skillicons.dev/icons?i=linux,docker,bash,git,github,vscode&amp;theme=light"><img src="https://skillicons.dev/icons?i=linux,docker,bash,git,github,vscode&amp;theme=dark" alt="devops"/></picture>
+<img src="https://skillicons.dev/icons?i=linux,docker,bash,git,github,vscode&theme=dark" alt="devops"/>
 
 <br/>
 
