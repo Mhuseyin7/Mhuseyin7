@@ -16,7 +16,7 @@
 
 <br/><br/>
 
-[![typing](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=17&duration=2600&pause=900&color=60A5FA&center=true&vCenter=true&random=false&width=720&height=44&lines=%24+.%2Fsystem+--heal+%E2%86%92+self-healing%3A+ACTIVE;Full-Stack+Architecture+%E2%80%A2+Self-hosted+Apps;Build+%C2%B7+Deploy+%C2%B7+Observe;1001%2B+posts+%C2%B7+1.1M%2B+words+%C2%B7+muhammedkoca.com.tr)](https://www.muhammedkoca.com.tr)
+<a href="https://www.muhammedkoca.com.tr"><picture><source media="(prefers-color-scheme: light)" srcset="https://readme-typing-svg.demolab.com?font=Fira+Code&amp;weight=600&amp;size=17&amp;duration=2600&amp;pause=900&amp;color=2563EB&amp;center=true&amp;vCenter=true&amp;random=false&amp;width=720&amp;height=44&amp;lines=%24+.%2Fsystem+--heal+%E2%86%92+self-healing%3A+ACTIVE;Full-Stack+Architecture+%E2%80%A2+Self-hosted+Apps;Build+%C2%B7+Deploy+%C2%B7+Observe;1001%2B+posts+%C2%B7+1.1M%2B+words+%C2%B7+muhammedkoca.com.tr"><img alt="typing" src="https://readme-typing-svg.demolab.com?font=Fira+Code&amp;weight=600&amp;size=17&amp;duration=2600&amp;pause=900&amp;color=60A5FA&amp;center=true&amp;vCenter=true&amp;random=false&amp;width=720&amp;height=44&amp;lines=%24+.%2Fsystem+--heal+%E2%86%92+self-healing%3A+ACTIVE;Full-Stack+Architecture+%E2%80%A2+Self-hosted+Apps;Build+%C2%B7+Deploy+%C2%B7+Observe;1001%2B+posts+%C2%B7+1.1M%2B+words+%C2%B7+muhammedkoca.com.tr"/></picture></a>
 
 <br/>
 
@@ -46,15 +46,15 @@
 
 **Frontend & Frameworks**
 
-<img src="https://skillicons.dev/icons?i=nextjs,react,ts,astro,tailwind,electron&theme=dark" alt="frontend"/>
+<picture><source media="(prefers-color-scheme: light)" srcset="https://skillicons.dev/icons?i=nextjs,react,ts,astro,tailwind,electron&amp;theme=light"><img src="https://skillicons.dev/icons?i=nextjs,react,ts,astro,tailwind,electron&amp;theme=dark" alt="frontend"/></picture>
 
 **Backend & Data**
 
-<img src="https://skillicons.dev/icons?i=nodejs,py,php,postgres,mysql,redis,prisma,supabase&theme=dark" alt="backend"/>
+<picture><source media="(prefers-color-scheme: light)" srcset="https://skillicons.dev/icons?i=nodejs,py,php,postgres,mysql,redis,prisma,supabase&amp;theme=light"><img src="https://skillicons.dev/icons?i=nodejs,py,php,postgres,mysql,redis,prisma,supabase&amp;theme=dark" alt="backend"/></picture>
 
 **DevOps & System**
 
-<img src="https://skillicons.dev/icons?i=linux,docker,bash,git,github,vscode&theme=dark" alt="devops"/>
+<picture><source media="(prefers-color-scheme: light)" srcset="https://skillicons.dev/icons?i=linux,docker,bash,git,github,vscode&amp;theme=light"><img src="https://skillicons.dev/icons?i=linux,docker,bash,git,github,vscode&amp;theme=dark" alt="devops"/></picture>
 
 <br/>
 
