@@ -41,9 +41,16 @@ jobs:
           GH_USERNAME: ${{ github.repository_owner }}
         run: python3 scripts/generate_stats.py assets/cache
 
+      - name: Refresh light variants of the static assets
+        run: >
+          python3 scripts/theme_light.py
+          assets/header.svg assets/footer.svg assets/terminal-whoami.svg
+          assets/terminal-status.svg assets/architecture.svg assets/now.svg
+          assets/milestones.svg
+
       - name: Commit cache
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "github-actions[bot]@users.noreply.github.com"
-          git add assets/cache
+          git add assets/cache assets/*-light.svg
           git diff --cached --quiet || (git commit -m "chore: GitHub kartları güncellendi 🤖" && git push)
