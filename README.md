@@ -222,7 +222,7 @@
 <div align="center">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Mhuseyin7/Mhuseyin7/output/contribution-car-dark.svg">
-    <img alt="Car cutting through the contribution graph" src="https://raw.githubusercontent.com/Mhuseyin7/Mhuseyin7/output/contribution-car.svg" width="100%">
+    <img alt="A car driving through the contribution graph, knocking contributions aside" src="https://raw.githubusercontent.com/Mhuseyin7/Mhuseyin7/output/contribution-car.svg" width="100%">
   </picture>
 </div>
 
