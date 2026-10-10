@@ -6,7 +6,7 @@
   <text x="860" y="26" text-anchor="end" font-family="'JetBrains Mono', Consolas, monospace" font-size="10.5" fill="#94a3b8" letter-spacing="2.4">ACTIVITY</text>
   
   <text x="246" y="42" font-family="'JetBrains Mono', Consolas, monospace" font-size="10" fill="#94a3b8" letter-spacing="0.24em">2025-10-05  →  2026-10-10</text>
-  <text x="633" y="42" text-anchor="end" font-family="'JetBrains Mono', Consolas, monospace" font-size="10" fill="#94a3b8" letter-spacing="0.24em">91 ACTIVE DAYS · MAX <tspan fill="#f8fafc" font-weight="600">114</tspan></text>
+  <text x="633" y="42" text-anchor="end" font-family="'JetBrains Mono', Consolas, monospace" font-size="10" fill="#94a3b8" letter-spacing="0.24em">91 ACTIVE DAYS · MAX <tspan fill="#f8fafc" font-weight="600">117</tspan></text>
   <text x="236" y="93" text-anchor="end" font-family="'JetBrains Mono', Consolas, monospace" font-size="9" fill="#94a3b8" letter-spacing="0.1em">Mon</text>
   <text x="236" y="123" text-anchor="end" font-family="'JetBrains Mono', Consolas, monospace" font-size="9" fill="#94a3b8" letter-spacing="0.1em">Wed</text>
   <text x="236" y="153" text-anchor="end" font-family="'JetBrains Mono', Consolas, monospace" font-size="9" fill="#94a3b8" letter-spacing="0.1em">Fri</text>
@@ -182,7 +182,7 @@
   <rect x="606" y="68" width="12" height="12" rx="2.5" fill="#60a5fa" fill-opacity="0.70" opacity="0"><animate attributeName="opacity" from="0" to="1" dur="0.5s" begin="0.70s" fill="freeze"/></rect>
   <rect x="606" y="83" width="12" height="12" rx="2.5" fill="#60a5fa" fill-opacity="0.25" opacity="0"><animate attributeName="opacity" from="0" to="1" dur="0.5s" begin="0.70s" fill="freeze"/></rect>
   <rect x="606" y="98" width="12" height="12" rx="2.5" fill="#60a5fa" fill-opacity="0.06" opacity="0"><animate attributeName="opacity" from="0" to="1" dur="0.5s" begin="0.70s" fill="freeze"/></rect>
-  <rect x="606" y="113" width="12" height="12" rx="2.5" fill="#60a5fa" fill-opacity="0.45" opacity="0"><animate attributeName="opacity" from="0" to="1" dur="0.5s" begin="0.70s" fill="freeze"/></rect>
+  <rect x="606" y="113" width="12" height="12" rx="2.5" fill="#60a5fa" fill-opacity="0.25" opacity="0"><animate attributeName="opacity" from="0" to="1" dur="0.5s" begin="0.70s" fill="freeze"/></rect>
   <rect x="606" y="128" width="12" height="12" rx="2.5" fill="#60a5fa" fill-opacity="0.45" opacity="0"><animate attributeName="opacity" from="0" to="1" dur="0.5s" begin="0.70s" fill="freeze"/></rect>
   <rect x="606" y="143" width="12" height="12" rx="2.5" fill="#60a5fa" fill-opacity="0.25" opacity="0"><animate attributeName="opacity" from="0" to="1" dur="0.5s" begin="0.70s" fill="freeze"/></rect>
   <rect x="606" y="158" width="12" height="12" rx="2.5" fill="#60a5fa" fill-opacity="0.70" opacity="0"><animate attributeName="opacity" from="0" to="1" dur="0.5s" begin="0.70s" fill="freeze"/></rect>
@@ -191,7 +191,7 @@
   <rect x="621" y="98" width="12" height="12" rx="2.5" fill="#60a5fa" fill-opacity="0.25" opacity="0"><animate attributeName="opacity" from="0" to="1" dur="0.5s" begin="0.72s" fill="freeze"/></rect>
   <rect x="621" y="113" width="12" height="12" rx="2.5" fill="#60a5fa" fill-opacity="0.25" opacity="0"><animate attributeName="opacity" from="0" to="1" dur="0.5s" begin="0.72s" fill="freeze"/></rect>
   <rect x="621" y="128" width="12" height="12" rx="2.5" fill="#60a5fa" fill-opacity="0.25" opacity="0"><animate attributeName="opacity" from="0" to="1" dur="0.5s" begin="0.72s" fill="freeze"/></rect>
-  <rect x="621" y="143" width="12" height="12" rx="2.5" fill="#60a5fa" fill-opacity="0.45" opacity="0"><animate attributeName="opacity" from="0" to="1" dur="0.5s" begin="0.72s" fill="freeze"/></rect>
+  <rect x="621" y="143" width="12" height="12" rx="2.5" fill="#60a5fa" fill-opacity="0.25" opacity="0"><animate attributeName="opacity" from="0" to="1" dur="0.5s" begin="0.72s" fill="freeze"/></rect>
   <rect x="621" y="158" width="12" height="12" rx="2.5" fill="#60a5fa" fill-opacity="1" opacity="0"><animate attributeName="opacity" from="0" to="1" dur="0.5s" begin="0.72s" fill="freeze"/></rect>
   <rect x="351" y="68" width="12" height="12" rx="2.5" fill="#93c5fd" opacity="0"><animate attributeName="opacity" values="0;1;1" keyTimes="0;0.3;1" dur="0.7s" begin="1.20s" fill="freeze"/><animate attributeName="opacity" values="0.85;1;0.85" dur="3s" begin="2.00s" repeatCount="indefinite"/></rect>
   <rect x="411" y="68" width="12" height="12" rx="2.5" fill="#93c5fd" opacity="0"><animate attributeName="opacity" values="0;1;1" keyTimes="0;0.3;1" dur="0.7s" begin="1.44s" fill="freeze"/><animate attributeName="opacity" values="0.85;1;0.85" dur="3s" begin="2.24s" repeatCount="indefinite"/></rect>
