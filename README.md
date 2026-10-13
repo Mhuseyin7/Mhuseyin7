@@ -184,6 +184,15 @@
 <!-- BLOG-CARDS:START -->
 <table>
   <tr>
+    <td width="260"><a href="https://www.muhammedkoca.com.tr/blog/ssh-ile-sunucuya-baglanma-6-adimda-guvenli-erisim-kontrol-listesi"><img src="https://www.muhammedkoca.com.tr/api/og/cover.png?title=SSH+ile+Sunucuya+Ba%C4%9Flanma%3A+6+Ad%C4%B1mda+G%C3%BCvenli+Eri%C5%9Fim+Kontrol+Listesi&category=Rehberler&v=4" width="240" alt="SSH ile Sunucuya Bağlanma: 6 Adımda Güvenli Erişim Kontrol Listesi"/></a></td>
+    <td valign="top" width="580">
+      <img src="https://img.shields.io/badge/Rehberler-60a5fa?style=flat-square&labelColor=0f172a" alt="Rehberler"/> <sub>13 Eki 2026</sub><br/><br/>
+      <a href="https://www.muhammedkoca.com.tr/blog/ssh-ile-sunucuya-baglanma-6-adimda-guvenli-erisim-kontrol-listesi"><b>SSH ile Sunucuya Bağlanma: 6 Adımda Güvenli Erişim Kontrol Listesi</b></a><br/><br/>
+      <sub>Yeni bir sunucuya güvenli erişim için terminal komutlarından anahtar yönetimine kadar adım adım ilerleyin. Bu rehber, en sık yapılan hataları…</sub>
+    </td>
+  </tr>
+  <tr><td colspan="2"><img src="assets/divider.svg" alt="" width="100%"/></td></tr>
+  <tr>
     <td width="260"><a href="https://www.muhammedkoca.com.tr/blog/bilisimde-freelance-calismanin-az-konusulan-gercekleri"><img src="https://www.muhammedkoca.com.tr/api/og/cover.png?title=Bili%C5%9Fimde+Freelance+%C3%87al%C4%B1%C5%9Fman%C4%B1n+Az+Konu%C5%9Fulan+Ger%C3%A7ekleri&category=Kariyer&v=4" width="240" alt="Bilişimde Freelance Çalışmanın Az Konuşulan Gerçekleri"/></a></td>
     <td valign="top" width="580">
       <img src="https://img.shields.io/badge/Kariyer-60a5fa?style=flat-square&labelColor=0f172a" alt="Kariyer"/> <sub>13 Eki 2026</sub><br/><br/>
@@ -198,15 +207,6 @@
       <img src="https://img.shields.io/badge/Kariyer-60a5fa?style=flat-square&labelColor=0f172a" alt="Kariyer"/> <sub>13 Eki 2026</sub><br/><br/>
       <a href="https://www.muhammedkoca.com.tr/blog/junior-dan-mid-seviyeye-geciste-kacinilmasi-gereken-yaygin-hatalar"><b>Junior&#x27;dan Mid‑Seviyeye Geçişte Kaçınılması Gereken Yaygın Hatalar</b></a><br/><br/>
       <sub>Junior pozisyonundan mid‑seviye bir role yükselirken sıkça yapılan hataları ve bunların nasıl önlenebileceğini öğrenin. Gerçek senaryolarla pratik…</sub>
-    </td>
-  </tr>
-  <tr><td colspan="2"><img src="assets/divider.svg" alt="" width="100%"/></td></tr>
-  <tr>
-    <td width="260"><a href="https://www.muhammedkoca.com.tr/blog/bilisimde-takim-liderligine-gecis-6-ayda-somut-ilerleme-plani"><img src="https://www.muhammedkoca.com.tr/api/og/cover.png?title=Bili%C5%9Fimde+Tak%C4%B1m+Liderli%C4%9Fine+Ge%C3%A7i%C5%9F%3A+6+Ayda+Somut+%C4%B0lerleme+Plan%C4%B1&category=Kariyer&v=4" width="240" alt="Bilişimde Takım Liderliğine Geçiş: 6 Ayda Somut İlerleme Planı"/></a></td>
-    <td valign="top" width="580">
-      <img src="https://img.shields.io/badge/Kariyer-60a5fa?style=flat-square&labelColor=0f172a" alt="Kariyer"/> <sub>13 Eki 2026</sub><br/><br/>
-      <a href="https://www.muhammedkoca.com.tr/blog/bilisimde-takim-liderligine-gecis-6-ayda-somut-ilerleme-plani"><b>Bilişimde Takım Liderliğine Geçiş: 6 Ayda Somut İlerleme Planı</b></a><br/><br/>
-      <sub>Bu rehberde, teknik rolden takım liderliğine geçiş sürecinde atmanız gereken adımları, gerekli becerileri ve sık yapılan hataları öğrenerek 6 ay…</sub>
     </td>
   </tr>
 </table>
