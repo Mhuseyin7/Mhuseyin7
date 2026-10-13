@@ -184,29 +184,29 @@
 <!-- BLOG-CARDS:START -->
 <table>
   <tr>
-    <td width="260"><a href="https://www.muhammedkoca.com.tr/blog/ekran-oncesinde-ve-sonrasinda-nasil-sakinlesirsiniz"><img src="https://www.muhammedkoca.com.tr/api/og/cover.png?title=Ekran+%C3%B6ncesinde+ve+sonras%C4%B1nda+nas%C4%B1l+sakinle%C5%9Firsiniz%3F&category=Ya%C5%9Fam&v=4" width="240" alt="Ekran öncesinde ve sonrasında nasıl sakinleşirsiniz?"/></a></td>
+    <td width="260"><a href="https://www.muhammedkoca.com.tr/blog/bilisimde-freelance-calismanin-az-konusulan-gercekleri"><img src="https://www.muhammedkoca.com.tr/api/og/cover.png?title=Bili%C5%9Fimde+Freelance+%C3%87al%C4%B1%C5%9Fman%C4%B1n+Az+Konu%C5%9Fulan+Ger%C3%A7ekleri&category=Kariyer&v=4" width="240" alt="Bilişimde Freelance Çalışmanın Az Konuşulan Gerçekleri"/></a></td>
     <td valign="top" width="580">
-      <img src="https://img.shields.io/badge/Yaşam-60a5fa?style=flat-square&labelColor=0f172a" alt="Yaşam"/> <sub>12 Eki 2026</sub><br/><br/>
-      <a href="https://www.muhammedkoca.com.tr/blog/ekran-oncesinde-ve-sonrasinda-nasil-sakinlesirsiniz"><b>Ekran öncesinde ve sonrasında nasıl sakinleşirsiniz?</b></a><br/><br/>
-      <sub>Günün başlangıcında ve bitişinde ekranla kurduğunuz ilişkinizi dönüştürmek için pratik, düşük eforlu ritüelleri öğrenin. Bu planla dijital gürültüden…</sub>
+      <img src="https://img.shields.io/badge/Kariyer-60a5fa?style=flat-square&labelColor=0f172a" alt="Kariyer"/> <sub>13 Eki 2026</sub><br/><br/>
+      <a href="https://www.muhammedkoca.com.tr/blog/bilisimde-freelance-calismanin-az-konusulan-gercekleri"><b>Bilişimde Freelance Çalışmanın Az Konuşulan Gerçekleri</b></a><br/><br/>
+      <sub>Freelance bilişim dünyasında karşılaşacağınız bilinmeyen zorlukları ve fırsatları keşfedin. Okuyucu, sürdürülebilir bir serbest kariyer için kritik…</sub>
     </td>
   </tr>
   <tr><td colspan="2"><img src="assets/divider.svg" alt="" width="100%"/></td></tr>
   <tr>
-    <td width="260"><a href="https://www.muhammedkoca.com.tr/blog/wi-fi-kanali-secimi-ve-parazit-azaltma-icin-pratik-kontrol-listesi"><img src="https://www.muhammedkoca.com.tr/api/og/cover.png?title=Wi-Fi+Kanal%C4%B1+Se%C3%A7imi+ve+Parazit+Azaltma+%C4%B0%C3%A7in+Pratik+Kontrol+Listesi&category=Rehberler&v=4" width="240" alt="Wi-Fi Kanalı Seçimi ve Parazit Azaltma İçin Pratik Kontrol Listesi"/></a></td>
+    <td width="260"><a href="https://www.muhammedkoca.com.tr/blog/junior-dan-mid-seviyeye-geciste-kacinilmasi-gereken-yaygin-hatalar"><img src="https://www.muhammedkoca.com.tr/api/og/cover.png?title=Junior%27dan+Mid%E2%80%91Seviyeye+Ge%C3%A7i%C5%9Fte+Ka%C3%A7%C4%B1n%C4%B1lmas%C4%B1+Gereken+Yayg%C4%B1n+Hatalar&category=Kariyer&v=4" width="240" alt="Junior&#x27;dan Mid‑Seviyeye Geçişte Kaçınılması Gereken Yaygın Hatalar"/></a></td>
     <td valign="top" width="580">
-      <img src="https://img.shields.io/badge/Rehberler-60a5fa?style=flat-square&labelColor=0f172a" alt="Rehberler"/> <sub>12 Eki 2026</sub><br/><br/>
-      <a href="https://www.muhammedkoca.com.tr/blog/wi-fi-kanali-secimi-ve-parazit-azaltma-icin-pratik-kontrol-listesi"><b>Wi-Fi Kanalı Seçimi ve Parazit Azaltma İçin Pratik Kontrol Listesi</b></a><br/><br/>
-      <sub>Ev veya ofis ağınızdaki hız düşüklüğünün sebebini tespit edin. Basit ayarlar ve araçlarla paraziti azaltarak kararlı bir bağlantı sağlayın.</sub>
+      <img src="https://img.shields.io/badge/Kariyer-60a5fa?style=flat-square&labelColor=0f172a" alt="Kariyer"/> <sub>13 Eki 2026</sub><br/><br/>
+      <a href="https://www.muhammedkoca.com.tr/blog/junior-dan-mid-seviyeye-geciste-kacinilmasi-gereken-yaygin-hatalar"><b>Junior&#x27;dan Mid‑Seviyeye Geçişte Kaçınılması Gereken Yaygın Hatalar</b></a><br/><br/>
+      <sub>Junior pozisyonundan mid‑seviye bir role yükselirken sıkça yapılan hataları ve bunların nasıl önlenebileceğini öğrenin. Gerçek senaryolarla pratik…</sub>
     </td>
   </tr>
   <tr><td colspan="2"><img src="assets/divider.svg" alt="" width="100%"/></td></tr>
   <tr>
-    <td width="260"><a href="https://www.muhammedkoca.com.tr/blog/disk-bolumleme-adimlari-baslangic-seviyesi-kontrol-listesi"><img src="https://www.muhammedkoca.com.tr/api/og/cover.png?title=Disk+B%C3%B6l%C3%BCmleme+Ad%C4%B1mlar%C4%B1%3A+Ba%C5%9Flang%C4%B1%C3%A7+Seviyesi+Kontrol+Listesi&category=Rehberler&v=4" width="240" alt="Disk Bölümleme Adımları: Başlangıç Seviyesi Kontrol Listesi"/></a></td>
+    <td width="260"><a href="https://www.muhammedkoca.com.tr/blog/bilisimde-takim-liderligine-gecis-6-ayda-somut-ilerleme-plani"><img src="https://www.muhammedkoca.com.tr/api/og/cover.png?title=Bili%C5%9Fimde+Tak%C4%B1m+Liderli%C4%9Fine+Ge%C3%A7i%C5%9F%3A+6+Ayda+Somut+%C4%B0lerleme+Plan%C4%B1&category=Kariyer&v=4" width="240" alt="Bilişimde Takım Liderliğine Geçiş: 6 Ayda Somut İlerleme Planı"/></a></td>
     <td valign="top" width="580">
-      <img src="https://img.shields.io/badge/Rehberler-60a5fa?style=flat-square&labelColor=0f172a" alt="Rehberler"/> <sub>12 Eki 2026</sub><br/><br/>
-      <a href="https://www.muhammedkoca.com.tr/blog/disk-bolumleme-adimlari-baslangic-seviyesi-kontrol-listesi"><b>Disk Bölümleme Adımları: Başlangıç Seviyesi Kontrol Listesi</b></a><br/><br/>
-      <sub>Disk bölümleme sürecini adım adım anlatan bu rehber, veri kaybını önlemek için gerekli ön koşulları ve pratik kontrol listesini sunar. Yeni…</sub>
+      <img src="https://img.shields.io/badge/Kariyer-60a5fa?style=flat-square&labelColor=0f172a" alt="Kariyer"/> <sub>13 Eki 2026</sub><br/><br/>
+      <a href="https://www.muhammedkoca.com.tr/blog/bilisimde-takim-liderligine-gecis-6-ayda-somut-ilerleme-plani"><b>Bilişimde Takım Liderliğine Geçiş: 6 Ayda Somut İlerleme Planı</b></a><br/><br/>
+      <sub>Bu rehberde, teknik rolden takım liderliğine geçiş sürecinde atmanız gereken adımları, gerekli becerileri ve sık yapılan hataları öğrenerek 6 ay…</sub>
     </td>
   </tr>
 </table>
