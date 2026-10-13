@@ -184,29 +184,29 @@
 <!-- BLOG-CARDS:START -->
 <table>
   <tr>
-    <td width="260"><a href="https://www.muhammedkoca.com.tr/blog/bilisimde-ilk-isinizde-az-soylenen-5-gercek"><img src="https://www.muhammedkoca.com.tr/api/og/cover.png?title=Bili%C5%9Fimde+%C4%B0lk+%C4%B0%C5%9Finizde+Az+S%C3%B6ylenen+5+Ger%C3%A7ek&category=Kariyer&v=4" width="240" alt="Bilişimde İlk İşinizde Az Söylenen 5 Gerçek"/></a></td>
+    <td width="260"><a href="https://www.muhammedkoca.com.tr/blog/ekran-oncesinde-ve-sonrasinda-nasil-sakinlesirsiniz"><img src="https://www.muhammedkoca.com.tr/api/og/cover.png?title=Ekran+%C3%B6ncesinde+ve+sonras%C4%B1nda+nas%C4%B1l+sakinle%C5%9Firsiniz%3F&category=Ya%C5%9Fam&v=4" width="240" alt="Ekran öncesinde ve sonrasında nasıl sakinleşirsiniz?"/></a></td>
     <td valign="top" width="580">
-      <img src="https://img.shields.io/badge/Kariyer-60a5fa?style=flat-square&labelColor=0f172a" alt="Kariyer"/> <sub>4 Eki 2026</sub><br/><br/>
-      <a href="https://www.muhammedkoca.com.tr/blog/bilisimde-ilk-isinizde-az-soylenen-5-gercek"><b>Bilişimde İlk İşinizde Az Söylenen 5 Gerçek</b></a><br/><br/>
-      <sub>İlk IT pozisyonunuza adım atarken çoğu kişi sadece teknik yetkinliğe odaklanır. Ancak işe giriş sürecinde karşılaşacağınız gizli gerçekler…</sub>
+      <img src="https://img.shields.io/badge/Yaşam-60a5fa?style=flat-square&labelColor=0f172a" alt="Yaşam"/> <sub>12 Eki 2026</sub><br/><br/>
+      <a href="https://www.muhammedkoca.com.tr/blog/ekran-oncesinde-ve-sonrasinda-nasil-sakinlesirsiniz"><b>Ekran öncesinde ve sonrasında nasıl sakinleşirsiniz?</b></a><br/><br/>
+      <sub>Günün başlangıcında ve bitişinde ekranla kurduğunuz ilişkinizi dönüştürmek için pratik, düşük eforlu ritüelleri öğrenin. Bu planla dijital gürültüden…</sub>
     </td>
   </tr>
   <tr><td colspan="2"><img src="assets/divider.svg" alt="" width="100%"/></td></tr>
   <tr>
-    <td width="260"><a href="https://www.muhammedkoca.com.tr/blog/7-kritik-soru-bilisimde-ilk-isinize-baslamadan-once-kendinize-sormaniz-gerekenle"><img src="https://www.muhammedkoca.com.tr/api/og/cover.png?title=7+Kritik+Soru%3A+Bili%C5%9Fimde+%C4%B0lk+%C4%B0%C5%9Finize+Ba%C5%9Flamadan+%C3%96nce+Kendinize+Sorman%C4%B1z+Gerekenler&category=Kariyer&v=4" width="240" alt="7 Kritik Soru: Bilişimde İlk İşinize Başlamadan Önce Kendinize Sormanız Gerekenler"/></a></td>
+    <td width="260"><a href="https://www.muhammedkoca.com.tr/blog/wi-fi-kanali-secimi-ve-parazit-azaltma-icin-pratik-kontrol-listesi"><img src="https://www.muhammedkoca.com.tr/api/og/cover.png?title=Wi-Fi+Kanal%C4%B1+Se%C3%A7imi+ve+Parazit+Azaltma+%C4%B0%C3%A7in+Pratik+Kontrol+Listesi&category=Rehberler&v=4" width="240" alt="Wi-Fi Kanalı Seçimi ve Parazit Azaltma İçin Pratik Kontrol Listesi"/></a></td>
     <td valign="top" width="580">
-      <img src="https://img.shields.io/badge/Kariyer-60a5fa?style=flat-square&labelColor=0f172a" alt="Kariyer"/> <sub>4 Eki 2026</sub><br/><br/>
-      <a href="https://www.muhammedkoca.com.tr/blog/7-kritik-soru-bilisimde-ilk-isinize-baslamadan-once-kendinize-sormaniz-gerekenle"><b>7 Kritik Soru: Bilişimde İlk İşinize Başlamadan Önce Kendinize Sormanız Gerekenler</b></a><br/><br/>
-      <sub>İlk işinizde başarılı bir başlangıç yapabilmek için doğru soruları sormak şart. Bu rehber, yeni mezunların ve kariyer değiştiricilerin…</sub>
+      <img src="https://img.shields.io/badge/Rehberler-60a5fa?style=flat-square&labelColor=0f172a" alt="Rehberler"/> <sub>12 Eki 2026</sub><br/><br/>
+      <a href="https://www.muhammedkoca.com.tr/blog/wi-fi-kanali-secimi-ve-parazit-azaltma-icin-pratik-kontrol-listesi"><b>Wi-Fi Kanalı Seçimi ve Parazit Azaltma İçin Pratik Kontrol Listesi</b></a><br/><br/>
+      <sub>Ev veya ofis ağınızdaki hız düşüklüğünün sebebini tespit edin. Basit ayarlar ve araçlarla paraziti azaltarak kararlı bir bağlantı sağlayın.</sub>
     </td>
   </tr>
   <tr><td colspan="2"><img src="assets/divider.svg" alt="" width="100%"/></td></tr>
   <tr>
-    <td width="260"><a href="https://www.muhammedkoca.com.tr/blog/yeni-baslayanlar-icin-bilisimde-ilk-isinizde-yoneticilerin-beklentileri-rehberi"><img src="https://www.muhammedkoca.com.tr/api/og/cover.png?title=Yeni+Ba%C5%9Flayanlar+%C4%B0%C3%A7in+Bili%C5%9Fimde+%C4%B0lk+%C4%B0%C5%9Finizde+Y%C3%B6neticilerin+Beklentileri+Rehberi&category=Kariyer&v=4" width="240" alt="Yeni Başlayanlar İçin Bilişimde İlk İşinizde Yöneticilerin Beklentileri Rehberi"/></a></td>
+    <td width="260"><a href="https://www.muhammedkoca.com.tr/blog/disk-bolumleme-adimlari-baslangic-seviyesi-kontrol-listesi"><img src="https://www.muhammedkoca.com.tr/api/og/cover.png?title=Disk+B%C3%B6l%C3%BCmleme+Ad%C4%B1mlar%C4%B1%3A+Ba%C5%9Flang%C4%B1%C3%A7+Seviyesi+Kontrol+Listesi&category=Rehberler&v=4" width="240" alt="Disk Bölümleme Adımları: Başlangıç Seviyesi Kontrol Listesi"/></a></td>
     <td valign="top" width="580">
-      <img src="https://img.shields.io/badge/Kariyer-60a5fa?style=flat-square&labelColor=0f172a" alt="Kariyer"/> <sub>4 Eki 2026</sub><br/><br/>
-      <a href="https://www.muhammedkoca.com.tr/blog/yeni-baslayanlar-icin-bilisimde-ilk-isinizde-yoneticilerin-beklentileri-rehberi"><b>Yeni Başlayanlar İçin Bilişimde İlk İşinizde Yöneticilerin Beklentileri Rehberi</b></a><br/><br/>
-      <sub>Bilişim sektöründe ilk işinizi alırken yöneticilerin sizden ne tür beceri ve tutumları beklediğini öğrenin. Bu rehber, işe giriş sürecinizde başarılı…</sub>
+      <img src="https://img.shields.io/badge/Rehberler-60a5fa?style=flat-square&labelColor=0f172a" alt="Rehberler"/> <sub>12 Eki 2026</sub><br/><br/>
+      <a href="https://www.muhammedkoca.com.tr/blog/disk-bolumleme-adimlari-baslangic-seviyesi-kontrol-listesi"><b>Disk Bölümleme Adımları: Başlangıç Seviyesi Kontrol Listesi</b></a><br/><br/>
+      <sub>Disk bölümleme sürecini adım adım anlatan bu rehber, veri kaybını önlemek için gerekli ön koşulları ve pratik kontrol listesini sunar. Yeni…</sub>
     </td>
   </tr>
 </table>
