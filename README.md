@@ -184,6 +184,15 @@
 <!-- BLOG-CARDS:START -->
 <table>
   <tr>
+    <td width="260"><a href="https://www.muhammedkoca.com.tr/blog/sabah-rutini-ve-teknoloji-kullanimiyla-gununuzu-verimli-baslatin"><img src="https://www.muhammedkoca.com.tr/api/og/cover.png?title=Sabah+Rutini+ve+Teknoloji+Kullan%C4%B1m%C4%B1yla+G%C3%BCn%C3%BCn%C3%BCz%C3%BC+Verimli+Ba%C5%9Flat%C4%B1n&category=Ya%C5%9Fam&v=4" width="240" alt="Sabah Rutini ve Teknoloji Kullanımıyla Gününüzü Verimli Başlatın"/></a></td>
+    <td valign="top" width="580">
+      <img src="https://img.shields.io/badge/Yaşam-60a5fa?style=flat-square&labelColor=0f172a" alt="Yaşam"/> <sub>14 Eki 2026</sub><br/><br/>
+      <a href="https://www.muhammedkoca.com.tr/blog/sabah-rutini-ve-teknoloji-kullanimiyla-gununuzu-verimli-baslatin"><b>Sabah Rutini ve Teknoloji Kullanımıyla Gününüzü Verimli Başlatın</b></a><br/><br/>
+      <sub>Sabahları teknolojiyle dengeyi nasıl kuracağınızı ve verimliliği artıracağınızı öğrenin. Pratik adımlar ve yaygın hatalardan kaçınma yolları ile daha…</sub>
+    </td>
+  </tr>
+  <tr><td colspan="2"><img src="assets/divider.svg" alt="" width="100%"/></td></tr>
+  <tr>
     <td width="260"><a href="https://www.muhammedkoca.com.tr/blog/ssh-ile-sunucuya-baglanma-6-adimda-guvenli-erisim-kontrol-listesi"><img src="https://www.muhammedkoca.com.tr/api/og/cover.png?title=SSH+ile+Sunucuya+Ba%C4%9Flanma%3A+6+Ad%C4%B1mda+G%C3%BCvenli+Eri%C5%9Fim+Kontrol+Listesi&category=Rehberler&v=4" width="240" alt="SSH ile Sunucuya Bağlanma: 6 Adımda Güvenli Erişim Kontrol Listesi"/></a></td>
     <td valign="top" width="580">
       <img src="https://img.shields.io/badge/Rehberler-60a5fa?style=flat-square&labelColor=0f172a" alt="Rehberler"/> <sub>13 Eki 2026</sub><br/><br/>
@@ -198,15 +207,6 @@
       <img src="https://img.shields.io/badge/Kariyer-60a5fa?style=flat-square&labelColor=0f172a" alt="Kariyer"/> <sub>13 Eki 2026</sub><br/><br/>
       <a href="https://www.muhammedkoca.com.tr/blog/bilisimde-freelance-calismanin-az-konusulan-gercekleri"><b>Bilişimde Freelance Çalışmanın Az Konuşulan Gerçekleri</b></a><br/><br/>
       <sub>Freelance bilişim dünyasında karşılaşacağınız bilinmeyen zorlukları ve fırsatları keşfedin. Okuyucu, sürdürülebilir bir serbest kariyer için kritik…</sub>
-    </td>
-  </tr>
-  <tr><td colspan="2"><img src="assets/divider.svg" alt="" width="100%"/></td></tr>
-  <tr>
-    <td width="260"><a href="https://www.muhammedkoca.com.tr/blog/junior-dan-mid-seviyeye-geciste-kacinilmasi-gereken-yaygin-hatalar"><img src="https://www.muhammedkoca.com.tr/api/og/cover.png?title=Junior%27dan+Mid%E2%80%91Seviyeye+Ge%C3%A7i%C5%9Fte+Ka%C3%A7%C4%B1n%C4%B1lmas%C4%B1+Gereken+Yayg%C4%B1n+Hatalar&category=Kariyer&v=4" width="240" alt="Junior&#x27;dan Mid‑Seviyeye Geçişte Kaçınılması Gereken Yaygın Hatalar"/></a></td>
-    <td valign="top" width="580">
-      <img src="https://img.shields.io/badge/Kariyer-60a5fa?style=flat-square&labelColor=0f172a" alt="Kariyer"/> <sub>13 Eki 2026</sub><br/><br/>
-      <a href="https://www.muhammedkoca.com.tr/blog/junior-dan-mid-seviyeye-geciste-kacinilmasi-gereken-yaygin-hatalar"><b>Junior&#x27;dan Mid‑Seviyeye Geçişte Kaçınılması Gereken Yaygın Hatalar</b></a><br/><br/>
-      <sub>Junior pozisyonundan mid‑seviye bir role yükselirken sıkça yapılan hataları ve bunların nasıl önlenebileceğini öğrenin. Gerçek senaryolarla pratik…</sub>
     </td>
   </tr>
 </table>
