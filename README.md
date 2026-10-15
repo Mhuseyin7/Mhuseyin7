@@ -184,29 +184,29 @@
 <!-- BLOG-CARDS:START -->
 <table>
   <tr>
+    <td width="260"><a href="https://www.muhammedkoca.com.tr/blog/podcast-ve-sesli-icerikle-ogrenme-bir-haftada-nasil-denemeye-baslayabilirsiniz"><img src="https://www.muhammedkoca.com.tr/api/og/cover.png?title=Podcast+ve+sesli+i%C3%A7erikle+%C3%B6%C4%9Frenme%3A+Bir+haftada+nas%C4%B1l+denemeye+ba%C5%9Flayabilirsiniz%3F&category=Ya%C5%9Fam&v=4" width="240" alt="Podcast ve sesli içerikle öğrenme: Bir haftada nasıl denemeye başlayabilirsiniz?"/></a></td>
+    <td valign="top" width="580">
+      <img src="https://img.shields.io/badge/Yaşam-60a5fa?style=flat-square&labelColor=0f172a" alt="Yaşam"/> <sub>15 Eki 2026</sub><br/><br/>
+      <a href="https://www.muhammedkoca.com.tr/blog/podcast-ve-sesli-icerikle-ogrenme-bir-haftada-nasil-denemeye-baslayabilirsiniz"><b>Podcast ve sesli içerikle öğrenme: Bir haftada nasıl denemeye başlayabilirsiniz?</b></a><br/><br/>
+      <sub>Bu yazıda, podcast ve sesli içeriklerle öğrenmenin temellerini, bir haftalık deneme planını ve sık yapılan hataları öğrenerek, dijital dengeyi…</sub>
+    </td>
+  </tr>
+  <tr><td colspan="2"><img src="assets/divider.svg" alt="" width="100%"/></td></tr>
+  <tr>
+    <td width="260"><a href="https://www.muhammedkoca.com.tr/blog/uzaktan-it-calismasinin-az-konusulan-gercekleri-ve-basari-stratejileri"><img src="https://www.muhammedkoca.com.tr/api/og/cover.png?title=Uzaktan+IT+%C3%87al%C4%B1%C5%9Fmas%C4%B1n%C4%B1n+Az+Konu%C5%9Fulan+Ger%C3%A7ekleri+ve+Ba%C5%9Far%C4%B1+Stratejileri&category=Kariyer&v=4" width="240" alt="Uzaktan IT Çalışmasının Az Konuşulan Gerçekleri ve Başarı Stratejileri"/></a></td>
+    <td valign="top" width="580">
+      <img src="https://img.shields.io/badge/Kariyer-60a5fa?style=flat-square&labelColor=0f172a" alt="Kariyer"/> <sub>15 Eki 2026</sub><br/><br/>
+      <a href="https://www.muhammedkoca.com.tr/blog/uzaktan-it-calismasinin-az-konusulan-gercekleri-ve-basari-stratejileri"><b>Uzaktan IT Çalışmasının Az Konuşulan Gerçekleri ve Başarı Stratejileri</b></a><br/><br/>
+      <sub>Uzaktan IT görevlerinde sıkça göz ardı edilen zorlukları ve bunları aşmanın pratik yollarını keşfedin. Okuyucu, verimliliği artıran ve kariyerini…</sub>
+    </td>
+  </tr>
+  <tr><td colspan="2"><img src="assets/divider.svg" alt="" width="100%"/></td></tr>
+  <tr>
     <td width="260"><a href="https://www.muhammedkoca.com.tr/blog/ebeveyn-kontrolu-ve-filtreleme-kurulumunda-karsilasilan-sorunlar-nasil-cozulur"><img src="https://www.muhammedkoca.com.tr/api/og/cover.png?title=Ebeveyn+Kontrol%C3%BC+ve+Filtreleme+Kurulumunda+Kar%C5%9F%C4%B1la%C5%9F%C4%B1lan+Sorunlar+Nas%C4%B1l+%C3%87%C3%B6z%C3%BCl%C3%BCr%3F&category=Rehberler&v=4" width="240" alt="Ebeveyn Kontrolü ve Filtreleme Kurulumunda Karşılaşılan Sorunlar Nasıl Çözülür?"/></a></td>
     <td valign="top" width="580">
       <img src="https://img.shields.io/badge/Rehberler-60a5fa?style=flat-square&labelColor=0f172a" alt="Rehberler"/> <sub>14 Eki 2026</sub><br/><br/>
       <a href="https://www.muhammedkoca.com.tr/blog/ebeveyn-kontrolu-ve-filtreleme-kurulumunda-karsilasilan-sorunlar-nasil-cozulur"><b>Ebeveyn Kontrolü ve Filtreleme Kurulumunda Karşılaşılan Sorunlar Nasıl Çözülür?</b></a><br/><br/>
       <sub>İnternet filtreleri çalışmıyor mu? Bu rehberde, ebeveyn kontrolü yazılımlarındaki yaygın teknik hataları teşhis etmenizi ve adım adım çözüm yollarını…</sub>
-    </td>
-  </tr>
-  <tr><td colspan="2"><img src="assets/divider.svg" alt="" width="100%"/></td></tr>
-  <tr>
-    <td width="260"><a href="https://www.muhammedkoca.com.tr/blog/sabah-rutini-ve-teknoloji-kullanimiyla-gununuzu-verimli-baslatin"><img src="https://www.muhammedkoca.com.tr/api/og/cover.png?title=Sabah+Rutini+ve+Teknoloji+Kullan%C4%B1m%C4%B1yla+G%C3%BCn%C3%BCn%C3%BCz%C3%BC+Verimli+Ba%C5%9Flat%C4%B1n&category=Ya%C5%9Fam&v=4" width="240" alt="Sabah Rutini ve Teknoloji Kullanımıyla Gününüzü Verimli Başlatın"/></a></td>
-    <td valign="top" width="580">
-      <img src="https://img.shields.io/badge/Yaşam-60a5fa?style=flat-square&labelColor=0f172a" alt="Yaşam"/> <sub>14 Eki 2026</sub><br/><br/>
-      <a href="https://www.muhammedkoca.com.tr/blog/sabah-rutini-ve-teknoloji-kullanimiyla-gununuzu-verimli-baslatin"><b>Sabah Rutini ve Teknoloji Kullanımıyla Gününüzü Verimli Başlatın</b></a><br/><br/>
-      <sub>Sabahları teknolojiyle dengeyi nasıl kuracağınızı ve verimliliği artıracağınızı öğrenin. Pratik adımlar ve yaygın hatalardan kaçınma yolları ile daha…</sub>
-    </td>
-  </tr>
-  <tr><td colspan="2"><img src="assets/divider.svg" alt="" width="100%"/></td></tr>
-  <tr>
-    <td width="260"><a href="https://www.muhammedkoca.com.tr/blog/ssh-ile-sunucuya-baglanma-6-adimda-guvenli-erisim-kontrol-listesi"><img src="https://www.muhammedkoca.com.tr/api/og/cover.png?title=SSH+ile+Sunucuya+Ba%C4%9Flanma%3A+6+Ad%C4%B1mda+G%C3%BCvenli+Eri%C5%9Fim+Kontrol+Listesi&category=Rehberler&v=4" width="240" alt="SSH ile Sunucuya Bağlanma: 6 Adımda Güvenli Erişim Kontrol Listesi"/></a></td>
-    <td valign="top" width="580">
-      <img src="https://img.shields.io/badge/Rehberler-60a5fa?style=flat-square&labelColor=0f172a" alt="Rehberler"/> <sub>13 Eki 2026</sub><br/><br/>
-      <a href="https://www.muhammedkoca.com.tr/blog/ssh-ile-sunucuya-baglanma-6-adimda-guvenli-erisim-kontrol-listesi"><b>SSH ile Sunucuya Bağlanma: 6 Adımda Güvenli Erişim Kontrol Listesi</b></a><br/><br/>
-      <sub>Yeni bir sunucuya güvenli erişim için terminal komutlarından anahtar yönetimine kadar adım adım ilerleyin. Bu rehber, en sık yapılan hataları…</sub>
     </td>
   </tr>
 </table>
