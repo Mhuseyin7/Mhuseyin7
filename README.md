@@ -184,6 +184,15 @@
 <!-- BLOG-CARDS:START -->
 <table>
   <tr>
+    <td width="260"><a href="https://www.muhammedkoca.com.tr/blog/kariyer-molasi-sonrasi-bilisime-donus-ilk-adim-icin-pratik-rehber"><img src="https://www.muhammedkoca.com.tr/api/og/cover.png?title=Kariyer+Molas%C4%B1+Sonras%C4%B1+Bili%C5%9Fime+D%C3%B6n%C3%BC%C5%9F%3A+%C4%B0lk+Ad%C4%B1m+%C4%B0%C3%A7in+Pratik+Rehber&category=Kariyer&v=4" width="240" alt="Kariyer Molası Sonrası Bilişime Dönüş: İlk Adım İçin Pratik Rehber"/></a></td>
+    <td valign="top" width="580">
+      <img src="https://img.shields.io/badge/Kariyer-60a5fa?style=flat-square&labelColor=0f172a" alt="Kariyer"/> <sub>17 Eki 2026</sub><br/><br/>
+      <a href="https://www.muhammedkoca.com.tr/blog/kariyer-molasi-sonrasi-bilisime-donus-ilk-adim-icin-pratik-rehber"><b>Kariyer Molası Sonrası Bilişime Dönüş: İlk Adım İçin Pratik Rehber</b></a><br/><br/>
+      <sub>Kariyer molası sonrası bilişim dünyasına geri dönmek isteyenler için adım adım yol haritası, beceri geliştirme ve iş bulma taktiklerini öğrenin.</sub>
+    </td>
+  </tr>
+  <tr><td colspan="2"><img src="assets/divider.svg" alt="" width="100%"/></td></tr>
+  <tr>
     <td width="260"><a href="https://www.muhammedkoca.com.tr/blog/port-yonlendirme-ve-statik-ip-icin-pratik-adim-adim-rehber"><img src="https://www.muhammedkoca.com.tr/api/og/cover.png?title=Port+Y%C3%B6nlendirme+ve+Statik+IP+%C4%B0%C3%A7in+Pratik+Ad%C4%B1m%E2%80%91Ad%C4%B1m+Rehber&category=Rehberler&v=4" width="240" alt="Port Yönlendirme ve Statik IP İçin Pratik Adım‑Adım Rehber"/></a></td>
     <td valign="top" width="580">
       <img src="https://img.shields.io/badge/Rehberler-60a5fa?style=flat-square&labelColor=0f172a" alt="Rehberler"/> <sub>16 Eki 2026</sub><br/><br/>
@@ -198,15 +207,6 @@
       <img src="https://img.shields.io/badge/Kariyer-60a5fa?style=flat-square&labelColor=0f172a" alt="Kariyer"/> <sub>16 Eki 2026</sub><br/><br/>
       <a href="https://www.muhammedkoca.com.tr/blog/linkedin-profilinizle-bilisimde-gorunurluk-icin-kacinmaniz-gereken-7-yaygin-hata"><b>LinkedIn Profilinizle Bilişimde Görünürlük İçin Kaçınmanız Gereken 7 Yaygın Hata</b></a><br/><br/>
       <sub>LinkedIn profilinizin bilişim sektöründe fark edilmesini engelleyen sık yapılan hataları öğrenin ve profesyonel görünürlüğünüzü artıracak adımları…</sub>
-    </td>
-  </tr>
-  <tr><td colspan="2"><img src="assets/divider.svg" alt="" width="100%"/></td></tr>
-  <tr>
-    <td width="260"><a href="https://www.muhammedkoca.com.tr/blog/podcast-ve-sesli-icerikle-ogrenme-bir-haftada-nasil-denemeye-baslayabilirsiniz"><img src="https://www.muhammedkoca.com.tr/api/og/cover.png?title=Podcast+ve+sesli+i%C3%A7erikle+%C3%B6%C4%9Frenme%3A+Bir+haftada+nas%C4%B1l+denemeye+ba%C5%9Flayabilirsiniz%3F&category=Ya%C5%9Fam&v=4" width="240" alt="Podcast ve sesli içerikle öğrenme: Bir haftada nasıl denemeye başlayabilirsiniz?"/></a></td>
-    <td valign="top" width="580">
-      <img src="https://img.shields.io/badge/Yaşam-60a5fa?style=flat-square&labelColor=0f172a" alt="Yaşam"/> <sub>15 Eki 2026</sub><br/><br/>
-      <a href="https://www.muhammedkoca.com.tr/blog/podcast-ve-sesli-icerikle-ogrenme-bir-haftada-nasil-denemeye-baslayabilirsiniz"><b>Podcast ve sesli içerikle öğrenme: Bir haftada nasıl denemeye başlayabilirsiniz?</b></a><br/><br/>
-      <sub>Bu yazıda, podcast ve sesli içeriklerle öğrenmenin temellerini, bir haftalık deneme planını ve sık yapılan hataları öğrenerek, dijital dengeyi…</sub>
     </td>
   </tr>
 </table>
