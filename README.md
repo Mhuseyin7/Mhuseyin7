@@ -184,29 +184,29 @@
 <!-- BLOG-CARDS:START -->
 <table>
   <tr>
+    <td width="260"><a href="https://www.muhammedkoca.com.tr/blog/7-pratik-yol-ile-hibrit-yedekleme-stratejisi-kurma"><img src="https://www.muhammedkoca.com.tr/api/og/cover.png?title=7+pratik+yol+ile+hibrit+yedekleme+stratejisi+kurma&category=Rehberler&v=4" width="240" alt="7 pratik yol ile hibrit yedekleme stratejisi kurma"/></a></td>
+    <td valign="top" width="580">
+      <img src="https://img.shields.io/badge/Rehberler-60a5fa?style=flat-square&labelColor=0f172a" alt="Rehberler"/> <sub>19 Eki 2026</sub><br/><br/>
+      <a href="https://www.muhammedkoca.com.tr/blog/7-pratik-yol-ile-hibrit-yedekleme-stratejisi-kurma"><b>7 pratik yol ile hibrit yedekleme stratejisi kurma</b></a><br/><br/>
+      <sub>Bu rehberde bulut ve yerel yedekleri birleştirerek veri koruma sürecinizi optimize edersiniz. Adım adım planlama, uygulama ve sorun giderme…</sub>
+    </td>
+  </tr>
+  <tr><td colspan="2"><img src="assets/divider.svg" alt="" width="100%"/></td></tr>
+  <tr>
+    <td width="260"><a href="https://www.muhammedkoca.com.tr/blog/5-temel-beceriyle-t-shape-uzmanligina-adim"><img src="https://www.muhammedkoca.com.tr/api/og/cover.png?title=5+temel+beceriyle+T%E2%80%91Shape+uzmanl%C4%B1%C4%9F%C4%B1na+ad%C4%B1m&category=Kariyer&v=4" width="240" alt="5 temel beceriyle T‑Shape uzmanlığına adım"/></a></td>
+    <td valign="top" width="580">
+      <img src="https://img.shields.io/badge/Kariyer-60a5fa?style=flat-square&labelColor=0f172a" alt="Kariyer"/> <sub>19 Eki 2026</sub><br/><br/>
+      <a href="https://www.muhammedkoca.com.tr/blog/5-temel-beceriyle-t-shape-uzmanligina-adim"><b>5 temel beceriyle T‑Shape uzmanlığına adım</b></a><br/><br/>
+      <sub>Bilişimde T‑Shape uzmanlaşmanın yolu hangi becerilerle başlar? Bu yazıda, kariyerinizde derinlemesine uzmanlık ve geniş bir perspektif kazanmanız…</sub>
+    </td>
+  </tr>
+  <tr><td colspan="2"><img src="assets/divider.svg" alt="" width="100%"/></td></tr>
+  <tr>
     <td width="260"><a href="https://www.muhammedkoca.com.tr/blog/router-firmware-guncelleme-sorun-giderme-rehberi-yeni-baslayanlar-icin-adim-adim"><img src="https://www.muhammedkoca.com.tr/api/og/cover.png?title=Router+Firmware+G%C3%BCncelleme+Sorun+Giderme+Rehberi+%E2%80%93+Yeni+Ba%C5%9Flayanlar+%C4%B0%C3%A7in+Ad%C4%B1m+Ad%C4%B1m&category=Rehberler&v=4" width="240" alt="Router Firmware Güncelleme Sorun Giderme Rehberi – Yeni Başlayanlar İçin Adım Adım"/></a></td>
     <td valign="top" width="580">
       <img src="https://img.shields.io/badge/Rehberler-60a5fa?style=flat-square&labelColor=0f172a" alt="Rehberler"/> <sub>18 Eki 2026</sub><br/><br/>
       <a href="https://www.muhammedkoca.com.tr/blog/router-firmware-guncelleme-sorun-giderme-rehberi-yeni-baslayanlar-icin-adim-adim"><b>Router Firmware Güncelleme Sorun Giderme Rehberi – Yeni Başlayanlar İçin Adım Adım</b></a><br/><br/>
       <sub>Bu rehberde router firmware güncellemesinin ön koşullarını, adım adım uygulama sürecini ve karşılaşabileceğiniz hataların çözüm yollarını öğrenerek…</sub>
-    </td>
-  </tr>
-  <tr><td colspan="2"><img src="assets/divider.svg" alt="" width="100%"/></td></tr>
-  <tr>
-    <td width="260"><a href="https://www.muhammedkoca.com.tr/blog/uzaktan-aile-baglantisini-guclendiren-kucuk-ve-surdurulebilir-teknoloji-adimlari"><img src="https://www.muhammedkoca.com.tr/api/og/cover.png?title=Uzaktan+Aile+Ba%C4%9Flant%C4%B1s%C4%B1n%C4%B1+G%C3%BC%C3%A7lendiren+K%C3%BC%C3%A7%C3%BCk+ve+S%C3%BCrd%C3%BCr%C3%BClebilir+Teknoloji+Ad%C4%B1mlar%C4%B1&category=Ya%C5%9Fam&v=4" width="240" alt="Uzaktan Aile Bağlantısını Güçlendiren Küçük ve Sürdürülebilir Teknoloji Adımları"/></a></td>
-    <td valign="top" width="580">
-      <img src="https://img.shields.io/badge/Yaşam-60a5fa?style=flat-square&labelColor=0f172a" alt="Yaşam"/> <sub>18 Eki 2026</sub><br/><br/>
-      <a href="https://www.muhammedkoca.com.tr/blog/uzaktan-aile-baglantisini-guclendiren-kucuk-ve-surdurulebilir-teknoloji-adimlari"><b>Uzaktan Aile Bağlantısını Güçlendiren Küçük ve Sürdürülebilir Teknoloji Adımları</b></a><br/><br/>
-      <sub>Günlük yaşamda teknolojiyle aile bağlarınızı nasıl güçlendirebileceğinizi keşfedin. Pratik ipuçları ve gerçekçi deneme planlarıyla sürdürülebilir…</sub>
-    </td>
-  </tr>
-  <tr><td colspan="2"><img src="assets/divider.svg" alt="" width="100%"/></td></tr>
-  <tr>
-    <td width="260"><a href="https://www.muhammedkoca.com.tr/blog/kariyer-molasi-sonrasi-bilisime-donus-ilk-adim-icin-pratik-rehber"><img src="https://www.muhammedkoca.com.tr/api/og/cover.png?title=Kariyer+Molas%C4%B1+Sonras%C4%B1+Bili%C5%9Fime+D%C3%B6n%C3%BC%C5%9F%3A+%C4%B0lk+Ad%C4%B1m+%C4%B0%C3%A7in+Pratik+Rehber&category=Kariyer&v=4" width="240" alt="Kariyer Molası Sonrası Bilişime Dönüş: İlk Adım İçin Pratik Rehber"/></a></td>
-    <td valign="top" width="580">
-      <img src="https://img.shields.io/badge/Kariyer-60a5fa?style=flat-square&labelColor=0f172a" alt="Kariyer"/> <sub>17 Eki 2026</sub><br/><br/>
-      <a href="https://www.muhammedkoca.com.tr/blog/kariyer-molasi-sonrasi-bilisime-donus-ilk-adim-icin-pratik-rehber"><b>Kariyer Molası Sonrası Bilişime Dönüş: İlk Adım İçin Pratik Rehber</b></a><br/><br/>
-      <sub>Kariyer molası sonrası bilişim dünyasına geri dönmek isteyenler için adım adım yol haritası, beceri geliştirme ve iş bulma taktiklerini öğrenin.</sub>
     </td>
   </tr>
 </table>
