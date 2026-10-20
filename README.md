@@ -184,29 +184,29 @@
 <!-- BLOG-CARDS:START -->
 <table>
   <tr>
+    <td width="260"><a href="https://www.muhammedkoca.com.tr/blog/syncthing-ile-dosya-senkronizasyonu-sorunlarini-nasil-cozerim"><img src="https://www.muhammedkoca.com.tr/api/og/cover.png?title=Syncthing+ile+dosya+senkronizasyonu+sorunlar%C4%B1n%C4%B1+nas%C4%B1l+%C3%A7%C3%B6zerim%3F&category=Rehberler&v=4" width="240" alt="Syncthing ile dosya senkronizasyonu sorunlarını nasıl çözerim?"/></a></td>
+    <td valign="top" width="580">
+      <img src="https://img.shields.io/badge/Rehberler-60a5fa?style=flat-square&labelColor=0f172a" alt="Rehberler"/> <sub>20 Eki 2026</sub><br/><br/>
+      <a href="https://www.muhammedkoca.com.tr/blog/syncthing-ile-dosya-senkronizasyonu-sorunlarini-nasil-cozerim"><b>Syncthing ile dosya senkronizasyonu sorunlarını nasıl çözerim?</b></a><br/><br/>
+      <sub>Bu rehberde Syncthing&#x27;in kurulumundan yaygın senkronizasyon hatalarına, hata ayıklama komutlarına ve ileri düzey optimizasyonlara kadar adım adım…</sub>
+    </td>
+  </tr>
+  <tr><td colspan="2"><img src="assets/divider.svg" alt="" width="100%"/></td></tr>
+  <tr>
+    <td width="260"><a href="https://www.muhammedkoca.com.tr/blog/performans-degerlendirmesine-hazirlikta-sormaniz-gereken-6-temel-soru"><img src="https://www.muhammedkoca.com.tr/api/og/cover.png?title=Performans+De%C4%9Ferlendirmesine+Haz%C4%B1rl%C4%B1kta+Sorman%C4%B1z+Gereken+6+Temel+Soru&category=Kariyer&v=4" width="240" alt="Performans Değerlendirmesine Hazırlıkta Sormanız Gereken 6 Temel Soru"/></a></td>
+    <td valign="top" width="580">
+      <img src="https://img.shields.io/badge/Kariyer-60a5fa?style=flat-square&labelColor=0f172a" alt="Kariyer"/> <sub>20 Eki 2026</sub><br/><br/>
+      <a href="https://www.muhammedkoca.com.tr/blog/performans-degerlendirmesine-hazirlikta-sormaniz-gereken-6-temel-soru"><b>Performans Değerlendirmesine Hazırlıkta Sormanız Gereken 6 Temel Soru</b></a><br/><br/>
+      <sub>Performans değerlendirmesine hazırlanırken sorulması gereken kritik soruları öğrenin. Bu rehber, süreci planlamanıza ve başarılı bir sonuç elde…</sub>
+    </td>
+  </tr>
+  <tr><td colspan="2"><img src="assets/divider.svg" alt="" width="100%"/></td></tr>
+  <tr>
     <td width="260"><a href="https://www.muhammedkoca.com.tr/blog/7-pratik-yol-ile-hibrit-yedekleme-stratejisi-kurma"><img src="https://www.muhammedkoca.com.tr/api/og/cover.png?title=7+pratik+yol+ile+hibrit+yedekleme+stratejisi+kurma&category=Rehberler&v=4" width="240" alt="7 pratik yol ile hibrit yedekleme stratejisi kurma"/></a></td>
     <td valign="top" width="580">
       <img src="https://img.shields.io/badge/Rehberler-60a5fa?style=flat-square&labelColor=0f172a" alt="Rehberler"/> <sub>19 Eki 2026</sub><br/><br/>
       <a href="https://www.muhammedkoca.com.tr/blog/7-pratik-yol-ile-hibrit-yedekleme-stratejisi-kurma"><b>7 pratik yol ile hibrit yedekleme stratejisi kurma</b></a><br/><br/>
       <sub>Bu rehberde bulut ve yerel yedekleri birleştirerek veri koruma sürecinizi optimize edersiniz. Adım adım planlama, uygulama ve sorun giderme…</sub>
-    </td>
-  </tr>
-  <tr><td colspan="2"><img src="assets/divider.svg" alt="" width="100%"/></td></tr>
-  <tr>
-    <td width="260"><a href="https://www.muhammedkoca.com.tr/blog/5-temel-beceriyle-t-shape-uzmanligina-adim"><img src="https://www.muhammedkoca.com.tr/api/og/cover.png?title=5+temel+beceriyle+T%E2%80%91Shape+uzmanl%C4%B1%C4%9F%C4%B1na+ad%C4%B1m&category=Kariyer&v=4" width="240" alt="5 temel beceriyle T‑Shape uzmanlığına adım"/></a></td>
-    <td valign="top" width="580">
-      <img src="https://img.shields.io/badge/Kariyer-60a5fa?style=flat-square&labelColor=0f172a" alt="Kariyer"/> <sub>19 Eki 2026</sub><br/><br/>
-      <a href="https://www.muhammedkoca.com.tr/blog/5-temel-beceriyle-t-shape-uzmanligina-adim"><b>5 temel beceriyle T‑Shape uzmanlığına adım</b></a><br/><br/>
-      <sub>Bilişimde T‑Shape uzmanlaşmanın yolu hangi becerilerle başlar? Bu yazıda, kariyerinizde derinlemesine uzmanlık ve geniş bir perspektif kazanmanız…</sub>
-    </td>
-  </tr>
-  <tr><td colspan="2"><img src="assets/divider.svg" alt="" width="100%"/></td></tr>
-  <tr>
-    <td width="260"><a href="https://www.muhammedkoca.com.tr/blog/router-firmware-guncelleme-sorun-giderme-rehberi-yeni-baslayanlar-icin-adim-adim"><img src="https://www.muhammedkoca.com.tr/api/og/cover.png?title=Router+Firmware+G%C3%BCncelleme+Sorun+Giderme+Rehberi+%E2%80%93+Yeni+Ba%C5%9Flayanlar+%C4%B0%C3%A7in+Ad%C4%B1m+Ad%C4%B1m&category=Rehberler&v=4" width="240" alt="Router Firmware Güncelleme Sorun Giderme Rehberi – Yeni Başlayanlar İçin Adım Adım"/></a></td>
-    <td valign="top" width="580">
-      <img src="https://img.shields.io/badge/Rehberler-60a5fa?style=flat-square&labelColor=0f172a" alt="Rehberler"/> <sub>18 Eki 2026</sub><br/><br/>
-      <a href="https://www.muhammedkoca.com.tr/blog/router-firmware-guncelleme-sorun-giderme-rehberi-yeni-baslayanlar-icin-adim-adim"><b>Router Firmware Güncelleme Sorun Giderme Rehberi – Yeni Başlayanlar İçin Adım Adım</b></a><br/><br/>
-      <sub>Bu rehberde router firmware güncellemesinin ön koşullarını, adım adım uygulama sürecini ve karşılaşabileceğiniz hataların çözüm yollarını öğrenerek…</sub>
     </td>
   </tr>
 </table>
