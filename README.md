@@ -184,29 +184,29 @@
 <!-- BLOG-CARDS:START -->
 <table>
   <tr>
+    <td width="260"><a href="https://www.muhammedkoca.com.tr/blog/powerline-adaptorler-nedir-ve-nasil-calisir-temel-bilgiler-ve-kullanim-ipuclari"><img src="https://www.muhammedkoca.com.tr/api/og/cover.png?title=Powerline+Adapt%C3%B6rler+Nedir+ve+Nas%C4%B1l+%C3%87al%C4%B1%C5%9F%C4%B1r%3F+Temel+Bilgiler+ve+Kullan%C4%B1m+%C4%B0pu%C3%A7lar%C4%B1&category=Teknoloji&v=4" width="240" alt="Powerline Adaptörler Nedir ve Nasıl Çalışır? Temel Bilgiler ve Kullanım İpuçları"/></a></td>
+    <td valign="top" width="580">
+      <img src="https://img.shields.io/badge/Teknoloji-60a5fa?style=flat-square&labelColor=0f172a" alt="Teknoloji"/> <sub>21 Eki 2026</sub><br/><br/>
+      <a href="https://www.muhammedkoca.com.tr/blog/powerline-adaptorler-nedir-ve-nasil-calisir-temel-bilgiler-ve-kullanim-ipuclari"><b>Powerline Adaptörler Nedir ve Nasıl Çalışır? Temel Bilgiler ve Kullanım İpuçları</b></a><br/><br/>
+      <sub>Powerline adaptörlerin ne olduğunu, evdeki elektrik tesisatı üzerinden interneti nasıl taşıdığını ve doğru seçim ile kurulum için pratik ipuçlarını…</sub>
+    </td>
+  </tr>
+  <tr><td colspan="2"><img src="assets/divider.svg" alt="" width="100%"/></td></tr>
+  <tr>
+    <td width="260"><a href="https://www.muhammedkoca.com.tr/blog/ekran-oncesi-ve-sonrasi-icin-basit-ve-etkili-aliskanliklar"><img src="https://www.muhammedkoca.com.tr/api/og/cover.png?title=Ekran+%C3%B6ncesi+ve+sonras%C4%B1+i%C3%A7in+basit+ve+etkili+al%C4%B1%C5%9Fkanl%C4%B1klar&category=Ya%C5%9Fam&v=4" width="240" alt="Ekran öncesi ve sonrası için basit ve etkili alışkanlıklar"/></a></td>
+    <td valign="top" width="580">
+      <img src="https://img.shields.io/badge/Yaşam-60a5fa?style=flat-square&labelColor=0f172a" alt="Yaşam"/> <sub>21 Eki 2026</sub><br/><br/>
+      <a href="https://www.muhammedkoca.com.tr/blog/ekran-oncesi-ve-sonrasi-icin-basit-ve-etkili-aliskanliklar"><b>Ekran öncesi ve sonrası için basit ve etkili alışkanlıklar</b></a><br/><br/>
+      <sub>Günlük teknoloji kullanımınızda dengeyi artırmak için ekran öncesi ve sonrası uygulanabilecek pratik ritüelleri öğrenin. Küçük adımlarla daha odaklı…</sub>
+    </td>
+  </tr>
+  <tr><td colspan="2"><img src="assets/divider.svg" alt="" width="100%"/></td></tr>
+  <tr>
     <td width="260"><a href="https://www.muhammedkoca.com.tr/blog/syncthing-ile-dosya-senkronizasyonu-sorunlarini-nasil-cozerim"><img src="https://www.muhammedkoca.com.tr/api/og/cover.png?title=Syncthing+ile+dosya+senkronizasyonu+sorunlar%C4%B1n%C4%B1+nas%C4%B1l+%C3%A7%C3%B6zerim%3F&category=Rehberler&v=4" width="240" alt="Syncthing ile dosya senkronizasyonu sorunlarını nasıl çözerim?"/></a></td>
     <td valign="top" width="580">
       <img src="https://img.shields.io/badge/Rehberler-60a5fa?style=flat-square&labelColor=0f172a" alt="Rehberler"/> <sub>20 Eki 2026</sub><br/><br/>
       <a href="https://www.muhammedkoca.com.tr/blog/syncthing-ile-dosya-senkronizasyonu-sorunlarini-nasil-cozerim"><b>Syncthing ile dosya senkronizasyonu sorunlarını nasıl çözerim?</b></a><br/><br/>
       <sub>Bu rehberde Syncthing&#x27;in kurulumundan yaygın senkronizasyon hatalarına, hata ayıklama komutlarına ve ileri düzey optimizasyonlara kadar adım adım…</sub>
-    </td>
-  </tr>
-  <tr><td colspan="2"><img src="assets/divider.svg" alt="" width="100%"/></td></tr>
-  <tr>
-    <td width="260"><a href="https://www.muhammedkoca.com.tr/blog/performans-degerlendirmesine-hazirlikta-sormaniz-gereken-6-temel-soru"><img src="https://www.muhammedkoca.com.tr/api/og/cover.png?title=Performans+De%C4%9Ferlendirmesine+Haz%C4%B1rl%C4%B1kta+Sorman%C4%B1z+Gereken+6+Temel+Soru&category=Kariyer&v=4" width="240" alt="Performans Değerlendirmesine Hazırlıkta Sormanız Gereken 6 Temel Soru"/></a></td>
-    <td valign="top" width="580">
-      <img src="https://img.shields.io/badge/Kariyer-60a5fa?style=flat-square&labelColor=0f172a" alt="Kariyer"/> <sub>20 Eki 2026</sub><br/><br/>
-      <a href="https://www.muhammedkoca.com.tr/blog/performans-degerlendirmesine-hazirlikta-sormaniz-gereken-6-temel-soru"><b>Performans Değerlendirmesine Hazırlıkta Sormanız Gereken 6 Temel Soru</b></a><br/><br/>
-      <sub>Performans değerlendirmesine hazırlanırken sorulması gereken kritik soruları öğrenin. Bu rehber, süreci planlamanıza ve başarılı bir sonuç elde…</sub>
-    </td>
-  </tr>
-  <tr><td colspan="2"><img src="assets/divider.svg" alt="" width="100%"/></td></tr>
-  <tr>
-    <td width="260"><a href="https://www.muhammedkoca.com.tr/blog/7-pratik-yol-ile-hibrit-yedekleme-stratejisi-kurma"><img src="https://www.muhammedkoca.com.tr/api/og/cover.png?title=7+pratik+yol+ile+hibrit+yedekleme+stratejisi+kurma&category=Rehberler&v=4" width="240" alt="7 pratik yol ile hibrit yedekleme stratejisi kurma"/></a></td>
-    <td valign="top" width="580">
-      <img src="https://img.shields.io/badge/Rehberler-60a5fa?style=flat-square&labelColor=0f172a" alt="Rehberler"/> <sub>19 Eki 2026</sub><br/><br/>
-      <a href="https://www.muhammedkoca.com.tr/blog/7-pratik-yol-ile-hibrit-yedekleme-stratejisi-kurma"><b>7 pratik yol ile hibrit yedekleme stratejisi kurma</b></a><br/><br/>
-      <sub>Bu rehberde bulut ve yerel yedekleri birleştirerek veri koruma sürecinizi optimize edersiniz. Adım adım planlama, uygulama ve sorun giderme…</sub>
     </td>
   </tr>
 </table>
