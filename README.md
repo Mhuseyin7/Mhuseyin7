@@ -184,29 +184,29 @@
 <!-- BLOG-CARDS:START -->
 <table>
   <tr>
+    <td width="260"><a href="https://www.muhammedkoca.com.tr/blog/acik-kaynak-projelere-katki-icin-hangi-beceriler-oncelikli"><img src="https://www.muhammedkoca.com.tr/api/og/cover.png?title=A%C3%A7%C4%B1k+kaynak+projelere+katk%C4%B1+i%C3%A7in+hangi+beceriler+%C3%B6ncelikli%3F&category=Kariyer&v=4" width="240" alt="Açık kaynak projelere katkı için hangi beceriler öncelikli?"/></a></td>
+    <td valign="top" width="580">
+      <img src="https://img.shields.io/badge/Kariyer-60a5fa?style=flat-square&labelColor=0f172a" alt="Kariyer"/> <sub>22 Eki 2026</sub><br/><br/>
+      <a href="https://www.muhammedkoca.com.tr/blog/acik-kaynak-projelere-katki-icin-hangi-beceriler-oncelikli"><b>Açık kaynak projelere katkı için hangi beceriler öncelikli?</b></a><br/><br/>
+      <sub>Bu yazıda, açık kaynak projelere etkili bir şekilde katılmak için hangi teknik ve sosyal becerilerin öncelikli olduğunu öğrenerek kariyerinizde bir…</sub>
+    </td>
+  </tr>
+  <tr><td colspan="2"><img src="assets/divider.svg" alt="" width="100%"/></td></tr>
+  <tr>
+    <td width="260"><a href="https://www.muhammedkoca.com.tr/blog/6-adimda-ag-uzmani-olma-yolculugu-baslangic-rehberi"><img src="https://www.muhammedkoca.com.tr/api/og/cover.png?title=6+ad%C4%B1mda+a%C4%9F+uzman%C4%B1+olma+yolculu%C4%9Fu%3A+Ba%C5%9Flang%C4%B1%C3%A7+rehberi&category=Kariyer&v=4" width="240" alt="6 adımda ağ uzmanı olma yolculuğu: Başlangıç rehberi"/></a></td>
+    <td valign="top" width="580">
+      <img src="https://img.shields.io/badge/Kariyer-60a5fa?style=flat-square&labelColor=0f172a" alt="Kariyer"/> <sub>22 Eki 2026</sub><br/><br/>
+      <a href="https://www.muhammedkoca.com.tr/blog/6-adimda-ag-uzmani-olma-yolculugu-baslangic-rehberi"><b>6 adımda ağ uzmanı olma yolculuğu: Başlangıç rehberi</b></a><br/><br/>
+      <sub>Ağ uzmanı kariyerine adım atmak isteyenler için temel beceriler, sertifikalar ve iş görüşmesi taktiklerini adım adım anlatan bir rehber. Okuyucu, net…</sub>
+    </td>
+  </tr>
+  <tr><td colspan="2"><img src="assets/divider.svg" alt="" width="100%"/></td></tr>
+  <tr>
     <td width="260"><a href="https://www.muhammedkoca.com.tr/blog/powerline-adaptorler-nedir-ve-nasil-calisir-temel-bilgiler-ve-kullanim-ipuclari"><img src="https://www.muhammedkoca.com.tr/api/og/cover.png?title=Powerline+Adapt%C3%B6rler+Nedir+ve+Nas%C4%B1l+%C3%87al%C4%B1%C5%9F%C4%B1r%3F+Temel+Bilgiler+ve+Kullan%C4%B1m+%C4%B0pu%C3%A7lar%C4%B1&category=Teknoloji&v=4" width="240" alt="Powerline Adaptörler Nedir ve Nasıl Çalışır? Temel Bilgiler ve Kullanım İpuçları"/></a></td>
     <td valign="top" width="580">
       <img src="https://img.shields.io/badge/Teknoloji-60a5fa?style=flat-square&labelColor=0f172a" alt="Teknoloji"/> <sub>21 Eki 2026</sub><br/><br/>
       <a href="https://www.muhammedkoca.com.tr/blog/powerline-adaptorler-nedir-ve-nasil-calisir-temel-bilgiler-ve-kullanim-ipuclari"><b>Powerline Adaptörler Nedir ve Nasıl Çalışır? Temel Bilgiler ve Kullanım İpuçları</b></a><br/><br/>
       <sub>Powerline adaptörlerin ne olduğunu, evdeki elektrik tesisatı üzerinden interneti nasıl taşıdığını ve doğru seçim ile kurulum için pratik ipuçlarını…</sub>
-    </td>
-  </tr>
-  <tr><td colspan="2"><img src="assets/divider.svg" alt="" width="100%"/></td></tr>
-  <tr>
-    <td width="260"><a href="https://www.muhammedkoca.com.tr/blog/ekran-oncesi-ve-sonrasi-icin-basit-ve-etkili-aliskanliklar"><img src="https://www.muhammedkoca.com.tr/api/og/cover.png?title=Ekran+%C3%B6ncesi+ve+sonras%C4%B1+i%C3%A7in+basit+ve+etkili+al%C4%B1%C5%9Fkanl%C4%B1klar&category=Ya%C5%9Fam&v=4" width="240" alt="Ekran öncesi ve sonrası için basit ve etkili alışkanlıklar"/></a></td>
-    <td valign="top" width="580">
-      <img src="https://img.shields.io/badge/Yaşam-60a5fa?style=flat-square&labelColor=0f172a" alt="Yaşam"/> <sub>21 Eki 2026</sub><br/><br/>
-      <a href="https://www.muhammedkoca.com.tr/blog/ekran-oncesi-ve-sonrasi-icin-basit-ve-etkili-aliskanliklar"><b>Ekran öncesi ve sonrası için basit ve etkili alışkanlıklar</b></a><br/><br/>
-      <sub>Günlük teknoloji kullanımınızda dengeyi artırmak için ekran öncesi ve sonrası uygulanabilecek pratik ritüelleri öğrenin. Küçük adımlarla daha odaklı…</sub>
-    </td>
-  </tr>
-  <tr><td colspan="2"><img src="assets/divider.svg" alt="" width="100%"/></td></tr>
-  <tr>
-    <td width="260"><a href="https://www.muhammedkoca.com.tr/blog/syncthing-ile-dosya-senkronizasyonu-sorunlarini-nasil-cozerim"><img src="https://www.muhammedkoca.com.tr/api/og/cover.png?title=Syncthing+ile+dosya+senkronizasyonu+sorunlar%C4%B1n%C4%B1+nas%C4%B1l+%C3%A7%C3%B6zerim%3F&category=Rehberler&v=4" width="240" alt="Syncthing ile dosya senkronizasyonu sorunlarını nasıl çözerim?"/></a></td>
-    <td valign="top" width="580">
-      <img src="https://img.shields.io/badge/Rehberler-60a5fa?style=flat-square&labelColor=0f172a" alt="Rehberler"/> <sub>20 Eki 2026</sub><br/><br/>
-      <a href="https://www.muhammedkoca.com.tr/blog/syncthing-ile-dosya-senkronizasyonu-sorunlarini-nasil-cozerim"><b>Syncthing ile dosya senkronizasyonu sorunlarını nasıl çözerim?</b></a><br/><br/>
-      <sub>Bu rehberde Syncthing&#x27;in kurulumundan yaygın senkronizasyon hatalarına, hata ayıklama komutlarına ve ileri düzey optimizasyonlara kadar adım adım…</sub>
     </td>
   </tr>
 </table>
