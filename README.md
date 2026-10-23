@@ -184,29 +184,29 @@
 <!-- BLOG-CARDS:START -->
 <table>
   <tr>
+    <td width="260"><a href="https://www.muhammedkoca.com.tr/blog/podcast-ve-sesli-icerikle-ogrenme-kucuk-ve-surdurulebilir-adimlar"><img src="https://www.muhammedkoca.com.tr/api/og/cover.png?title=Podcast+ve+sesli+i%C3%A7erikle+%C3%B6%C4%9Frenme%3A+K%C3%BC%C3%A7%C3%BCk+ve+s%C3%BCrd%C3%BCr%C3%BClebilir+ad%C4%B1mlar&category=Ya%C5%9Fam&v=4" width="240" alt="Podcast ve sesli içerikle öğrenme: Küçük ve sürdürülebilir adımlar"/></a></td>
+    <td valign="top" width="580">
+      <img src="https://img.shields.io/badge/Yaşam-60a5fa?style=flat-square&labelColor=0f172a" alt="Yaşam"/> <sub>23 Eki 2026</sub><br/><br/>
+      <a href="https://www.muhammedkoca.com.tr/blog/podcast-ve-sesli-icerikle-ogrenme-kucuk-ve-surdurulebilir-adimlar"><b>Podcast ve sesli içerikle öğrenme: Küçük ve sürdürülebilir adımlar</b></a><br/><br/>
+      <sub>Podcast ve sesli içeriklerle öğrenmeyi günlük rutininize nasıl entegre edeceğinizi keşfedin. Küçük deneme planları ve gerçekçi beklentilerle…</sub>
+    </td>
+  </tr>
+  <tr><td colspan="2"><img src="assets/divider.svg" alt="" width="100%"/></td></tr>
+  <tr>
+    <td width="260"><a href="https://www.muhammedkoca.com.tr/blog/ekran-oncesi-ve-sonrasi-rituelleri-baslangic-rehberi"><img src="https://www.muhammedkoca.com.tr/api/og/cover.png?title=Ekran+%C3%96ncesi+ve+Sonras%C4%B1+Rit%C3%BCelleri%3A+Ba%C5%9Flang%C4%B1%C3%A7+Rehberi&category=Ya%C5%9Fam&v=4" width="240" alt="Ekran Öncesi ve Sonrası Ritüelleri: Başlangıç Rehberi"/></a></td>
+    <td valign="top" width="580">
+      <img src="https://img.shields.io/badge/Yaşam-60a5fa?style=flat-square&labelColor=0f172a" alt="Yaşam"/> <sub>23 Eki 2026</sub><br/><br/>
+      <a href="https://www.muhammedkoca.com.tr/blog/ekran-oncesi-ve-sonrasi-rituelleri-baslangic-rehberi"><b>Ekran Öncesi ve Sonrası Ritüelleri: Başlangıç Rehberi</b></a><br/><br/>
+      <sub>Bu rehberde ekran kullanım öncesi ve sonrası basit ritüellerin neden önemli olduğunu öğrenip, adım adım nasıl uygulamaya koyabileceğinizi…</sub>
+    </td>
+  </tr>
+  <tr><td colspan="2"><img src="assets/divider.svg" alt="" width="100%"/></td></tr>
+  <tr>
     <td width="260"><a href="https://www.muhammedkoca.com.tr/blog/acik-kaynak-projelere-katki-icin-hangi-beceriler-oncelikli"><img src="https://www.muhammedkoca.com.tr/api/og/cover.png?title=A%C3%A7%C4%B1k+kaynak+projelere+katk%C4%B1+i%C3%A7in+hangi+beceriler+%C3%B6ncelikli%3F&category=Kariyer&v=4" width="240" alt="Açık kaynak projelere katkı için hangi beceriler öncelikli?"/></a></td>
     <td valign="top" width="580">
       <img src="https://img.shields.io/badge/Kariyer-60a5fa?style=flat-square&labelColor=0f172a" alt="Kariyer"/> <sub>22 Eki 2026</sub><br/><br/>
       <a href="https://www.muhammedkoca.com.tr/blog/acik-kaynak-projelere-katki-icin-hangi-beceriler-oncelikli"><b>Açık kaynak projelere katkı için hangi beceriler öncelikli?</b></a><br/><br/>
       <sub>Bu yazıda, açık kaynak projelere etkili bir şekilde katılmak için hangi teknik ve sosyal becerilerin öncelikli olduğunu öğrenerek kariyerinizde bir…</sub>
-    </td>
-  </tr>
-  <tr><td colspan="2"><img src="assets/divider.svg" alt="" width="100%"/></td></tr>
-  <tr>
-    <td width="260"><a href="https://www.muhammedkoca.com.tr/blog/6-adimda-ag-uzmani-olma-yolculugu-baslangic-rehberi"><img src="https://www.muhammedkoca.com.tr/api/og/cover.png?title=6+ad%C4%B1mda+a%C4%9F+uzman%C4%B1+olma+yolculu%C4%9Fu%3A+Ba%C5%9Flang%C4%B1%C3%A7+rehberi&category=Kariyer&v=4" width="240" alt="6 adımda ağ uzmanı olma yolculuğu: Başlangıç rehberi"/></a></td>
-    <td valign="top" width="580">
-      <img src="https://img.shields.io/badge/Kariyer-60a5fa?style=flat-square&labelColor=0f172a" alt="Kariyer"/> <sub>22 Eki 2026</sub><br/><br/>
-      <a href="https://www.muhammedkoca.com.tr/blog/6-adimda-ag-uzmani-olma-yolculugu-baslangic-rehberi"><b>6 adımda ağ uzmanı olma yolculuğu: Başlangıç rehberi</b></a><br/><br/>
-      <sub>Ağ uzmanı kariyerine adım atmak isteyenler için temel beceriler, sertifikalar ve iş görüşmesi taktiklerini adım adım anlatan bir rehber. Okuyucu, net…</sub>
-    </td>
-  </tr>
-  <tr><td colspan="2"><img src="assets/divider.svg" alt="" width="100%"/></td></tr>
-  <tr>
-    <td width="260"><a href="https://www.muhammedkoca.com.tr/blog/powerline-adaptorler-nedir-ve-nasil-calisir-temel-bilgiler-ve-kullanim-ipuclari"><img src="https://www.muhammedkoca.com.tr/api/og/cover.png?title=Powerline+Adapt%C3%B6rler+Nedir+ve+Nas%C4%B1l+%C3%87al%C4%B1%C5%9F%C4%B1r%3F+Temel+Bilgiler+ve+Kullan%C4%B1m+%C4%B0pu%C3%A7lar%C4%B1&category=Teknoloji&v=4" width="240" alt="Powerline Adaptörler Nedir ve Nasıl Çalışır? Temel Bilgiler ve Kullanım İpuçları"/></a></td>
-    <td valign="top" width="580">
-      <img src="https://img.shields.io/badge/Teknoloji-60a5fa?style=flat-square&labelColor=0f172a" alt="Teknoloji"/> <sub>21 Eki 2026</sub><br/><br/>
-      <a href="https://www.muhammedkoca.com.tr/blog/powerline-adaptorler-nedir-ve-nasil-calisir-temel-bilgiler-ve-kullanim-ipuclari"><b>Powerline Adaptörler Nedir ve Nasıl Çalışır? Temel Bilgiler ve Kullanım İpuçları</b></a><br/><br/>
-      <sub>Powerline adaptörlerin ne olduğunu, evdeki elektrik tesisatı üzerinden interneti nasıl taşıdığını ve doğru seçim ile kurulum için pratik ipuçlarını…</sub>
     </td>
   </tr>
 </table>
