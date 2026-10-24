@@ -184,6 +184,15 @@
 <!-- BLOG-CARDS:START -->
 <table>
   <tr>
+    <td width="260"><a href="https://www.muhammedkoca.com.tr/blog/uzaktan-aile-baglantisi-icin-pratik-teknoloji-rehberi"><img src="https://www.muhammedkoca.com.tr/api/og/cover.png?title=Uzaktan+Aile+Ba%C4%9Flant%C4%B1s%C4%B1+%C4%B0%C3%A7in+Pratik+Teknoloji+Rehberi&category=Ya%C5%9Fam&v=4" width="240" alt="Uzaktan Aile Bağlantısı İçin Pratik Teknoloji Rehberi"/></a></td>
+    <td valign="top" width="580">
+      <img src="https://img.shields.io/badge/Yaşam-60a5fa?style=flat-square&labelColor=0f172a" alt="Yaşam"/> <sub>24 Eki 2026</sub><br/><br/>
+      <a href="https://www.muhammedkoca.com.tr/blog/uzaktan-aile-baglantisi-icin-pratik-teknoloji-rehberi"><b>Uzaktan Aile Bağlantısı İçin Pratik Teknoloji Rehberi</b></a><br/><br/>
+      <sub>Bu yazıda, uzaktan aile üyeleriyle daha anlamlı ve sorunsuz iletişim kurmak için kullanılabilecek teknolojik araçları ve rutinleri keşfedeceksiniz…</sub>
+    </td>
+  </tr>
+  <tr><td colspan="2"><img src="assets/divider.svg" alt="" width="100%"/></td></tr>
+  <tr>
     <td width="260"><a href="https://www.muhammedkoca.com.tr/blog/podcast-ve-sesli-icerikle-ogrenme-kucuk-ve-surdurulebilir-adimlar"><img src="https://www.muhammedkoca.com.tr/api/og/cover.png?title=Podcast+ve+sesli+i%C3%A7erikle+%C3%B6%C4%9Frenme%3A+K%C3%BC%C3%A7%C3%BCk+ve+s%C3%BCrd%C3%BCr%C3%BClebilir+ad%C4%B1mlar&category=Ya%C5%9Fam&v=4" width="240" alt="Podcast ve sesli içerikle öğrenme: Küçük ve sürdürülebilir adımlar"/></a></td>
     <td valign="top" width="580">
       <img src="https://img.shields.io/badge/Yaşam-60a5fa?style=flat-square&labelColor=0f172a" alt="Yaşam"/> <sub>23 Eki 2026</sub><br/><br/>
@@ -198,15 +207,6 @@
       <img src="https://img.shields.io/badge/Yaşam-60a5fa?style=flat-square&labelColor=0f172a" alt="Yaşam"/> <sub>23 Eki 2026</sub><br/><br/>
       <a href="https://www.muhammedkoca.com.tr/blog/ekran-oncesi-ve-sonrasi-rituelleri-baslangic-rehberi"><b>Ekran Öncesi ve Sonrası Ritüelleri: Başlangıç Rehberi</b></a><br/><br/>
       <sub>Bu rehberde ekran kullanım öncesi ve sonrası basit ritüellerin neden önemli olduğunu öğrenip, adım adım nasıl uygulamaya koyabileceğinizi…</sub>
-    </td>
-  </tr>
-  <tr><td colspan="2"><img src="assets/divider.svg" alt="" width="100%"/></td></tr>
-  <tr>
-    <td width="260"><a href="https://www.muhammedkoca.com.tr/blog/acik-kaynak-projelere-katki-icin-hangi-beceriler-oncelikli"><img src="https://www.muhammedkoca.com.tr/api/og/cover.png?title=A%C3%A7%C4%B1k+kaynak+projelere+katk%C4%B1+i%C3%A7in+hangi+beceriler+%C3%B6ncelikli%3F&category=Kariyer&v=4" width="240" alt="Açık kaynak projelere katkı için hangi beceriler öncelikli?"/></a></td>
-    <td valign="top" width="580">
-      <img src="https://img.shields.io/badge/Kariyer-60a5fa?style=flat-square&labelColor=0f172a" alt="Kariyer"/> <sub>22 Eki 2026</sub><br/><br/>
-      <a href="https://www.muhammedkoca.com.tr/blog/acik-kaynak-projelere-katki-icin-hangi-beceriler-oncelikli"><b>Açık kaynak projelere katkı için hangi beceriler öncelikli?</b></a><br/><br/>
-      <sub>Bu yazıda, açık kaynak projelere etkili bir şekilde katılmak için hangi teknik ve sosyal becerilerin öncelikli olduğunu öğrenerek kariyerinizde bir…</sub>
     </td>
   </tr>
 </table>
