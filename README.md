@@ -184,29 +184,29 @@
 <!-- BLOG-CARDS:START -->
 <table>
   <tr>
+    <td width="260"><a href="https://www.muhammedkoca.com.tr/blog/ssd-sagligini-izleme-ve-omrunu-uzatma-adim-adim-rehber"><img src="https://www.muhammedkoca.com.tr/api/og/cover.png?title=SSD+sa%C4%9Fl%C4%B1%C4%9F%C4%B1n%C4%B1+izleme+ve+%C3%B6mr%C3%BCn%C3%BC+uzatma%3A+Ad%C4%B1m+ad%C4%B1m+rehber&category=Rehberler&v=4" width="240" alt="SSD sağlığını izleme ve ömrünü uzatma: Adım adım rehber"/></a></td>
+    <td valign="top" width="580">
+      <img src="https://img.shields.io/badge/Rehberler-60a5fa?style=flat-square&labelColor=0f172a" alt="Rehberler"/> <sub>25 Eki 2026</sub><br/><br/>
+      <a href="https://www.muhammedkoca.com.tr/blog/ssd-sagligini-izleme-ve-omrunu-uzatma-adim-adim-rehber"><b>SSD sağlığını izleme ve ömrünü uzatma: Adım adım rehber</b></a><br/><br/>
+      <sub>Bu rehberde SSD&#x27;nizin sağlık durumunu nasıl kontrol edeceğinizi, ömrünü uzatmak için gerekli ayarları ve sık karşılaşılan sorunları nasıl…</sub>
+    </td>
+  </tr>
+  <tr><td colspan="2"><img src="assets/divider.svg" alt="" width="100%"/></td></tr>
+  <tr>
+    <td width="260"><a href="https://www.muhammedkoca.com.tr/blog/teknik-ekipte-geri-bildirim-kulturu-6-ayda-somut-ilerleme-plani"><img src="https://www.muhammedkoca.com.tr/api/og/cover.png?title=Teknik+Ekipte+Geri+Bildirim+K%C3%BClt%C3%BCr%C3%BC%3A+6+Ayda+Somut+%C4%B0lerleme+Plan%C4%B1&category=Kariyer&v=4" width="240" alt="Teknik Ekipte Geri Bildirim Kültürü: 6 Ayda Somut İlerleme Planı"/></a></td>
+    <td valign="top" width="580">
+      <img src="https://img.shields.io/badge/Kariyer-60a5fa?style=flat-square&labelColor=0f172a" alt="Kariyer"/> <sub>25 Eki 2026</sub><br/><br/>
+      <a href="https://www.muhammedkoca.com.tr/blog/teknik-ekipte-geri-bildirim-kulturu-6-ayda-somut-ilerleme-plani"><b>Teknik Ekipte Geri Bildirim Kültürü: 6 Ayda Somut İlerleme Planı</b></a><br/><br/>
+      <sub>Bu yazıda, teknik ekiplerde geri bildirim kültürünü nasıl inşa edeceğinizi ve 6 ay içinde ölçülebilir sonuçlar almanızı sağlayacak adımları…</sub>
+    </td>
+  </tr>
+  <tr><td colspan="2"><img src="assets/divider.svg" alt="" width="100%"/></td></tr>
+  <tr>
     <td width="260"><a href="https://www.muhammedkoca.com.tr/blog/uzaktan-aile-baglantisi-icin-pratik-teknoloji-rehberi"><img src="https://www.muhammedkoca.com.tr/api/og/cover.png?title=Uzaktan+Aile+Ba%C4%9Flant%C4%B1s%C4%B1+%C4%B0%C3%A7in+Pratik+Teknoloji+Rehberi&category=Ya%C5%9Fam&v=4" width="240" alt="Uzaktan Aile Bağlantısı İçin Pratik Teknoloji Rehberi"/></a></td>
     <td valign="top" width="580">
       <img src="https://img.shields.io/badge/Yaşam-60a5fa?style=flat-square&labelColor=0f172a" alt="Yaşam"/> <sub>24 Eki 2026</sub><br/><br/>
       <a href="https://www.muhammedkoca.com.tr/blog/uzaktan-aile-baglantisi-icin-pratik-teknoloji-rehberi"><b>Uzaktan Aile Bağlantısı İçin Pratik Teknoloji Rehberi</b></a><br/><br/>
       <sub>Bu yazıda, uzaktan aile üyeleriyle daha anlamlı ve sorunsuz iletişim kurmak için kullanılabilecek teknolojik araçları ve rutinleri keşfedeceksiniz…</sub>
-    </td>
-  </tr>
-  <tr><td colspan="2"><img src="assets/divider.svg" alt="" width="100%"/></td></tr>
-  <tr>
-    <td width="260"><a href="https://www.muhammedkoca.com.tr/blog/podcast-ve-sesli-icerikle-ogrenme-kucuk-ve-surdurulebilir-adimlar"><img src="https://www.muhammedkoca.com.tr/api/og/cover.png?title=Podcast+ve+sesli+i%C3%A7erikle+%C3%B6%C4%9Frenme%3A+K%C3%BC%C3%A7%C3%BCk+ve+s%C3%BCrd%C3%BCr%C3%BClebilir+ad%C4%B1mlar&category=Ya%C5%9Fam&v=4" width="240" alt="Podcast ve sesli içerikle öğrenme: Küçük ve sürdürülebilir adımlar"/></a></td>
-    <td valign="top" width="580">
-      <img src="https://img.shields.io/badge/Yaşam-60a5fa?style=flat-square&labelColor=0f172a" alt="Yaşam"/> <sub>23 Eki 2026</sub><br/><br/>
-      <a href="https://www.muhammedkoca.com.tr/blog/podcast-ve-sesli-icerikle-ogrenme-kucuk-ve-surdurulebilir-adimlar"><b>Podcast ve sesli içerikle öğrenme: Küçük ve sürdürülebilir adımlar</b></a><br/><br/>
-      <sub>Podcast ve sesli içeriklerle öğrenmeyi günlük rutininize nasıl entegre edeceğinizi keşfedin. Küçük deneme planları ve gerçekçi beklentilerle…</sub>
-    </td>
-  </tr>
-  <tr><td colspan="2"><img src="assets/divider.svg" alt="" width="100%"/></td></tr>
-  <tr>
-    <td width="260"><a href="https://www.muhammedkoca.com.tr/blog/ekran-oncesi-ve-sonrasi-rituelleri-baslangic-rehberi"><img src="https://www.muhammedkoca.com.tr/api/og/cover.png?title=Ekran+%C3%96ncesi+ve+Sonras%C4%B1+Rit%C3%BCelleri%3A+Ba%C5%9Flang%C4%B1%C3%A7+Rehberi&category=Ya%C5%9Fam&v=4" width="240" alt="Ekran Öncesi ve Sonrası Ritüelleri: Başlangıç Rehberi"/></a></td>
-    <td valign="top" width="580">
-      <img src="https://img.shields.io/badge/Yaşam-60a5fa?style=flat-square&labelColor=0f172a" alt="Yaşam"/> <sub>23 Eki 2026</sub><br/><br/>
-      <a href="https://www.muhammedkoca.com.tr/blog/ekran-oncesi-ve-sonrasi-rituelleri-baslangic-rehberi"><b>Ekran Öncesi ve Sonrası Ritüelleri: Başlangıç Rehberi</b></a><br/><br/>
-      <sub>Bu rehberde ekran kullanım öncesi ve sonrası basit ritüellerin neden önemli olduğunu öğrenip, adım adım nasıl uygulamaya koyabileceğinizi…</sub>
     </td>
   </tr>
 </table>
