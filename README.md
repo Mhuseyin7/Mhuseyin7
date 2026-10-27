@@ -184,29 +184,29 @@
 <!-- BLOG-CARDS:START -->
 <table>
   <tr>
+    <td width="260"><a href="https://www.muhammedkoca.com.tr/blog/guc-kaynagi-psu-secim-ve-kullanim-rehberi-yeni-baslayanlar-icin-temel-bilgiler"><img src="https://www.muhammedkoca.com.tr/api/og/cover.png?title=G%C3%BC%C3%A7+Kayna%C4%9F%C4%B1+%28PSU%29+Se%C3%A7im+ve+Kullan%C4%B1m+Rehberi%3A+Yeni+Ba%C5%9Flayanlar+%C4%B0%C3%A7in+Temel+Bilgiler&category=Teknoloji&v=4" width="240" alt="Güç Kaynağı (PSU) Seçim ve Kullanım Rehberi: Yeni Başlayanlar İçin Temel Bilgiler"/></a></td>
+    <td valign="top" width="580">
+      <img src="https://img.shields.io/badge/Teknoloji-60a5fa?style=flat-square&labelColor=0f172a" alt="Teknoloji"/> <sub>27 Eki 2026</sub><br/><br/>
+      <a href="https://www.muhammedkoca.com.tr/blog/guc-kaynagi-psu-secim-ve-kullanim-rehberi-yeni-baslayanlar-icin-temel-bilgiler"><b>Güç Kaynağı (PSU) Seçim ve Kullanım Rehberi: Yeni Başlayanlar İçin Temel Bilgiler</b></a><br/><br/>
+      <sub>Bu yazıda PSU&#x27;nun ne işe yaradığını, nasıl çalıştığını ve doğru seçim için nelere dikkat etmeniz gerektiğini öğreneceksiniz. Yaygın hatalar ve pratik…</sub>
+    </td>
+  </tr>
+  <tr><td colspan="2"><img src="assets/divider.svg" alt="" width="100%"/></td></tr>
+  <tr>
+    <td width="260"><a href="https://www.muhammedkoca.com.tr/blog/finansal-takibi-teknolojiyle-yaparken-en-yaygin-yanilgi-nedir"><img src="https://www.muhammedkoca.com.tr/api/og/cover.png?title=Finansal+takibi+teknolojiyle+yaparken+en+yayg%C4%B1n+yan%C4%B1lg%C4%B1+nedir%3F&category=Ya%C5%9Fam&v=4" width="240" alt="Finansal takibi teknolojiyle yaparken en yaygın yanılgı nedir?"/></a></td>
+    <td valign="top" width="580">
+      <img src="https://img.shields.io/badge/Yaşam-60a5fa?style=flat-square&labelColor=0f172a" alt="Yaşam"/> <sub>27 Eki 2026</sub><br/><br/>
+      <a href="https://www.muhammedkoca.com.tr/blog/finansal-takibi-teknolojiyle-yaparken-en-yaygin-yanilgi-nedir"><b>Finansal takibi teknolojiyle yaparken en yaygın yanılgı nedir?</b></a><br/><br/>
+      <sub>Bu yazıda, teknolojiyi finansal alışkanlıklarınızda kullanırken sıkça karşılaşılan yanlış inancı ortaya koyup, pratik çözümlerle nasıl doğru bir…</sub>
+    </td>
+  </tr>
+  <tr><td colspan="2"><img src="assets/divider.svg" alt="" width="100%"/></td></tr>
+  <tr>
     <td width="260"><a href="https://www.muhammedkoca.com.tr/blog/bilisimde-imposter-sendromu-ile-bas-etmek-icin-hazirlik-sorulari"><img src="https://www.muhammedkoca.com.tr/api/og/cover.png?title=Bili%C5%9Fimde+Imposter+Sendromu+ile+Ba%C5%9F+Etmek+%C4%B0%C3%A7in+Haz%C4%B1rl%C4%B1k+Sorular%C4%B1&category=Kariyer&v=4" width="240" alt="Bilişimde Imposter Sendromu ile Baş Etmek İçin Hazırlık Soruları"/></a></td>
     <td valign="top" width="580">
       <img src="https://img.shields.io/badge/Kariyer-60a5fa?style=flat-square&labelColor=0f172a" alt="Kariyer"/> <sub>26 Eki 2026</sub><br/><br/>
       <a href="https://www.muhammedkoca.com.tr/blog/bilisimde-imposter-sendromu-ile-bas-etmek-icin-hazirlik-sorulari"><b>Bilişimde Imposter Sendromu ile Baş Etmek İçin Hazırlık Soruları</b></a><br/><br/>
       <sub>İmposter sendromunu tanımlayıp, bu durumla başa çıkmak için sorulması gereken kritik soruları keşfedin. Okuyucular, kendi kariyer yolculuklarında…</sub>
-    </td>
-  </tr>
-  <tr><td colspan="2"><img src="assets/divider.svg" alt="" width="100%"/></td></tr>
-  <tr>
-    <td width="260"><a href="https://www.muhammedkoca.com.tr/blog/akilli-ev-nasil-gunluk-rutinlerinizi-kolaylastirir"><img src="https://www.muhammedkoca.com.tr/api/og/cover.png?title=Ak%C4%B1ll%C4%B1+ev+nas%C4%B1l+g%C3%BCnl%C3%BCk+rutinlerinizi+kolayla%C5%9Ft%C4%B1r%C4%B1r%3F&category=Ya%C5%9Fam&v=4" width="240" alt="Akıllı ev nasıl günlük rutinlerinizi kolaylaştırır?"/></a></td>
-    <td valign="top" width="580">
-      <img src="https://img.shields.io/badge/Yaşam-60a5fa?style=flat-square&labelColor=0f172a" alt="Yaşam"/> <sub>26 Eki 2026</sub><br/><br/>
-      <a href="https://www.muhammedkoca.com.tr/blog/akilli-ev-nasil-gunluk-rutinlerinizi-kolaylastirir"><b>Akıllı ev nasıl günlük rutinlerinizi kolaylaştırır?</b></a><br/><br/>
-      <sub>Bu yazıda akıllı ev sistemlerinin temel kavramlarını öğrenip, pratik uygulama adımlarıyla sabah ve akşam rutinlerinizi nasıl optimize edebileceğinizi…</sub>
-    </td>
-  </tr>
-  <tr><td colspan="2"><img src="assets/divider.svg" alt="" width="100%"/></td></tr>
-  <tr>
-    <td width="260"><a href="https://www.muhammedkoca.com.tr/blog/ssd-sagligini-izleme-ve-omrunu-uzatma-adim-adim-rehber"><img src="https://www.muhammedkoca.com.tr/api/og/cover.png?title=SSD+sa%C4%9Fl%C4%B1%C4%9F%C4%B1n%C4%B1+izleme+ve+%C3%B6mr%C3%BCn%C3%BC+uzatma%3A+Ad%C4%B1m+ad%C4%B1m+rehber&category=Rehberler&v=4" width="240" alt="SSD sağlığını izleme ve ömrünü uzatma: Adım adım rehber"/></a></td>
-    <td valign="top" width="580">
-      <img src="https://img.shields.io/badge/Rehberler-60a5fa?style=flat-square&labelColor=0f172a" alt="Rehberler"/> <sub>25 Eki 2026</sub><br/><br/>
-      <a href="https://www.muhammedkoca.com.tr/blog/ssd-sagligini-izleme-ve-omrunu-uzatma-adim-adim-rehber"><b>SSD sağlığını izleme ve ömrünü uzatma: Adım adım rehber</b></a><br/><br/>
-      <sub>Bu rehberde SSD&#x27;nizin sağlık durumunu nasıl kontrol edeceğinizi, ömrünü uzatmak için gerekli ayarları ve sık karşılaşılan sorunları nasıl…</sub>
     </td>
   </tr>
 </table>
