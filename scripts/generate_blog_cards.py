@@ -16,6 +16,7 @@ Kullanım: python3 scripts/generate_blog_cards.py README.md
 """
 import re
 import sys
+import urllib.error
 import urllib.request
 import xml.etree.ElementTree as ET
 from html import unescape, escape as html_escape
@@ -32,6 +33,16 @@ MONTHS = {
     "Jan": "Oca", "Feb": "Şub", "Mar": "Mar", "Apr": "Nis", "May": "May", "Jun": "Haz",
     "Jul": "Tem", "Aug": "Ağu", "Sep": "Eyl", "Oct": "Eki", "Nov": "Kas", "Dec": "Ara",
 }
+
+
+
+def site_unavailable(exc):
+    """True when the site itself is down or refusing requests (e.g. a disabled
+    Vercel deployment answers 402). The README keeps its previous content then,
+    so the run should not fail; parse errors are NOT covered and still fail."""
+    if isinstance(exc, urllib.error.HTTPError):
+        return exc.code in (402, 403, 429) or exc.code >= 500
+    return isinstance(exc, (urllib.error.URLError, TimeoutError, ConnectionError))
 
 
 def fetch(url):
@@ -155,5 +166,8 @@ if __name__ == "__main__":
     try:
         main()
     except Exception as e:
+        if site_unavailable(e):
+            print(f"::warning::muhammedkoca.com.tr unreachable ({e}); README left unchanged", file=sys.stderr)
+            sys.exit(0)
         print(f"✗ HATA: {e}", file=sys.stderr)
         sys.exit(1)
