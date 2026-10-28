@@ -15,6 +15,7 @@ Kullanım: python3 scripts/generate_projects.py README.md
 """
 import re
 import sys
+import urllib.error
 import urllib.request
 from html import unescape, escape as html_escape
 
@@ -26,6 +27,16 @@ MAX_TAGS = 4
 START_MARK = "<!-- PROJECTS:START -->"
 END_MARK = "<!-- PROJECTS:END -->"
 UA = {"User-Agent": "Mozilla/5.0 (compatible; readme-projects/1.0)"}
+
+
+
+def site_unavailable(exc):
+    """True when the site itself is down or refusing requests (e.g. a disabled
+    Vercel deployment answers 402). The README keeps its previous content then,
+    so the run should not fail; parse errors are NOT covered and still fail."""
+    if isinstance(exc, urllib.error.HTTPError):
+        return exc.code in (402, 403, 429) or exc.code >= 500
+    return isinstance(exc, (urllib.error.URLError, TimeoutError, ConnectionError))
 
 
 def fetch(url):
@@ -145,5 +156,8 @@ if __name__ == "__main__":
             sys.stderr.reconfigure(encoding="utf-8", errors="replace")
         main()
     except Exception as e:
+        if site_unavailable(e):
+            print(f"::warning::muhammedkoca.com.tr unreachable ({e}); README left unchanged", file=sys.stderr)
+            sys.exit(0)
         print(f"[HATA] {e}", file=sys.stderr)
         sys.exit(1)
