@@ -99,48 +99,48 @@
       Öğrencilerin ödev ve çalışma planlarını yönettiği, koçların ve kurumların takip ettiği; yapay zekâ asistanı Kami ile soru çözümü, ders…<br/><sub><code>Next.js</code> · <code>React</code> · <code>TypeScript</code> · <code>PostgreSQL</code></sub>
     </td>
     <td width="50%" valign="top">
-      <b>▸ <a href="https://www.muhammedkoca.com.tr/projeler/mk-homelab">Mk HomeLab</a></b><br/>
-      Kendi sunucumu tek panelden yönetmek için geliştirdiğim self-hosted homelab kontrol merkezi. Canlı donanım/Docker izleme, web terminal ve…<br/><sub><code>FastAPI</code> · <code>Next.js</code> · <code>Python</code> · <code>React</code></sub>
+      <b>▸ <a href="https://www.muhammedkoca.com.tr/projeler/visual-tester">Visual Tester</a></b><br/>
+      Claude Code ve Codex için yayın öncesi güvenlik denetimi skill&#x27;i. Projeyi rol bazlı bir saldırgan gibi tarar, her açığı kanıtlar, kök…<br/><sub><code>Claude Code</code> · <code>Codex</code> · <code>Agent Skill</code> · <code>Güvenlik</code></sub>
     </td>
   </tr>
   <tr>
+    <td width="50%" valign="top">
+      <b>▸ <a href="https://www.muhammedkoca.com.tr/projeler/mk-homelab">Mk HomeLab</a></b><br/>
+      Kendi sunucumu tek panelden yönetmek için geliştirdiğim self-hosted homelab kontrol merkezi. Canlı donanım/Docker izleme, web terminal ve…<br/><sub><code>FastAPI</code> · <code>Next.js</code> · <code>Python</code> · <code>React</code></sub>
+    </td>
     <td width="50%" valign="top">
       <b>▸ <a href="https://www.muhammedkoca.com.tr/projeler/musclepull-ai-destekli-fitness-beslenme-platformu">MusclePull - AI Destekli Fitness &amp; Beslenme Platformu</a></b><br/>
       MusclePull - Uçtan Uca Yapay Zeka Destekli Kişisel Gelişim Platformu Antrenman, beslenme, su ve takviye takibini tek bir noktada toplayan…<br/><sub><code>Next.js</code> · <code>TypeScript</code> · <code>PostgreSQL</code> · <code>Prisma</code></sub>
     </td>
+  </tr>
+  <tr>
     <td width="50%" valign="top">
       <b>▸ <a href="https://www.muhammedkoca.com.tr/projeler/fastcom-next-js-16-multi-tenant-multi-vendor-e-commerce">FastCom — Next.js 16 Multi-Tenant &amp; Multi-Vendor E-Commerce</a></b><br/>
       Next.js 16, React 19 ve TypeScript mimarisiyle geliştirilmiş, yüksek performanslı ve çok satıcılı (Multi-Vendor) E-Ticaret SaaS altyapısı…<br/><sub><code>Next.js 16</code> · <code>React 19</code> · <code>Prisma ORM</code> · <code>TypeScript</code></sub>
     </td>
-  </tr>
-  <tr>
     <td width="50%" valign="top">
       <b>▸ <a href="https://www.muhammedkoca.com.tr/projeler/mkmrp-acik-kaynak-erp">MkMrp — Açık Kaynak ERP</a></b><br/>
       İşletmelerin doğrudan kullanabileceği veya özelleştirebileceği açık kaynak Kurumsal Kaynak Planlama (ERP) altyapısı. Next.js 15, TypeScript…<br/><sub><code>Next.js</code> · <code>TypeScript</code> · <code>Prisma</code> · <code>Tailwind CSS</code></sub>
     </td>
+  </tr>
+  <tr>
     <td width="50%" valign="top">
       <b>▸ <a href="https://www.muhammedkoca.com.tr/projeler/sry-production-tracking-system">SRY Production Tracking System</a></b><br/>
       İşletmeler için dinamik vardiya rotasyonu ve anlık randıman analizi sunan üretim ve performans yönetim sistemi. Excel entegrasyonuyla ham…<br/><sub><code>PHP</code> · <code>MySQL</code> · <code>JavaScript</code> · <code>Excel Integration</code></sub>
     </td>
-  </tr>
-  <tr>
     <td width="50%" valign="top">
       <b>▸ <a href="https://www.muhammedkoca.com.tr/projeler/mhengine-universal-design-to-code-platform">MhEngine — Universal Design-to-Code Platform</a></b><br/>
       Görsel sürükle-bırak tasarımları AST tabanlı derleyici motoruyla React, Vue, Svelte, Flutter ve PHP Blade kodlarına dönüştüren enterprise…<br/><sub><code>No-Code</code> · <code>Low-Code</code> · <code>Code Generator</code> · <code>Compiler</code></sub>
     </td>
+  </tr>
+  <tr>
     <td width="50%" valign="top">
       <b>▸ <a href="https://www.muhammedkoca.com.tr/projeler/planter-gercek-zamanli-gorev-yonetim-platformu-web-desktop">PlanTer - Gerçek Zamanlı Görev Yönetim Platformu (Web &amp; Desktop)</a></b><br/>
       Web ve masaüstü platformlarında eş zamanlı çalışan, gerçek zamanlı veri senkronizasyonlu görev ve verimlilik platformu. Offline-First…<br/><sub><code>Next.js</code> · <code>Electron</code> · <code>TypeScript</code> · <code>Node.js</code></sub>
     </td>
-  </tr>
-  <tr>
     <td width="50%" valign="top">
       <b>▸ <a href="https://www.muhammedkoca.com.tr/projeler/muhammed-koca-ai-destekli-blog-cms-platformu">Muhammed Koca — AI Destekli Blog &amp; CMS Platformu</a></b><br/>
       Astro SSR, TypeScript ve Prisma/PostgreSQL üzerine kurulu; çoklu-sağlayıcılı yapay zeka ile otomatik içerik üreten, uçtan uca kendim…<br/><sub><code>Astro</code> · <code>TypeScript</code> · <code>Prisma</code> · <code>PostgreSQL</code></sub>
-    </td>
-    <td width="50%" valign="top">
-      <b>▸ <a href="https://www.muhammedkoca.com.tr/projeler/qrfitr-gelismis-ve-guvenli-qr-kod-platformu">QrFitr - Gelişmiş ve Güvenli QR Kod Platformu</a></b><br/>
-      Özel &quot;Cyber Tech&quot; tasarım sistemine sahip, güvenlik odaklı ve self-hosted dinamik QR kod üretme ve analitik platformu. Gelişmiş…<br/><sub><code>PHP</code> · <code>MySQL</code> · <code>TailwindCSS</code> · <code>Vanilla JS</code></sub>
     </td>
   </tr>
 </table>
