@@ -184,29 +184,29 @@
 <!-- BLOG-CARDS:START -->
 <table>
   <tr>
+    <td width="260"><a href="https://www.muhammedkoca.com.tr/blog/home-lab-kurarak-it-kariyerinizi-nasil-hizlandirabilirsiniz"><img src="https://www.muhammedkoca.com.tr/api/og/cover.png?title=Home+lab+kurarak+IT+kariyerinizi+nas%C4%B1l+h%C4%B1zland%C4%B1rabilirsiniz%3F&category=Kariyer&v=4" width="240" alt="Home lab kurarak IT kariyerinizi nasıl hızlandırabilirsiniz?"/></a></td>
+    <td valign="top" width="580">
+      <img src="https://img.shields.io/badge/Kariyer-60a5fa?style=flat-square&labelColor=0f172a" alt="Kariyer"/> <sub>30 Eki 2026</sub><br/><br/>
+      <a href="https://www.muhammedkoca.com.tr/blog/home-lab-kurarak-it-kariyerinizi-nasil-hizlandirabilirsiniz"><b>Home lab kurarak IT kariyerinizi nasıl hızlandırabilirsiniz?</b></a><br/><br/>
+      <sub>Bu yazıda, home lab oluşturmanın adımlarını, öğrenme yol haritasını ve sık yapılan hataları öğrenerek, bilişim kariyerinizde pratik beceriler…</sub>
+    </td>
+  </tr>
+  <tr><td colspan="2"><img src="assets/divider.svg" alt="" width="100%"/></td></tr>
+  <tr>
+    <td width="260"><a href="https://www.muhammedkoca.com.tr/blog/e-kitap-okuyucularin-gunluk-yasamda-sundugu-pratik-faydalar"><img src="https://www.muhammedkoca.com.tr/api/og/cover.png?title=E-kitap+okuyucular%C4%B1n+g%C3%BCnl%C3%BCk+ya%C5%9Famda+sundu%C4%9Fu+pratik+faydalar&category=Teknoloji&v=4" width="240" alt="E-kitap okuyucuların günlük yaşamda sunduğu pratik faydalar"/></a></td>
+    <td valign="top" width="580">
+      <img src="https://img.shields.io/badge/Teknoloji-60a5fa?style=flat-square&labelColor=0f172a" alt="Teknoloji"/> <sub>30 Eki 2026</sub><br/><br/>
+      <a href="https://www.muhammedkoca.com.tr/blog/e-kitap-okuyucularin-gunluk-yasamda-sundugu-pratik-faydalar"><b>E-kitap okuyucuların günlük yaşamda sunduğu pratik faydalar</b></a><br/><br/>
+      <sub>Bu yazıda e‑kitap okuyucuların temel özelliklerini, nasıl çalıştıklarını ve günlük hayatta zaman, göz ve bütçe tasarrufu sağlayan kullanım…</sub>
+    </td>
+  </tr>
+  <tr><td colspan="2"><img src="assets/divider.svg" alt="" width="100%"/></td></tr>
+  <tr>
     <td width="260"><a href="https://www.muhammedkoca.com.tr/blog/3-2-1-yedekleme-stratejisi-sorun-giderme-rehberi"><img src="https://www.muhammedkoca.com.tr/api/og/cover.png?title=3-2-1+Yedekleme+Stratejisi+Sorun+Giderme+Rehberi&category=Rehberler&v=4" width="240" alt="3-2-1 Yedekleme Stratejisi Sorun Giderme Rehberi"/></a></td>
     <td valign="top" width="580">
       <img src="https://img.shields.io/badge/Rehberler-60a5fa?style=flat-square&labelColor=0f172a" alt="Rehberler"/> <sub>29 Eki 2026</sub><br/><br/>
       <a href="https://www.muhammedkoca.com.tr/blog/3-2-1-yedekleme-stratejisi-sorun-giderme-rehberi"><b>3-2-1 Yedekleme Stratejisi Sorun Giderme Rehberi</b></a><br/><br/>
       <sub>Bu rehberde 3-2-1 yedekleme modelini adım adım kurup, oluşabilecek hataları tespit edip çözmeyi öğrenerek verilerinizi güvence altına alacaksınız.</sub>
-    </td>
-  </tr>
-  <tr><td colspan="2"><img src="assets/divider.svg" alt="" width="100%"/></td></tr>
-  <tr>
-    <td width="260"><a href="https://www.muhammedkoca.com.tr/blog/5g-mobil-aglarda-guvenlik-ve-gizlilik-temelleri-rehberi"><img src="https://www.muhammedkoca.com.tr/api/og/cover.png?title=5G+Mobil+A%C4%9Flarda+G%C3%BCvenlik+ve+Gizlilik+Temelleri+Rehberi&category=Teknoloji&v=4" width="240" alt="5G Mobil Ağlarda Güvenlik ve Gizlilik Temelleri Rehberi"/></a></td>
-    <td valign="top" width="580">
-      <img src="https://img.shields.io/badge/Teknoloji-60a5fa?style=flat-square&labelColor=0f172a" alt="Teknoloji"/> <sub>29 Eki 2026</sub><br/><br/>
-      <a href="https://www.muhammedkoca.com.tr/blog/5g-mobil-aglarda-guvenlik-ve-gizlilik-temelleri-rehberi"><b>5G Mobil Ağlarda Güvenlik ve Gizlilik Temelleri Rehberi</b></a><br/><br/>
-      <sub>Bu yazıda 5G ağlarının güvenlik mimarisini, gizlilik mekanizmalarını ve günlük kullanımda dikkat edilmesi gereken noktaları öğrenerek daha güvenli…</sub>
-    </td>
-  </tr>
-  <tr><td colspan="2"><img src="assets/divider.svg" alt="" width="100%"/></td></tr>
-  <tr>
-    <td width="260"><a href="https://www.muhammedkoca.com.tr/blog/ekran-oncesi-ve-sonrasi-rituelleri-icin-kucuk-ve-surdurulebilir-adimlar"><img src="https://www.muhammedkoca.com.tr/api/og/cover.png?title=Ekran+%C3%96ncesi+ve+Sonras%C4%B1+Rit%C3%BCelleri+%C4%B0%C3%A7in+K%C3%BC%C3%A7%C3%BCk+ve+S%C3%BCrd%C3%BCr%C3%BClebilir+Ad%C4%B1mlar&category=Ya%C5%9Fam&v=4" width="240" alt="Ekran Öncesi ve Sonrası Ritüelleri İçin Küçük ve Sürdürülebilir Adımlar"/></a></td>
-    <td valign="top" width="580">
-      <img src="https://img.shields.io/badge/Yaşam-60a5fa?style=flat-square&labelColor=0f172a" alt="Yaşam"/> <sub>28 Eki 2026</sub><br/><br/>
-      <a href="https://www.muhammedkoca.com.tr/blog/ekran-oncesi-ve-sonrasi-rituelleri-icin-kucuk-ve-surdurulebilir-adimlar"><b>Ekran Öncesi ve Sonrası Ritüelleri İçin Küçük ve Sürdürülebilir Adımlar</b></a><br/><br/>
-      <sub>Günlük ekran kullanımını dengelemek için uygulanabilir ritüelleri keşfedin. Okuyucular, basit adımlarla göz yorgunluğunu azaltıp verimliliği…</sub>
     </td>
   </tr>
 </table>
