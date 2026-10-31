@@ -184,29 +184,29 @@
 <!-- BLOG-CARDS:START -->
 <table>
   <tr>
+    <td width="260"><a href="https://www.muhammedkoca.com.tr/blog/7-yaygin-port-yonlendirme-ve-statik-ip-hatasi-ve-cozumu"><img src="https://www.muhammedkoca.com.tr/api/og/cover.png?title=7+Yayg%C4%B1n+Port+Y%C3%B6nlendirme+ve+Statik+IP+Hatas%C4%B1+ve+%C3%87%C3%B6z%C3%BCm%C3%BC&category=Rehberler&v=4" width="240" alt="7 Yaygın Port Yönlendirme ve Statik IP Hatası ve Çözümü"/></a></td>
+    <td valign="top" width="580">
+      <img src="https://img.shields.io/badge/Rehberler-60a5fa?style=flat-square&labelColor=0f172a" alt="Rehberler"/> <sub>31 Eki 2026</sub><br/><br/>
+      <a href="https://www.muhammedkoca.com.tr/blog/7-yaygin-port-yonlendirme-ve-statik-ip-hatasi-ve-cozumu"><b>7 Yaygın Port Yönlendirme ve Statik IP Hatası ve Çözümü</b></a><br/><br/>
+      <sub>Port yönlendirme ve statik IP ayarlarında sıkça yapılan hataları ve adım adım çözümlerini öğrenerek ağınızın kesintisiz çalışmasını sağlayacaksınız.</sub>
+    </td>
+  </tr>
+  <tr><td colspan="2"><img src="assets/divider.svg" alt="" width="100%"/></td></tr>
+  <tr>
+    <td width="260"><a href="https://www.muhammedkoca.com.tr/blog/wi-fi-kanal-secimi-ve-parazit-azaltma-icin-baslangic-seviyesi-kontrol-listesi"><img src="https://www.muhammedkoca.com.tr/api/og/cover.png?title=Wi-Fi+Kanal+Se%C3%A7imi+ve+Parazit+Azaltma+%C4%B0%C3%A7in+Ba%C5%9Flang%C4%B1%C3%A7+Seviyesi+Kontrol+Listesi&category=Rehberler&v=4" width="240" alt="Wi-Fi Kanal Seçimi ve Parazit Azaltma İçin Başlangıç Seviyesi Kontrol Listesi"/></a></td>
+    <td valign="top" width="580">
+      <img src="https://img.shields.io/badge/Rehberler-60a5fa?style=flat-square&labelColor=0f172a" alt="Rehberler"/> <sub>31 Eki 2026</sub><br/><br/>
+      <a href="https://www.muhammedkoca.com.tr/blog/wi-fi-kanal-secimi-ve-parazit-azaltma-icin-baslangic-seviyesi-kontrol-listesi"><b>Wi-Fi Kanal Seçimi ve Parazit Azaltma İçin Başlangıç Seviyesi Kontrol Listesi</b></a><br/><br/>
+      <sub>Bu rehberde evinizdeki Wi‑Fi performansını artırmak için doğru kanal seçimini ve parazit azaltma adımlarını adım adım öğrenirsiniz.</sub>
+    </td>
+  </tr>
+  <tr><td colspan="2"><img src="assets/divider.svg" alt="" width="100%"/></td></tr>
+  <tr>
     <td width="260"><a href="https://www.muhammedkoca.com.tr/blog/home-lab-kurarak-it-kariyerinizi-nasil-hizlandirabilirsiniz"><img src="https://www.muhammedkoca.com.tr/api/og/cover.png?title=Home+lab+kurarak+IT+kariyerinizi+nas%C4%B1l+h%C4%B1zland%C4%B1rabilirsiniz%3F&category=Kariyer&v=4" width="240" alt="Home lab kurarak IT kariyerinizi nasıl hızlandırabilirsiniz?"/></a></td>
     <td valign="top" width="580">
       <img src="https://img.shields.io/badge/Kariyer-60a5fa?style=flat-square&labelColor=0f172a" alt="Kariyer"/> <sub>30 Eki 2026</sub><br/><br/>
       <a href="https://www.muhammedkoca.com.tr/blog/home-lab-kurarak-it-kariyerinizi-nasil-hizlandirabilirsiniz"><b>Home lab kurarak IT kariyerinizi nasıl hızlandırabilirsiniz?</b></a><br/><br/>
       <sub>Bu yazıda, home lab oluşturmanın adımlarını, öğrenme yol haritasını ve sık yapılan hataları öğrenerek, bilişim kariyerinizde pratik beceriler…</sub>
-    </td>
-  </tr>
-  <tr><td colspan="2"><img src="assets/divider.svg" alt="" width="100%"/></td></tr>
-  <tr>
-    <td width="260"><a href="https://www.muhammedkoca.com.tr/blog/e-kitap-okuyucularin-gunluk-yasamda-sundugu-pratik-faydalar"><img src="https://www.muhammedkoca.com.tr/api/og/cover.png?title=E-kitap+okuyucular%C4%B1n+g%C3%BCnl%C3%BCk+ya%C5%9Famda+sundu%C4%9Fu+pratik+faydalar&category=Teknoloji&v=4" width="240" alt="E-kitap okuyucuların günlük yaşamda sunduğu pratik faydalar"/></a></td>
-    <td valign="top" width="580">
-      <img src="https://img.shields.io/badge/Teknoloji-60a5fa?style=flat-square&labelColor=0f172a" alt="Teknoloji"/> <sub>30 Eki 2026</sub><br/><br/>
-      <a href="https://www.muhammedkoca.com.tr/blog/e-kitap-okuyucularin-gunluk-yasamda-sundugu-pratik-faydalar"><b>E-kitap okuyucuların günlük yaşamda sunduğu pratik faydalar</b></a><br/><br/>
-      <sub>Bu yazıda e‑kitap okuyucuların temel özelliklerini, nasıl çalıştıklarını ve günlük hayatta zaman, göz ve bütçe tasarrufu sağlayan kullanım…</sub>
-    </td>
-  </tr>
-  <tr><td colspan="2"><img src="assets/divider.svg" alt="" width="100%"/></td></tr>
-  <tr>
-    <td width="260"><a href="https://www.muhammedkoca.com.tr/blog/3-2-1-yedekleme-stratejisi-sorun-giderme-rehberi"><img src="https://www.muhammedkoca.com.tr/api/og/cover.png?title=3-2-1+Yedekleme+Stratejisi+Sorun+Giderme+Rehberi&category=Rehberler&v=4" width="240" alt="3-2-1 Yedekleme Stratejisi Sorun Giderme Rehberi"/></a></td>
-    <td valign="top" width="580">
-      <img src="https://img.shields.io/badge/Rehberler-60a5fa?style=flat-square&labelColor=0f172a" alt="Rehberler"/> <sub>29 Eki 2026</sub><br/><br/>
-      <a href="https://www.muhammedkoca.com.tr/blog/3-2-1-yedekleme-stratejisi-sorun-giderme-rehberi"><b>3-2-1 Yedekleme Stratejisi Sorun Giderme Rehberi</b></a><br/><br/>
-      <sub>Bu rehberde 3-2-1 yedekleme modelini adım adım kurup, oluşabilecek hataları tespit edip çözmeyi öğrenerek verilerinizi güvence altına alacaksınız.</sub>
     </td>
   </tr>
 </table>
