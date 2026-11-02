@@ -184,29 +184,29 @@
 <!-- BLOG-CARDS:START -->
 <table>
   <tr>
+    <td width="260"><a href="https://www.muhammedkoca.com.tr/blog/dijital-fotograf-arsivinizi-yanlis-inanistan-kurtarin-baslangic-rehberi"><img src="https://www.muhammedkoca.com.tr/api/og/cover.png?title=Dijital+foto%C4%9Fraf+ar%C5%9Fivinizi+yanl%C4%B1%C5%9F+inan%C4%B1%C5%9Ftan+kurtar%C4%B1n%3A+Ba%C5%9Flang%C4%B1%C3%A7+rehberi&category=Ya%C5%9Fam&v=4" width="240" alt="Dijital fotoğraf arşivinizi yanlış inanıştan kurtarın: Başlangıç rehberi"/></a></td>
+    <td valign="top" width="580">
+      <img src="https://img.shields.io/badge/Yaşam-60a5fa?style=flat-square&labelColor=0f172a" alt="Yaşam"/> <sub>2 Kas 2026</sub><br/><br/>
+      <a href="https://www.muhammedkoca.com.tr/blog/dijital-fotograf-arsivinizi-yanlis-inanistan-kurtarin-baslangic-rehberi"><b>Dijital fotoğraf arşivinizi yanlış inanıştan kurtarın: Başlangıç rehberi</b></a><br/><br/>
+      <sub>Dijital fotoğraf arşivinizi düzenlemenin yaygın bir yanılgısını keşfedin ve gerçekçi, uygulanabilir adımlarla fotoğraflarınızı kontrol altına alın.</sub>
+    </td>
+  </tr>
+  <tr><td colspan="2"><img src="assets/divider.svg" alt="" width="100%"/></td></tr>
+  <tr>
+    <td width="260"><a href="https://www.muhammedkoca.com.tr/blog/ag-uzmani-olmak-icin-baslangic-rehberi-ve-yol-haritasi"><img src="https://www.muhammedkoca.com.tr/api/og/cover.png?title=A%C4%9F+Uzman%C4%B1+Olmak+%C4%B0%C3%A7in+Ba%C5%9Flang%C4%B1%C3%A7+Rehberi+ve+Yol+Haritas%C4%B1&category=Kariyer&v=4" width="240" alt="Ağ Uzmanı Olmak İçin Başlangıç Rehberi ve Yol Haritası"/></a></td>
+    <td valign="top" width="580">
+      <img src="https://img.shields.io/badge/Kariyer-60a5fa?style=flat-square&labelColor=0f172a" alt="Kariyer"/> <sub>2 Kas 2026</sub><br/><br/>
+      <a href="https://www.muhammedkoca.com.tr/blog/ag-uzmani-olmak-icin-baslangic-rehberi-ve-yol-haritasi"><b>Ağ Uzmanı Olmak İçin Başlangıç Rehberi ve Yol Haritası</b></a><br/><br/>
+      <sub>Bu rehberde ağ uzmanı kariyerine nasıl adım atacağınızı, öğrenmeniz gereken becerileri, sertifikaları ve iş görüşmesi taktiklerini keşfedeceksiniz.</sub>
+    </td>
+  </tr>
+  <tr><td colspan="2"><img src="assets/divider.svg" alt="" width="100%"/></td></tr>
+  <tr>
     <td width="260"><a href="https://www.muhammedkoca.com.tr/blog/tarayicida-is-ve-kisisel-profil-ayrimi-icin-pratik-optimizasyon-yontemleri"><img src="https://www.muhammedkoca.com.tr/api/og/cover.png?title=Taray%C4%B1c%C4%B1da+%C4%B0%C5%9F+ve+Ki%C5%9Fisel+Profil+Ayr%C4%B1m%C4%B1+%C4%B0%C3%A7in+Pratik+Optimizasyon+Y%C3%B6ntemleri&category=Rehberler&v=4" width="240" alt="Tarayıcıda İş ve Kişisel Profil Ayrımı İçin Pratik Optimizasyon Yöntemleri"/></a></td>
     <td valign="top" width="580">
       <img src="https://img.shields.io/badge/Rehberler-60a5fa?style=flat-square&labelColor=0f172a" alt="Rehberler"/> <sub>1 Kas 2026</sub><br/><br/>
       <a href="https://www.muhammedkoca.com.tr/blog/tarayicida-is-ve-kisisel-profil-ayrimi-icin-pratik-optimizasyon-yontemleri"><b>Tarayıcıda İş ve Kişisel Profil Ayrımı İçin Pratik Optimizasyon Yöntemleri</b></a><br/><br/>
       <sub>Bu rehberde, tarayıcınızda iş ve kişisel profilleri nasıl ayıracağınızı, verimliliği artıracak ayarları ve sık karşılaşılan sorunları nasıl…</sub>
-    </td>
-  </tr>
-  <tr><td colspan="2"><img src="assets/divider.svg" alt="" width="100%"/></td></tr>
-  <tr>
-    <td width="260"><a href="https://www.muhammedkoca.com.tr/blog/sabah-rutini-icin-en-iyi-teknoloji-araclari-ve-uygulama-onerileri"><img src="https://www.muhammedkoca.com.tr/api/og/cover.png?title=Sabah+Rutini+%C4%B0%C3%A7in+En+%C4%B0yi+Teknoloji+Ara%C3%A7lar%C4%B1+ve+Uygulama+%C3%96nerileri&category=Ya%C5%9Fam&v=4" width="240" alt="Sabah Rutini İçin En İyi Teknoloji Araçları ve Uygulama Önerileri"/></a></td>
-    <td valign="top" width="580">
-      <img src="https://img.shields.io/badge/Yaşam-60a5fa?style=flat-square&labelColor=0f172a" alt="Yaşam"/> <sub>1 Kas 2026</sub><br/><br/>
-      <a href="https://www.muhammedkoca.com.tr/blog/sabah-rutini-icin-en-iyi-teknoloji-araclari-ve-uygulama-onerileri"><b>Sabah Rutini İçin En İyi Teknoloji Araçları ve Uygulama Önerileri</b></a><br/><br/>
-      <sub>Güne daha verimli ve dengeli başlamanız için kullanabileceğiniz mobil ve akıllı ev uygulamalarını keşfedin. Sabah ritüelinizi teknolojiyle…</sub>
-    </td>
-  </tr>
-  <tr><td colspan="2"><img src="assets/divider.svg" alt="" width="100%"/></td></tr>
-  <tr>
-    <td width="260"><a href="https://www.muhammedkoca.com.tr/blog/7-yaygin-port-yonlendirme-ve-statik-ip-hatasi-ve-cozumu"><img src="https://www.muhammedkoca.com.tr/api/og/cover.png?title=7+Yayg%C4%B1n+Port+Y%C3%B6nlendirme+ve+Statik+IP+Hatas%C4%B1+ve+%C3%87%C3%B6z%C3%BCm%C3%BC&category=Rehberler&v=4" width="240" alt="7 Yaygın Port Yönlendirme ve Statik IP Hatası ve Çözümü"/></a></td>
-    <td valign="top" width="580">
-      <img src="https://img.shields.io/badge/Rehberler-60a5fa?style=flat-square&labelColor=0f172a" alt="Rehberler"/> <sub>31 Eki 2026</sub><br/><br/>
-      <a href="https://www.muhammedkoca.com.tr/blog/7-yaygin-port-yonlendirme-ve-statik-ip-hatasi-ve-cozumu"><b>7 Yaygın Port Yönlendirme ve Statik IP Hatası ve Çözümü</b></a><br/><br/>
-      <sub>Port yönlendirme ve statik IP ayarlarında sıkça yapılan hataları ve adım adım çözümlerini öğrenerek ağınızın kesintisiz çalışmasını sağlayacaksınız.</sub>
     </td>
   </tr>
 </table>
