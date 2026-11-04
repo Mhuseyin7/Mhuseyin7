@@ -184,6 +184,15 @@
 <!-- BLOG-CARDS:START -->
 <table>
   <tr>
+    <td width="260"><a href="https://www.muhammedkoca.com.tr/blog/bilisim-maas-gorusmesinde-yoneticiler-neyi-olcuyor"><img src="https://www.muhammedkoca.com.tr/api/og/cover.png?title=Bili%C5%9Fim+maa%C5%9F+g%C3%B6r%C3%BC%C5%9Fmesinde+y%C3%B6neticiler+neyi+%C3%B6l%C3%A7%C3%BCyor%3F&category=Kariyer&v=4" width="240" alt="Bilişim maaş görüşmesinde yöneticiler neyi ölçüyor?"/></a></td>
+    <td valign="top" width="580">
+      <img src="https://img.shields.io/badge/Kariyer-60a5fa?style=flat-square&labelColor=0f172a" alt="Kariyer"/> <sub>4 Kas 2026</sub><br/><br/>
+      <a href="https://www.muhammedkoca.com.tr/blog/bilisim-maas-gorusmesinde-yoneticiler-neyi-olcuyor"><b>Bilişim maaş görüşmesinde yöneticiler neyi ölçüyor?</b></a><br/><br/>
+      <sub>Bu yazıda yöneticilerin maaş görüşmesinde aradığı kriterleri, hazırlık adımlarını ve sık yapılan hataları öğrenerek görüşmenizi güçlendireceksiniz.</sub>
+    </td>
+  </tr>
+  <tr><td colspan="2"><img src="assets/divider.svg" alt="" width="100%"/></td></tr>
+  <tr>
     <td width="260"><a href="https://www.muhammedkoca.com.tr/blog/ekran-karsisinda-egzersiz-molalari-hakkinda-yanlis-inanci-duzeltmek-icin-baslang"><img src="https://www.muhammedkoca.com.tr/api/og/cover.png?title=Ekran+Kar%C5%9F%C4%B1s%C4%B1nda+Egzersiz+Molalar%C4%B1+Hakk%C4%B1nda+Yanl%C4%B1%C5%9F+%C4%B0nanc%C4%B1+D%C3%BCzeltmek+%C4%B0%C3%A7in+Ba%C5%9Flang%C4%B1%C3%A7+Rehberi&category=Ya%C5%9Fam&v=4" width="240" alt="Ekran Karşısında Egzersiz Molaları Hakkında Yanlış İnancı Düzeltmek İçin Başlangıç Rehberi"/></a></td>
     <td valign="top" width="580">
       <img src="https://img.shields.io/badge/Yaşam-60a5fa?style=flat-square&labelColor=0f172a" alt="Yaşam"/> <sub>3 Kas 2026</sub><br/><br/>
@@ -198,15 +207,6 @@
       <img src="https://img.shields.io/badge/Kariyer-60a5fa?style=flat-square&labelColor=0f172a" alt="Kariyer"/> <sub>3 Kas 2026</sub><br/><br/>
       <a href="https://www.muhammedkoca.com.tr/blog/bilisime-alan-degistirerek-geciste-az-bilinen-gercekler"><b>Bilişime Alan Değiştirerek Geçişte Az Bilinen Gerçekler</b></a><br/><br/>
       <sub>Bilişim kariyerinizde farklı bir alana geçiş yaparken sıkça göz ardı edilen dinamikleri keşfedin. Gerçek örnekler ve uygulanabilir adımlarla süreci…</sub>
-    </td>
-  </tr>
-  <tr><td colspan="2"><img src="assets/divider.svg" alt="" width="100%"/></td></tr>
-  <tr>
-    <td width="260"><a href="https://www.muhammedkoca.com.tr/blog/dijital-fotograf-arsivinizi-yanlis-inanistan-kurtarin-baslangic-rehberi"><img src="https://www.muhammedkoca.com.tr/api/og/cover.png?title=Dijital+foto%C4%9Fraf+ar%C5%9Fivinizi+yanl%C4%B1%C5%9F+inan%C4%B1%C5%9Ftan+kurtar%C4%B1n%3A+Ba%C5%9Flang%C4%B1%C3%A7+rehberi&category=Ya%C5%9Fam&v=4" width="240" alt="Dijital fotoğraf arşivinizi yanlış inanıştan kurtarın: Başlangıç rehberi"/></a></td>
-    <td valign="top" width="580">
-      <img src="https://img.shields.io/badge/Yaşam-60a5fa?style=flat-square&labelColor=0f172a" alt="Yaşam"/> <sub>2 Kas 2026</sub><br/><br/>
-      <a href="https://www.muhammedkoca.com.tr/blog/dijital-fotograf-arsivinizi-yanlis-inanistan-kurtarin-baslangic-rehberi"><b>Dijital fotoğraf arşivinizi yanlış inanıştan kurtarın: Başlangıç rehberi</b></a><br/><br/>
-      <sub>Dijital fotoğraf arşivinizi düzenlemenin yaygın bir yanılgısını keşfedin ve gerçekçi, uygulanabilir adımlarla fotoğraflarınızı kontrol altına alın.</sub>
     </td>
   </tr>
 </table>
