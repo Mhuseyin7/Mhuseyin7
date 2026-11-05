@@ -184,29 +184,29 @@
 <!-- BLOG-CARDS:START -->
 <table>
   <tr>
+    <td width="260"><a href="https://www.muhammedkoca.com.tr/blog/sosyal-medya-kullaniminda-denge-gunluk-hayata-pratik-oneriler"><img src="https://www.muhammedkoca.com.tr/api/og/cover.png?title=Sosyal+medya+kullan%C4%B1m%C4%B1nda+denge%3A+G%C3%BCnl%C3%BCk+hayata+pratik+%C3%B6neriler&category=Ya%C5%9Fam&v=4" width="240" alt="Sosyal medya kullanımında denge: Günlük hayata pratik öneriler"/></a></td>
+    <td valign="top" width="580">
+      <img src="https://img.shields.io/badge/Yaşam-60a5fa?style=flat-square&labelColor=0f172a" alt="Yaşam"/> <sub>5 Kas 2026</sub><br/><br/>
+      <a href="https://www.muhammedkoca.com.tr/blog/sosyal-medya-kullaniminda-denge-gunluk-hayata-pratik-oneriler"><b>Sosyal medya kullanımında denge: Günlük hayata pratik öneriler</b></a><br/><br/>
+      <sub>Sosyal medyanın çekiciliğiyle yaşam dengenizi korumanın yollarını öğrenin. Günlük rutinlerde uygulanabilir ipuçları ve gerçekçi planlarla daha…</sub>
+    </td>
+  </tr>
+  <tr><td colspan="2"><img src="assets/divider.svg" alt="" width="100%"/></td></tr>
+  <tr>
+    <td width="260"><a href="https://www.muhammedkoca.com.tr/blog/pi-hole-ile-reklam-engelleme-kurulumu-baslangic-seviyesi-kontrol-listesi"><img src="https://www.muhammedkoca.com.tr/api/og/cover.png?title=Pi-hole+ile+Reklam+Engelleme+Kurulumu%3A+Ba%C5%9Flang%C4%B1%C3%A7+Seviyesi+Kontrol+Listesi&category=Rehberler&v=4" width="240" alt="Pi-hole ile Reklam Engelleme Kurulumu: Başlangıç Seviyesi Kontrol Listesi"/></a></td>
+    <td valign="top" width="580">
+      <img src="https://img.shields.io/badge/Rehberler-60a5fa?style=flat-square&labelColor=0f172a" alt="Rehberler"/> <sub>5 Kas 2026</sub><br/><br/>
+      <a href="https://www.muhammedkoca.com.tr/blog/pi-hole-ile-reklam-engelleme-kurulumu-baslangic-seviyesi-kontrol-listesi"><b>Pi-hole ile Reklam Engelleme Kurulumu: Başlangıç Seviyesi Kontrol Listesi</b></a><br/><br/>
+      <sub>Bu rehberde Pi-hole kurulumunun ön koşullarını, adım adım kurulum sürecini ve yaygın sorunları nasıl çözeceğinizi öğrenerek ağınızda reklamları…</sub>
+    </td>
+  </tr>
+  <tr><td colspan="2"><img src="assets/divider.svg" alt="" width="100%"/></td></tr>
+  <tr>
     <td width="260"><a href="https://www.muhammedkoca.com.tr/blog/bilisim-maas-gorusmesinde-yoneticiler-neyi-olcuyor"><img src="https://www.muhammedkoca.com.tr/api/og/cover.png?title=Bili%C5%9Fim+maa%C5%9F+g%C3%B6r%C3%BC%C5%9Fmesinde+y%C3%B6neticiler+neyi+%C3%B6l%C3%A7%C3%BCyor%3F&category=Kariyer&v=4" width="240" alt="Bilişim maaş görüşmesinde yöneticiler neyi ölçüyor?"/></a></td>
     <td valign="top" width="580">
       <img src="https://img.shields.io/badge/Kariyer-60a5fa?style=flat-square&labelColor=0f172a" alt="Kariyer"/> <sub>4 Kas 2026</sub><br/><br/>
       <a href="https://www.muhammedkoca.com.tr/blog/bilisim-maas-gorusmesinde-yoneticiler-neyi-olcuyor"><b>Bilişim maaş görüşmesinde yöneticiler neyi ölçüyor?</b></a><br/><br/>
       <sub>Bu yazıda yöneticilerin maaş görüşmesinde aradığı kriterleri, hazırlık adımlarını ve sık yapılan hataları öğrenerek görüşmenizi güçlendireceksiniz.</sub>
-    </td>
-  </tr>
-  <tr><td colspan="2"><img src="assets/divider.svg" alt="" width="100%"/></td></tr>
-  <tr>
-    <td width="260"><a href="https://www.muhammedkoca.com.tr/blog/ekran-karsisinda-egzersiz-molalari-hakkinda-yanlis-inanci-duzeltmek-icin-baslang"><img src="https://www.muhammedkoca.com.tr/api/og/cover.png?title=Ekran+Kar%C5%9F%C4%B1s%C4%B1nda+Egzersiz+Molalar%C4%B1+Hakk%C4%B1nda+Yanl%C4%B1%C5%9F+%C4%B0nanc%C4%B1+D%C3%BCzeltmek+%C4%B0%C3%A7in+Ba%C5%9Flang%C4%B1%C3%A7+Rehberi&category=Ya%C5%9Fam&v=4" width="240" alt="Ekran Karşısında Egzersiz Molaları Hakkında Yanlış İnancı Düzeltmek İçin Başlangıç Rehberi"/></a></td>
-    <td valign="top" width="580">
-      <img src="https://img.shields.io/badge/Yaşam-60a5fa?style=flat-square&labelColor=0f172a" alt="Yaşam"/> <sub>3 Kas 2026</sub><br/><br/>
-      <a href="https://www.muhammedkoca.com.tr/blog/ekran-karsisinda-egzersiz-molalari-hakkinda-yanlis-inanci-duzeltmek-icin-baslang"><b>Ekran Karşısında Egzersiz Molaları Hakkında Yanlış İnancı Düzeltmek İçin Başlangıç Rehberi</b></a><br/><br/>
-      <sub>Gün içinde ekran başında uzun saatler geçirenler için yaygın bir mit olan &quot;5 dakikalık molalar yeterli&quot; yanılgısını açıklıyoruz. Doğru egzersiz…</sub>
-    </td>
-  </tr>
-  <tr><td colspan="2"><img src="assets/divider.svg" alt="" width="100%"/></td></tr>
-  <tr>
-    <td width="260"><a href="https://www.muhammedkoca.com.tr/blog/bilisime-alan-degistirerek-geciste-az-bilinen-gercekler"><img src="https://www.muhammedkoca.com.tr/api/og/cover.png?title=Bili%C5%9Fime+Alan+De%C4%9Fi%C5%9Ftirerek+Ge%C3%A7i%C5%9Fte+Az+Bilinen+Ger%C3%A7ekler&category=Kariyer&v=4" width="240" alt="Bilişime Alan Değiştirerek Geçişte Az Bilinen Gerçekler"/></a></td>
-    <td valign="top" width="580">
-      <img src="https://img.shields.io/badge/Kariyer-60a5fa?style=flat-square&labelColor=0f172a" alt="Kariyer"/> <sub>3 Kas 2026</sub><br/><br/>
-      <a href="https://www.muhammedkoca.com.tr/blog/bilisime-alan-degistirerek-geciste-az-bilinen-gercekler"><b>Bilişime Alan Değiştirerek Geçişte Az Bilinen Gerçekler</b></a><br/><br/>
-      <sub>Bilişim kariyerinizde farklı bir alana geçiş yaparken sıkça göz ardı edilen dinamikleri keşfedin. Gerçek örnekler ve uygulanabilir adımlarla süreci…</sub>
     </td>
   </tr>
 </table>
