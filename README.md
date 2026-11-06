@@ -184,6 +184,15 @@
 <!-- BLOG-CARDS:START -->
 <table>
   <tr>
+    <td width="260"><a href="https://www.muhammedkoca.com.tr/blog/ebeveyn-kontrolu-ve-icerik-filtreleme-kurulumu-icin-pratik-optimizasyon-yollari"><img src="https://www.muhammedkoca.com.tr/api/og/cover.png?title=Ebeveyn+Kontrol%C3%BC+ve+%C4%B0%C3%A7erik+Filtreleme+Kurulumu+%C4%B0%C3%A7in+Pratik+Optimizasyon+Yollar%C4%B1&category=Rehberler&v=4" width="240" alt="Ebeveyn Kontrolü ve İçerik Filtreleme Kurulumu İçin Pratik Optimizasyon Yolları"/></a></td>
+    <td valign="top" width="580">
+      <img src="https://img.shields.io/badge/Rehberler-60a5fa?style=flat-square&labelColor=0f172a" alt="Rehberler"/> <sub>6 Kas 2026</sub><br/><br/>
+      <a href="https://www.muhammedkoca.com.tr/blog/ebeveyn-kontrolu-ve-icerik-filtreleme-kurulumu-icin-pratik-optimizasyon-yollari"><b>Ebeveyn Kontrolü ve İçerik Filtreleme Kurulumu İçin Pratik Optimizasyon Yolları</b></a><br/><br/>
+      <sub>Bu rehberde, evinizdeki cihazlar için ebeveyn kontrolü ve içerik filtreleme sistemlerini adım adım kurup optimize etmeyi öğrenecek, yaygın hatalardan…</sub>
+    </td>
+  </tr>
+  <tr><td colspan="2"><img src="assets/divider.svg" alt="" width="100%"/></td></tr>
+  <tr>
     <td width="260"><a href="https://www.muhammedkoca.com.tr/blog/sosyal-medya-kullaniminda-denge-gunluk-hayata-pratik-oneriler"><img src="https://www.muhammedkoca.com.tr/api/og/cover.png?title=Sosyal+medya+kullan%C4%B1m%C4%B1nda+denge%3A+G%C3%BCnl%C3%BCk+hayata+pratik+%C3%B6neriler&category=Ya%C5%9Fam&v=4" width="240" alt="Sosyal medya kullanımında denge: Günlük hayata pratik öneriler"/></a></td>
     <td valign="top" width="580">
       <img src="https://img.shields.io/badge/Yaşam-60a5fa?style=flat-square&labelColor=0f172a" alt="Yaşam"/> <sub>5 Kas 2026</sub><br/><br/>
@@ -198,15 +207,6 @@
       <img src="https://img.shields.io/badge/Rehberler-60a5fa?style=flat-square&labelColor=0f172a" alt="Rehberler"/> <sub>5 Kas 2026</sub><br/><br/>
       <a href="https://www.muhammedkoca.com.tr/blog/pi-hole-ile-reklam-engelleme-kurulumu-baslangic-seviyesi-kontrol-listesi"><b>Pi-hole ile Reklam Engelleme Kurulumu: Başlangıç Seviyesi Kontrol Listesi</b></a><br/><br/>
       <sub>Bu rehberde Pi-hole kurulumunun ön koşullarını, adım adım kurulum sürecini ve yaygın sorunları nasıl çözeceğinizi öğrenerek ağınızda reklamları…</sub>
-    </td>
-  </tr>
-  <tr><td colspan="2"><img src="assets/divider.svg" alt="" width="100%"/></td></tr>
-  <tr>
-    <td width="260"><a href="https://www.muhammedkoca.com.tr/blog/bilisim-maas-gorusmesinde-yoneticiler-neyi-olcuyor"><img src="https://www.muhammedkoca.com.tr/api/og/cover.png?title=Bili%C5%9Fim+maa%C5%9F+g%C3%B6r%C3%BC%C5%9Fmesinde+y%C3%B6neticiler+neyi+%C3%B6l%C3%A7%C3%BCyor%3F&category=Kariyer&v=4" width="240" alt="Bilişim maaş görüşmesinde yöneticiler neyi ölçüyor?"/></a></td>
-    <td valign="top" width="580">
-      <img src="https://img.shields.io/badge/Kariyer-60a5fa?style=flat-square&labelColor=0f172a" alt="Kariyer"/> <sub>4 Kas 2026</sub><br/><br/>
-      <a href="https://www.muhammedkoca.com.tr/blog/bilisim-maas-gorusmesinde-yoneticiler-neyi-olcuyor"><b>Bilişim maaş görüşmesinde yöneticiler neyi ölçüyor?</b></a><br/><br/>
-      <sub>Bu yazıda yöneticilerin maaş görüşmesinde aradığı kriterleri, hazırlık adımlarını ve sık yapılan hataları öğrenerek görüşmenizi güçlendireceksiniz.</sub>
     </td>
   </tr>
 </table>
