@@ -184,6 +184,15 @@
 <!-- BLOG-CARDS:START -->
 <table>
   <tr>
+    <td width="260"><a href="https://www.muhammedkoca.com.tr/blog/7-adimda-bilisim-performans-degerlendirmesine-hazirlik"><img src="https://www.muhammedkoca.com.tr/api/og/cover.png?title=7+ad%C4%B1mda+bili%C5%9Fim+performans+de%C4%9Ferlendirmesine+haz%C4%B1rl%C4%B1k&category=Kariyer&v=4" width="240" alt="7 adımda bilişim performans değerlendirmesine hazırlık"/></a></td>
+    <td valign="top" width="580">
+      <img src="https://img.shields.io/badge/Kariyer-60a5fa?style=flat-square&labelColor=0f172a" alt="Kariyer"/> <sub>7 Kas 2026</sub><br/><br/>
+      <a href="https://www.muhammedkoca.com.tr/blog/7-adimda-bilisim-performans-degerlendirmesine-hazirlik"><b>7 adımda bilişim performans değerlendirmesine hazırlık</b></a><br/><br/>
+      <sub>Bu rehberde, bilişim kariyerinizde performans değerlendirmesine nasıl etkili bir şekilde hazırlanabileceğinizi adım adım öğrenirsiniz. Temel…</sub>
+    </td>
+  </tr>
+  <tr><td colspan="2"><img src="assets/divider.svg" alt="" width="100%"/></td></tr>
+  <tr>
     <td width="260"><a href="https://www.muhammedkoca.com.tr/blog/ebeveyn-kontrolu-ve-icerik-filtreleme-kurulumu-icin-pratik-optimizasyon-yollari"><img src="https://www.muhammedkoca.com.tr/api/og/cover.png?title=Ebeveyn+Kontrol%C3%BC+ve+%C4%B0%C3%A7erik+Filtreleme+Kurulumu+%C4%B0%C3%A7in+Pratik+Optimizasyon+Yollar%C4%B1&category=Rehberler&v=4" width="240" alt="Ebeveyn Kontrolü ve İçerik Filtreleme Kurulumu İçin Pratik Optimizasyon Yolları"/></a></td>
     <td valign="top" width="580">
       <img src="https://img.shields.io/badge/Rehberler-60a5fa?style=flat-square&labelColor=0f172a" alt="Rehberler"/> <sub>6 Kas 2026</sub><br/><br/>
@@ -198,15 +207,6 @@
       <img src="https://img.shields.io/badge/Yaşam-60a5fa?style=flat-square&labelColor=0f172a" alt="Yaşam"/> <sub>5 Kas 2026</sub><br/><br/>
       <a href="https://www.muhammedkoca.com.tr/blog/sosyal-medya-kullaniminda-denge-gunluk-hayata-pratik-oneriler"><b>Sosyal medya kullanımında denge: Günlük hayata pratik öneriler</b></a><br/><br/>
       <sub>Sosyal medyanın çekiciliğiyle yaşam dengenizi korumanın yollarını öğrenin. Günlük rutinlerde uygulanabilir ipuçları ve gerçekçi planlarla daha…</sub>
-    </td>
-  </tr>
-  <tr><td colspan="2"><img src="assets/divider.svg" alt="" width="100%"/></td></tr>
-  <tr>
-    <td width="260"><a href="https://www.muhammedkoca.com.tr/blog/pi-hole-ile-reklam-engelleme-kurulumu-baslangic-seviyesi-kontrol-listesi"><img src="https://www.muhammedkoca.com.tr/api/og/cover.png?title=Pi-hole+ile+Reklam+Engelleme+Kurulumu%3A+Ba%C5%9Flang%C4%B1%C3%A7+Seviyesi+Kontrol+Listesi&category=Rehberler&v=4" width="240" alt="Pi-hole ile Reklam Engelleme Kurulumu: Başlangıç Seviyesi Kontrol Listesi"/></a></td>
-    <td valign="top" width="580">
-      <img src="https://img.shields.io/badge/Rehberler-60a5fa?style=flat-square&labelColor=0f172a" alt="Rehberler"/> <sub>5 Kas 2026</sub><br/><br/>
-      <a href="https://www.muhammedkoca.com.tr/blog/pi-hole-ile-reklam-engelleme-kurulumu-baslangic-seviyesi-kontrol-listesi"><b>Pi-hole ile Reklam Engelleme Kurulumu: Başlangıç Seviyesi Kontrol Listesi</b></a><br/><br/>
-      <sub>Bu rehberde Pi-hole kurulumunun ön koşullarını, adım adım kurulum sürecini ve yaygın sorunları nasıl çözeceğinizi öğrenerek ağınızda reklamları…</sub>
     </td>
   </tr>
 </table>
