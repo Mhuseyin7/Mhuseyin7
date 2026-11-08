@@ -184,29 +184,29 @@
 <!-- BLOG-CARDS:START -->
 <table>
   <tr>
+    <td width="260"><a href="https://www.muhammedkoca.com.tr/blog/bilisimde-t-shape-uzmanlasmanin-az-bilinen-gercekleri-rehberi"><img src="https://www.muhammedkoca.com.tr/api/og/cover.png?title=Bili%C5%9Fimde+T-Shape+Uzmanla%C5%9Fman%C4%B1n+Az+Bilinen+Ger%C3%A7ekleri+Rehberi&category=Kariyer&v=4" width="240" alt="Bilişimde T-Shape Uzmanlaşmanın Az Bilinen Gerçekleri Rehberi"/></a></td>
+    <td valign="top" width="580">
+      <img src="https://img.shields.io/badge/Kariyer-60a5fa?style=flat-square&labelColor=0f172a" alt="Kariyer"/> <sub>8 Kas 2026</sub><br/><br/>
+      <a href="https://www.muhammedkoca.com.tr/blog/bilisimde-t-shape-uzmanlasmanin-az-bilinen-gercekleri-rehberi"><b>Bilişimde T-Shape Uzmanlaşmanın Az Bilinen Gerçekleri Rehberi</b></a><br/><br/>
+      <sub>Bu yazıda T-Shape uzmanlığının temel dinamiklerini, uygulanabilir adımlarını ve sık yapılan hataları keşfederek kariyerinizde nasıl avantaj…</sub>
+    </td>
+  </tr>
+  <tr><td colspan="2"><img src="assets/divider.svg" alt="" width="100%"/></td></tr>
+  <tr>
+    <td width="260"><a href="https://www.muhammedkoca.com.tr/blog/5-adimda-finansal-takipte-teknoloji-yanilgisini-duzeltmek"><img src="https://www.muhammedkoca.com.tr/api/og/cover.png?title=5+ad%C4%B1mda+finansal+takipte+teknoloji+yan%C4%B1lg%C4%B1s%C4%B1n%C4%B1+d%C3%BCzeltmek&category=Ya%C5%9Fam&v=4" width="240" alt="5 adımda finansal takipte teknoloji yanılgısını düzeltmek"/></a></td>
+    <td valign="top" width="580">
+      <img src="https://img.shields.io/badge/Yaşam-60a5fa?style=flat-square&labelColor=0f172a" alt="Yaşam"/> <sub>8 Kas 2026</sub><br/><br/>
+      <a href="https://www.muhammedkoca.com.tr/blog/5-adimda-finansal-takipte-teknoloji-yanilgisini-duzeltmek"><b>5 adımda finansal takipte teknoloji yanılgısını düzeltmek</b></a><br/><br/>
+      <sub>Finansal takibinizi teknolojiyle yaparken sıkça düştüğünüz yanılgıyı ortaya çıkarıp, doğru yaklaşımı adım adım öğrenin. Bu yazı, hatalı inancı…</sub>
+    </td>
+  </tr>
+  <tr><td colspan="2"><img src="assets/divider.svg" alt="" width="100%"/></td></tr>
+  <tr>
     <td width="260"><a href="https://www.muhammedkoca.com.tr/blog/7-adimda-bilisim-performans-degerlendirmesine-hazirlik"><img src="https://www.muhammedkoca.com.tr/api/og/cover.png?title=7+ad%C4%B1mda+bili%C5%9Fim+performans+de%C4%9Ferlendirmesine+haz%C4%B1rl%C4%B1k&category=Kariyer&v=4" width="240" alt="7 adımda bilişim performans değerlendirmesine hazırlık"/></a></td>
     <td valign="top" width="580">
       <img src="https://img.shields.io/badge/Kariyer-60a5fa?style=flat-square&labelColor=0f172a" alt="Kariyer"/> <sub>7 Kas 2026</sub><br/><br/>
       <a href="https://www.muhammedkoca.com.tr/blog/7-adimda-bilisim-performans-degerlendirmesine-hazirlik"><b>7 adımda bilişim performans değerlendirmesine hazırlık</b></a><br/><br/>
       <sub>Bu rehberde, bilişim kariyerinizde performans değerlendirmesine nasıl etkili bir şekilde hazırlanabileceğinizi adım adım öğrenirsiniz. Temel…</sub>
-    </td>
-  </tr>
-  <tr><td colspan="2"><img src="assets/divider.svg" alt="" width="100%"/></td></tr>
-  <tr>
-    <td width="260"><a href="https://www.muhammedkoca.com.tr/blog/ebeveyn-kontrolu-ve-icerik-filtreleme-kurulumu-icin-pratik-optimizasyon-yollari"><img src="https://www.muhammedkoca.com.tr/api/og/cover.png?title=Ebeveyn+Kontrol%C3%BC+ve+%C4%B0%C3%A7erik+Filtreleme+Kurulumu+%C4%B0%C3%A7in+Pratik+Optimizasyon+Yollar%C4%B1&category=Rehberler&v=4" width="240" alt="Ebeveyn Kontrolü ve İçerik Filtreleme Kurulumu İçin Pratik Optimizasyon Yolları"/></a></td>
-    <td valign="top" width="580">
-      <img src="https://img.shields.io/badge/Rehberler-60a5fa?style=flat-square&labelColor=0f172a" alt="Rehberler"/> <sub>6 Kas 2026</sub><br/><br/>
-      <a href="https://www.muhammedkoca.com.tr/blog/ebeveyn-kontrolu-ve-icerik-filtreleme-kurulumu-icin-pratik-optimizasyon-yollari"><b>Ebeveyn Kontrolü ve İçerik Filtreleme Kurulumu İçin Pratik Optimizasyon Yolları</b></a><br/><br/>
-      <sub>Bu rehberde, evinizdeki cihazlar için ebeveyn kontrolü ve içerik filtreleme sistemlerini adım adım kurup optimize etmeyi öğrenecek, yaygın hatalardan…</sub>
-    </td>
-  </tr>
-  <tr><td colspan="2"><img src="assets/divider.svg" alt="" width="100%"/></td></tr>
-  <tr>
-    <td width="260"><a href="https://www.muhammedkoca.com.tr/blog/sosyal-medya-kullaniminda-denge-gunluk-hayata-pratik-oneriler"><img src="https://www.muhammedkoca.com.tr/api/og/cover.png?title=Sosyal+medya+kullan%C4%B1m%C4%B1nda+denge%3A+G%C3%BCnl%C3%BCk+hayata+pratik+%C3%B6neriler&category=Ya%C5%9Fam&v=4" width="240" alt="Sosyal medya kullanımında denge: Günlük hayata pratik öneriler"/></a></td>
-    <td valign="top" width="580">
-      <img src="https://img.shields.io/badge/Yaşam-60a5fa?style=flat-square&labelColor=0f172a" alt="Yaşam"/> <sub>5 Kas 2026</sub><br/><br/>
-      <a href="https://www.muhammedkoca.com.tr/blog/sosyal-medya-kullaniminda-denge-gunluk-hayata-pratik-oneriler"><b>Sosyal medya kullanımında denge: Günlük hayata pratik öneriler</b></a><br/><br/>
-      <sub>Sosyal medyanın çekiciliğiyle yaşam dengenizi korumanın yollarını öğrenin. Günlük rutinlerde uygulanabilir ipuçları ve gerçekçi planlarla daha…</sub>
     </td>
   </tr>
 </table>
