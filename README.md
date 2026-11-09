@@ -184,29 +184,29 @@
 <!-- BLOG-CARDS:START -->
 <table>
   <tr>
+    <td width="260"><a href="https://www.muhammedkoca.com.tr/blog/bilisimde-surekli-ogrenme-aliskanligi-bir-haftalik-deneme-plani"><img src="https://www.muhammedkoca.com.tr/api/og/cover.png?title=Bili%C5%9Fimde+S%C3%BCrekli+%C3%96%C4%9Frenme+Al%C4%B1%C5%9Fkanl%C4%B1%C4%9F%C4%B1%3A+Bir+Haftal%C4%B1k+Deneme+Plan%C4%B1&category=Ya%C5%9Fam&v=4" width="240" alt="Bilişimde Sürekli Öğrenme Alışkanlığı: Bir Haftalık Deneme Planı"/></a></td>
+    <td valign="top" width="580">
+      <img src="https://img.shields.io/badge/Yaşam-60a5fa?style=flat-square&labelColor=0f172a" alt="Yaşam"/> <sub>9 Kas 2026</sub><br/><br/>
+      <a href="https://www.muhammedkoca.com.tr/blog/bilisimde-surekli-ogrenme-aliskanligi-bir-haftalik-deneme-plani"><b>Bilişimde Sürekli Öğrenme Alışkanlığı: Bir Haftalık Deneme Planı</b></a><br/><br/>
+      <sub>Bu yazıda, teknolojiyle iç içe yaşayan herkes için bir haftalık sürekli öğrenme planını adım adım keşfedecek, pratik ipuçları ve gerçekçi…</sub>
+    </td>
+  </tr>
+  <tr><td colspan="2"><img src="assets/divider.svg" alt="" width="100%"/></td></tr>
+  <tr>
+    <td width="260"><a href="https://www.muhammedkoca.com.tr/blog/teknik-ekiplerde-geri-bildirim-kulturu-icin-hangi-beceriler-oncelikli"><img src="https://www.muhammedkoca.com.tr/api/og/cover.png?title=Teknik+ekiplerde+geri+bildirim+k%C3%BClt%C3%BCr%C3%BC+i%C3%A7in+hangi+beceriler+%C3%B6ncelikli%3F&category=Kariyer&v=4" width="240" alt="Teknik ekiplerde geri bildirim kültürü için hangi beceriler öncelikli?"/></a></td>
+    <td valign="top" width="580">
+      <img src="https://img.shields.io/badge/Kariyer-60a5fa?style=flat-square&labelColor=0f172a" alt="Kariyer"/> <sub>9 Kas 2026</sub><br/><br/>
+      <a href="https://www.muhammedkoca.com.tr/blog/teknik-ekiplerde-geri-bildirim-kulturu-icin-hangi-beceriler-oncelikli"><b>Teknik ekiplerde geri bildirim kültürü için hangi beceriler öncelikli?</b></a><br/><br/>
+      <sub>Bu yazıda, teknik ekiplerin verimli geri bildirim kültürü oluşturması için kritik becerileri ve uygulama adımlarını öğrenerek, ekip içi iletişimi ve…</sub>
+    </td>
+  </tr>
+  <tr><td colspan="2"><img src="assets/divider.svg" alt="" width="100%"/></td></tr>
+  <tr>
     <td width="260"><a href="https://www.muhammedkoca.com.tr/blog/bilisimde-t-shape-uzmanlasmanin-az-bilinen-gercekleri-rehberi"><img src="https://www.muhammedkoca.com.tr/api/og/cover.png?title=Bili%C5%9Fimde+T-Shape+Uzmanla%C5%9Fman%C4%B1n+Az+Bilinen+Ger%C3%A7ekleri+Rehberi&category=Kariyer&v=4" width="240" alt="Bilişimde T-Shape Uzmanlaşmanın Az Bilinen Gerçekleri Rehberi"/></a></td>
     <td valign="top" width="580">
       <img src="https://img.shields.io/badge/Kariyer-60a5fa?style=flat-square&labelColor=0f172a" alt="Kariyer"/> <sub>8 Kas 2026</sub><br/><br/>
       <a href="https://www.muhammedkoca.com.tr/blog/bilisimde-t-shape-uzmanlasmanin-az-bilinen-gercekleri-rehberi"><b>Bilişimde T-Shape Uzmanlaşmanın Az Bilinen Gerçekleri Rehberi</b></a><br/><br/>
       <sub>Bu yazıda T-Shape uzmanlığının temel dinamiklerini, uygulanabilir adımlarını ve sık yapılan hataları keşfederek kariyerinizde nasıl avantaj…</sub>
-    </td>
-  </tr>
-  <tr><td colspan="2"><img src="assets/divider.svg" alt="" width="100%"/></td></tr>
-  <tr>
-    <td width="260"><a href="https://www.muhammedkoca.com.tr/blog/5-adimda-finansal-takipte-teknoloji-yanilgisini-duzeltmek"><img src="https://www.muhammedkoca.com.tr/api/og/cover.png?title=5+ad%C4%B1mda+finansal+takipte+teknoloji+yan%C4%B1lg%C4%B1s%C4%B1n%C4%B1+d%C3%BCzeltmek&category=Ya%C5%9Fam&v=4" width="240" alt="5 adımda finansal takipte teknoloji yanılgısını düzeltmek"/></a></td>
-    <td valign="top" width="580">
-      <img src="https://img.shields.io/badge/Yaşam-60a5fa?style=flat-square&labelColor=0f172a" alt="Yaşam"/> <sub>8 Kas 2026</sub><br/><br/>
-      <a href="https://www.muhammedkoca.com.tr/blog/5-adimda-finansal-takipte-teknoloji-yanilgisini-duzeltmek"><b>5 adımda finansal takipte teknoloji yanılgısını düzeltmek</b></a><br/><br/>
-      <sub>Finansal takibinizi teknolojiyle yaparken sıkça düştüğünüz yanılgıyı ortaya çıkarıp, doğru yaklaşımı adım adım öğrenin. Bu yazı, hatalı inancı…</sub>
-    </td>
-  </tr>
-  <tr><td colspan="2"><img src="assets/divider.svg" alt="" width="100%"/></td></tr>
-  <tr>
-    <td width="260"><a href="https://www.muhammedkoca.com.tr/blog/7-adimda-bilisim-performans-degerlendirmesine-hazirlik"><img src="https://www.muhammedkoca.com.tr/api/og/cover.png?title=7+ad%C4%B1mda+bili%C5%9Fim+performans+de%C4%9Ferlendirmesine+haz%C4%B1rl%C4%B1k&category=Kariyer&v=4" width="240" alt="7 adımda bilişim performans değerlendirmesine hazırlık"/></a></td>
-    <td valign="top" width="580">
-      <img src="https://img.shields.io/badge/Kariyer-60a5fa?style=flat-square&labelColor=0f172a" alt="Kariyer"/> <sub>7 Kas 2026</sub><br/><br/>
-      <a href="https://www.muhammedkoca.com.tr/blog/7-adimda-bilisim-performans-degerlendirmesine-hazirlik"><b>7 adımda bilişim performans değerlendirmesine hazırlık</b></a><br/><br/>
-      <sub>Bu rehberde, bilişim kariyerinizde performans değerlendirmesine nasıl etkili bir şekilde hazırlanabileceğinizi adım adım öğrenirsiniz. Temel…</sub>
     </td>
   </tr>
 </table>
