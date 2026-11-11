@@ -184,29 +184,29 @@
 <!-- BLOG-CARDS:START -->
 <table>
   <tr>
+    <td width="260"><a href="https://www.muhammedkoca.com.tr/blog/docker-ile-ilk-konteynerinizi-calistirma-adim-adim-rehber"><img src="https://www.muhammedkoca.com.tr/api/og/cover.png?title=Docker+ile+%C4%B0lk+Konteynerinizi+%C3%87al%C4%B1%C5%9Ft%C4%B1rma%3A+Ad%C4%B1m+Ad%C4%B1m+Rehber&category=Rehberler&v=4" width="240" alt="Docker ile İlk Konteynerinizi Çalıştırma: Adım Adım Rehber"/></a></td>
+    <td valign="top" width="580">
+      <img src="https://img.shields.io/badge/Rehberler-60a5fa?style=flat-square&labelColor=0f172a" alt="Rehberler"/> <sub>11 Kas 2026</sub><br/><br/>
+      <a href="https://www.muhammedkoca.com.tr/blog/docker-ile-ilk-konteynerinizi-calistirma-adim-adim-rehber"><b>Docker ile İlk Konteynerinizi Çalıştırma: Adım Adım Rehber</b></a><br/><br/>
+      <sub>Bu rehberde Docker kurulumundan ilk konteyneri çalıştırmaya kadar tüm adımları öğrenerek, kendi sunucunuzda izole bir ortam oluşturacaksınız.</sub>
+    </td>
+  </tr>
+  <tr><td colspan="2"><img src="assets/divider.svg" alt="" width="100%"/></td></tr>
+  <tr>
+    <td width="260"><a href="https://www.muhammedkoca.com.tr/blog/internet-hizi-testi-ve-iyilestirme-rehberi-adim-adim-nasil-yapilir"><img src="https://www.muhammedkoca.com.tr/api/og/cover.png?title=%C4%B0nternet+H%C4%B1z%C4%B1+Testi+ve+%C4%B0yile%C5%9Ftirme+Rehberi%3A+Ad%C4%B1m+Ad%C4%B1m+Nas%C4%B1l+Yap%C4%B1l%C4%B1r&category=Rehberler&v=4" width="240" alt="İnternet Hızı Testi ve İyileştirme Rehberi: Adım Adım Nasıl Yapılır"/></a></td>
+    <td valign="top" width="580">
+      <img src="https://img.shields.io/badge/Rehberler-60a5fa?style=flat-square&labelColor=0f172a" alt="Rehberler"/> <sub>11 Kas 2026</sub><br/><br/>
+      <a href="https://www.muhammedkoca.com.tr/blog/internet-hizi-testi-ve-iyilestirme-rehberi-adim-adim-nasil-yapilir"><b>İnternet Hızı Testi ve İyileştirme Rehberi: Adım Adım Nasıl Yapılır</b></a><br/><br/>
+      <sub>Bu rehberde internet bağlantı hızınızı ölçmeyi, sonuçları yorumlamayı ve performansı artırmak için pratik adımları öğreneceksiniz.</sub>
+    </td>
+  </tr>
+  <tr><td colspan="2"><img src="assets/divider.svg" alt="" width="100%"/></td></tr>
+  <tr>
     <td width="260"><a href="https://www.muhammedkoca.com.tr/blog/bilisimde-surekli-ogrenme-aliskanligi-bir-haftalik-deneme-plani"><img src="https://www.muhammedkoca.com.tr/api/og/cover.png?title=Bili%C5%9Fimde+S%C3%BCrekli+%C3%96%C4%9Frenme+Al%C4%B1%C5%9Fkanl%C4%B1%C4%9F%C4%B1%3A+Bir+Haftal%C4%B1k+Deneme+Plan%C4%B1&category=Ya%C5%9Fam&v=4" width="240" alt="Bilişimde Sürekli Öğrenme Alışkanlığı: Bir Haftalık Deneme Planı"/></a></td>
     <td valign="top" width="580">
       <img src="https://img.shields.io/badge/Yaşam-60a5fa?style=flat-square&labelColor=0f172a" alt="Yaşam"/> <sub>9 Kas 2026</sub><br/><br/>
       <a href="https://www.muhammedkoca.com.tr/blog/bilisimde-surekli-ogrenme-aliskanligi-bir-haftalik-deneme-plani"><b>Bilişimde Sürekli Öğrenme Alışkanlığı: Bir Haftalık Deneme Planı</b></a><br/><br/>
       <sub>Bu yazıda, teknolojiyle iç içe yaşayan herkes için bir haftalık sürekli öğrenme planını adım adım keşfedecek, pratik ipuçları ve gerçekçi…</sub>
-    </td>
-  </tr>
-  <tr><td colspan="2"><img src="assets/divider.svg" alt="" width="100%"/></td></tr>
-  <tr>
-    <td width="260"><a href="https://www.muhammedkoca.com.tr/blog/teknik-ekiplerde-geri-bildirim-kulturu-icin-hangi-beceriler-oncelikli"><img src="https://www.muhammedkoca.com.tr/api/og/cover.png?title=Teknik+ekiplerde+geri+bildirim+k%C3%BClt%C3%BCr%C3%BC+i%C3%A7in+hangi+beceriler+%C3%B6ncelikli%3F&category=Kariyer&v=4" width="240" alt="Teknik ekiplerde geri bildirim kültürü için hangi beceriler öncelikli?"/></a></td>
-    <td valign="top" width="580">
-      <img src="https://img.shields.io/badge/Kariyer-60a5fa?style=flat-square&labelColor=0f172a" alt="Kariyer"/> <sub>9 Kas 2026</sub><br/><br/>
-      <a href="https://www.muhammedkoca.com.tr/blog/teknik-ekiplerde-geri-bildirim-kulturu-icin-hangi-beceriler-oncelikli"><b>Teknik ekiplerde geri bildirim kültürü için hangi beceriler öncelikli?</b></a><br/><br/>
-      <sub>Bu yazıda, teknik ekiplerin verimli geri bildirim kültürü oluşturması için kritik becerileri ve uygulama adımlarını öğrenerek, ekip içi iletişimi ve…</sub>
-    </td>
-  </tr>
-  <tr><td colspan="2"><img src="assets/divider.svg" alt="" width="100%"/></td></tr>
-  <tr>
-    <td width="260"><a href="https://www.muhammedkoca.com.tr/blog/bilisimde-t-shape-uzmanlasmanin-az-bilinen-gercekleri-rehberi"><img src="https://www.muhammedkoca.com.tr/api/og/cover.png?title=Bili%C5%9Fimde+T-Shape+Uzmanla%C5%9Fman%C4%B1n+Az+Bilinen+Ger%C3%A7ekleri+Rehberi&category=Kariyer&v=4" width="240" alt="Bilişimde T-Shape Uzmanlaşmanın Az Bilinen Gerçekleri Rehberi"/></a></td>
-    <td valign="top" width="580">
-      <img src="https://img.shields.io/badge/Kariyer-60a5fa?style=flat-square&labelColor=0f172a" alt="Kariyer"/> <sub>8 Kas 2026</sub><br/><br/>
-      <a href="https://www.muhammedkoca.com.tr/blog/bilisimde-t-shape-uzmanlasmanin-az-bilinen-gercekleri-rehberi"><b>Bilişimde T-Shape Uzmanlaşmanın Az Bilinen Gerçekleri Rehberi</b></a><br/><br/>
-      <sub>Bu yazıda T-Shape uzmanlığının temel dinamiklerini, uygulanabilir adımlarını ve sık yapılan hataları keşfederek kariyerinizde nasıl avantaj…</sub>
     </td>
   </tr>
 </table>
