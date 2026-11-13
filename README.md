@@ -184,29 +184,29 @@
 <!-- BLOG-CARDS:START -->
 <table>
   <tr>
+    <td width="260"><a href="https://www.muhammedkoca.com.tr/blog/disk-bolumleme-icin-pratik-optimizasyon-ve-adim-adim-rehber"><img src="https://www.muhammedkoca.com.tr/api/og/cover.png?title=Disk+B%C3%B6l%C3%BCmleme+%C4%B0%C3%A7in+Pratik+Optimizasyon+ve+Ad%C4%B1m+Ad%C4%B1m+Rehber&category=Rehberler&v=4" width="240" alt="Disk Bölümleme İçin Pratik Optimizasyon ve Adım Adım Rehber"/></a></td>
+    <td valign="top" width="580">
+      <img src="https://img.shields.io/badge/Rehberler-60a5fa?style=flat-square&labelColor=0f172a" alt="Rehberler"/> <sub>13 Kas 2026</sub><br/><br/>
+      <a href="https://www.muhammedkoca.com.tr/blog/disk-bolumleme-icin-pratik-optimizasyon-ve-adim-adim-rehber"><b>Disk Bölümleme İçin Pratik Optimizasyon ve Adım Adım Rehber</b></a><br/><br/>
+      <sub>Bu rehberde disk bölümlendirme sürecini en verimli şekilde nasıl planlayıp uygulayacağınızı öğrenerek veri kaybını önleyebilir ve performansı…</sub>
+    </td>
+  </tr>
+  <tr><td colspan="2"><img src="assets/divider.svg" alt="" width="100%"/></td></tr>
+  <tr>
+    <td width="260"><a href="https://www.muhammedkoca.com.tr/blog/ddns-kurulumu-sirasinda-sik-yapilan-hatalar-ve-cozumleri-nelerdir"><img src="https://www.muhammedkoca.com.tr/api/og/cover.png?title=DDNS+kurulumu+s%C4%B1ras%C4%B1nda+s%C4%B1k+yap%C4%B1lan+hatalar+ve+%C3%A7%C3%B6z%C3%BCmleri+nelerdir%3F&category=Rehberler&v=4" width="240" alt="DDNS kurulumu sırasında sık yapılan hatalar ve çözümleri nelerdir?"/></a></td>
+    <td valign="top" width="580">
+      <img src="https://img.shields.io/badge/Rehberler-60a5fa?style=flat-square&labelColor=0f172a" alt="Rehberler"/> <sub>13 Kas 2026</sub><br/><br/>
+      <a href="https://www.muhammedkoca.com.tr/blog/ddns-kurulumu-sirasinda-sik-yapilan-hatalar-ve-cozumleri-nelerdir"><b>DDNS kurulumu sırasında sık yapılan hatalar ve çözümleri nelerdir?</b></a><br/><br/>
+      <sub>Bu rehberde DDNS kurulumunda karşılaşılan yaygın hataları ve adım adım çözüm önerilerini öğrenecek, sorunsuz bir dinamik DNS yapılandırması elde…</sub>
+    </td>
+  </tr>
+  <tr><td colspan="2"><img src="assets/divider.svg" alt="" width="100%"/></td></tr>
+  <tr>
     <td width="260"><a href="https://www.muhammedkoca.com.tr/blog/sosyal-medya-kullaniminda-denge-saglamak-icin-en-iyi-uygulama-ve-araclar"><img src="https://www.muhammedkoca.com.tr/api/og/cover.png?title=Sosyal+Medya+Kullan%C4%B1m%C4%B1nda+Denge+Sa%C4%9Flamak+%C4%B0%C3%A7in+En+%C4%B0yi+Uygulama+ve+Ara%C3%A7lar&category=Ya%C5%9Fam&v=4" width="240" alt="Sosyal Medya Kullanımında Denge Sağlamak İçin En İyi Uygulama ve Araçlar"/></a></td>
     <td valign="top" width="580">
       <img src="https://img.shields.io/badge/Yaşam-60a5fa?style=flat-square&labelColor=0f172a" alt="Yaşam"/> <sub>12 Kas 2026</sub><br/><br/>
       <a href="https://www.muhammedkoca.com.tr/blog/sosyal-medya-kullaniminda-denge-saglamak-icin-en-iyi-uygulama-ve-araclar"><b>Sosyal Medya Kullanımında Denge Sağlamak İçin En İyi Uygulama ve Araçlar</b></a><br/><br/>
       <sub>Sosyal medyada kaybolmadan verimliliğinizi ve sağlığınızı korumanın yollarını keşfedin. En etkili denge araçları ve pratik ipuçlarıyla dijital…</sub>
-    </td>
-  </tr>
-  <tr><td colspan="2"><img src="assets/divider.svg" alt="" width="100%"/></td></tr>
-  <tr>
-    <td width="260"><a href="https://www.muhammedkoca.com.tr/blog/uzaktan-masaustu-baglantisi-kurma-ve-sorun-giderme-rehberi"><img src="https://www.muhammedkoca.com.tr/api/og/cover.png?title=Uzaktan+Masa%C3%BCst%C3%BC+Ba%C4%9Flant%C4%B1s%C4%B1+Kurma+ve+Sorun+Giderme+Rehberi&category=Rehberler&v=4" width="240" alt="Uzaktan Masaüstü Bağlantısı Kurma ve Sorun Giderme Rehberi"/></a></td>
-    <td valign="top" width="580">
-      <img src="https://img.shields.io/badge/Rehberler-60a5fa?style=flat-square&labelColor=0f172a" alt="Rehberler"/> <sub>12 Kas 2026</sub><br/><br/>
-      <a href="https://www.muhammedkoca.com.tr/blog/uzaktan-masaustu-baglantisi-kurma-ve-sorun-giderme-rehberi"><b>Uzaktan Masaüstü Bağlantısı Kurma ve Sorun Giderme Rehberi</b></a><br/><br/>
-      <sub>Bu rehberde, uzaktan masaüstü bağlantısını adım adım nasıl kuracağınızı ve sık karşılaşılan hataları nasıl çözebileceğinizi öğreneceksiniz.</sub>
-    </td>
-  </tr>
-  <tr><td colspan="2"><img src="assets/divider.svg" alt="" width="100%"/></td></tr>
-  <tr>
-    <td width="260"><a href="https://www.muhammedkoca.com.tr/blog/docker-ile-ilk-konteynerinizi-calistirma-adim-adim-rehber"><img src="https://www.muhammedkoca.com.tr/api/og/cover.png?title=Docker+ile+%C4%B0lk+Konteynerinizi+%C3%87al%C4%B1%C5%9Ft%C4%B1rma%3A+Ad%C4%B1m+Ad%C4%B1m+Rehber&category=Rehberler&v=4" width="240" alt="Docker ile İlk Konteynerinizi Çalıştırma: Adım Adım Rehber"/></a></td>
-    <td valign="top" width="580">
-      <img src="https://img.shields.io/badge/Rehberler-60a5fa?style=flat-square&labelColor=0f172a" alt="Rehberler"/> <sub>11 Kas 2026</sub><br/><br/>
-      <a href="https://www.muhammedkoca.com.tr/blog/docker-ile-ilk-konteynerinizi-calistirma-adim-adim-rehber"><b>Docker ile İlk Konteynerinizi Çalıştırma: Adım Adım Rehber</b></a><br/><br/>
-      <sub>Bu rehberde Docker kurulumundan ilk konteyneri çalıştırmaya kadar tüm adımları öğrenerek, kendi sunucunuzda izole bir ortam oluşturacaksınız.</sub>
     </td>
   </tr>
 </table>
