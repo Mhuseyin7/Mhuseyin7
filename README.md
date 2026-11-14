@@ -184,29 +184,29 @@
 <!-- BLOG-CARDS:START -->
 <table>
   <tr>
+    <td width="260"><a href="https://www.muhammedkoca.com.tr/blog/yerel-agda-cihaz-kesfi-ve-isimlendirme-icin-pratik-optimizasyon-yollari"><img src="https://www.muhammedkoca.com.tr/api/og/cover.png?title=Yerel+a%C4%9Fda+cihaz+ke%C5%9Ffi+ve+isimlendirme+i%C3%A7in+pratik+optimizasyon+yollar%C4%B1&category=Rehberler&v=4" width="240" alt="Yerel ağda cihaz keşfi ve isimlendirme için pratik optimizasyon yolları"/></a></td>
+    <td valign="top" width="580">
+      <img src="https://img.shields.io/badge/Rehberler-60a5fa?style=flat-square&labelColor=0f172a" alt="Rehberler"/> <sub>14 Kas 2026</sub><br/><br/>
+      <a href="https://www.muhammedkoca.com.tr/blog/yerel-agda-cihaz-kesfi-ve-isimlendirme-icin-pratik-optimizasyon-yollari"><b>Yerel ağda cihaz keşfi ve isimlendirme için pratik optimizasyon yolları</b></a><br/><br/>
+      <sub>Bu rehberde, yerel ağınızdaki cihazları hızlıca keşfetme, tutarlı isimlendirme ve yönetim süreçlerini otomatikleştirme adımlarını öğrenecek, yaygın…</sub>
+    </td>
+  </tr>
+  <tr><td colspan="2"><img src="assets/divider.svg" alt="" width="100%"/></td></tr>
+  <tr>
+    <td width="260"><a href="https://www.muhammedkoca.com.tr/blog/acik-kaynak-projelere-katki-yeni-baslayanlar-icin-adim-adim-rehber"><img src="https://www.muhammedkoca.com.tr/api/og/cover.png?title=A%C3%A7%C4%B1k+kaynak+projelere+katk%C4%B1%3A+Yeni+ba%C5%9Flayanlar+i%C3%A7in+ad%C4%B1m+ad%C4%B1m+rehber&category=Kariyer&v=4" width="240" alt="Açık kaynak projelere katkı: Yeni başlayanlar için adım adım rehber"/></a></td>
+    <td valign="top" width="580">
+      <img src="https://img.shields.io/badge/Kariyer-60a5fa?style=flat-square&labelColor=0f172a" alt="Kariyer"/> <sub>14 Kas 2026</sub><br/><br/>
+      <a href="https://www.muhammedkoca.com.tr/blog/acik-kaynak-projelere-katki-yeni-baslayanlar-icin-adim-adim-rehber"><b>Açık kaynak projelere katkı: Yeni başlayanlar için adım adım rehber</b></a><br/><br/>
+      <sub>Bu rehberde açık kaynak dünyasına nasıl adım atacağınızı, ilk katkınızı nasıl yapacağınızı ve sık yapılan hatalardan nasıl kaçınacağınızı…</sub>
+    </td>
+  </tr>
+  <tr><td colspan="2"><img src="assets/divider.svg" alt="" width="100%"/></td></tr>
+  <tr>
     <td width="260"><a href="https://www.muhammedkoca.com.tr/blog/disk-bolumleme-icin-pratik-optimizasyon-ve-adim-adim-rehber"><img src="https://www.muhammedkoca.com.tr/api/og/cover.png?title=Disk+B%C3%B6l%C3%BCmleme+%C4%B0%C3%A7in+Pratik+Optimizasyon+ve+Ad%C4%B1m+Ad%C4%B1m+Rehber&category=Rehberler&v=4" width="240" alt="Disk Bölümleme İçin Pratik Optimizasyon ve Adım Adım Rehber"/></a></td>
     <td valign="top" width="580">
       <img src="https://img.shields.io/badge/Rehberler-60a5fa?style=flat-square&labelColor=0f172a" alt="Rehberler"/> <sub>13 Kas 2026</sub><br/><br/>
       <a href="https://www.muhammedkoca.com.tr/blog/disk-bolumleme-icin-pratik-optimizasyon-ve-adim-adim-rehber"><b>Disk Bölümleme İçin Pratik Optimizasyon ve Adım Adım Rehber</b></a><br/><br/>
       <sub>Bu rehberde disk bölümlendirme sürecini en verimli şekilde nasıl planlayıp uygulayacağınızı öğrenerek veri kaybını önleyebilir ve performansı…</sub>
-    </td>
-  </tr>
-  <tr><td colspan="2"><img src="assets/divider.svg" alt="" width="100%"/></td></tr>
-  <tr>
-    <td width="260"><a href="https://www.muhammedkoca.com.tr/blog/ddns-kurulumu-sirasinda-sik-yapilan-hatalar-ve-cozumleri-nelerdir"><img src="https://www.muhammedkoca.com.tr/api/og/cover.png?title=DDNS+kurulumu+s%C4%B1ras%C4%B1nda+s%C4%B1k+yap%C4%B1lan+hatalar+ve+%C3%A7%C3%B6z%C3%BCmleri+nelerdir%3F&category=Rehberler&v=4" width="240" alt="DDNS kurulumu sırasında sık yapılan hatalar ve çözümleri nelerdir?"/></a></td>
-    <td valign="top" width="580">
-      <img src="https://img.shields.io/badge/Rehberler-60a5fa?style=flat-square&labelColor=0f172a" alt="Rehberler"/> <sub>13 Kas 2026</sub><br/><br/>
-      <a href="https://www.muhammedkoca.com.tr/blog/ddns-kurulumu-sirasinda-sik-yapilan-hatalar-ve-cozumleri-nelerdir"><b>DDNS kurulumu sırasında sık yapılan hatalar ve çözümleri nelerdir?</b></a><br/><br/>
-      <sub>Bu rehberde DDNS kurulumunda karşılaşılan yaygın hataları ve adım adım çözüm önerilerini öğrenecek, sorunsuz bir dinamik DNS yapılandırması elde…</sub>
-    </td>
-  </tr>
-  <tr><td colspan="2"><img src="assets/divider.svg" alt="" width="100%"/></td></tr>
-  <tr>
-    <td width="260"><a href="https://www.muhammedkoca.com.tr/blog/sosyal-medya-kullaniminda-denge-saglamak-icin-en-iyi-uygulama-ve-araclar"><img src="https://www.muhammedkoca.com.tr/api/og/cover.png?title=Sosyal+Medya+Kullan%C4%B1m%C4%B1nda+Denge+Sa%C4%9Flamak+%C4%B0%C3%A7in+En+%C4%B0yi+Uygulama+ve+Ara%C3%A7lar&category=Ya%C5%9Fam&v=4" width="240" alt="Sosyal Medya Kullanımında Denge Sağlamak İçin En İyi Uygulama ve Araçlar"/></a></td>
-    <td valign="top" width="580">
-      <img src="https://img.shields.io/badge/Yaşam-60a5fa?style=flat-square&labelColor=0f172a" alt="Yaşam"/> <sub>12 Kas 2026</sub><br/><br/>
-      <a href="https://www.muhammedkoca.com.tr/blog/sosyal-medya-kullaniminda-denge-saglamak-icin-en-iyi-uygulama-ve-araclar"><b>Sosyal Medya Kullanımında Denge Sağlamak İçin En İyi Uygulama ve Araçlar</b></a><br/><br/>
-      <sub>Sosyal medyada kaybolmadan verimliliğinizi ve sağlığınızı korumanın yollarını keşfedin. En etkili denge araçları ve pratik ipuçlarıyla dijital…</sub>
     </td>
   </tr>
 </table>
