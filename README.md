@@ -184,29 +184,29 @@
 <!-- BLOG-CARDS:START -->
 <table>
   <tr>
+    <td width="260"><a href="https://www.muhammedkoca.com.tr/blog/5-yaygin-odaklanma-yanilgisini-duzeltip-verimliligi-artirin"><img src="https://www.muhammedkoca.com.tr/api/og/cover.png?title=5+yayg%C4%B1n+odaklanma+yan%C4%B1lg%C4%B1s%C4%B1n%C4%B1+d%C3%BCzeltip+verimlili%C4%9Fi+art%C4%B1r%C4%B1n&category=Ya%C5%9Fam&v=4" width="240" alt="5 yaygın odaklanma yanılgısını düzeltip verimliliği artırın"/></a></td>
+    <td valign="top" width="580">
+      <img src="https://img.shields.io/badge/Yaşam-60a5fa?style=flat-square&labelColor=0f172a" alt="Yaşam"/> <sub>17 Kas 2026</sub><br/><br/>
+      <a href="https://www.muhammedkoca.com.tr/blog/5-yaygin-odaklanma-yanilgisini-duzeltip-verimliligi-artirin"><b>5 yaygın odaklanma yanılgısını düzeltip verimliliği artırın</b></a><br/><br/>
+      <sub>Günlük odaklanma ve verimlilik sistemleri hakkında sıkça duyulan yanlışları ortaya koyup, pratik düzeltme yollarını öğrenin. Teknolojiyle uyumlu…</sub>
+    </td>
+  </tr>
+  <tr><td colspan="2"><img src="assets/divider.svg" alt="" width="100%"/></td></tr>
+  <tr>
+    <td width="260"><a href="https://www.muhammedkoca.com.tr/blog/7-yanlis-inanci-curutup-akilli-evle-rutinlerinizi-kolaylastirin"><img src="https://www.muhammedkoca.com.tr/api/og/cover.png?title=7+Yanl%C4%B1%C5%9F+%C4%B0nanc%C4%B1+%C3%87%C3%BCr%C3%BCt%C3%BCp+Ak%C4%B1ll%C4%B1+Evle+Rutinlerinizi+Kolayla%C5%9Ft%C4%B1r%C4%B1n&category=Ya%C5%9Fam&v=4" width="240" alt="7 Yanlış İnancı Çürütüp Akıllı Evle Rutinlerinizi Kolaylaştırın"/></a></td>
+    <td valign="top" width="580">
+      <img src="https://img.shields.io/badge/Yaşam-60a5fa?style=flat-square&labelColor=0f172a" alt="Yaşam"/> <sub>17 Kas 2026</sub><br/><br/>
+      <a href="https://www.muhammedkoca.com.tr/blog/7-yanlis-inanci-curutup-akilli-evle-rutinlerinizi-kolaylastirin"><b>7 Yanlış İnancı Çürütüp Akıllı Evle Rutinlerinizi Kolaylaştırın</b></a><br/><br/>
+      <sub>Akıllı ev sistemlerinin hayatı otomatikleştirdiği mitini sorguluyor, gerçek faydalarını ve sınırlamalarını öğreniyorsunuz. Günlük rutinlerde pratik…</sub>
+    </td>
+  </tr>
+  <tr><td colspan="2"><img src="assets/divider.svg" alt="" width="100%"/></td></tr>
+  <tr>
     <td width="260"><a href="https://www.muhammedkoca.com.tr/blog/ag-uzmani-kariyerine-baslarken-sik-yapilan-hatalar-nelerdir"><img src="https://www.muhammedkoca.com.tr/api/og/cover.png?title=A%C4%9F+uzman%C4%B1+kariyerine+ba%C5%9Flarken+s%C4%B1k+yap%C4%B1lan+hatalar+nelerdir%3F&category=Kariyer&v=4" width="240" alt="Ağ uzmanı kariyerine başlarken sık yapılan hatalar nelerdir?"/></a></td>
     <td valign="top" width="580">
       <img src="https://img.shields.io/badge/Kariyer-60a5fa?style=flat-square&labelColor=0f172a" alt="Kariyer"/> <sub>16 Kas 2026</sub><br/><br/>
       <a href="https://www.muhammedkoca.com.tr/blog/ag-uzmani-kariyerine-baslarken-sik-yapilan-hatalar-nelerdir"><b>Ağ uzmanı kariyerine başlarken sık yapılan hatalar nelerdir?</b></a><br/><br/>
       <sub>Bu yazıda ağ uzmanı olma yolculuğunuzda karşılaşabileceğiniz yaygın hataları ve bunlardan nasıl kaçınacağınızı öğrenecek, kariyerinizi sağlam…</sub>
-    </td>
-  </tr>
-  <tr><td colspan="2"><img src="assets/divider.svg" alt="" width="100%"/></td></tr>
-  <tr>
-    <td width="260"><a href="https://www.muhammedkoca.com.tr/blog/odaklanma-ve-gunluk-verimlilik-icin-en-iyi-arac-ve-uygulama-rehberi"><img src="https://www.muhammedkoca.com.tr/api/og/cover.png?title=Odaklanma+ve+G%C3%BCnl%C3%BCk+Verimlilik+%C4%B0%C3%A7in+En+%C4%B0yi+Ara%C3%A7+ve+Uygulama+Rehberi&category=Ya%C5%9Fam&v=4" width="240" alt="Odaklanma ve Günlük Verimlilik İçin En İyi Araç ve Uygulama Rehberi"/></a></td>
-    <td valign="top" width="580">
-      <img src="https://img.shields.io/badge/Yaşam-60a5fa?style=flat-square&labelColor=0f172a" alt="Yaşam"/> <sub>16 Kas 2026</sub><br/><br/>
-      <a href="https://www.muhammedkoca.com.tr/blog/odaklanma-ve-gunluk-verimlilik-icin-en-iyi-arac-ve-uygulama-rehberi"><b>Odaklanma ve Günlük Verimlilik İçin En İyi Araç ve Uygulama Rehberi</b></a><br/><br/>
-      <sub>Bu yazıda, odaklanmanızı artıracak ve günlük verimliliğinizi yükseltecek ücretsiz ve ücretli uygulamaları keşfedecek, kullanıma dair pratik ipuçları…</sub>
-    </td>
-  </tr>
-  <tr><td colspan="2"><img src="assets/divider.svg" alt="" width="100%"/></td></tr>
-  <tr>
-    <td width="260"><a href="https://www.muhammedkoca.com.tr/blog/wi-fi-menzilini-artirma-mesh-ve-extender-ile-adim-adim-rehber"><img src="https://www.muhammedkoca.com.tr/api/og/cover.png?title=Wi-Fi+menzilini+art%C4%B1rma%3A+Mesh+ve+Extender+ile+ad%C4%B1m+ad%C4%B1m+rehber&category=Rehberler&v=4" width="240" alt="Wi-Fi menzilini artırma: Mesh ve Extender ile adım adım rehber"/></a></td>
-    <td valign="top" width="580">
-      <img src="https://img.shields.io/badge/Rehberler-60a5fa?style=flat-square&labelColor=0f172a" alt="Rehberler"/> <sub>15 Kas 2026</sub><br/><br/>
-      <a href="https://www.muhammedkoca.com.tr/blog/wi-fi-menzilini-artirma-mesh-ve-extender-ile-adim-adim-rehber"><b>Wi-Fi menzilini artırma: Mesh ve Extender ile adım adım rehber</b></a><br/><br/>
-      <sub>Bu rehberde Wi‑Fi menzilini genişletmek için mesh sistemleri ve sinyal tekrarlayıcıları nasıl kurulur, yapılandırılır ve optimize edilir öğrenerek…</sub>
     </td>
   </tr>
 </table>
