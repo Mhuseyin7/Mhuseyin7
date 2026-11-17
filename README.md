@@ -184,29 +184,29 @@
 <!-- BLOG-CARDS:START -->
 <table>
   <tr>
+    <td width="260"><a href="https://www.muhammedkoca.com.tr/blog/ag-uzmani-kariyerine-baslarken-sik-yapilan-hatalar-nelerdir"><img src="https://www.muhammedkoca.com.tr/api/og/cover.png?title=A%C4%9F+uzman%C4%B1+kariyerine+ba%C5%9Flarken+s%C4%B1k+yap%C4%B1lan+hatalar+nelerdir%3F&category=Kariyer&v=4" width="240" alt="Ağ uzmanı kariyerine başlarken sık yapılan hatalar nelerdir?"/></a></td>
+    <td valign="top" width="580">
+      <img src="https://img.shields.io/badge/Kariyer-60a5fa?style=flat-square&labelColor=0f172a" alt="Kariyer"/> <sub>16 Kas 2026</sub><br/><br/>
+      <a href="https://www.muhammedkoca.com.tr/blog/ag-uzmani-kariyerine-baslarken-sik-yapilan-hatalar-nelerdir"><b>Ağ uzmanı kariyerine başlarken sık yapılan hatalar nelerdir?</b></a><br/><br/>
+      <sub>Bu yazıda ağ uzmanı olma yolculuğunuzda karşılaşabileceğiniz yaygın hataları ve bunlardan nasıl kaçınacağınızı öğrenecek, kariyerinizi sağlam…</sub>
+    </td>
+  </tr>
+  <tr><td colspan="2"><img src="assets/divider.svg" alt="" width="100%"/></td></tr>
+  <tr>
+    <td width="260"><a href="https://www.muhammedkoca.com.tr/blog/odaklanma-ve-gunluk-verimlilik-icin-en-iyi-arac-ve-uygulama-rehberi"><img src="https://www.muhammedkoca.com.tr/api/og/cover.png?title=Odaklanma+ve+G%C3%BCnl%C3%BCk+Verimlilik+%C4%B0%C3%A7in+En+%C4%B0yi+Ara%C3%A7+ve+Uygulama+Rehberi&category=Ya%C5%9Fam&v=4" width="240" alt="Odaklanma ve Günlük Verimlilik İçin En İyi Araç ve Uygulama Rehberi"/></a></td>
+    <td valign="top" width="580">
+      <img src="https://img.shields.io/badge/Yaşam-60a5fa?style=flat-square&labelColor=0f172a" alt="Yaşam"/> <sub>16 Kas 2026</sub><br/><br/>
+      <a href="https://www.muhammedkoca.com.tr/blog/odaklanma-ve-gunluk-verimlilik-icin-en-iyi-arac-ve-uygulama-rehberi"><b>Odaklanma ve Günlük Verimlilik İçin En İyi Araç ve Uygulama Rehberi</b></a><br/><br/>
+      <sub>Bu yazıda, odaklanmanızı artıracak ve günlük verimliliğinizi yükseltecek ücretsiz ve ücretli uygulamaları keşfedecek, kullanıma dair pratik ipuçları…</sub>
+    </td>
+  </tr>
+  <tr><td colspan="2"><img src="assets/divider.svg" alt="" width="100%"/></td></tr>
+  <tr>
     <td width="260"><a href="https://www.muhammedkoca.com.tr/blog/wi-fi-menzilini-artirma-mesh-ve-extender-ile-adim-adim-rehber"><img src="https://www.muhammedkoca.com.tr/api/og/cover.png?title=Wi-Fi+menzilini+art%C4%B1rma%3A+Mesh+ve+Extender+ile+ad%C4%B1m+ad%C4%B1m+rehber&category=Rehberler&v=4" width="240" alt="Wi-Fi menzilini artırma: Mesh ve Extender ile adım adım rehber"/></a></td>
     <td valign="top" width="580">
       <img src="https://img.shields.io/badge/Rehberler-60a5fa?style=flat-square&labelColor=0f172a" alt="Rehberler"/> <sub>15 Kas 2026</sub><br/><br/>
       <a href="https://www.muhammedkoca.com.tr/blog/wi-fi-menzilini-artirma-mesh-ve-extender-ile-adim-adim-rehber"><b>Wi-Fi menzilini artırma: Mesh ve Extender ile adım adım rehber</b></a><br/><br/>
       <sub>Bu rehberde Wi‑Fi menzilini genişletmek için mesh sistemleri ve sinyal tekrarlayıcıları nasıl kurulur, yapılandırılır ve optimize edilir öğrenerek…</sub>
-    </td>
-  </tr>
-  <tr><td colspan="2"><img src="assets/divider.svg" alt="" width="100%"/></td></tr>
-  <tr>
-    <td width="260"><a href="https://www.muhammedkoca.com.tr/blog/7-adimda-linkedin-profilinizle-bilisimde-gorunurlugu-artirin"><img src="https://www.muhammedkoca.com.tr/api/og/cover.png?title=7+Ad%C4%B1mda+LinkedIn+Profilinizle+Bili%C5%9Fimde+G%C3%B6r%C3%BCn%C3%BCrl%C3%BC%C4%9F%C3%BC+Art%C4%B1r%C4%B1n&category=Kariyer&v=4" width="240" alt="7 Adımda LinkedIn Profilinizle Bilişimde Görünürlüğü Artırın"/></a></td>
-    <td valign="top" width="580">
-      <img src="https://img.shields.io/badge/Kariyer-60a5fa?style=flat-square&labelColor=0f172a" alt="Kariyer"/> <sub>15 Kas 2026</sub><br/><br/>
-      <a href="https://www.muhammedkoca.com.tr/blog/7-adimda-linkedin-profilinizle-bilisimde-gorunurlugu-artirin"><b>7 Adımda LinkedIn Profilinizle Bilişimde Görünürlüğü Artırın</b></a><br/><br/>
-      <sub>Bu rehberde LinkedIn profilinizi nasıl optimize edeceğinizi, sektörde fark edilmek için hangi adımları atmanız gerektiğini ve sık yapılan hatalardan…</sub>
-    </td>
-  </tr>
-  <tr><td colspan="2"><img src="assets/divider.svg" alt="" width="100%"/></td></tr>
-  <tr>
-    <td width="260"><a href="https://www.muhammedkoca.com.tr/blog/yerel-agda-cihaz-kesfi-ve-isimlendirme-icin-pratik-optimizasyon-yollari"><img src="https://www.muhammedkoca.com.tr/api/og/cover.png?title=Yerel+a%C4%9Fda+cihaz+ke%C5%9Ffi+ve+isimlendirme+i%C3%A7in+pratik+optimizasyon+yollar%C4%B1&category=Rehberler&v=4" width="240" alt="Yerel ağda cihaz keşfi ve isimlendirme için pratik optimizasyon yolları"/></a></td>
-    <td valign="top" width="580">
-      <img src="https://img.shields.io/badge/Rehberler-60a5fa?style=flat-square&labelColor=0f172a" alt="Rehberler"/> <sub>14 Kas 2026</sub><br/><br/>
-      <a href="https://www.muhammedkoca.com.tr/blog/yerel-agda-cihaz-kesfi-ve-isimlendirme-icin-pratik-optimizasyon-yollari"><b>Yerel ağda cihaz keşfi ve isimlendirme için pratik optimizasyon yolları</b></a><br/><br/>
-      <sub>Bu rehberde, yerel ağınızdaki cihazları hızlıca keşfetme, tutarlı isimlendirme ve yönetim süreçlerini otomatikleştirme adımlarını öğrenecek, yaygın…</sub>
     </td>
   </tr>
 </table>
